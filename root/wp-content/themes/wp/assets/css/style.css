@@ -21,6 +21,7 @@ Common color
 -------------------------------------------*/
 /* Reset
 ------------------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@200;300;400;500;600;800&display=swap");
 * {
   margin: 0;
   padding: 0; }
@@ -213,11 +214,12 @@ header
 layout
 ------------------------------------------------------------*/
 body {
-  font-family: "メイリオ", "Meiryo", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", sans-serif;
+  font-family: "Roboto Serif", "Meiryo", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", sans-serif;
   overflow-x: hidden;
   overflow-y: auto;
   min-width: 320px;
-  font-size: 1.4rem; }
+  font-size: 1.4rem;
+  font-weight: 400; }
 
 .l-content {
   width: 1280px;
