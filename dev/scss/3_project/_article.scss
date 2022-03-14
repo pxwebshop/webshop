@@ -14,7 +14,7 @@
         padding-left: 30px;
 
         #{$root}__text {
-            font-size: 1.6rem;
+            font-size: 2.0rem;
             line-height: 1.5;
             font-weight: bold;
             font-family: $roboto;
@@ -43,6 +43,28 @@
 
         @include sp {
             display: none;
+        }
+    }
+}
+
+.p-article {
+    &__sc1 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    &__content {
+        width: 70%;
+        @include sp() {
+            width: 100%;
+        }
+    }
+    &__articleOther {
+        width: 30%;
+        padding: 0 0 0 20px;
+        @include sp() {
+            width: 100%;
+            margin-top: 20px;
+            padding-left: 0;
         }
     }
 }
