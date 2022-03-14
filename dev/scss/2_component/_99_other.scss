@@ -73,7 +73,11 @@ other
     &__item {
         display: flex;
         &:not(:first-child) {
-            margin-top: 5px;
+            margin-top: 10px;
+        }
+        transition: all .5s;
+        &:hover {
+                transform: translateY(-5px);
         }
     }
     &__img {

@@ -337,7 +337,13 @@ list
   .c-list2__item {
     margin-bottom: 15px;
     width: 50%;
-    padding-left: 30px; }
+    padding-left: 30px;
+    -webkit-transition: all .5s;
+    transition: all .5s; }
+    .c-list2__item:hover {
+      -webkit-transform: translateY(-5px);
+          -ms-transform: translateY(-5px);
+              transform: translateY(-5px); }
   .c-list2__link {
     display: -webkit-box;
     display: -webkit-flex;
@@ -492,9 +498,15 @@ other
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  -webkit-transition: all .5s;
+  transition: all .5s; }
   .c-block1__item:not(:first-child) {
-    margin-top: 5px; }
+    margin-top: 10px; }
+  .c-block1__item:hover {
+    -webkit-transform: translateY(-5px);
+        -ms-transform: translateY(-5px);
+            transform: translateY(-5px); }
 
 .c-block1__img {
   width: 120px;
