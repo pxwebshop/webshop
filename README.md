@@ -15,7 +15,12 @@
 Username: `admin`
 Password: `admin`
 
+#### Cài đặt version node
+`v11.13.0`
+`v10...`
+
 #### Cài đặt node module
 `npm install`
  
-###  
+### Run gulp
+`gulp`
