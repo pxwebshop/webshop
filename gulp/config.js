@@ -24,7 +24,7 @@ module.exports.setting = {
 		quality: "80-90"
 	},
 	server: {
-		localUrl: "domain.cd",
+		localUrl: "webshop.local",
 		base: "root",
 		watch: "./root"
 	}
