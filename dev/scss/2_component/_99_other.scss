@@ -1,3 +1,71 @@
 /*------------------------------------------------------------
 other
 ------------------------------------------------------------*/
+
+/*
+------------------------------------------------------------*/
+.c-articleDetail {
+    $root: &;
+    &__head {
+        @include sp {
+            padding: 0 30px;
+        }
+        #{$root}__title {
+            font-size: 3.2rem;
+            line-height: 2;
+            font-family: $roboto;
+        }
+        #{$root}__time {
+            font-size: 1.3rem;
+            font-style: italic;
+            font-family: $roboto;
+        }
+    }
+    &__body {
+        display: flex;
+        #{$root}__left {
+            width: 75%;
+            @include sp {
+                width: 100%;
+                padding: 0 30px;
+            }
+        }
+        #{$root}__share {
+            margin: 50px 0;
+            li {
+                display: inline;
+            }
+        }
+        #{$root}__right {
+            width: 25%;
+            padding-left: 60px;
+            h2 {
+                font-size: 2.4rem;
+                font-family: $roboto;
+                line-height: 2;
+            }
+            li {
+                font-size: 1.6rem;
+                list-style-type: decimal;
+                line-height: 1.5;
+            }
+            @include sp {display: none;}
+        }
+        #{$root}__related {
+            h2 {
+                font-size: 2.4rem;
+                line-height: 2;
+                font-family: $roboto;
+                text-align: center;
+            }
+        }
+    }
+    p{
+        font-family: $roboto;
+        font-size: 1.6rem;
+        text-align: justify;
+    }
+    
+}
+
+

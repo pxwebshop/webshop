@@ -217,9 +217,14 @@ body {
   overflow-x: hidden;
   overflow-y: auto;
   min-width: 320px;
-  font-size: 1.4rem;
-  line-height: 1.7;
-  color: #000000; }
+  font-size: 1.4rem; }
+
+.l-content {
+  width: 1280px;
+  margin: 0 auto; }
+  @media screen and (max-width: 767px) {
+    .l-content {
+      width: auto; } }
 
 .l-container {
   width: 100%;
@@ -277,6 +282,130 @@ image
 /*------------------------------------------------------------
 list
 ------------------------------------------------------------*/
+/*
+------------------------------------------------------------*/
+.c-list1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-left: -30px; }
+  .c-list1__item {
+    width: 33.33%;
+    padding: 30px 0 0 30px; }
+    @media screen and (max-width: 767px) {
+      .c-list1__item {
+        width: 100%;
+        margin: 0 30px; } }
+  .c-list1__description {
+    padding: 10px 20px 20px;
+    -webkit-box-shadow: 0 0 5px #cccccc;
+            box-shadow: 0 0 5px #cccccc; }
+    .c-list1__description .c-list1__title {
+      font-size: 1.8rem;
+      line-height: 1.5;
+      font-family: "Roboto"; }
+    .c-list1__description .c-list1__time {
+      font-size: 1.3rem;
+      line-height: 1.5;
+      font-style: italic;
+      color: #838383; }
+    .c-list1__description .c-list1__txt {
+      font-size: 1.6rem;
+      line-height: 1.5;
+      color: #111111;
+      text-align: justify; }
+
+.c-list2__item {
+  padding: 30px 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  border-bottom: 1px solid #cccccc; }
+  @media screen and (max-width: 767px) {
+    .c-list2__item {
+      -webkit-flex-wrap: wrap;
+          -ms-flex-wrap: wrap;
+              flex-wrap: wrap; } }
+
+.c-list2__link {
+  width: 100%; }
+  @media screen and (max-width: 767px) {
+    .c-list2__link {
+      margin: 0 30px; } }
+
+.c-list2__description {
+  margin: 0 30px; }
+  .c-list2__description .c-list2__title {
+    font-size: 1.8rem;
+    line-height: 1.5;
+    font-family: "Roboto"; }
+  .c-list2__description .c-list2__time {
+    font-size: 1.3rem;
+    line-height: 1.5;
+    font-style: italic;
+    color: #838383; }
+  .c-list2__description .c-list2__txt {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #111111;
+    text-align: justify; }
+
+.c-list3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-left: -30px; }
+  @media screen and (max-width: 767px) {
+    .c-list3 {
+      margin: 0; } }
+  .c-list3__item {
+    width: 33.33%;
+    padding: 0 30px; }
+    @media screen and (max-width: 767px) {
+      .c-list3__item {
+        width: 100%;
+        max-width: 370px; } }
+  .c-list3__img {
+    position: relative; }
+    @media screen and (max-width: 767px) {
+      .c-list3__img {
+        width: 100%; } }
+  .c-list3__title {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    font-size: 1.8rem;
+    line-height: 1.5; }
+  .c-list3__txt {
+    padding: 10px 20px 20px; }
+    .c-list3__txt .c-list3__time {
+      font-size: 1.3rem;
+      line-height: 1.5;
+      font-style: italic;
+      color: #838383;
+      text-align: right; }
+    .c-list3__txt .c-list3__content {
+      font-size: 1.6rem;
+      line-height: 1.5;
+      text-align: justify;
+      padding-bottom: 10px; }
+    .c-list3__txt figure {
+      display: inline;
+      -webkit-transition: padding 0.5s ease-in-out;
+      transition: padding 0.5s ease-in-out; }
+    .c-list3__txt figure:hover {
+      padding-left: 30px; }
+
 /*------------------------------------------------------------
 table
 ------------------------------------------------------------*/
@@ -292,3 +421,93 @@ slide
 /*------------------------------------------------------------
 other
 ------------------------------------------------------------*/
+/*
+------------------------------------------------------------*/
+@media screen and (max-width: 767px) {
+  .c-articleDetail__head {
+    padding: 0 30px; } }
+
+.c-articleDetail__head .c-articleDetail__title {
+  font-size: 3.2rem;
+  line-height: 2;
+  font-family: "Roboto"; }
+
+.c-articleDetail__head .c-articleDetail__time {
+  font-size: 1.3rem;
+  font-style: italic;
+  font-family: "Roboto"; }
+
+.c-articleDetail__body {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+  .c-articleDetail__body .c-articleDetail__left {
+    width: 75%; }
+    @media screen and (max-width: 767px) {
+      .c-articleDetail__body .c-articleDetail__left {
+        width: 100%;
+        padding: 0 30px; } }
+  .c-articleDetail__body .c-articleDetail__share {
+    margin: 50px 0; }
+    .c-articleDetail__body .c-articleDetail__share li {
+      display: inline; }
+  .c-articleDetail__body .c-articleDetail__right {
+    width: 25%;
+    padding-left: 60px; }
+    .c-articleDetail__body .c-articleDetail__right h2 {
+      font-size: 2.4rem;
+      font-family: "Roboto";
+      line-height: 2; }
+    .c-articleDetail__body .c-articleDetail__right li {
+      font-size: 1.6rem;
+      list-style-type: decimal;
+      line-height: 1.5; }
+    @media screen and (max-width: 767px) {
+      .c-articleDetail__body .c-articleDetail__right {
+        display: none; } }
+  .c-articleDetail__body .c-articleDetail__related h2 {
+    font-size: 2.4rem;
+    line-height: 2;
+    font-family: "Roboto";
+    text-align: center; }
+
+.c-articleDetail p {
+  font-family: "Roboto";
+  font-size: 1.6rem;
+  text-align: justify; }
+
+.c-article {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
+  .c-article__main {
+    width: 75%; }
+    @media screen and (max-width: 767px) {
+      .c-article__main {
+        width: 100%; } }
+  .c-article__sub {
+    width: 25%;
+    margin-top: 30px;
+    padding-left: 30px; }
+    .c-article__sub .c-article__text {
+      font-size: 1.6rem;
+      line-height: 1.5;
+      font-weight: bold;
+      font-family: "Roboto"; }
+    .c-article__sub .c-list2__description {
+      margin: 0; }
+    .c-article__sub .c-list2__item {
+      padding: 10px 0; }
+    .c-article__sub .c-list2__txt {
+      display: none; }
+    .c-article__sub .c-list2__title {
+      font-size: 1.3rem; }
+    .c-article__sub .c-list2__time {
+      font-size: 1.1rem; }
+    .c-article__sub .c-list2__link {
+      display: none; }
+    @media screen and (max-width: 767px) {
+      .c-article__sub {
+        display: none; } }

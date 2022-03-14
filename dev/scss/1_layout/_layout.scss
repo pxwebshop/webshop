@@ -8,8 +8,14 @@ body {
 	overflow-y: auto;
 	min-width: 320px;
 	font-size: 1.4rem;
-	line-height: 1.7;
-	color: #000000;
+}
+
+.l-content {
+    width: 1280px;
+    margin: 0 auto;
+    @include sp {
+        width: auto;
+    }
 }
 
 .l-container {

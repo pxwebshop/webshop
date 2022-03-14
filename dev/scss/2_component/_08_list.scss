@@ -1,3 +1,137 @@
 /*------------------------------------------------------------
 list
 ------------------------------------------------------------*/
+
+/*
+------------------------------------------------------------*/
+.c-list1 {
+	$root: &;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -30px;
+    &__item {
+        width: 33.33%;
+        padding: 30px 0 0 30px;
+        @include sp {
+            width: 100%;
+            margin: 0 30px;
+        }
+        
+    }
+    &__description {
+        padding: 10px 20px 20px;
+        box-shadow: 0 0 5px $colorLightGrey;
+        #{$root}__title {
+            font-size: 1.8rem;
+            line-height: 1.5;
+            font-family: $roboto;
+        }
+        #{$root}__time {
+            font-size: 1.3rem;
+            line-height: 1.5;
+            font-style: italic;
+            color: $colorGrey;
+        }
+        #{$root}__txt {
+            font-size: 1.6rem;
+            line-height: 1.5;
+            color: $colorBlack;
+            text-align: justify;
+        }
+    }
+}
+
+.c-list2 {
+    $root: &;
+    
+    &__item {
+        padding: 30px 0;
+        display: flex;
+        border-bottom: 1px solid $colorLightGrey;
+        @include sp {
+            flex-wrap: wrap;
+        }
+    }
+    &__link {
+        width: 100%;
+        @include sp {
+            margin: 0 30px;
+        }
+    }
+    &__description {
+        margin: 0 30px;
+        #{$root}__title {
+            font-size: 1.8rem;
+            line-height: 1.5;
+            font-family: $roboto;
+        }
+        #{$root}__time {
+            font-size: 1.3rem;
+            line-height: 1.5;
+            font-style: italic;
+            color: $colorGrey;
+        }
+        #{$root}__txt {
+            font-size: 1.6rem;
+            line-height: 1.5;
+            color: $colorBlack;
+            text-align: justify;
+        }
+    }
+}
+
+.c-list3 {
+    $root: &;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -30px;
+    @include sp {
+        margin: 0;
+    }
+    
+    &__item {
+        width: 33.33%;
+        padding:0 30px;
+        @include sp {
+            width: 100%;
+            max-width: 370px;
+        }
+    }
+    &__img {
+        position: relative;
+        @include sp {
+            width: 100%;
+        }
+    }
+    &__title {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        right: 20px;
+        font-size: 1.8rem;
+        line-height: 1.5;
+    }
+    &__txt {
+        padding: 10px 20px 20px;
+        #{$root}__time {
+            font-size: 1.3rem;
+            line-height: 1.5;
+            font-style: italic;
+            color: $colorGrey;
+            text-align: right;
+        }
+        #{$root}__content {
+            font-size: 1.6rem;
+            line-height: 1.5;
+            text-align: justify;
+            padding-bottom: 10px;
+        }
+        figure {
+            display: inline;
+            transition: padding 0.5s ease-in-out;
+        }
+        figure:hover {
+            padding-left: 30px;
+        }
+    }
+}
