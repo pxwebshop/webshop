@@ -1,0 +1,14 @@
+root = true
+
+# 全ファイル共通
+[*]
+charset = utf-8 # 文字コード
+end_of_line = lf # 改行コード
+indent_style = tab # タブスタイル（Hard or Soft）
+indent_size = 2 # インデントの文字数
+trim_trailing_whitespace = true # 行末の空白文字の削除
+insert_final_newline = true # ファイル最終行の改行
+
+# markdown
+[*.md]
+trim_trailing_whitespace = false

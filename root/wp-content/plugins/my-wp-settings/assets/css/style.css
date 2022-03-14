@@ -1,0 +1,49 @@
+﻿#mws-index {
+	padding: 10px 30px 0 30px;
+}
+
+#mws-index h1 {
+	font-size: 16px;
+}
+
+#mws-index table {
+	border-top: 1px solid #ccc;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.mws-message {
+	margin-top: 20px !important;
+	margin-bottom: 20px !important;
+}
+
+#mws-index th,
+#mws-index td {
+	padding: 10px 0 13px 0;
+	border-bottom: 1px solid #ccc;
+	font-size: 13px;
+}
+
+#mws-index th {
+	font-weight: normal;
+	text-align: left;
+	padding-right: 30px;
+	width: 70%;
+}
+
+#mws-index .info {
+	font-size: 10px;
+	color: #c00;
+}
+
+#mws-index .btn {
+	margin-top: 40px;
+	display: flex;
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+}
+
+#mws-index .btn p {
+	margin: 0;
+	padding: 0;
+}

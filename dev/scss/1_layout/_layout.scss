@@ -1,0 +1,65 @@
+/*------------------------------------------------------------
+layout
+------------------------------------------------------------*/
+
+body {
+	font-family: "メイリオ", "Meiryo", "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", sans-serif;
+	overflow-x: hidden;
+	overflow-y: auto;
+	min-width: 320px;
+	font-size: 1.4rem;
+	line-height: 1.7;
+	color: #000000;
+}
+
+.l-container {
+	width: 100%;
+	max-width: 1040px;
+	margin-left: auto;
+	margin-right: auto;
+	box-sizing: content-box;
+	padding: 0 20px;
+}
+
+/* SP show/hide
+------------------------------------------------------------*/
+.sp {
+	&-only {
+		@media screen and (min-width: #{($breakpoint1 + 1px)}) {
+			display: none !important;
+		}
+	}
+
+	&-hide {
+		@include sp {
+			display: none !important;
+		}
+	}
+}
+
+/* PC show/hide
+------------------------------------------------------------*/
+.pc {
+	&-only {
+		@include sp {
+			display: none !important;
+		}
+	}
+
+	&-hide {
+		@include pc {
+			display: none !important;
+		}
+	}
+}
+
+/* Link hover
+------------------------------------------------------------*/
+a:hover {
+	@include pc {
+		opacity: 0.80;
+		filter: alpha(opacity=80);
+		-ms-filter: "alpha(opacity=80)";
+		text-decoration: none;
+	}
+}

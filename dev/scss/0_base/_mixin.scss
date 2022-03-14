@@ -1,0 +1,60 @@
+/* fonts
+-------------------------------------------*/
+@mixin yumin() {
+	font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", serif;
+}
+
+@mixin yugot() {
+	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
+}
+
+/* breakpoint
+-------------------------------------------*/
+@mixin sp {
+	@media screen and (max-width: #{$breakpoint1}) {
+		@content;
+	}
+}
+
+@mixin pc {
+	@media screen and (min-width: #{$breakpoint1 + 1px}) {
+		@content;
+	}
+}
+
+@mixin min-w($breakpoint) {
+	@media screen and (min-width: #{$breakpoint}) {
+		@content;
+	}
+}
+
+@mixin max-w($breakpoint) {
+	@media screen and (max-width: #{$breakpoint}) {
+		@content;
+	}
+}
+
+/* Only ie
+-------------------------------------------*/
+@mixin ie {
+	@media all and (-ms-high-contrast: none) {
+		@content;
+	}
+}
+
+/* Clearfix
+-------------------------------------------*/
+@mixin clear {
+	*zoom: 1;
+	&:after {
+		display: block;
+		content: "";
+		clear: both;
+	}
+}
+
+/* Other
+-------------------------------------------*/
+@mixin shadow {
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
