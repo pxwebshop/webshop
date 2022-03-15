@@ -1,3 +1,36 @@
 /*------------------------------------------------------------
 header
 ------------------------------------------------------------*/
+.c-header {
+    $root: &;
+    &__inner {
+        display: flex;
+        justify-content: space-between;
+        border-bottom: 1px solid #ddebf6;
+    }
+    &__menu {
+        display: flex;
+        align-items: center;
+    }
+    &__item {
+        font-size: 1.7rem;
+        font-weight: 400;
+        line-height: 1.5;
+        font-weight: 600;
+        padding: 0 10px;
+        position: relative;
+    }
+    &__link {
+        display: inline-block;
+    }
+    &__logo {
+        display: inline-block;
+    }
+    &__child {
+        position: absolute;
+        top: 38px;
+        min-width: 310px;
+        background-color: #ddebf6;
+        padding: 10px;
+    }
+}

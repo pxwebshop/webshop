@@ -10,6 +10,40 @@
 <body>
 <!--▼ Header ▼-->
 <header class="c-header">
-	
+	<div class="l-container">
+		<div class="c-header__inner">
+			<figure class="c-header__logo">
+				<img src="https://placehold.jp/150x100.png" alt="pxwebshop">
+			</figure>
+			<ul class="c-header__menu">
+				<li class="c-header__item">
+					<a class="c-header__link" href="#">Trang chủ</a>
+				</li>
+				<li class="c-header__item">
+					<span>Dịch vụ</span>
+					<ul class="c-header__child">
+						<li class="c-header__child__item">
+							<a href="#">Thiết kế website</a>
+						</li>
+						<li class="c-header__child__item">
+							<a href="#">Viết phần mềm theo yêu cầu</a>
+						</li>
+						<li class="c-header__child__item">
+							<a href="#">Thiết kế banner</a>
+						</li>
+						<li class="c-header__child__item">
+							<a href="#">Thiết kế website</a>
+						</li>
+					</ul>
+				</li>
+				<li class="c-header__item">
+					<a class="c-header__link" href="#">Tin tức</a>
+				</li>
+				<li class="c-header__item">
+					<a class="c-header__link" href="#">Liên hệ</a>
+				</li>
+			</ul>
+		</div>
+	</div>
 </header>
 <!--▲ Header ▲-->
