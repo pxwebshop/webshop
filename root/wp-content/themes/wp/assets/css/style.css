@@ -214,47 +214,119 @@ footer
 /*------------------------------------------------------------
 header
 ------------------------------------------------------------*/
-.c-header__inner {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  border-bottom: 1px solid #ddebf6; }
-
-.c-header__menu {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center; }
-
-.c-header__item {
-  font-size: 1.7rem;
-  font-weight: 400;
-  line-height: 1.5;
-  font-weight: 600;
-  padding: 0 10px;
-  position: relative; }
-
-.c-header__link {
-  display: inline-block; }
-
-.c-header__logo {
-  display: inline-block; }
-
-.c-header__child {
-  position: absolute;
-  top: 38px;
-  min-width: 310px;
-  background-color: #ddebf6;
-  padding: 10px; }
+.c-header {
+  -webkit-box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1); }
+  .c-header__inner {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    border-bottom: 1px solid #ddebf6; }
+  .c-header__menu {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+  .c-header__item {
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 1.5;
+    font-weight: 600;
+    padding: 0 10px;
+    text-transform: capitalize;
+    position: relative; }
+    .c-header__item__services {
+      height: 100%;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; }
+      .c-header__item__services:hover .c-header__child {
+        display: block; }
+    .c-header__item__abouts {
+      height: 100%;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; }
+      .c-header__item__abouts:hover .c-header__child {
+        display: block; }
+    .c-header__item:hover {
+      color: #e72b2b;
+      -webkit-transition: all 0.1s;
+      transition: all 0.1s; }
+      .c-header__item:hover .c-header__child {
+        color: black; }
+  .c-header__link {
+    display: inline-block; }
+  .c-header__logo {
+    display: inline-block; }
+  .c-header__child {
+    position: absolute;
+    top: 70px;
+    min-width: 310px;
+    padding: 10px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    display: none;
+    border-radius: 3px;
+    background-color: #ddebf6; }
+    .c-header__child__item {
+      font-weight: 500;
+      font-size: 1.5rem;
+      padding: 10px 10px 0px 10px; }
+      .c-header__child__item:hover {
+        color: #e72b2b; }
+  .c-header__top {
+    border-top: 1px solid #ddebf6;
+    border-bottom: 1px solid #ddebf6; }
+    .c-header__top .l-container {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      padding: 10px; }
+  .c-header__address {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+    .c-header__address__item {
+      font-weight: 600;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+          -ms-flex-align: center;
+              align-items: center; }
+      .c-header__address__item:last-child {
+        margin-left: 10px; }
+  .c-header__nameCompany {
+    font-weight: 600;
+    font-size: 1.7rem; }
 
 /*------------------------------------------------------------
 layout

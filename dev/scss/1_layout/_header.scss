@@ -3,6 +3,7 @@ header
 ------------------------------------------------------------*/
 .c-header {
     $root: &;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,0.1);
     &__inner {
         display: flex;
         justify-content: space-between;
@@ -18,7 +19,35 @@ header
         line-height: 1.5;
         font-weight: 600;
         padding: 0 10px;
+        text-transform: capitalize;
         position: relative;
+        &__services {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            &:hover {
+                #{$root}__child {
+                    display: block;
+                }
+            }
+        }
+        &__abouts {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            &:hover {
+                #{$root}__child {
+                    display: block;
+                }
+            }
+        }
+        &:hover {
+            color: #e72b2b;
+            transition: all 0.1s;
+            #{$root}__child {
+                color: black;
+            }
+        }
     }
     &__link {
         display: inline-block;
@@ -28,9 +57,44 @@ header
     }
     &__child {
         position: absolute;
-        top: 38px;
+        top: 70px;
         min-width: 310px;
-        background-color: #ddebf6;
         padding: 10px;
+        transition: all 0.5s;
+        display: none;
+        border-radius: 3px;
+        background-color: #ddebf6;
+        &__item {
+            font-weight: 500;
+            font-size: 1.5rem;
+            padding: 10px 10px 0px 10px;
+           &:hover {
+                color: #e72b2b;
+           } 
+        }
+    }
+    &__top {
+        border-top: 1px solid #ddebf6;
+        border-bottom: 1px solid #ddebf6;
+        .l-container {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+        }
+    }
+    &__address {
+        display: flex;
+        &__item {
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            &:last-child {
+                margin-left: 10px;
+            }
+        }
+    }
+    &__nameCompany {
+        font-weight: 600;
+        font-size: 1.7rem;
     }
 }

@@ -6,22 +6,35 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>webshop</title>
 	<link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/assets/css/style.css">
-	<script src="https://kit.fontawesome.com/81d4a52d1a.js" crossorigin="anonymous"></script>
+	<script src="https://kit.fontawesome.com/7690835cdf.js" crossorigin="anonymous"></script>
 </head>
 <body>
 <!--▼ Header ▼-->
 <header class="c-header">
+	<div class="c-header__top">
+		<div class="l-container">
+			<p class="c-header__nameCompany">Công ty TNHH Pxwebshop</p>
+			<ul class="c-header__address">
+				<li class="c-header__address__item">
+					<span><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</span>
+				</li>
+				<li class="c-header__address__item">
+					<span><i class="fa-solid fa-phone"></i> 0361.0214.01265</span>
+				</li>
+			</ul>
+		</div>
+	</div>
 	<div class="l-container">
 		<div class="c-header__inner">
 			<figure class="c-header__logo">
-				<img src="https://placehold.jp/150x100.png" alt="pxwebshop">
+				<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
 			</figure>
 			<ul class="c-header__menu">
 				<li class="c-header__item">
 					<a class="c-header__link" href="#">Trang chủ</a>
 				</li>
-				<li class="c-header__item">
-					<span>Dịch vụ</span>
+				<li class="c-header__item c-header__item__services">
+					<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
 					<ul class="c-header__child">
 						<li class="c-header__child__item">
 							<a href="#">Thiết kế website</a>
@@ -40,8 +53,20 @@
 				<li class="c-header__item">
 					<a class="c-header__link" href="#">Tin tức</a>
 				</li>
-				<li class="c-header__item">
-					<a class="c-header__link" href="#">Liên hệ</a>
+				<li class="c-header__item c-header__item__abouts">
+					<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
+
+					<ul class="c-header__child">
+						<li class="c-header__child__item">
+							<a href="#">Giới thiệu</a>
+						</li>
+						<li class="c-header__child__item">
+							<a href="#">Thanh toán</a>
+						</li>
+						<li class="c-header__child__item">
+							<a href="#">Liên hệ</a>
+						</li>
+					</ul>
 				</li>
 			</ul>
 		</div>
