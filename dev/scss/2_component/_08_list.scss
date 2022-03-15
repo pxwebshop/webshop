@@ -80,6 +80,21 @@ list
         line-height: 1.5;
         font-style: italic;
         color: $colorGrey;
+        display: inline;
+        @include sp {
+            display: block;
+        }
+    }
+    &__author{
+        font-size: 1.3rem;
+        line-height: 1.5;
+        color: $colorGrey;
+        display: inline;
+        float: right;
+        @include sp {
+            display: block;
+            float: none;
+        }
     }
     &__txt {
         font-size: 1.6rem;

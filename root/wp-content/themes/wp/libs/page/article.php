@@ -16,7 +16,12 @@
                                 <a href="#">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
                                 <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
@@ -32,7 +37,12 @@
                                 <a href="#">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
                                 <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Rhoshandiatellyneshiaunneveshenk Koyaanisquatsiuth Williams.</span>
                             </div>
                             <div class="c-list2__txt">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
@@ -48,7 +58,12 @@
                                 <a href="#">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
                                 <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
@@ -64,7 +79,12 @@
                                 <a href="#">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
                                 <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
@@ -80,7 +100,12 @@
                                 <a href="#">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
                                 <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
@@ -96,7 +121,12 @@
                                 <a href="#">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
                                 <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
