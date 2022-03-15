@@ -43,40 +43,50 @@ list
 
 .c-list2 {
     $root: &;
-    
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -30px;
     &__item {
-        padding: 30px 0;
-        display: flex;
-        border-bottom: 1px solid $colorLightGrey;
-        @include sp {
-            flex-wrap: wrap;
-        }
+       margin-bottom: 15px;
+       width: 50%;
+       padding-left: 30px;
+       transition: all .5s;
+       &:hover {
+            transform: translateY(-5px);
+       }
     }
     &__link {
-        width: 100%;
-        @include sp {
-            margin: 0 30px;
-        }
+        display: flex;
+        
     }
-    &__description {
-        margin: 0 30px;
-        #{$root}__title {
-            font-size: 1.8rem;
-            line-height: 1.5;
-            font-family: $roboto;
-        }
-        #{$root}__time {
-            font-size: 1.3rem;
-            line-height: 1.5;
-            font-style: italic;
-            color: $colorGrey;
-        }
-        #{$root}__txt {
-            font-size: 1.6rem;
-            line-height: 1.5;
-            color: $colorBlack;
-            text-align: justify;
-        }
+    &__img {
+        display: inline-block;
+        width: 100%;
+        max-height: 300px;
+        height: 100%;
+    }
+    &__info {
+        // width: calc(100% - 220px);
+        // padding-left: 20px;
+        margin-top: 10px;
+    }
+    &__title {
+        font-size: 2.3rem;
+        line-height: 1.5;
+        font-weight: 700;
+    }
+    &__time {
+        font-size: 1.3rem;
+        line-height: 1.5;
+        font-style: italic;
+        color: $colorGrey;
+    }
+    &__txt {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        color: $colorBlack;
+        text-align: justify;
+        margin-top: 5px;
     }
 }
 
