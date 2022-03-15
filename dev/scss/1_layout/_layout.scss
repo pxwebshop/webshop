@@ -17,7 +17,8 @@ body {
 }
 
 .l-content {
-    width: 1280px;
+	width: 100%;
+    max-width: 1040px;
     margin: 0 auto;
     @include sp {
         width: auto;
@@ -26,7 +27,7 @@ body {
 
 .l-container {
 	width: 100%;
-	max-width: 1040px;
+	max-width: 1280px;
 	margin-left: auto;
 	margin-right: auto;
 	box-sizing: content-box;
