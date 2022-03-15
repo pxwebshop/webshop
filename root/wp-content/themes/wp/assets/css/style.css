@@ -364,7 +364,21 @@ list
     font-size: 1.3rem;
     line-height: 1.5;
     font-style: italic;
-    color: #838383; }
+    color: #838383;
+    display: inline; }
+    @media screen and (max-width: 767px) {
+      .c-list2__time {
+        display: block; } }
+  .c-list2__author {
+    font-size: 1.3rem;
+    line-height: 1.5;
+    color: #838383;
+    display: inline;
+    float: right; }
+    @media screen and (max-width: 767px) {
+      .c-list2__author {
+        display: block;
+        float: none; } }
   .c-list2__txt {
     font-size: 1.6rem;
     line-height: 1.5;
