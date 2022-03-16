@@ -80,10 +80,17 @@ header
             display: flex;
             justify-content: space-between;
             padding: 10px;
+            flex-wrap: wrap;
+            @include sp() {
+                padding: 10px 20px;
+            }
         }
     }
     &__address {
         display: flex;
+        @include sp() {
+            margin-top: 10px;
+        }
         &__item {
             font-weight: 600;
             display: flex;

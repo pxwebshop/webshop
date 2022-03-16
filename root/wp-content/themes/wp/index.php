@@ -22,9 +22,9 @@
                                 <i class="fa-solid fa-user"></i>
                                 <span>Đặng Ngọc Quý</span>
                             </div>
-                            <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
-                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
                     </div>
                     <div class="c-list2__item">
@@ -43,9 +43,9 @@
                                 <i class="fa-solid fa-user"></i>
                                 <span>Rhoshandiatellyneshiaunneveshenk Koyaanisquatsiuth Williams.</span>
                             </div>
-                            <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
-                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
                     </div>
                     <div class="c-list2__item">
@@ -64,9 +64,9 @@
                                 <i class="fa-solid fa-user"></i>
                                 <span>Đặng Ngọc Quý</span>
                             </div>
-                            <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
-                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
                     </div>
                     <div class="c-list2__item">
@@ -85,9 +85,9 @@
                                 <i class="fa-solid fa-user"></i>
                                 <span>Đặng Ngọc Quý</span>
                             </div>
-                            <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
-                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
                     </div>
                     <div class="c-list2__item">
@@ -106,9 +106,9 @@
                                 <i class="fa-solid fa-user"></i>
                                 <span>Đặng Ngọc Quý</span>
                             </div>
-                            <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
-                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
                     </div>
                     <div class="c-list2__item">
@@ -127,9 +127,9 @@
                                 <i class="fa-solid fa-user"></i>
                                 <span>Đặng Ngọc Quý</span>
                             </div>
-                            <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
-                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
                     </div>
                 </div>
