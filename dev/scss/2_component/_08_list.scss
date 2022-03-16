@@ -173,3 +173,71 @@ list
         }
     }
 }
+
+
+// start: list for quote
+.c-list4 {
+    $root: &;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    
+    &__item {
+        width: 25%;
+        padding-left: 10px;
+ 
+        #{$root}__info {
+            font-size: 2.3rem;
+            line-height: 1.5;
+            text-align: center;
+            font-weight: bold;
+            padding: 30px 30px;
+            color: $colorWhite;
+            background-color: $colorGrey;
+            &--background1 {
+                background-color: $colorBlue1;
+            }
+            &--background2 {
+                background-color: $colorBlue2;
+            }
+            &--background3 {
+                background-color: $colorBlue3;
+            }
+            &--background4 {
+                background-color: $colorBlue4;
+            }
+        }
+        #{$root}__title {
+            text-align: center;
+            border-bottom: 1px solid $colorWhite;
+        }
+        #{$root}__price {
+            font-size: 2.8rem;
+        }
+        #{$root}__content {
+            font-size: 16px;
+            line-height: 3;
+            text-align: center;
+            border: 1px solid $colorLightGrey;
+            li {
+                border-bottom: 1px solid $colorLightGrey;
+            }
+            #{$root}__check {
+                color: $colorGreen2;
+            }
+            #{$root}__uncheck {
+                color: $colorRed;
+            }
+        }
+        #{$root}__btn {
+            width: 100%;
+            padding: 20px;
+            font-size: 16px;
+            font-family: $roboto;
+            border: 1px solid $colorGreen;
+            background-color: $colorGreen;
+        }
+    }
+    
+}
+// end: list for quote

@@ -1,3 +1,16 @@
 .p-top {
 
 }
+
+.p-quote {
+    $root: &;
+    &__heading {
+        font-size: 2.8rem;
+        line-height: 2;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    &__content {
+        margin-top: 30px;
+    }
+}
