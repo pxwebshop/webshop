@@ -112,3 +112,73 @@ other
         clear: both;
     }
 }
+
+// Contact
+.c-contact {
+    $root: &;
+    &__title {
+        font-size: 2.8rem;
+        text-transform: uppercase;
+        font-weight: bold;
+        margin: 30px 0;
+    }
+    &__map {
+        width: 100%;
+        height: 346px;
+        background: $colorWhite url(https://placehold.jp/1920x1080.png) no-repeat;
+    }
+    &__content {
+        display: flex;
+        flex-wrap: wrap;
+        #{$root}__info {
+            width: 50%;
+            margin-top: 30px;
+            font-size: 1.6rem;
+            line-height: 2;
+            @include sp {
+                width: 100%;
+            }
+        }
+        #{$root}__form {
+            width: 50%;
+            background-color: #fff;
+            padding: 30px;
+            margin-top: -130px;
+            box-shadow: 0 0 5px $colorGrey;
+            border-radius: 5px;
+            @include sp {
+                width: 100%;
+            }
+            p {
+
+            }
+            label {
+                font-size: 1.6rem;
+                line-height: 1.5;
+                color: $colorGrey;
+                text-transform: uppercase;
+                padding-left: 10px;
+            }
+            input, textarea {
+                width: 95%;
+                padding: 10px;
+                font-size: 1.6rem;
+                line-height: 1.5;
+                border-radius: 5px;
+                border-style: hidden;
+                background-color: $colorLightGrey;
+                margin: 10px 0;
+            }
+            button {
+                color: $colorGrey;
+                height: 44px;
+                text-transform: uppercase;
+                padding: 0 30px;
+                background-color: $colorGreen;
+                border: none;
+                border-radius: 5px;
+            }
+        }
+    }
+    
+}

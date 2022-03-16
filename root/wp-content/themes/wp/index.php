@@ -446,6 +446,82 @@
             </div>
         </div>
     </section>
+
+    <section class="p-process">
+        <div class="l-container">
+            <ul class="c-list5">
+                <li class="c-list5__item">
+                    <figure><img src="#" alt=""></figure>
+                    <p>Thu thập thông tin thiết kế website</p>
+                </li>
+                <li class="c-list5__item">
+                    <figure><img src="" alt=""></figure>
+                    <p>Lên kế hoạch thiết kế website</p>
+                </li>
+                <li class="c-list5__item">
+                    <figure><img src="" alt=""></figure>
+                    <p>Thiết kế website</p>
+                </li>
+                <li class="c-list5__item">
+                    <figure><img src="" alt=""></figure>
+                    <p>Phát triển website</p>
+                </li>
+                <li class="c-list5__item">
+                    <figure><img src="" alt=""></figure>
+                    <p>Kiểm tra và chỉnh sửa</p>
+                </li>
+                <li class="c-list5__item">
+                    <figure><img src="" alt=""></figure>
+                    <p>Hoàn thiện và bảo trì</p>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <div class="p-contact">
+        <div class="l-container">
+            <h3 class="c-contact__title">Liên hệ</h3>
+        </div>
+        <div class="c-contact__map"></div>
+        <div class="l-container">
+            <div class="c-contact__content">
+            <div class="c-contact__info">
+                <div class="c-contact__phone">
+                    <i class="fa-solid fa-phone"></i>
+                    <span>0361.0214.01265</span>
+                </div>
+                <div class="c-contact__email">
+                    <i class="fa-solid fa-envelope"></i>
+                    <span>pxwebshop@gmail.com</span>
+                </div>
+                <div class="c-contact__address1">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <span>..., thành phố Hồ Chí Minh, Việt Nam</span>
+                </div>
+                <div class="c-contact__address2">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <span>..., Vientiane, Lào</span>
+                </div>
+            </div>
+            <div class="c-contact__form">
+                <form action="#">
+                    <p>
+                        <label for="name">Tên</label>
+                        <input type="text" name="yourname" id="name">
+                    </p>
+                    <p>
+                        <label for="email">Email</label>
+                        <input type="text" id="email">
+                    </p>
+                    <p>
+                        <label for="message">Message</label>
+                        <textarea name="" id="message"></textarea>
+                    </p>
+                    <button type="submit">Gửi</button>
+                </form>
+            </div>
+            </div>
+        </div>
+    </div>
 </main>
 
 <?php get_footer(); ?>

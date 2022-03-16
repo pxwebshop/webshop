@@ -172,6 +172,14 @@ list
     &__item {
         width: 25%;
         padding-left: 10px;
+        transition: all 0.5s ease-in-out;
+        &:hover {
+            margin-top: -10px;
+        }
+        @include sp {
+            width: 100%;
+            margin: 10px 0 0 0;
+        }
  
         #{$root}__info {
             font-size: 2.3rem;
@@ -180,6 +188,7 @@ list
             font-weight: bold;
             padding: 30px 30px;
             color: $colorWhite;
+            box-shadow: 0 0 5px $colorGrey;
             background-color: $colorGrey;
             &--background1 {
                 background-color: $colorBlue1;
@@ -188,10 +197,10 @@ list
                 background-color: $colorBlue2;
             }
             &--background3 {
-                background-color: $colorBlue3;
+                background-color: $colorRed1;
             }
             &--background4 {
-                background-color: $colorBlue4;
+                background-color: $colorRed;
             }
         }
         #{$root}__title {
@@ -206,6 +215,7 @@ list
             line-height: 3;
             text-align: center;
             border: 1px solid $colorLightGrey;
+            box-shadow: 0 0 5px $colorLightGrey;
             li {
                 border-bottom: 1px solid $colorLightGrey;
             }
@@ -221,10 +231,22 @@ list
             padding: 20px;
             font-size: 16px;
             font-family: $roboto;
-            border: 1px solid $colorGreen;
+            text-transform: uppercase;
+            border: 1px solid transparent;
             background-color: $colorGreen;
+            box-shadow: 0 0 5px $colorGrey;
+            transition: background-color 0.5s ease-in-out, color 0.5s ease;
+
+            &:hover {
+                background-color: $colorGreen2;
+                color: $colorWhite;
+            }
         }
     }
     
 }
 // end: list for quote
+
+.c-list5 {
+    margin-top: 30px;
+}
