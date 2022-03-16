@@ -459,7 +459,7 @@
                     <p>Lên kế hoạch thiết kế website</p>
                 </li>
                 <li class="c-list5__item">
-                    <figure><img src="" alt=""></figure>
+                    <figure><img src="/assets/img/img1.jpg" alt=""></figure>
                     <p>Thiết kế website</p>
                 </li>
                 <li class="c-list5__item">
