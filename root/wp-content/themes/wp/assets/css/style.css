@@ -665,6 +665,11 @@ other
   font-size: 1.3rem;
   margin-top: 5px; }
 
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both; }
+
 .c-article {
   display: -webkit-box;
   display: -webkit-flex;
@@ -700,24 +705,17 @@ other
       .c-article__sub {
         display: none; } }
 
-.p-article__sc1 {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap; }
-
 .p-article__content {
-  width: 70%; }
+  width: 70%;
+  float: left; }
   @media screen and (max-width: 767px) {
     .p-article__content {
       width: 100%; } }
 
 .p-article__articleOther {
   width: 30%;
-  padding: 0 0 0 20px; }
+  padding: 0 0 0 20px;
+  float: right; }
   @media screen and (max-width: 767px) {
     .p-article__articleOther {
       width: 100%;

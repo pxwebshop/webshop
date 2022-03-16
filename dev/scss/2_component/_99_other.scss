@@ -104,3 +104,11 @@ other
         margin-top: 5px;
     }
 }
+
+.clearfix {
+    &:after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+}
