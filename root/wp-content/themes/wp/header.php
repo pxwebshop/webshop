@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>webshop</title>
-	<link rel="stylesheet" href="<?php bloginfo( 'template_url' ); ?>/assets/css/style.css">
+	<link rel="stylesheet" href="/assets/css/style.css">
 	<script src="https://kit.fontawesome.com/7690835cdf.js" crossorigin="anonymous"></script>
 </head>
 <body>
