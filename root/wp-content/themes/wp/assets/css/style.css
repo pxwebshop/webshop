@@ -565,64 +565,74 @@ list
     width: 25%;
     padding-left: 10px;
     -webkit-transition: all 0.5s ease-in-out;
-    transition: all 0.5s ease-in-out; }
+    transition: all 0.5s ease-in-out;
+    cursor: pointer; }
     .c-list4__item:hover {
       margin-top: -10px; }
     @media screen and (max-width: 767px) {
       .c-list4__item {
         width: 100%;
         margin: 10px 0 0 0; } }
-    .c-list4__item .c-list4__info {
-      font-size: 2.3rem;
+  .c-list4__info {
+    font-size: 2.3rem;
+    line-height: 1.5;
+    text-align: center;
+    font-weight: bold;
+    padding: 30px 30px;
+    color: #ffffff;
+    -webkit-box-shadow: 0 0 5px #838383;
+            box-shadow: 0 0 5px #838383;
+    background-color: #838383; }
+    .c-list4__info--background1 {
+      background-color: #87CEFA; }
+    .c-list4__info--background2 {
+      background-color: #00BFFF; }
+    .c-list4__info--background3 {
+      background-color: #CD5C5C; }
+    .c-list4__info--background4 {
+      background-color: #FF0000; }
+  .c-list4__title {
+    text-align: center;
+    border-bottom: 1px solid #ffffff; }
+  .c-list4__price {
+    font-size: 2.8rem; }
+  .c-list4__content {
+    font-size: 16px;
+    text-align: center;
+    border: 1px solid #cccccc;
+    -webkit-box-shadow: 0 0 5px #cccccc;
+            box-shadow: 0 0 5px #cccccc;
+    border-bottom: none; }
+    .c-list4__content li {
+      border-bottom: 1px solid #cccccc;
       line-height: 1.5;
-      text-align: center;
-      font-weight: bold;
-      padding: 30px 30px;
-      color: #ffffff;
-      -webkit-box-shadow: 0 0 5px #838383;
-              box-shadow: 0 0 5px #838383;
-      background-color: #838383; }
-      .c-list4__item .c-list4__info--background1 {
-        background-color: #87CEFA; }
-      .c-list4__item .c-list4__info--background2 {
-        background-color: #00BFFF; }
-      .c-list4__item .c-list4__info--background3 {
-        background-color: #CD5C5C; }
-      .c-list4__item .c-list4__info--background4 {
-        background-color: #FF0000; }
-    .c-list4__item .c-list4__title {
-      text-align: center;
-      border-bottom: 1px solid #ffffff; }
-    .c-list4__item .c-list4__price {
-      font-size: 2.8rem; }
-    .c-list4__item .c-list4__content {
-      font-size: 16px;
-      line-height: 3;
-      text-align: center;
-      border: 1px solid #cccccc;
+      padding: 10px 0; }
+    .c-list4__content .c-list4__check {
+      color: #00c500; }
+    .c-list4__content .c-list4__uncheck {
+      color: #FF0000; }
+  .c-list4__btn {
+    width: 100%;
+    padding: 20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-color: #00BFFF;
+    font-weight: 600;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    border: 1px solid #cccccc;
+    -webkit-box-shadow: 0 0 5px #cccccc;
+            box-shadow: 0 0 5px #cccccc;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    cursor: pointer;
+    font-family: 'Roboto Serif', serif; }
+    .c-list4__btn:hover {
+      border: 1px solid #FF0000;
       -webkit-box-shadow: 0 0 5px #cccccc;
-              box-shadow: 0 0 5px #cccccc; }
-      .c-list4__item .c-list4__content li {
-        border-bottom: 1px solid #cccccc; }
-      .c-list4__item .c-list4__content .c-list4__check {
-        color: #00c500; }
-      .c-list4__item .c-list4__content .c-list4__uncheck {
-        color: #FF0000; }
-    .c-list4__item .c-list4__btn {
-      width: 100%;
-      padding: 20px;
-      font-size: 16px;
-      font-family: "Roboto";
-      text-transform: uppercase;
-      border: 1px solid transparent;
-      background-color: #00FA9A;
-      -webkit-box-shadow: 0 0 5px #838383;
-              box-shadow: 0 0 5px #838383;
-      -webkit-transition: background-color 0.5s ease-in-out, color 0.5s ease;
-      transition: background-color 0.5s ease-in-out, color 0.5s ease; }
-      .c-list4__item .c-list4__btn:hover {
-        background-color: #00c500;
-        color: #ffffff; }
+              box-shadow: 0 0 5px #cccccc;
+      background-color: #FF0000;
+      color: #ffffff; }
 
 .c-list5 {
   margin-top: 30px; }

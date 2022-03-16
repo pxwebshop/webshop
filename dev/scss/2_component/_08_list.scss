@@ -66,8 +66,6 @@ list
         height: 100%;
     }
     &__info {
-        // width: calc(100% - 220px);
-        // padding-left: 20px;
         margin-top: 10px;
     }
     &__title {
@@ -173,6 +171,8 @@ list
         width: 25%;
         padding-left: 10px;
         transition: all 0.5s ease-in-out;
+        cursor: pointer;
+
         &:hover {
             margin-top: -10px;
         }
@@ -180,70 +180,75 @@ list
             width: 100%;
             margin: 10px 0 0 0;
         }
- 
-        #{$root}__info {
-            font-size: 2.3rem;
-            line-height: 1.5;
-            text-align: center;
-            font-weight: bold;
-            padding: 30px 30px;
-            color: $colorWhite;
-            box-shadow: 0 0 5px $colorGrey;
-            background-color: $colorGrey;
-            &--background1 {
-                background-color: $colorBlue1;
-            }
-            &--background2 {
-                background-color: $colorBlue2;
-            }
-            &--background3 {
-                background-color: $colorRed1;
-            }
-            &--background4 {
-                background-color: $colorRed;
-            }
+    }
+    &__info {
+        font-size: 2.3rem;
+        line-height: 1.5;
+        text-align: center;
+        font-weight: bold;
+        padding: 30px 30px;
+        color: $colorWhite;
+        box-shadow: 0 0 5px $colorGrey;
+        background-color: $colorGrey;
+        &--background1 {
+            background-color: $colorBlue1;
         }
-        #{$root}__title {
-            text-align: center;
-            border-bottom: 1px solid $colorWhite;
+        &--background2 {
+            background-color: $colorBlue2;
         }
-        #{$root}__price {
-            font-size: 2.8rem;
+        &--background3 {
+            background-color: $colorRed1;
         }
-        #{$root}__content {
-            font-size: 16px;
-            line-height: 3;
-            text-align: center;
-            border: 1px solid $colorLightGrey;
-            box-shadow: 0 0 5px $colorLightGrey;
-            li {
-                border-bottom: 1px solid $colorLightGrey;
-            }
-            #{$root}__check {
-                color: $colorGreen2;
-            }
-            #{$root}__uncheck {
-                color: $colorRed;
-            }
-        }
-        #{$root}__btn {
-            width: 100%;
-            padding: 20px;
-            font-size: 16px;
-            font-family: $roboto;
-            text-transform: uppercase;
-            border: 1px solid transparent;
-            background-color: $colorGreen;
-            box-shadow: 0 0 5px $colorGrey;
-            transition: background-color 0.5s ease-in-out, color 0.5s ease;
-
-            &:hover {
-                background-color: $colorGreen2;
-                color: $colorWhite;
-            }
+        &--background4 {
+            background-color: $colorRed;
         }
     }
-    
+    &__title {
+        text-align: center;
+        border-bottom: 1px solid $colorWhite;
+    }
+    &__price {
+        font-size: 2.8rem;
+    }
+    &__content {
+        font-size: 16px;
+        text-align: center;
+        border: 1px solid $colorLightGrey;
+        box-shadow: 0 0 5px $colorLightGrey;
+        border-bottom: none;
+        li {
+            border-bottom: 1px solid $colorLightGrey;
+            line-height: 1.5;
+            padding: 10px 0;
+        }
+        #{$root}__check {
+            color: $colorGreen2;
+        }
+        #{$root}__uncheck {
+            color: $colorRed;
+        }
+    }
+    &__btn {
+        width: 100%;
+        padding: 20px;
+        font-size: 16px;
+        text-transform: uppercase;
+        background-color: $colorBlue2;
+        font-weight: 600;
+        transition: all 0.5s;
+        border: 1px solid $colorLightGrey;
+        box-shadow: 0 0 5px $colorLightGrey;
+        border-bottom-left-radius: 3px;
+        border-bottom-right-radius: 3px;
+        cursor: pointer;
+        @include roboto();
+        &:hover {
+            border: 1px solid $colorRed;
+            box-shadow: 0 0 5px $colorLightGrey;
+            background-color: $colorRed;
+            color: $colorWhite;
+        }
+    }
 }
 // end: list for quote
 
