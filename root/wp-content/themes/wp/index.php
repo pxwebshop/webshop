@@ -8,7 +8,7 @@
                 <div class="c-list2">
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x300.png" alt="">
+                            <img src="https://placehold.jp/220x250.png" alt="">
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
@@ -29,7 +29,7 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x200.png" alt="">
+                            <img src="https://placehold.jp/220x250.png" alt="">
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
@@ -50,7 +50,7 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x200.png" alt="">
+                            <img src="https://placehold.jp/220x250.png" alt="">
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
@@ -71,7 +71,7 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x200.png" alt="">
+                            <img src="https://placehold.jp/220x250.png" alt="">
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
@@ -92,7 +92,7 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x200.png" alt="">
+                            <img src="https://placehold.jp/220x250.png" alt="">
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
@@ -113,7 +113,7 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x200.png" alt="">
+                            <img src="https://placehold.jp/220x250.png" alt="">
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
