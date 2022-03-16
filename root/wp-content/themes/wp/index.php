@@ -23,7 +23,7 @@
                                 <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
                             </div>
                         </div>
                     </div>
@@ -44,7 +44,7 @@
                                 <span>Rhoshandiatellyneshiaunneveshenk Koyaanisquatsiuth Williams.</span>
                             </div>
                             <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
                             </div>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                                 <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
                             </div>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                                 <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                                 <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
                             </div>
                         </div>
                     </div>
@@ -128,7 +128,7 @@
                                 <span>Đặng Ngọc Quý</span>
                             </div>
                             <div class="c-list2__txt">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.</p>
                             </div>
                         </div>
                     </div>

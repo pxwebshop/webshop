@@ -269,7 +269,7 @@ header
       .c-header__item__abouts:hover .c-header__child {
         display: block; }
     .c-header__item:hover {
-      color: #e72b2b;
+      color: #FF0000;
       -webkit-transition: all 0.1s;
       transition: all 0.1s; }
       .c-header__item:hover .c-header__child {
@@ -293,7 +293,7 @@ header
       font-size: 1.5rem;
       padding: 10px 10px 0px 10px; }
       .c-header__child__item:hover {
-        color: #e72b2b; }
+        color: #FF0000; }
   .c-header__top {
     border-top: 1px solid #ddebf6;
     border-bottom: 1px solid #ddebf6; }
@@ -323,7 +323,13 @@ header
           -ms-flex-align: center;
               align-items: center; }
       .c-header__address__item:last-child {
-        margin-left: 10px; }
+        margin-left: 15px; }
+        .c-header__address__item:last-child::before {
+          content: "";
+          width: 2px;
+          background-color: #111111;
+          height: 100%;
+          margin-right: 15px; }
   .c-header__nameCompany {
     font-weight: 600;
     font-size: 1.7rem; }

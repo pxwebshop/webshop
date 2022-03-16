@@ -7,7 +7,7 @@ header
     &__inner {
         display: flex;
         justify-content: space-between;
-        border-bottom: 1px solid #ddebf6;
+        border-bottom: 1px solid $colorBlue5;
     }
     &__menu {
         display: flex;
@@ -42,7 +42,7 @@ header
             }
         }
         &:hover {
-            color: #e72b2b;
+            color: $colorRed;
             transition: all 0.1s;
             #{$root}__child {
                 color: black;
@@ -63,19 +63,19 @@ header
         transition: all 0.5s;
         display: none;
         border-radius: 3px;
-        background-color: #ddebf6;
+        background-color: $colorBlue5;
         &__item {
             font-weight: 500;
             font-size: 1.5rem;
             padding: 10px 10px 0px 10px;
            &:hover {
-                color: #e72b2b;
+                color: $colorRed;
            } 
         }
     }
     &__top {
-        border-top: 1px solid #ddebf6;
-        border-bottom: 1px solid #ddebf6;
+        border-top: 1px solid $colorBlue5;
+        border-bottom: 1px solid $colorBlue5;
         .l-container {
             display: flex;
             justify-content: space-between;
@@ -89,7 +89,14 @@ header
             display: flex;
             align-items: center;
             &:last-child {
-                margin-left: 10px;
+                &::before {
+                    content: "";
+                    width: 2px;
+                    background-color: $colorBlack;
+                    height: 100%;
+                    margin-right: 15px;
+                }
+                margin-left: 15px;
             }
         }
     }
