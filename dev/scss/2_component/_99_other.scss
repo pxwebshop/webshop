@@ -182,3 +182,14 @@ other
     }
     
 }
+
+
+.c-process {
+    &__title {
+        font-size: 2.8rem;
+        line-height: 2;
+        font-weight: bold;
+        margin-top: 30px;
+        text-transform: uppercase;
+    }
+}

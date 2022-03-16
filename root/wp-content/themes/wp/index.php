@@ -449,32 +449,38 @@
 
     <section class="p-process">
         <div class="l-container">
-            <ul class="c-list5">
-                <li class="c-list5__item">
-                    <figure><img src="#" alt=""></figure>
-                    <p>Thu thập thông tin thiết kế website</p>
-                </li>
-                <li class="c-list5__item">
-                    <figure><img src="" alt=""></figure>
-                    <p>Lên kế hoạch thiết kế website</p>
-                </li>
-                <li class="c-list5__item">
-                    <figure><img src="/assets/img/img1.jpg" alt=""></figure>
-                    <p>Thiết kế website</p>
-                </li>
-                <li class="c-list5__item">
-                    <figure><img src="" alt=""></figure>
-                    <p>Phát triển website</p>
-                </li>
-                <li class="c-list5__item">
-                    <figure><img src="" alt=""></figure>
-                    <p>Kiểm tra và chỉnh sửa</p>
-                </li>
-                <li class="c-list5__item">
-                    <figure><img src="" alt=""></figure>
-                    <p>Hoàn thiện và bảo trì</p>
-                </li>
-            </ul>
+            <h3 class="c-process__title">Quá Trình thực hiện</h3>
+            <div class="c-list5">
+                <div class="c-list5__item c-list5__item1">
+                    <figure><img src="/assets/img/process/thuthap.jpg" alt=""></figure>
+                    <span>Thu thập thông tin thiết kế website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon1"></i>
+                <div class="c-list5__item c-list5__item2">
+                    <figure><img src="/assets/img/process/kehoach.jpg" alt=""></figure>
+                    <span>Lên kế hoạch thiết kế website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon2"></i>
+                <div class="c-list5__item c-list5__item3">
+                    <figure><img src="/assets/img/process/thietke.jpg" alt=""></figure>
+                    <span>Thiết kế website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon3"></i>
+                <div class="c-list5__item c-list5__item4">
+                    <figure><img src="/assets/img/process/thuchien.jpg" alt=""></figure>
+                    <span>Phát triển website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon4"></i>
+                <div class="c-list5__item c-list5__item5">
+                    <figure><img src="/assets/img/process/kiemthu.png" alt=""></figure>
+                    <span>Kiểm tra và chỉnh sửa</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon5"></i>
+                <div class="c-list5__item c-list5__item6">
+                    <figure><img src="/assets/img/process/sanpham.jpg" alt=""></figure>
+                    <span>Hoàn thiện và bảo trì</span>
+                </div>
+            </div>
         </div>
     </section>
     <div class="p-contact">
