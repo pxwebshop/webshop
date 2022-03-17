@@ -46,6 +46,9 @@ list
     display: flex;
     flex-wrap: wrap;
     margin-left: -30px;
+    @include max-w(870px) {
+        margin-left: -15px;
+    }
     @include sp() {
         margin-left: -10px;
     }
@@ -54,6 +57,9 @@ list
        width: 50%;
        padding-left: 30px;
        transition: all .5s;
+       @include max-w(870px) {
+           padding-left: 15px;
+       }
        @include sp() {
             padding-left: 10px;
             margin-bottom: 30px;
@@ -283,22 +289,37 @@ list
         &2 {
             margin-left: 120px;
             background-color: rgba(255,255,0, $alpha: 0.2);
+            @include max-w(1024px) {
+                margin-left: 60px;
+            }
         }
         &3 {
             margin-left: 240px;
             background-color: rgba(255,255,0, $alpha: 0.3);
+            @include max-w(1024px) {
+                margin-left: 120px;
+            }
         }
         &4 {
             margin-left: 360px;
             background-color: rgba(255,255,0, $alpha: 0.4);
+            @include max-w(1024px) {
+                margin-left: 180px;
+            }
         }
         &5 {
             margin-left: 480px;
             background-color: rgba(255,255,0, $alpha: 0.5);
+            @include max-w(1024px) {
+                margin-left: 240px;
+            }
         }
         &6 {
             margin-left: 600px;
             background-color: rgba(255,255,0, $alpha: 0.6);
+            @include max-w(1024px) {
+                margin-left: 300px;
+            }
         }
         &:hover {
             background-color: rgba(255,255,0, $alpha: 1);
@@ -339,11 +360,17 @@ list
             @include sp {
                 display: none;
             }
+            @include max-w(1024px) {
+                margin-left: 60px;
+            }
         }
         &2 {
             margin-left: 240px;
             @include sp {
                 display: none;
+            }
+            @include max-w(1024px) {
+                margin-left: 120px;
             }
         }
         &3 {
@@ -351,17 +378,26 @@ list
             @include sp {
                 display: none;
             }
+            @include max-w(1024px) {
+                margin-left: 180px;
+            }
         }
         &4 {
             margin-left: 480px;
             @include sp {
                 display: none;
             }
+            @include max-w(1024px) {
+                margin-left: 240px;
+            }
         }
         &5 {
             margin-left: 600px;
             @include sp {
                 display: none;
+            }
+            @include max-w(1024px) {
+                margin-left: 300px;
             }
         }
         &Mobile1 {
