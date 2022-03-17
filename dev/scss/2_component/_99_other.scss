@@ -142,7 +142,7 @@ other
     }
     &__form {
         width: 50%;
-        background-color: #fff;
+        background-color: $colorWhite;
         padding: 30px;
         margin-top: -130px;
         box-shadow: 0 0 5px $colorGrey;
@@ -168,7 +168,9 @@ other
         label {
             font-size: 1.6rem;
             line-height: 1.5;
-            color: $colorGrey;
+            color: $colorBlack;
+            font-weight: 600;
+            @include roboto;
             text-transform: uppercase;
             padding-left: 10px;
         }
