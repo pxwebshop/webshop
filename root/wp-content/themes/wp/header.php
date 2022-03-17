@@ -27,7 +27,7 @@
 			</ul>
 		</div>
 	</div>
-	<div class="l-container">
+	<div class="l-container pc-only">
 		<div class="c-header__inner">
 			<figure class="c-header__logo">
 				<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
