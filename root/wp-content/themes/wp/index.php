@@ -534,7 +534,7 @@
                         </div>
                         <div class="c-contact__group">
                             <label for="message">Message</label>
-                            <textarea name="" id="message"></textarea>
+                            <textarea rows="10" name="" id="message"></textarea>
                         </div>
                         <button class="c-contact__form__btn" type="submit">Gửi</button>
                     </form>
