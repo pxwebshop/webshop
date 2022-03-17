@@ -80,16 +80,18 @@ header
             display: flex;
             justify-content: space-between;
             padding: 10px;
+            flex-wrap: wrap;
         }
     }
     &__address {
         display: flex;
+        flex-wrap: wrap;
         &__item {
             font-weight: 600;
             display: flex;
             align-items: center;
-            &:last-child {
-                margin-left: 10px;
+            &:first-child {
+                margin-right: 10px;
             }
         }
     }
