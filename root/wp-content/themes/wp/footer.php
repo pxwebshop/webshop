@@ -7,11 +7,11 @@
 
 <?php wp_footer(); ?>
 
-<script src="<?php '/assets/js/jquery-3.6.0.min.js"></script>
-<script src="<?php '/assets/js/jquery-migrate-3.3.2.min.js"></script>
-<script src="<?php '/assets/js/footer-fixed.min.js"></script>
+<script src="/assets/js/jquery-3.6.0.min.js"></script>
+<script src="/assets/js/jquery-migrate-3.3.2.min.js"></script>
+<script src="/assets/js/footer-fixed.min.js"></script>
 
-<script src="<?php '/assets/js/common.js"></script>
+<script src="/assets/js/common.js"></script>
 
 </body>
 </html>
