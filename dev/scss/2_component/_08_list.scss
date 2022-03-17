@@ -212,6 +212,9 @@ list
         color: $colorWhite;
         box-shadow: 0 0 5px $colorGrey;
         background-color: $colorGrey;
+        @include max-w(1024px) {
+            padding: 30px 15px;
+        }
         &--background1 {
             background-color: $colorBlue1;
         }
@@ -230,7 +233,10 @@ list
         border-bottom: 1px solid $colorWhite;
     }
     &__price {
-        font-size: 2.8rem;
+        font-size: 2.5rem;
+        @include max-w(1024px) {
+            font-size: 2rem;
+        }
     }
     &__content {
         font-size: 16px;
