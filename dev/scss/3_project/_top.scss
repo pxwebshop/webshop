@@ -2,15 +2,10 @@
 
 }
 
-.p-quote {
-    $root: &;
-    &__heading {
-        font-size: 2.8rem;
-        line-height: 2;
-        text-transform: uppercase;
-        font-weight: bold;
-    }
-    &__content {
-        margin-top: 30px;
-    }
+
+.p-process {
+    padding-bottom: 30px;
+    // background: rgba($color: $colorBlue1, $alpha: 0.3);
+    background: url(https://cutewallpaper.org/23/grey-wallpaper-1920x1080/1040921382.jpg) no-repeat center center;
+
 }

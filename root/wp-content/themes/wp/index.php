@@ -41,7 +41,7 @@
                             </div>
                             <div class="c-list2__author">
                                 <i class="fa-solid fa-user"></i>
-                                <span>Rhoshandiatellyneshiaunneveshenk Koyaanisquatsiuth Williams.</span>
+                                <span>Rhoshandiatelly Koyaanis Williams.</span>
                             </div>
                             <div class="c-list2__txt">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Urna id volutpat lacus laoreet non curabitur gravida arcu. Magna sit amet purus gravida quis blandit turpis cursus.</p>
@@ -198,12 +198,13 @@
                     </div>
                 </div>
             </div>
-        </section>
-    </div>
+        </div>
+    </section>
+    
 
     <section class="p-quote">
         <div class="l-container">
-            <h3 class="p-quote__heading">Báo giá thiết kế website</h3>
+            <h2 class="c-title1">Báo giá thiết kế website</h3>
             <div class="p-quote__content">
                 <div class="c-list4">
                     <div class="c-list4__item">
@@ -449,58 +450,85 @@
 
     <section class="p-process">
         <div class="l-container">
-            <h3 class="c-process__title">Quá Trình thực hiện</h3>
+            <h2 class="c-title1">Quá Trình thực hiện</h2>
             <div class="c-list5">
                 <div class="c-list5__item c-list5__item1">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/thuthap.jpg" alt="">
                     </figure>
                     <span>Thu thập thông tin thiết kế website</span>
+                    <span class="c-list5__step">Bước 1</span>
                 </div>
-                <i class="fa-solid fa-arrow-trend-down c-list5__icon1"></i>
+                <div class="c-list5__icon">
+                    <div class="c-list5__icon1"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                    <div class="c-list5__iconMobile1"><i class="fa-solid fa-arrow-down"></i></div> 
+                </div>
+                
+
                 <div class="c-list5__item c-list5__item2">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/kehoach.jpg" alt="">
                     </figure>
                     <span>Lên kế hoạch thiết kế website</span>
+                    <span class="c-list5__step">Bước 2</span>
                 </div>
-                <i class="fa-solid fa-arrow-trend-down c-list5__icon2"></i>
+                <div class="c-list5__icon">
+                    <div class="c-list5__icon2"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                    <div class="c-list5__iconMobile2"><i class="fa-solid fa-arrow-down"></i></div> 
+                </div>
+
                 <div class="c-list5__item c-list5__item3">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/thietke.jpg" alt="">
                     </figure>
                     <span>Thiết kế website</span>
+                    <span class="c-list5__step">Bước 3</span>
                 </div>
-                <i class="fa-solid fa-arrow-trend-down c-list5__icon3"></i>
+                <div class="c-list5__icon">
+                    <div class="c-list5__icon3"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                    <div class="c-list5__iconMobile3"><i class="fa-solid fa-arrow-down"></i></div> 
+                </div>
+
                 <div class="c-list5__item c-list5__item4">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/thuchien.jpg" alt="">
                     </figure>
                     <span>Phát triển website</span>
+                    <span class="c-list5__step">Bước 4</span>
                 </div>
-                <i class="fa-solid fa-arrow-trend-down c-list5__icon4"></i>
+                <div class="c-list5__icon">
+                    <div class="c-list5__icon4"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                    <div class="c-list5__iconMobile4"><i class="fa-solid fa-arrow-down"></i></div> 
+                </div>
+
                 <div class="c-list5__item c-list5__item5">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/kiemthu.png" alt="">
                     </figure>
                     <span>Kiểm tra và chỉnh sửa</span>
+                    <span class="c-list5__step">Bước 5</span>
                 </div>
-                <i class="fa-solid fa-arrow-trend-down c-list5__icon5"></i>
+                <div class="c-list5__icon">
+                    <div class="c-list5__icon5"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                    <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div> 
+                </div>
+
                 <div class="c-list5__item c-list5__item6">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/sanpham.jpg" alt="">
                     </figure>
                     <span>Hoàn thiện và bảo trì</span>
+                    <span class="c-list5__step">Bước 6</span>
                 </div>
             </div>
         </div>
     </section>
     <div class="p-contact">
         <div class="l-container">
-            <h3 class="c-contact__title">Liên hệ</h3>
+            <h2 class="c-title1">Liên hệ</h2>
         </div>
         <div class="c-contact__map">
-            
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.21284151982!2d106.71968101535644!3d10.79500416180106!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317527c2f8f30911%3A0x36ac5073f8c91acd!2sLandmark%2081!5e0!3m2!1sen!2s!4v1647486094027!5m2!1sen!2s" allowfullscreen="" loading="lazy"></iframe>
         </div>
         <div class="l-container">
             <div class="c-contact__content">
