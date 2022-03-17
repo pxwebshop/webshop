@@ -197,6 +197,10 @@ list
         &:hover {
             margin-top: -10px;
         }
+        @include max-w(1023px) {
+            width: 50%;
+            margin-bottom: 20px;
+        }
         @include sp {
             width: 100%;
             margin: 10px 0 0 0;
@@ -247,7 +251,7 @@ list
         li {
             border-bottom: 1px solid $colorLightGrey;
             line-height: 1.5;
-            padding: 10px 0;
+            padding: 10px 5px;
         }
         #{$root}__check {
             color: $colorGreen2;
