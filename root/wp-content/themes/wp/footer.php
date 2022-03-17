@@ -11,6 +11,7 @@
 <script src="/assets/js/jquery-migrate-3.3.2.min.js"></script>
 <script src="/assets/js/footer-fixed.min.js"></script>
 
+<script src="/assets/js/slick/slick.min.js"></script>
 <script src="/assets/js/common.js"></script>
 
 </body>

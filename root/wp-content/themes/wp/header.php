@@ -7,6 +7,9 @@
 	<title>webshop</title>
 	<link rel="stylesheet" href="/assets/css/style.css">
 	<script src="https://kit.fontawesome.com/7690835cdf.js" crossorigin="anonymous"></script>
+
+	<link href="/assets/js/slick/slick.css" rel="stylesheet" media="all">
+	<link href="/assets/js/slick/slick-theme.css" rel="stylesheet" media="all">
 </head>
 <body>
 <!--▼ Header ▼-->
