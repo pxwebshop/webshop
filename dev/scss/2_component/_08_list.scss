@@ -275,6 +275,7 @@ list
         font-size: 1.6rem;
         box-shadow: -5px 5px 5px $colorBlue1;
         transition: all 0.5s ease-in-out;        
+        cursor: pointer;
         &1 {
             background-color: rgba(255,255,0, $alpha: 0.1);
         }
@@ -307,27 +308,23 @@ list
             margin-left: 0;
         }
     }
+
     &__img {
         display: inline-block;
         width: 120px;
         height: 60px;
     }
-    &__icon1 {
-        margin-left: 120px;
+
+    &__step {
+        float: right;
+        line-height: 60px;
+        padding-right: 30px;
+        @include sp {
+            display: none;
+        }
     }
-    &__icon2 {
-        margin-left: 240px;
-    }
-    &__icon3 {
-        margin-left: 360px;
-    }
-    &__icon4 {
-        margin-left: 480px;
-    }
-    &__icon5 {
-        margin-left: 600px;
-    }
-    i {
+
+    &__icon {
         width: 120px;
         text-align: center;
         font-size: 36px;
@@ -335,6 +332,66 @@ list
         @include sp {
             margin-left: 0;
             width: 100%;
+        }
+        &1 {
+            margin-left: 120px;
+            @include sp {
+                display: none;
+            }
+        }
+        &2 {
+            margin-left: 240px;
+            @include sp {
+                display: none;
+            }
+        }
+        &3 {
+            margin-left: 360px;
+            @include sp {
+                display: none;
+            }
+        }
+        &4 {
+            margin-left: 480px;
+            @include sp {
+                display: none;
+            }
+        }
+        &5 {
+            margin-left: 600px;
+            @include sp {
+                display: none;
+            }
+        }
+        &Mobile1 {
+            display: none;
+            @include sp {
+                display: inline-block;
+            }
+        }
+        &Mobile2 {
+            display: none;
+            @include sp {
+                display: inline-block;
+            }
+        }
+        &Mobile3 {
+            display: none;
+            @include sp {
+                display: inline-block;
+            }
+        }
+        &Mobile4 {
+            display: none;
+            @include sp {
+                display: inline-block;
+            }
+        }
+        &Mobile5 {
+            display: none;
+            @include sp {
+                display: inline-block;
+            }
         }
     }
 }
