@@ -4,23 +4,23 @@
 
 module.exports.setting = {
 	html: {
-		dest: "root/wp-content/themes/wp/"
+		dest: "root/"
 	},
 	css: {
 		minify: false,
 		map: false,
 		src: "dev/scss/",
-		dest: "root/wp-content/themes/wp/assets/css/"
+		dest: "root/assets/css/"
 	},
 	js: {
 		webpack: false,
 		minify: false,
 		babel: true,
 		src: "dev/js/",
-		dest: "root/wp-content/themes/wp/assets/js/"
+		dest: "root/assets/js/"
 	},
 	imagemin: {
-		path: "root/wp-content/themes/wp/assets/img/",
+		dest: "root/assets/img/",
 		quality: "80-90"
 	},
 	server: {

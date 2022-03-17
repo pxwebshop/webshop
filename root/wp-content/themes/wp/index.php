@@ -446,6 +446,102 @@
             </div>
         </div>
     </section>
+
+    <section class="p-process">
+        <div class="l-container">
+            <h3 class="c-process__title">Quá Trình thực hiện</h3>
+            <div class="c-list5">
+                <div class="c-list5__item c-list5__item1">
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/thuthap.jpg" alt="">
+                    </figure>
+                    <span>Thu thập thông tin thiết kế website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon1"></i>
+                <div class="c-list5__item c-list5__item2">
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/kehoach.jpg" alt="">
+                    </figure>
+                    <span>Lên kế hoạch thiết kế website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon2"></i>
+                <div class="c-list5__item c-list5__item3">
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/thietke.jpg" alt="">
+                    </figure>
+                    <span>Thiết kế website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon3"></i>
+                <div class="c-list5__item c-list5__item4">
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/thuchien.jpg" alt="">
+                    </figure>
+                    <span>Phát triển website</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon4"></i>
+                <div class="c-list5__item c-list5__item5">
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/kiemthu.png" alt="">
+                    </figure>
+                    <span>Kiểm tra và chỉnh sửa</span>
+                </div>
+                <i class="fa-solid fa-arrow-trend-down c-list5__icon5"></i>
+                <div class="c-list5__item c-list5__item6">
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/sanpham.jpg" alt="">
+                    </figure>
+                    <span>Hoàn thiện và bảo trì</span>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="p-contact">
+        <div class="l-container">
+            <h3 class="c-contact__title">Liên hệ</h3>
+        </div>
+        <div class="c-contact__map">
+            
+        </div>
+        <div class="l-container">
+            <div class="c-contact__content">
+                <div class="c-contact__info">
+                    <div class="c-contact__phone">
+                        <i class="fa-solid fa-phone"></i>
+                        <span>0361.0214.01265</span>
+                    </div>
+                    <div class="c-contact__email">
+                        <i class="fa-solid fa-envelope"></i>
+                        <span>pxwebshop@gmail.com</span>
+                    </div>
+                    <div class="c-contact__address1">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>..., thành phố Hồ Chí Minh, Việt Nam</span>
+                    </div>
+                    <div class="c-contact__address2">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>..., Vientiane, Lào</span>
+                    </div>
+                </div>
+                <div class="c-contact__form">
+                    <form action="#">
+                        <div class="c-contact__group">
+                            <label for="name">Tên</label>
+                            <input type="text" name="yourname" id="name">
+                        </div>
+                        <div class="c-contact__group">
+                            <label for="email">Email</label>
+                            <input type="text" id="email">
+                        </div>
+                        <div class="c-contact__group">
+                            <label for="message">Message</label>
+                            <textarea rows="10" name="" id="message"></textarea>
+                        </div>
+                        <button class="c-contact__form__btn" type="submit">Gửi</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 </main>
 
 <?php get_footer(); ?>
