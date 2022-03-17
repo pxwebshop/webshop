@@ -258,12 +258,7 @@ list
     &__item {
         font-size: 1.6rem;
         box-shadow: -5px 5px 5px $colorBlue1;
-        transition: all 0.5s ease-in-out;
-        figure {
-            display: inline-block;
-            width: 120px;
-            height: 60px;
-        }
+        transition: all 0.5s ease-in-out;        
         &1 {
             background-color: rgba(255,255,0, $alpha: 0.1);
         }
@@ -295,6 +290,11 @@ list
         @include sp {
             margin-left: 0;
         }
+    }
+    &__img {
+        display: inline-block;
+        width: 120px;
+        height: 60px;
     }
     &__icon1 {
         margin-left: 120px;
