@@ -178,6 +178,59 @@
         </div>
     </section>
 
+    <section class="p-service">
+        <div class="l-container">
+            <h2 class="c-title1">Dịch Vụ</h2>
+            <div class="c-list7">
+                <div class="c-list7__item1">
+                    <a href="#">
+                        <figure class="c-list7__img">
+                            <img src="assets/img/service/service1.png" alt="">
+                        </figure>
+                        <span class="c-list7__txt">Thiết kế website</span>
+                    </a>
+                </div>
+                <div class="c-list7__item1">
+                    <a href="#">
+                        <figure class="c-list7__img">
+                            <img src="assets/img/service/service2.png" alt="">
+                        </figure>
+                        <div class="c-list7__txt">
+                            <span>Xây dựng phần mềm theo yêu cầu</span> 
+                        </div>
+                    </a>
+                </div>
+                <div class="c-list7__item2">
+                    <a href="#">
+                        <figure class="c-list7__img">
+                            <img src="https://www.designingbuildings.co.uk/w/images/6/64/Design2.jpg" alt="">
+                        </figure>
+                        <span class="c-list7__txt">Thiết kế banner</span>
+                    </a>
+                </div>
+                <div class="c-list7__item2">
+                    <a href="#">
+                        <figure class="c-list7__img">
+                            <img src="https://www.tutorialspoint.com/basics_of_computer_science/images/computer_networking.jpg" alt="">
+                        </figure>
+                        <span class="c-list7__txt">Network design</span>
+                    </a>
+                </div>
+                <div class="c-list7__item2">
+                    <a href="#">
+                        <figure class="c-list7__img">
+                            <img src="https://truyenthongdps.com/wp-content/uploads/2021/12/seo.png" alt="">
+                        </figure>
+                        <span class="c-list7__txt">Dịch vụ SEO</span>
+                    </a>
+                </div>
+            </div>
+            <div class="c-list8">
+                
+            </div>
+        </div>
+    </section>
+
     <section class="p-article__sc1 clearfix">
 		<div class="l-container">
             <div class="p-article__content">
