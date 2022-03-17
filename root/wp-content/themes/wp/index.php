@@ -2,7 +2,183 @@
 <?php get_header(); ?>
 
 <main class="p-index">
-	<section class="p-article__sc1 clearfix">
+    
+    <section class="p-slider">
+        <div class="l-container">
+            <div class="c-list6">
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/congnghe.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Công nghệ</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/dienmay.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Điện máy</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/inan.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">In ấn</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/landingpage.png" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Landing page</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/mevabe.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Mẹ và bé</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/quatang.png" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Quà tặng</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/kientruc.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Nội thất - Kiến trúc</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/thoitrang.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Thời trang</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/congty.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Công ty</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/xehoi.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Web xe hơi</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/khachsan.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Du lịch - Khách sạn</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/mypham.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Mỹ phẩm - Làm đẹp</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/thucpham.jpg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Thực phẩm - Thuốc</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="c-list6__item">
+                    <div class="c-list6__content">
+                        <a href="#" class="c-list6__link">
+                            <div class="c-list6__box">
+                                <figure class="c-list6__img">
+                                    <img src="/assets/img/slide/batdongsan.jpeg" alt="">
+                                </figure>
+                                <p class="c-list6__txt">Bất động sản</p>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="p-article__sc1 clearfix">
 		<div class="l-container">
             <div class="p-article__content">
                 <div class="c-list2">
@@ -200,7 +376,6 @@
             </div>
         </div>
     </section>
-    
 
     <section class="p-quote">
         <div class="l-container">

@@ -128,6 +128,9 @@ other
     &__content {
         display: flex;
         flex-wrap: wrap;
+        @include sp {
+            display: block;
+        }
     }
     &__info {
         width: 50%;
@@ -147,6 +150,7 @@ other
         border-radius: 5px;
         @include sp {
             width: 100%;
+            margin-top: 30px;
         }
         &__btn {
             color: $colorGrey;

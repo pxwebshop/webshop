@@ -448,3 +448,39 @@ list
         }
     }
 }
+
+
+.c-list6 {
+    $root: &;
+    width: 100%;
+    text-align: center;
+
+    .slick-slide{
+        margin:10px ;
+      }
+
+    .slick-arrow {
+        background-color: $colorLightGrey;
+        border-radius: 50%;
+        &:hover {
+            background-color: $colorGrey;
+        }
+    }
+    &__img {
+        width:100%;
+        border: 1px solid #fff;
+        img {
+            border-radius: 10%;
+            &:hover {
+                transform:scale(1.1);
+            }
+        } 
+    }
+    &__txt {
+        @include roboto();
+        padding-top: 10px;
+        font-size: 1.3rem;
+        line-height: 1.5;
+        font-weight: 500;
+    }
+}
