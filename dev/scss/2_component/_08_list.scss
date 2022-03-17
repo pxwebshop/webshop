@@ -300,9 +300,6 @@ list
                 margin-left: 5px;
             }
         }
-        @include sp {
-            margin-left: 0;
-        }
         &1 {
             background-color: rgba(255,255,0, $alpha: 0.1);
         }
@@ -345,6 +342,9 @@ list
             background-color: rgba(255,255,0, $alpha: 1);
             box-shadow: -5px 5px 5px $colorRed1;
             opacity: 0.8;
+        }
+        @include sp {
+            margin-left: 0;
         }
     }
 
