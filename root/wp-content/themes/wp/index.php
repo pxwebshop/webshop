@@ -840,11 +840,11 @@
             </div>
             <div class="c-checkout__totalPrice">
                 <h3 class="c-title2">Your Order</h3>
-                <p class="c-checkout__txt">Thiết kế web <span class="c-checkout__price">xx.xxx.xxx đ</span></p>
-                <p class="c-checkout__txt">Thiết kế web <span class="c-checkout__price">x.xxx.xxx đ</span></p>
-                <p class="c-checkout__txt">Giảm giá <span class="c-checkout__price">xxx.xxx đ</span></p>
+                <p class="c-checkout__txt">Thiết kế web <span class="c-checkout__price">xx.xxx.xxxđ</span></p>
+                <p class="c-checkout__txt">Thiết kế web <span class="c-checkout__price">x.xxx.xxxđ</span></p>
+                <p class="c-checkout__txt">Giảm giá <span class="c-checkout__price">xxx.xxxđ</span></p>
                 <hr>
-                <p class="c-checkout__txt">Tổng tiền <span class="c-checkout__price">xx.xxx.xxx đ</span></p>
+                <p class="c-checkout__txt">Tổng tiền <span class="c-checkout__price">xx.xxx.xxxđ</span></p>
             </div>
         </div>
         </div>
