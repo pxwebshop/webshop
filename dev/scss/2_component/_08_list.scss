@@ -475,7 +475,7 @@ list
     flex-wrap: wrap;
     margin: 0 0 30px 0;
     &__item1 {
-        width: 49%;
+        width: 49.7%;
         position: relative;
         &:hover {
            box-shadow: 0 0 5px $colorBlue2;
@@ -486,8 +486,8 @@ list
         }
     }
     &__item2 {
-        width: 32.33%;
-        margin-top: 20px;
+        width: 32.93%;
+        margin-top: 5px;
         position: relative;
         &:hover {
            box-shadow: 0 0 5px $colorBlue2;
@@ -512,6 +512,5 @@ list
     &__img {
         height: 250px;
     }
-
 }
 // end: service
