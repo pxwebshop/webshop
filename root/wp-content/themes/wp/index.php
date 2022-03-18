@@ -714,53 +714,58 @@
         <div class="l-container">
             <h2 class="c-title1">Thành Viên</h2>
             <div class="c-list8">
-                <div class="c-list8__wrap"><div class="c-list8__item">
-                    <figure class="c-list8__img">
-                        <img src="./assets/img/team/idol.jpg" alt="">
-                    </figure>
-                    <div class="c-list8__content">
-                        <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
-                        <span class="c-list8__position">CEO - Developer</span>
-                        <ul class="c-list8__skill">
-                            <li><span>HTML</span></li>
-                            <li><span>CSS</span></li>
-                            <li><span>Javascript</span></li>
-                            <li><span>PHP</span></li>
-                            <li><span>Laravel</span></li>
-                            <li><span>NodeJs</span></li>
-                            <li><span>Docker</span></li>
-                            <li><span>Aws</span></li>
-                            <li><span>Docker</span></li>
-                        </ul>
-                        <div class="c-list8__social">
-                        <ul>
-                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                <div class="c-list8__wrap">
+                    <div class="c-list8__item">
+                        <figure class="c-list8__img">
+                            <img src="./assets/img/team/phonexay.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Phonexay Namsavanh</span> <br>
+                            <span class="c-list8__position">CEO - Network Designer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>Cisco</span></li>
+                                <li><span>...</span></li>
                             </ul>
+                            <div class="c-list8__social">
+                            <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div></div>
-                <div class="c-list8__wrap"> <div class="c-list8__item">
-                    <figure class="c-list8__img">
-                        <img src="./assets/img/team/phonexay.jpg" alt="">
-                    </figure>
-                    <div class="c-list8__content">
-                        <span class="c-list8__name">Phonexay Namsavanh</span> <br>
-                        <span class="c-list8__position">CEO</span>
-                        <ul class="c-list8__skill">
-                            <li><span>Cisco</span></li>
-                            <li><span>...</span></li>
-                        </ul>
-                        <div class="c-list8__social">
-                        <ul>
-                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                </div>
+                <div class="c-list8__wrap">
+                    <div class="c-list8__item">
+                        <figure class="c-list8__img">
+                            <img src="./assets/img/team/idol.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
+                            <span class="c-list8__position">CEO - Developer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>HTML</span></li>
+                                <li><span>CSS</span></li>
+                                <li><span>Javascript</span></li>
+                                <li><span>PHP</span></li>
+                                <li><span>Laravel</span></li>
+                                <li><span>NodeJs</span></li>
+                                <li><span>Vuejs</span></li>
+                                <li><span>Aws</span></li>
+                                <li><span>Docker</span></li>
+                                <li><span>IOS</span></li>
                             </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                </div></div>
+                </div>
                 <div class="c-list8__wrap"><div class="c-list8__item">
                     <figure class="c-list8__img">
                         <img src="./assets/img/team/minchong.jpg" alt="">
