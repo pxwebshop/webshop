@@ -417,31 +417,7 @@ list
                 margin-left: 300px;
             }
         }
-        &Mobile1 {
-            display: none;
-            @include sp {
-                display: inline-block;
-            }
-        }
-        &Mobile2 {
-            display: none;
-            @include sp {
-                display: inline-block;
-            }
-        }
-        &Mobile3 {
-            display: none;
-            @include sp {
-                display: inline-block;
-            }
-        }
-        &Mobile4 {
-            display: none;
-            @include sp {
-                display: inline-block;
-            }
-        }
-        &Mobile5 {
+        &Mobile1, &Mobile2, &Mobile3, &Mobile4, &Mobile5 {
             display: none;
             @include sp {
                 display: inline-block;
@@ -490,3 +466,52 @@ list
         font-weight: 500;
     }
 }
+
+// start: service
+.c-list7 {
+    $root: &;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 0 0 30px 0;
+    &__item1 {
+        width: 49%;
+        position: relative;
+        &:hover {
+           box-shadow: 0 0 5px $colorBlue2;
+        }
+        @include sp {
+            width: 100%;
+            margin-top: 10px;
+        }
+    }
+    &__item2 {
+        width: 32.33%;
+        margin-top: 20px;
+        position: relative;
+        &:hover {
+           box-shadow: 0 0 5px $colorBlue2;
+        }
+        @include sp {
+            width: 100%;
+            margin-top: 10px;
+        }
+    }
+    &__txt {
+        position: absolute;
+        display: block;
+        top: 0;
+        padding: 30px;
+        font-size: 1.8rem;
+        text-transform: uppercase;
+        color: $colorWhite;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(1, 1, 1, 0.5);
+    }
+    &__img {
+        height: 250px;
+    }
+
+}
+// end: service

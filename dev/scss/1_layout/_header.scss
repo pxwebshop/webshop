@@ -12,6 +12,7 @@ header
     &__menu {
         display: flex;
         align-items: center;
+        z-index: 2;
     }
     &__item {
         font-size: 1.7rem;
