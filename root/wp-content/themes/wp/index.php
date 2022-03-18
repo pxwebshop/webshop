@@ -203,7 +203,7 @@
                 <div class="c-list7__item2">
                     <a href="#">
                         <figure class="c-list7__img">
-                            <img src="https://www.designingbuildings.co.uk/w/images/6/64/Design2.jpg" alt="">
+                            <img src="assets/img/service/service3.jpg" alt="">
                         </figure>
                         <span class="c-list7__txt">Thiết kế banner</span>
                     </a>
@@ -211,7 +211,7 @@
                 <div class="c-list7__item2">
                     <a href="#">
                         <figure class="c-list7__img">
-                            <img src="https://www.tutorialspoint.com/basics_of_computer_science/images/computer_networking.jpg" alt="">
+                            <img src="assets/img/service/service4.jpg" alt="">
                         </figure>
                         <span class="c-list7__txt">Network design</span>
                     </a>
@@ -219,7 +219,7 @@
                 <div class="c-list7__item2">
                     <a href="#">
                         <figure class="c-list7__img">
-                            <img src="https://truyenthongdps.com/wp-content/uploads/2021/12/seo.png" alt="">
+                            <img src="assets/img/service/service5.png" alt="">
                         </figure>
                         <span class="c-list7__txt">Dịch vụ SEO</span>
                     </a>
