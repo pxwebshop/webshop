@@ -178,7 +178,7 @@
         </div>
     </section>
 
-    <section class="p-service">
+    <section class="p-service"> 
         <div class="l-container">
             <h2 class="c-title1">Dịch Vụ</h2>
             <div class="c-list7">
@@ -249,7 +249,7 @@
                             </div>
                             <div class="c-list2__author">
                                 <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span>
+                                <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
@@ -270,7 +270,7 @@
                             </div>
                             <div class="c-list2__author">
                                 <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span>
+                                <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
@@ -291,7 +291,7 @@
                             </div>
                             <div class="c-list2__author">
                                 <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span>
+                                <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
@@ -312,7 +312,7 @@
                             </div>
                             <div class="c-list2__author">
                                 <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span>
+                                <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
@@ -709,6 +709,116 @@
             </div>
         </div>
     </section>
+
+    <section class="p-team">
+        <div class="l-container">
+            <h2 class="c-title1">Thành Viên</h2>
+            <div class="c-list8">
+                <div class="c-list8__item">
+                    <figure class="c-list8__img">
+                        <img src="./assets/img/team/idol.jpg" alt="">
+                    </figure>
+                    <div class="c-list8__content">
+                        <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
+                        <span class="c-list8__position">CEO - Developer</span>
+                        <ul class="c-list8__skill">
+                        <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                        </ul>
+                        <div class="c-list8__social">
+                            <ul>
+                                <li><a href="#">Twitter</a></li>
+                                <li><a href="#">Facebook</a></li>
+                                <li><a href="#">Linkedin</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list8__item">
+                    <figure class="c-list8__img">
+                        <img src="./assets/img/team/idol.jpg" alt="">
+                    </figure>
+                    <div class="c-list8__content">
+                        <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
+                        <span class="c-list8__position">CEO - Developer</span>
+                        <ul class="c-list8__skill">
+                        <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                        </ul>
+                        <div class="c-list8__social">
+                            <ul>
+                                <li><a href="#">Twitter</a></li>
+                                <li><a href="#">Facebook</a></li>
+                                <li><a href="#">Linkedin</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list8__item">
+                    <figure class="c-list8__img">
+                        <img src="./assets/img/team/idol.jpg" alt="">
+                    </figure>
+                    <div class="c-list8__content">
+                        <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
+                        <span class="c-list8__position">CEO - Developer</span>
+                        <ul class="c-list8__skill">
+                        <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                        </ul>
+                        <div class="c-list8__social">
+                            <ul>
+                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list8__item">
+                    <figure class="c-list8__img">
+                        <img src="./assets/img/team/idol.jpg" alt="">
+                    </figure>
+                    <div class="c-list8__content">
+                        <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
+                        <span class="c-list8__position">CEO - Developer</span>
+                        <ul class="c-list8__skill">
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                            <li><span>HTML</span></li>
+                            <li><span>CSS</span></li>
+                            <li><span>Javascript</span></li>
+                        </ul>
+                        <div class="c-list8__social">
+                            <ul>
+                                <li><a href="#">Twitter</a></li>
+                                <li><a href="#">Facebook</a></li>
+                                <li><a href="#">Linkedin</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <div class="p-contact">
         <div class="l-container">
             <h2 class="c-title1">Liên hệ</h2>

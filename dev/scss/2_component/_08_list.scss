@@ -517,9 +517,104 @@ list
         }
         &:hover {
             img {
-                transform: scale(1.5);
+                transform: scale(1.2);
             }  
         }
     }
 }
 // end: service
+
+// start: team
+.c-list8 {
+    $root: &;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    &__item {
+        width: 20%;
+        border-radius: 5px;
+        box-shadow: 0 0 5px $colorBlack;
+        position: relative;
+        text-align: center;
+        background-color: $colorLightGrey;
+        &:hover {
+            background-color: $colorGrey3;
+            #{$root}__social ul {
+                display: flex;
+            }
+            #{$root}__name, #{$root}__position {
+                color: $colorWhite;
+            }
+        }
+    }
+    // &__img img{
+    //     border-radius: 50%;
+    // }
+    &__img  {
+        width: 100%;
+    }
+    &__content {
+        padding: 10px;
+    }
+    &__name {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        text-transform: uppercase;
+        color: $colorBlack;
+    }
+    &__position {
+        font-size: 1.5rem;
+        line-height: 1.5;
+        font-style: italic;
+        color: $colorGrey3;
+        margin: 30px 0;
+    }
+    &__skill {
+        li {
+            display: inline;
+            span {
+                font-size: 1.3rem;
+                padding: 5px;
+                border-radius: 5px;
+                background-color: $colorGrey3;
+                line-height: 2;
+                color: $colorWhite;
+            }
+        }
+    }
+    &__social ul{
+        position: absolute;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+        background-color: rgba(255, 255, 255, 0.4);
+        justify-content: center;
+        align-items: center;
+        display: none;
+        a {
+            display: flex;
+            text-indent: -1000000px;
+            width: 50px;
+            height: 50px;
+            background-color: $colorGrey3;
+            margin-left: 1px;
+            background-repeat: no-repeat;
+            background-position: center center;
+            &:hover {
+                background-color: $colorLightGrey;
+            }
+        }
+    }
+    &__link1 {
+       background-image: url(../../../root/assets/img/team/twitter-icon.png);
+    }
+    &__link2 {
+        background-image: url(../../../root/assets/img/team/fb-icon.png);
+    }
+    &__link3 {
+        background-image: url(../../../root/assets/img/team/twitter-icon.png);
+    }
+}
+// end: team
