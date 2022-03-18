@@ -5,3 +5,10 @@
     margin-top: 30px;
     text-transform: uppercase;
 }
+.c-title2 {
+    font-size: 1.8rem;
+    line-height: 2;
+    font-weight: 600;
+    @include roboto();
+    text-transform: uppercase;
+}

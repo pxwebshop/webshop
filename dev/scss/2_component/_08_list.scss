@@ -534,6 +534,13 @@ list
     &__wrap {
         width: 25%;
         padding-left: 10px;
+        @include max-w(888px) {
+            width: 50%;
+            margin-top: 30px;
+        }
+        @include sp() {
+            width: 100%;
+        }
     }
     &__item {
         display: flex;
@@ -544,13 +551,8 @@ list
         position: relative;
         text-align: center;
         background-color: $colorLightGrey;
-        @include max-w(888px) {
-            width: 48%;
-            margin-top: 30px;
-        }
-        @include sp() {
-            width: 100%;
-        }
+        cursor: pointer;
+        transition: background-color 0.5s linear;
         &:hover {
             background-color: $colorGrey3;
             #{$root}__social ul {
@@ -617,6 +619,7 @@ list
             margin-left: 1px;
             background-repeat: no-repeat;
             background-position: center center;
+            transition: background-color 0.5s linear;
             &:hover {
                 background-color: $colorLightGrey;
             }

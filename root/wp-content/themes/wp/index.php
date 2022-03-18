@@ -813,7 +813,44 @@
         </div>
     </section>
 
-    <div class="p-contact">
+    <section class="p-checkout">
+        <div class="l-container">
+        <h2 class="c-title1">Checkout</h2>
+        <div class="c-checkout">
+            <div class="c-checkout__info">
+                <form class="c-checkout__form">
+                    <div class="c-checkout__person">
+                        <h3 class="c-title2">Personal information</h3>
+                        <input type="text" placeholder="First name" class="c-checkout__firstName">
+                        <input type="text" placeholder="Last name" class="c-checkout__lastName">
+                        <input type="text" placeholder="Email" class="c-checkout__email">
+                        <input type="text" placeholder="Phone number" class="c-checkout__phone">
+                        <textarea type="text" rows = "5" placeholder="Content" class="c-checkout__content"></textarea>
+                    </div>
+                    <div class="c-checkout__payment">
+                        <h3 class="c-title2">Payments details</h3>
+                        <input type="text" placeholder="Credit card number" class="c-checkout__cardNumber">
+                        <input type="text" placeholder="Security code" class="c-checkout__cardSecu" >
+                        <input type="text" placeholder="Expiration date" class="c-checkout__cardDate">
+                    </div>
+                    <button class="c-checkout__button">
+                        Complete Purchase
+                    </button>
+                </form>
+            </div>
+            <div class="c-checkout__totalPrice">
+                <h3 class="c-title2">Your Order</h3>
+                <p class="c-checkout__txt">Thiết kế web <span class="c-checkout__price">xx.xxx.xxx đ</span></p>
+                <p class="c-checkout__txt">Thiết kế web <span class="c-checkout__price">x.xxx.xxx đ</span></p>
+                <p class="c-checkout__txt">Giảm giá <span class="c-checkout__price">xxx.xxx đ</span></p>
+                <hr>
+                <p class="c-checkout__txt">Tổng tiền <span class="c-checkout__price">xx.xxx.xxx đ</span></p>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <section class="p-contact">
         <div class="l-container">
             <h2 class="c-title1">Liên hệ</h2>
         </div>
@@ -859,7 +896,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </section>
 </main>
 
 <?php get_footer(); ?>
