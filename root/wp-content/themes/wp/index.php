@@ -735,10 +735,10 @@
                             <li><span>Javascript</span></li>
                         </ul>
                         <div class="c-list8__social">
-                            <ul>
-                                <li><a href="#">Twitter</a></li>
-                                <li><a href="#">Facebook</a></li>
-                                <li><a href="#">Linkedin</a></li>
+                        <ul>
+                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
                             </ul>
                         </div>
                     </div>
@@ -759,10 +759,10 @@
                             <li><span>Javascript</span></li>
                         </ul>
                         <div class="c-list8__social">
-                            <ul>
-                                <li><a href="#">Twitter</a></li>
-                                <li><a href="#">Facebook</a></li>
-                                <li><a href="#">Linkedin</a></li>
+                        <ul>
+                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
                             </ul>
                         </div>
                     </div>
@@ -807,10 +807,10 @@
                             <li><span>Javascript</span></li>
                         </ul>
                         <div class="c-list8__social">
-                            <ul>
-                                <li><a href="#">Twitter</a></li>
-                                <li><a href="#">Facebook</a></li>
-                                <li><a href="#">Linkedin</a></li>
+                        <ul>
+                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
                             </ul>
                         </div>
                     </div>

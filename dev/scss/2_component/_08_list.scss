@@ -537,6 +537,13 @@ list
         position: relative;
         text-align: center;
         background-color: $colorLightGrey;
+        @include max-w(888px) {
+            width: 48%;
+            margin-top: 30px;
+        }
+        @include sp() {
+            width: 100%;
+        }
         &:hover {
             background-color: $colorGrey3;
             #{$root}__social ul {
@@ -608,13 +615,13 @@ list
         }
     }
     &__link1 {
-       background-image: url(../../../root/assets/img/team/twitter-icon.png);
+       background-image: url(../img/team/linkedin.png);
     }
     &__link2 {
-        background-image: url(../../../root/assets/img/team/fb-icon.png);
+        background-image: url(../img/team/fb-icon.png);
     }
     &__link3 {
-        background-image: url(../../../root/assets/img/team/twitter-icon.png);
+        background-image: url(../img/team/twitter-icon.png);
     }
 }
 // end: team
