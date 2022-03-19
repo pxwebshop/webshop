@@ -61,7 +61,7 @@
 
 					<ul class="c-header__child">
 						<li class="c-header__child__item">
-							<a href="/gioi thieu">Giới thiệu</a>
+							<a href="/gioi-thieu">Giới thiệu</a>
 						</li>
 						<li class="c-header__child__item">
 							<a href="/thanh-toan">Thanh toán</a>

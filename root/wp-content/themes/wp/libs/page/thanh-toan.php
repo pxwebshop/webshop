@@ -8,7 +8,7 @@
                 <h2 class="c-title1">Thanh toán</h2>
                 <div class="c-page__url">
                     <a href="/" class="c-page__link">Trang chủ</a>
-                    <a href="/lien-he">/ Thanh toán</a>
+                    <span>/ Thanh toán</span>
                 </div>
             </div>
         </div>
