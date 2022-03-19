@@ -381,50 +381,42 @@ other
 // banner
 .c-banner {
     $root: &;
-    background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
-    .c-title0 {
+    // background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
+    background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
+    height: 640px;
+    &__txt {
+        font-size: 2.6rem;
+        font-weight: 500;
+        margin-top: 25px;
+        &--large {
+            font-weight: 700;
+            font-size: 7.0rem;
+            margin-bottom: 13px;
+        }
+    }
+    &__color {
         color: $colorRed;
-        padding: 16px;
-    }
-    .c-title1 {
-        margin-top: 0;
-    }
-    .c-title1, .c-title2, .c-title3 {
-        color: $colorRed1;
-        padding: 16px;
-    }
-    .c-title2, .c-title3 {
-        text-transform: none;
-    }
-    &__content {
-        display: flex;
-        flex-wrap: wrap;
     }
     &__text {
-        width: 50%;
-        @include sp {
-            width: 100%;
-        }
+        font-size: 1.7rem;
+        line-height: 1.5;
     }
-    &__img {
-        width: 50%;
-        padding-left: 30px;
-        @include sp {
-            width: 0;
-        }
+    &__btn {
+        background-color: $colorPurple;
+        color: #fff;
+        padding: 20px 30px;
+        display: inline-block;
+        margin-top: 20px;
+        font-size: 1.7rem;
+        font-weight: 500;
     }
-    &__btnLink {
-        padding: 10px 30px;
-        background-color: $colorRed;
-        color: $colorWhite;
-        font-weight: bold;
-        box-shadow: 0 0 3px $colorBlack;
-        border-radius: 5px;
-        float: right;
-        font-size: 1.6rem;
-        &:hover {
-            background-color: $colorBlue2;
-        }
+    &__content {
+        position: absolute;
+        top: 30%;
+    }
+    .l-container {
+        height: 100%;
+        position: relative;
     }
 }
 // end: banner

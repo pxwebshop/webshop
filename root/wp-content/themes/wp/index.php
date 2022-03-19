@@ -6,14 +6,10 @@
         <div class="c-banner">
             <div class="l-container">
                 <div class="c-banner__content">
-                    <div class="c-banner__text">
-                        <h1 class="c-title0">Thiên đường website</h1>
-                        <h2 class="c-title1">Thiết kế web, phần mềm, mạng, chuyên nghiệp, uy tín</h2>
-                        <h3 class="c-title2">Dịch vụ thiết kế website Bán Hàng CHUẨN SEO liên quốc gia,không chỉ đẹp mắt mà còn mang về nhiều lượt truy cập, nhiều đơn hàng.</h3>
-                        <h4 class="c-title3">Đến với chúng tôi, để cả thế giới biết tới bạn</h4>
-                        <a href="/gioi-thieu" class="c-banner__btnLink">Khám phá ngay</a>
-                    </div>
-                    <figure class="c-banner__img"><img src="/assets/img/common/banner.png" alt=""></figure>
+                   <h3 class="c-banner__txt">Thiết kế website chuyên nghiệp, uy tín.</h3>
+                   <h2 class="c-banner__txt c-banner__txt--large">Dẫn đầu <span class="c-banner__color">công nghệ.</span></h2>
+                   <p class="c-banner__text">Pxwebshop đi đầu trong lĩnh vực phần mềm và website với hơn 10 năm<br/> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
+                   <a class="c-banner__btn" href="/gioi-thieu">Tìm hiểu thêm</a>
                 </div>
             </div>
         </div>
