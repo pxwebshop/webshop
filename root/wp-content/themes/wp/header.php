@@ -76,7 +76,7 @@
 	</div>
 	
 	<nav class="sp-only">
-		<ul class="c-header1__menu">
+		<!-- <ul class="c-header1__menu">
 			<li class="c-header1__item">
 				<a class="c-header1__link" href="#">Trang chủ</a>
 			</li>
@@ -115,7 +115,7 @@
 					</li>
 				</ul>
 			</li>
-		</ul>
+		</ul> -->
 	</nav>
 </header>
 <!--▲ Header ▲-->

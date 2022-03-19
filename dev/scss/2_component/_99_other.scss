@@ -384,14 +384,23 @@ other
     // background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
     background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
     height: 640px;
+    @include sp() {
+        height: 480px;
+    }
     &__txt {
         font-size: 2.6rem;
         font-weight: 500;
         margin-top: 25px;
+        @include sp() {
+            font-size: 1.8rem;
+        }
         &--large {
             font-weight: 700;
             font-size: 7.0rem;
             margin-bottom: 13px;
+            @include sp() {
+                font-size: 4rem;
+            }
         }
     }
     &__color {
@@ -400,6 +409,9 @@ other
     &__text {
         font-size: 1.7rem;
         line-height: 1.5;
+        @include sp() {
+            font-size: 1.6rem;
+        }
     }
     &__btn {
         background-color: $colorPurple;
@@ -409,10 +421,17 @@ other
         margin-top: 20px;
         font-size: 1.7rem;
         font-weight: 500;
+        @include sp() {
+            font-size: 1.4rem;
+            padding: 15px 20px;
+        }
     }
     &__content {
         position: absolute;
         top: 30%;
+        @include sp() {
+            top: 10%;
+        }
     }
     .l-container {
         height: 100%;
