@@ -39,6 +39,10 @@
                         <input type="text" id="email">
                     </div>
                     <div class="c-contact__group">
+                        <label for="phone">Số điện thoại</label>
+                        <input type="text" id="phone">
+                    </div>
+                    <div class="c-contact__group">
                         <label for="message">Message</label>
                         <textarea rows="10" name="" id="message"></textarea>
                     </div>
