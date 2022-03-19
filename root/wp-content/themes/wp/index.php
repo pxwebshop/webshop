@@ -666,6 +666,7 @@
 
     <section class="p-article__sc1 clearfix">
     <div class="l-container">
+        <h2 class="c-title1">Tin tức</h2>
         <div class="p-article__content">
             <div class="c-list2">
                 <div class="c-list2__item">
