@@ -34,7 +34,7 @@
 			</a>
 			<ul class="c-header__menu">
 				<li class="c-header__item">
-					<a class="c-header__link" href="#">Trang chủ</a>
+					<a class="c-header__link" href="/">Trang chủ</a>
 				</li>
 				<li class="c-header__item c-header__item__services">
 					<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
@@ -61,7 +61,7 @@
 
 					<ul class="c-header__child">
 						<li class="c-header__child__item">
-							<a href="#">Giới thiệu</a>
+							<a href="/gioi-thieu">Giới thiệu</a>
 						</li>
 						<li class="c-header__child__item">
 							<a href="/thanh-toan">Thanh toán</a>

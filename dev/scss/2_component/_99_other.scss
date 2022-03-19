@@ -113,10 +113,7 @@ other
     }
 }
 
-// Contact
-.c-contact {
-    $root: &;
-
+.c-page {
     &__heading {
         background: url(../img/common/contact-background.jpg) no-repeat center center;
         background-size: 100%;
@@ -140,6 +137,13 @@ other
         height: 100%;
         background-color: rgba(1,1,1,0.5);
     }
+}
+
+// Contact
+.c-contact {
+    $root: &;
+
+    
     &__map {
         width: 100%;
         height: 346px;
@@ -300,3 +304,76 @@ other
         }
     }
 }
+
+// c-payment
+.c-payment {
+    $root: &;
+    .c-title1 {
+        padding: 10px;
+        border: 3px solid $colorBlue2;
+        margin-bottom: 30px;
+        background-color: $colorBlue1;
+    }
+    &__bank1 {
+        margin: 30px 0;
+    }
+    &__content {
+        display: flex;
+        padding: 30px;
+    }
+    &__img {
+        width: 200px;
+        img {
+            width: 100%;
+        }
+        @include sp() {
+            display: none;
+        }
+    }
+    &__txt {
+        width: calc(100% - 200px);
+        padding-left: 30px;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        @include sp() {
+            width: 100%;
+        }
+    }
+    &__eWallets {
+        display: flex;
+        justify-content: space-between;
+        figure {
+            width: 100px;
+        }
+    }
+    &__note {
+        li {
+            list-style-type: circle;
+            font-size: 1.6rem;
+            line-height: 1.5;
+            padding: 5px;
+        }
+    }
+    &__btn {
+        margin: 30px 0;
+        width: 100%;
+        text-align: center;
+        button {
+            padding: 10px 30px;
+            font-size: 1.6rem;
+            line-height: 1.5;
+            border-radius: 30px;
+            background-color: $colorBlue2;
+            border: transparent;
+            box-shadow: 0 0 5px $colorBlack;
+            color: $colorWhite;
+            font-weight: 700;
+            text-transform: uppercase;
+            cursor: pointer;
+            &:hover {
+                background-color: $colorRed;
+            }
+        }
+    }
+}
+// end: c-payment

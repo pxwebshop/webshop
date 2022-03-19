@@ -638,3 +638,80 @@ list
     }
 }
 // end: team
+
+// intro
+.c-list9 {
+    $root: &;
+    &__item {
+        padding: 30px 0;
+    }
+    &__item1, &__item3, &__item5 {
+        background: $colorBlue5;
+    }
+    &__content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    &__content2, &__content4 {
+        flex-direction: row-reverse;
+        #{$root}__text {
+            padding-left: 30px;
+            padding-right: 0;
+        }
+    }
+    &__img {
+        width: 40%;
+        @include sp {
+            width: 100%;
+        }
+    }
+    &__text {
+        @include sp {
+            width: 100%;
+        }
+        width: 60%;
+        padding-right: 30px;
+        font-size: 1.6rem;
+        line-height: 1.5;
+    }
+    &__txt {
+        margin: 30px 0;
+    }
+    &__subTitle {
+        position: relative;
+        &::after {
+            position: absolute;
+            content: "";
+            height: 5px;
+            background-color: $colorBlue2;
+            width: 100px;
+            top: 30px;
+            left: 0;
+            @include sp {
+                width: 0;
+                height: 0;
+            }
+        }
+        @include sp {
+            font-style: italic;
+            color: $colorGrey;
+        }
+    }
+    &__btn {
+        padding: 5px 30px;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        margin-bottom: 30px;
+        text-transform: uppercase;
+        background-color: $colorBlue2;
+        color: $colorWhite;
+        font-weight: bold;
+        border: transparent;
+        box-shadow: 0 0 5px $colorBlack;
+        transition: all 1s;
+        &:hover {
+            background-color: $colorRed;
+        }
+    }
+}
+// end: intro

@@ -49,16 +49,23 @@
 
 .p-article {
     &__sc1 {
-        
+        .c-page__heading {
+            margin-bottom: 50px;
+            @include sp() {
+                margin-bottom: 25px;
+            }
+        }
     }
     &__content {
         width: 70%;
         float: left;
+        margin-top: 50px;
         @include max-w(870px) {
             width: 60%;
         }
         @include sp() {
             width: 100%;
+            margin-top: 0px;
         }
     }
     &__articleOther {

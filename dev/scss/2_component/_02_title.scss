@@ -12,3 +12,10 @@
     @include roboto();
     text-transform: uppercase;
 }
+.c-title3 {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    @include roboto();
+    font-weight: 600;
+    text-transform: uppercase;
+}
