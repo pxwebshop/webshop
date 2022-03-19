@@ -54,7 +54,7 @@
 					</ul>
 				</li>
 				<li class="c-header__item">
-					<a class="c-header__link" href="#">Tin tức</a>
+					<a class="c-header__link" href="/tin-tuc">Tin tức</a>
 				</li>
 				<li class="c-header__item c-header__item__abouts">
 					<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
