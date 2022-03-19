@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
 <main class="p-payment">
-<div class="c-page__heading">
+    <div class="c-page__heading">
         <div class="c-page__title">
             <div>
                 <h2 class="c-title1">Thanh toán</h2>
@@ -31,7 +31,7 @@
                                 <p>Ngân hàng Vietinbank - STK: 12345678910 - PXWEBSHOP2022 (STK tên công ty thay thế cho số thông thường, chỉ cần điền đúng như trên) - Chi nhánh Hồ Chí Minh</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="c-payment__bank1">
                         <h4 class="c-title3">Chủ tài khoản: Đặng Ngọc Quý</h4>
                         <div class="c-payment__content">
@@ -40,7 +40,7 @@
                                 <p>Ngân hàng Vietinbank - STK: 12345678910 - Đặng Ngọc Quý - Chi nhánh Hồ Chí Minh </p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                     <div class="c-payment__bank1">
                         <h4 class="c-title3">Chủ tài khoản: Phonesay Namsavanh</h4>
                         <div class="c-payment__content">
@@ -49,7 +49,7 @@
                                 <p>Ngân hàng Phát triển Lào (LDB) - STK: 12345678910 - Phonesay Namsavanh - Chi nhánh Vientiane</p>
                             </div>
                         </div>
-                    </div> 
+                    </div>
                 </div>
                 <div class="c-payment__eWallet">
                     <h2 class="c-title1">Thanh toán qua ví điện tử</h2>
@@ -73,7 +73,7 @@
                     <li>Xin chân thành cảm ơn quý khách.</li>
                 </div>
                 <div class="c-payment__btn">
-                    <button>Nhận tư vấn miễn phí</button> 
+                    <button>Nhận tư vấn miễn phí</button>
                 </div>
             </div>
         </div>
