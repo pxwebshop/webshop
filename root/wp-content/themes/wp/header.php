@@ -14,7 +14,7 @@
 <body>
 <!--▼ Header ▼-->
 <header class="c-header">
-	<div class="c-header__top">
+	<div class="c-header__top pc-only">
 		<div class="l-container">
 			<p class="c-header__nameCompany">Công ty TNHH Pxwebshop</p>
 			<ul class="c-header__address">
@@ -74,5 +74,48 @@
 			</ul>
 		</div>
 	</div>
+	
+	<nav class="sp-only">
+		<ul class="c-header1__menu">
+			<li class="c-header1__item">
+				<a class="c-header1__link" href="#">Trang chủ</a>
+			</li>
+			<li class="c-header1__item c-header1__item__services">
+				<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
+				<ul class="c-header1__child">
+					<li class="c-header1__child__item">
+						<a href="#">Thiết kế website</a>
+					</li>
+					<li class="c-header1__child__item">
+						<a href="#">Viết phần mềm theo yêu cầu</a>
+					</li>
+					<li class="c-header1__child__item">
+						<a href="#">Thiết kế banner</a>
+					</li>
+					<li class="c-header1__child__item">
+						<a href="#">Thiết kế website</a>
+					</li>
+				</ul>
+			</li>
+			<li class="c-header1__item">
+				<a class="c-header1__link" href="/tin-tuc">Tin tức</a>
+			</li>
+			<li class="c-header1__item c-header1__item__abouts">
+				<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
+
+				<ul class="c-header1__child">
+					<li class="c-header1__child__item">
+						<a href="#">Giới thiệu</a>
+					</li>
+					<li class="c-header1__child__item">
+						<a href="/thanh-toan">Thanh toán</a>
+					</li>
+					<li class="c-header1__child__item">
+						<a href="/lien-he">Liên hệ</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
 </header>
 <!--▲ Header ▲-->

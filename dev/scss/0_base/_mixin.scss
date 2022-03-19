@@ -53,6 +53,15 @@
 	}
 }
 
+@mixin hover() {
+	&:hover {
+		// 768px ->
+		@media screen and (min-width: #{($breakpoint1 + 1px)}) {
+			@content;
+		}
+	}
+}
+
 /* Other
 -------------------------------------------*/
 @mixin shadow {
