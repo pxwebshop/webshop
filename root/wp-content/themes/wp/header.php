@@ -22,7 +22,7 @@
 					<span><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</span>
 				</li>
 				<li class="c-header__address__item">
-					<span><i class="fa-solid fa-phone"></i> 0361.0214.01265</span>
+					<a href="tel:0361.0214.01265"><i class="fa-solid fa-phone"></i> 0361.0214.01265</a href="tel:">
 				</li>
 			</ul>
 		</div>
