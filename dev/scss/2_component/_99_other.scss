@@ -377,3 +377,54 @@ other
     }
 }
 // end: c-payment
+
+// banner
+.c-banner {
+    $root: &;
+    background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
+    .c-title0 {
+        color: $colorRed;
+        padding: 16px;
+    }
+    .c-title1 {
+        margin-top: 0;
+    }
+    .c-title1, .c-title2, .c-title3 {
+        color: $colorRed1;
+        padding: 16px;
+    }
+    .c-title2, .c-title3 {
+        text-transform: none;
+    }
+    &__content {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    &__text {
+        width: 50%;
+        @include sp {
+            width: 100%;
+        }
+    }
+    &__img {
+        width: 50%;
+        padding-left: 30px;
+        @include sp {
+            width: 0;
+        }
+    }
+    &__btnLink {
+        padding: 10px 30px;
+        background-color: $colorRed;
+        color: $colorWhite;
+        font-weight: bold;
+        box-shadow: 0 0 3px $colorBlack;
+        border-radius: 5px;
+        float: right;
+        font-size: 1.6rem;
+        &:hover {
+            background-color: $colorBlue2;
+        }
+    }
+}
+// end: banner

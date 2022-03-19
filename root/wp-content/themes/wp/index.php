@@ -2,7 +2,22 @@
 <?php get_header(); ?>
 
 <main class="p-index">
-    
+    <div class="p-banner">
+        <div class="c-banner">
+            <div class="l-container">
+                <div class="c-banner__content">
+                    <div class="c-banner__text">
+                        <h1 class="c-title0">Thiên đường website</h1>
+                        <h2 class="c-title1">Thiết kế web, phần mềm, mạng, chuyên nghiệp, uy tín</h2>
+                        <h3 class="c-title2">Dịch vụ thiết kế website Bán Hàng CHUẨN SEO liên quốc gia,không chỉ đẹp mắt mà còn mang về nhiều lượt truy cập, nhiều đơn hàng.</h3>
+                        <h4 class="c-title3">Đến với chúng tôi, để cả thế giới biết tới bạn</h4>
+                        <a href="/gioi-thieu" class="c-banner__btnLink">Khám phá ngay</a>
+                    </div>
+                    <figure class="c-banner__img"><img src="/assets/img/common/banner.png" alt=""></figure>
+                </div>
+            </div>
+        </div>
+    </div>
     <section class="p-slider">
         <div class="l-container">
             <div class="c-list6">
@@ -178,7 +193,7 @@
         </div>
     </section>
 
-    <section class="p-service"> 
+    <section class="p-service">
         <div class="l-container">
             <h2 class="c-title1">Dịch Vụ</h2>
             <div class="c-list7">
@@ -196,7 +211,7 @@
                             <img src="assets/img/service/service2.png" alt="">
                         </figure>
                         <div class="c-list7__txt">
-                            <span>Xây dựng phần mềm theo yêu cầu</span> 
+                            <span>Xây dựng phần mềm theo yêu cầu</span>
                         </div>
                     </a>
                 </div>
@@ -226,7 +241,7 @@
                 </div>
             </div>
             <div class="c-list8">
-                
+
             </div>
         </div>
     </section>
@@ -234,246 +249,246 @@
     <section class="p-quote">
         <div class="l-container">
             <h2 class="c-title1">Báo giá thiết kế website</h3>
-            <div class="p-quote__content">
-                <div class="c-list4">
-                    <div class="c-list4__item">
-                        <div class="c-list4__info c-list4__info--background1">
-                            <h3 class="c-list4__title">
-                                Basic
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                <div class="p-quote__content">
+                    <div class="c-list4">
+                        <div class="c-list4__item">
+                            <div class="c-list4__info c-list4__info--background1">
+                                <h3 class="c-list4__title">
+                                    Basic
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX đ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Tên miền .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Hosting: 1000MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Băng thông không giới hạn</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Chọn mẫu giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>Thiết kế logo</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>Email doanh nghiệp</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>Tùy chỉnh giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Thiết kế chuấn SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo mật SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo hành trọn đời</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bàn giao source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn">
+                                Đặt ngay
+                            </button>
                         </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 1000MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
-                                </li>
-                                <li>
-                                <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Thiết kế logo</span>
-                                </li>
-                                <li>
-                                <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Email doanh nghiệp</span>
-                                </li>
-                                <li>
-                                <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Tùy chỉnh giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
-                                </li>
-                            </ul>
+                        <div class="c-list4__item">
+                            <div class="c-list4__info c-list4__info--background2">
+                                <h3 class="c-list4__title">
+                                    PLUS
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX đ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Tên miền .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Hosting: 1500MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Băng thông không giới hạn</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Chọn mẫu giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Thiết kế logo</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>Email doanh nghiệp</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Tùy chỉnh giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Thiết kế chuấn SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo mật SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo hành trọn đời</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bàn giao source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn">
+                                Đặt ngay
+                            </button>
                         </div>
-                        <button class="c-list4__btn">
-                            Đặt ngay
-                        </button>
-                    </div>
-                    <div class="c-list4__item">
-                        <div class="c-list4__info c-list4__info--background2">
-                            <h3 class="c-list4__title">
-                                PLUS
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                        <div class="c-list4__item">
+                            <div class="c-list4__info c-list4__info--background3">
+                                <h3 class="c-list4__title">
+                                    PRO
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX đ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Tên miền .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Hosting: 2000MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Băng thông không giới hạn</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Chọn mẫu giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Thiết kế logo</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Email doanh nghiệp</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Tùy chỉnh giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Thiết kế chuấn SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo mật SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo hành trọn đời</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bàn giao source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn">
+                                Đặt ngay
+                            </button>
                         </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 1500MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế logo</span>
-                                </li>
-                                <li>
-                                <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Email doanh nghiệp</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tùy chỉnh giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
-                                </li>
-                            </ul>
+                        <div class="c-list4__item">
+                            <div class="c-list4__info c-list4__info--background4">
+                                <h3 class="c-list4__title">
+                                    BUSINESS
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX đ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Tên miền .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Hosting: 4000MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Băng thông không giới hạn</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Chọn mẫu giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Thiết kế logo</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Email doanh nghiệp</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Tùy chỉnh giao diện</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Thiết kế chuấn SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo mật SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bảo hành trọn đời</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Bàn giao source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn">
+                                Đặt ngay
+                            </button>
                         </div>
-                        <button class="c-list4__btn">
-                            Đặt ngay
-                        </button>
-                    </div>
-                    <div class="c-list4__item">
-                        <div class="c-list4__info c-list4__info--background3">
-                            <h3 class="c-list4__title">
-                                PRO
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
-                        </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 2000MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế logo</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Email doanh nghiệp</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tùy chỉnh giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <button class="c-list4__btn">
-                            Đặt ngay
-                        </button>
-                    </div>
-                    <div class="c-list4__item">
-                        <div class="c-list4__info c-list4__info--background4">
-                            <h3 class="c-list4__title">
-                                BUSINESS
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
-                        </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 4000MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế logo</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Email doanh nghiệp</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tùy chỉnh giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <button class="c-list4__btn">
-                            Đặt ngay
-                        </button>
                     </div>
                 </div>
-            </div>
         </div>
     </section>
 
@@ -490,9 +505,9 @@
                 </div>
                 <div class="c-list5__icon">
                     <div class="c-list5__icon1"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile1"><i class="fa-solid fa-arrow-down"></i></div> 
+                    <div class="c-list5__iconMobile1"><i class="fa-solid fa-arrow-down"></i></div>
                 </div>
-                
+
 
                 <div class="c-list5__item c-list5__item2">
                     <figure class="c-list5__img">
@@ -503,7 +518,7 @@
                 </div>
                 <div class="c-list5__icon">
                     <div class="c-list5__icon2"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile2"><i class="fa-solid fa-arrow-down"></i></div> 
+                    <div class="c-list5__iconMobile2"><i class="fa-solid fa-arrow-down"></i></div>
                 </div>
 
                 <div class="c-list5__item c-list5__item3">
@@ -515,7 +530,7 @@
                 </div>
                 <div class="c-list5__icon">
                     <div class="c-list5__icon3"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile3"><i class="fa-solid fa-arrow-down"></i></div> 
+                    <div class="c-list5__iconMobile3"><i class="fa-solid fa-arrow-down"></i></div>
                 </div>
 
                 <div class="c-list5__item c-list5__item4">
@@ -527,7 +542,7 @@
                 </div>
                 <div class="c-list5__icon">
                     <div class="c-list5__icon4"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile4"><i class="fa-solid fa-arrow-down"></i></div> 
+                    <div class="c-list5__iconMobile4"><i class="fa-solid fa-arrow-down"></i></div>
                 </div>
 
                 <div class="c-list5__item c-list5__item5">
@@ -539,7 +554,7 @@
                 </div>
                 <div class="c-list5__icon">
                     <div class="c-list5__icon5"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div> 
+                    <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div>
                 </div>
 
                 <div class="c-list5__item c-list5__item6">
@@ -558,101 +573,101 @@
             <div class="c-list8">
                 <div class="c-list8__wrap">
                     <div class="c-list8__item">
-                    <figure class="c-list8__img">
-                        <img src="./assets/img/team/phonexay.jpg" alt="">
-                    </figure>
-                    <div class="c-list8__content">
-                        <span class="c-list8__name">Phonexay Namsavanh</span> <br>
-                        <span class="c-list8__position">CEO - Network Designer</span>
-                        <ul class="c-list8__skill">
-                            <li><span>Cisco</span></li>
-                            <li><span>...</span></li>
-                        </ul>
-                        <div class="c-list8__social">
-                            <ul>
-                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                        <figure class="c-list8__img">
+                            <img src="./assets/img/team/phonexay.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Phonexay Namsavanh</span> <br>
+                            <span class="c-list8__position">CEO - Network Designer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>Cisco</span></li>
+                                <li><span>...</span></li>
                             </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
                     </div>
                 </div>
                 <div class="c-list8__wrap">
                     <div class="c-list8__item">
-                    <figure class="c-list8__img">
-                        <img src="./assets/img/team/idol.jpg" alt="">
-                    </figure>
-                    <div class="c-list8__content">
-                        <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
-                        <span class="c-list8__position">CEO - Developer</span>
-                        <ul class="c-list8__skill">
-                            <li><span>HTML</span></li>
-                            <li><span>CSS</span></li>
-                            <li><span>Javascript</span></li>
-                            <li><span>PHP</span></li>
-                            <li><span>Laravel</span></li>
-                            <li><span>NodeJs</span></li>
-                            <li><span>Vuejs</span></li>
-                            <li><span>Aws</span></li>
-                            <li><span>Docker</span></li>
-                            <li><span>IOS</span></li>
-                        </ul>
-                        <div class="c-list8__social">
-                            <ul>
-                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                        <figure class="c-list8__img">
+                            <img src="./assets/img/team/idol.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
+                            <span class="c-list8__position">CEO - Developer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>HTML</span></li>
+                                <li><span>CSS</span></li>
+                                <li><span>Javascript</span></li>
+                                <li><span>PHP</span></li>
+                                <li><span>Laravel</span></li>
+                                <li><span>NodeJs</span></li>
+                                <li><span>Vuejs</span></li>
+                                <li><span>Aws</span></li>
+                                <li><span>Docker</span></li>
+                                <li><span>IOS</span></li>
                             </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
                     </div>
                 </div>
                 <div class="c-list8__wrap">
                     <div class="c-list8__item">
-                    <figure class="c-list8__img">
-                        <img src="./assets/img/team/minchong.jpg" alt="">
-                    </figure>
-                    <div class="c-list8__content">
-                        <span class="c-list8__name">Nguyễn Minh Công</span> <br>
-                        <span class="c-list8__position">Developer</span>
-                        <ul class="c-list8__skill">
-                            <li><span>HTML</span></li>
-                            <li><span>CSS</span></li>
-                            <li><span>Javascript</span></li>
-                            <li><span>.NET</span></li>
-                            <li><span>Android</span></li>
-                            <li><span>MySQL</span></li>
-                        </ul>
-                        <div class="c-list8__social">
-                            <ul>
-                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                        <figure class="c-list8__img">
+                            <img src="./assets/img/team/minchong.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Nguyễn Minh Công</span> <br>
+                            <span class="c-list8__position">Developer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>HTML</span></li>
+                                <li><span>CSS</span></li>
+                                <li><span>Javascript</span></li>
+                                <li><span>.NET</span></li>
+                                <li><span>Android</span></li>
+                                <li><span>MySQL</span></li>
                             </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
                     </div>
                 </div>
                 <div class="c-list8__wrap">
                     <div class="c-list8__item">
-                    <figure class="c-list8__img">
-                        <img src="./assets/img/team/viananh.jpg" alt="">
-                    </figure>
-                    <div class="c-list8__content">
-                        <span class="c-list8__name">To Viananh</span> <br>
-                        <span class="c-list8__position">Designer</span>
-                        <ul class="c-list8__skill">
-                            <li><span>...</span></li>
-                        </ul>
-                        <div class="c-list8__social">
-                            <ul>
-                                <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                        <figure class="c-list8__img">
+                            <img src="./assets/img/team/viananh.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">To Viananh</span> <br>
+                            <span class="c-list8__position">Designer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>...</span></li>
                             </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
                         </div>
-                    </div>
                     </div>
                 </div>
             </div>
@@ -660,161 +675,161 @@
     </section>
 
     <section class="p-article__sc1 clearfix">
-    <div class="l-container">
-        <div class="p-article__content">
-            <div class="c-list2">
-                <div class="c-list2__item">
-                    <figure class="c-list2__img">
-                        <img src="https://placehold.jp/220x250.png" alt="">
-                    </figure>
-                    <div class="c-list2__info">
-                        <h3 class="c-list2__title">
-                            <a href="#">arcu dui vivamus arcu felis</a>
-                        </h3>
-                        <div class="c-list2__time">
-                            <i class="fa-solid fa-calendar-days"></i>
-                            <span>14 Tháng Ba, 2022</span>
+        <div class="l-container">
+            <div class="p-article__content">
+                <div class="c-list2">
+                    <div class="c-list2__item">
+                        <figure class="c-list2__img">
+                            <img src="https://placehold.jp/220x250.png" alt="">
+                        </figure>
+                        <div class="c-list2__info">
+                            <h3 class="c-list2__title">
+                                <a href="#">arcu dui vivamus arcu felis</a>
+                            </h3>
+                            <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
+                                <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span> <br>
+                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
-                        <div class="c-list2__author">
-                            <i class="fa-solid fa-user"></i>
-                            <span>Đặng Ngọc Quý</span> <br>
+                    </div>
+                    <div class="c-list2__item">
+                        <figure class="c-list2__img">
+                            <img src="https://placehold.jp/220x250.png" alt="">
+                        </figure>
+                        <div class="c-list2__info">
+                            <h3 class="c-list2__title">
+                                <a href="#">arcu dui vivamus arcu felis</a>
+                            </h3>
+                            <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
+                                <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span> <br>
+                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
                         </div>
-                        <p class="c-list2__txt">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
-                        </p>
+                    </div>
+                    <div class="c-list2__item">
+                        <figure class="c-list2__img">
+                            <img src="https://placehold.jp/220x250.png" alt="">
+                        </figure>
+                        <div class="c-list2__info">
+                            <h3 class="c-list2__title">
+                                <a href="#">arcu dui vivamus arcu felis</a>
+                            </h3>
+                            <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
+                                <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span> <br>
+                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="c-list2__item">
+                        <figure class="c-list2__img">
+                            <img src="https://placehold.jp/220x250.png" alt="">
+                        </figure>
+                        <div class="c-list2__info">
+                            <h3 class="c-list2__title">
+                                <a href="#">arcu dui vivamus arcu felis</a>
+                            </h3>
+                            <div class="c-list2__time">
+                                <i class="fa-solid fa-calendar-days"></i>
+                                <span>14 Tháng Ba, 2022</span>
+                            </div>
+                            <div class="c-list2__author">
+                                <i class="fa-solid fa-user"></i>
+                                <span>Đặng Ngọc Quý</span> <br>
+                            </div>
+                            <p class="c-list2__txt">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                            </p>
+                        </div>
                     </div>
                 </div>
-                <div class="c-list2__item">
-                    <figure class="c-list2__img">
-                        <img src="https://placehold.jp/220x250.png" alt="">
-                    </figure>
-                    <div class="c-list2__info">
-                        <h3 class="c-list2__title">
-                            <a href="#">arcu dui vivamus arcu felis</a>
-                        </h3>
-                        <div class="c-list2__time">
-                            <i class="fa-solid fa-calendar-days"></i>
-                            <span>14 Tháng Ba, 2022</span>
+            </div>
+
+            <div class="p-article__articleOther">
+                <div class="c-block1">
+                    <h3 class="c-block1__heading">Bài viết khác</h3>
+                    <div class="c-block1__inner">
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <img src="https://placehold.jp/120x100.png" alt="">
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
                         </div>
-                        <div class="c-list2__author">
-                            <i class="fa-solid fa-user"></i>
-                            <span>Đặng Ngọc Quý</span> <br>
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <img src="https://placehold.jp/120x100.png" alt="">
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
                         </div>
-                        <p class="c-list2__txt">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
-                        </p>
-                    </div>
-                </div>
-                <div class="c-list2__item">
-                    <figure class="c-list2__img">
-                        <img src="https://placehold.jp/220x250.png" alt="">
-                    </figure>
-                    <div class="c-list2__info">
-                        <h3 class="c-list2__title">
-                            <a href="#">arcu dui vivamus arcu felis</a>
-                        </h3>
-                        <div class="c-list2__time">
-                            <i class="fa-solid fa-calendar-days"></i>
-                            <span>14 Tháng Ba, 2022</span>
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <img src="https://placehold.jp/120x100.png" alt="">
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
                         </div>
-                        <div class="c-list2__author">
-                            <i class="fa-solid fa-user"></i>
-                            <span>Đặng Ngọc Quý</span> <br>
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <img src="https://placehold.jp/120x100.png" alt="">
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
                         </div>
-                        <p class="c-list2__txt">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
-                        </p>
-                    </div>
-                </div>
-                <div class="c-list2__item">
-                    <figure class="c-list2__img">
-                        <img src="https://placehold.jp/220x250.png" alt="">
-                    </figure>
-                    <div class="c-list2__info">
-                        <h3 class="c-list2__title">
-                            <a href="#">arcu dui vivamus arcu felis</a>
-                        </h3>
-                        <div class="c-list2__time">
-                            <i class="fa-solid fa-calendar-days"></i>
-                            <span>14 Tháng Ba, 2022</span>
+
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <img src="https://placehold.jp/120x100.png" alt="">
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
                         </div>
-                        <div class="c-list2__author">
-                            <i class="fa-solid fa-user"></i>
-                            <span>Đặng Ngọc Quý</span> <br>
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <img src="https://placehold.jp/120x100.png" alt="">
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
                         </div>
-                        <p class="c-list2__txt">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
-                        </p>
+
                     </div>
                 </div>
             </div>
         </div>
-
-        <div class="p-article__articleOther">
-            <div class="c-block1">
-                <h3 class="c-block1__heading">Bài viết khác</h3>
-                <div class="c-block1__inner">
-                    <div class="c-block1__item">
-                        <figure class="c-block1__img">
-                            <img src="https://placehold.jp/120x100.png" alt="">
-                        </figure>
-                        <div class="c-block1__info">
-                            <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                            <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                        </div>
-                    </div>
-                    <div class="c-block1__item">
-                        <figure class="c-block1__img">
-                            <img src="https://placehold.jp/120x100.png" alt="">
-                        </figure>
-                        <div class="c-block1__info">
-                            <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                            <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                        </div>
-                    </div>
-                    <div class="c-block1__item">
-                        <figure class="c-block1__img">
-                            <img src="https://placehold.jp/120x100.png" alt="">
-                        </figure>
-                        <div class="c-block1__info">
-                            <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                            <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                        </div>
-                    </div>
-                    <div class="c-block1__item">
-                        <figure class="c-block1__img">
-                            <img src="https://placehold.jp/120x100.png" alt="">
-                        </figure>
-                        <div class="c-block1__info">
-                            <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                            <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                        </div>
-                    </div>
-
-                    <div class="c-block1__item">
-                        <figure class="c-block1__img">
-                            <img src="https://placehold.jp/120x100.png" alt="">
-                        </figure>
-                        <div class="c-block1__info">
-                            <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                            <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                        </div>
-                    </div>
-                    <div class="c-block1__item">
-                        <figure class="c-block1__img">
-                            <img src="https://placehold.jp/120x100.png" alt="">
-                        </figure>
-                        <div class="c-block1__info">
-                            <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                            <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+    </section>
 </main>
 
 <?php get_footer(); ?>
