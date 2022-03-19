@@ -2,12 +2,12 @@
 <?php get_header(); ?>
 
 <section class="p-contact">
-    <div class="c-contact__heading">
-        <div class="c-contact__title">
+    <div class="c-page__heading">
+        <div class="c-page__title">
             <div>
                 <h2 class="c-title1">Liên hệ</h2>
-                <div class="c-contact__url">
-                    <a href="/" class="c-contact__link">Trang chủ</a>
+                <div class="c-page__url">
+                    <a href="/" class="c-page__link">Trang chủ</a>
                     <a href="/lien-he">/ Liên hệ</a>
                 </div>
             </div>
