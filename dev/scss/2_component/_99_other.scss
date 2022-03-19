@@ -116,7 +116,43 @@ other
 // Contact
 .c-contact {
     $root: &;
-    
+
+    &__heading {
+        background: url(../img/common/contact-background.jpg) no-repeat center center;
+        background-size: 100%;
+        height: 300px;
+        width: 100%;
+        @include sp {
+            background-size: auto;
+        }
+        .c-title1 {
+            text-transform: none;
+            font-weight: 600;
+            text-align: center;
+        }
+    }
+    &__footing {
+        margin-top: 30px;
+        background-image: linear-gradient($colorWhite, $colorRed1);
+        height: 450px;
+    }
+    &__bgImg {
+        background: url(../img/common/bg-contact2.png) no-repeat center center;
+        background-size: 30%;
+        height: 400px;
+        @include sp {
+            background-size: 60%;
+        }
+    }
+    &__title {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: $colorWhite;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(1,1,1,0.5);
+    }
     &__map {
         width: 100%;
         height: 346px;
