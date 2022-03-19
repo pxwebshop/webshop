@@ -29,9 +29,9 @@
 	</div>
 	<div class="l-container pc-only">
 		<div class="c-header__inner">
-			<figure class="c-header__logo">
+			<a href="/" class="c-header__logo">
 				<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
-			</figure>
+			</a>
 			<ul class="c-header__menu">
 				<li class="c-header__item">
 					<a class="c-header__link" href="#">Trang chủ</a>
