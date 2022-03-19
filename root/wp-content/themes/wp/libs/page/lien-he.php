@@ -59,9 +59,6 @@
             </div>
         </div>
     </div>
-    <div class="c-contact__footing">
-        <div class="c-contact__bgImg"></div>
-    </div>
 </section>
 
 <?php get_footer(); ?>

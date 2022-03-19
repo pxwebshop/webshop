@@ -131,19 +131,6 @@ other
             text-align: center;
         }
     }
-    &__footing {
-        margin-top: 30px;
-        background-image: linear-gradient($colorWhite, $colorRed1);
-        height: 450px;
-    }
-    &__bgImg {
-        background: url(../img/common/bg-contact2.png) no-repeat center center;
-        background-size: 30%;
-        height: 400px;
-        @include sp {
-            background-size: 60%;
-        }
-    }
     &__title {
         display: flex;
         align-items: center;
