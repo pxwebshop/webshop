@@ -51,6 +51,9 @@
     &__sc1 {
         .c-page__heading {
             margin-bottom: 50px;
+            @include sp() {
+                margin-bottom: 25px;
+            }
         }
     }
     &__content {
@@ -62,6 +65,7 @@
         }
         @include sp() {
             width: 100%;
+            margin-top: 0px;
         }
     }
     &__articleOther {
