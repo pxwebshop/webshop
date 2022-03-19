@@ -480,77 +480,82 @@
     <section class="p-process">
         <div class="l-container">
             <h2 class="c-title1">Quá Trình thực hiện</h2>
-            <div class="c-list5">
-                <div class="c-list5__item c-list5__item1">
-                    <figure class="c-list5__img">
-                        <img src="/assets/img/process/thuthap.jpg" alt="">
-                    </figure>
-                    <span>Thu thập thông tin thiết kế website</span>
-                    <span class="c-list5__step">Bước 1</span>
-                </div>
-                <div class="c-list5__icon">
-                    <div class="c-list5__icon1"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile1"><i class="fa-solid fa-arrow-down"></i></div> 
-                </div>
-                
+        </div>
+        <div class="p-process__content">
+            <div class="l-container">
+                <div class="c-list5">
+                    <div class="c-list5__item c-list5__item1">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/thuthap.jpg" alt="">
+                        </figure>
+                        <span>Thu thập thông tin thiết kế website</span>
+                        <span class="c-list5__step">Bước 1</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon1"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile1"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
+                    
 
-                <div class="c-list5__item c-list5__item2">
-                    <figure class="c-list5__img">
-                        <img src="/assets/img/process/kehoach.jpg" alt="">
-                    </figure>
-                    <span>Lên kế hoạch thiết kế website</span>
-                    <span class="c-list5__step">Bước 2</span>
-                </div>
-                <div class="c-list5__icon">
-                    <div class="c-list5__icon2"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile2"><i class="fa-solid fa-arrow-down"></i></div> 
-                </div>
+                    <div class="c-list5__item c-list5__item2">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/kehoach.jpg" alt="">
+                        </figure>
+                        <span>Lên kế hoạch thiết kế website</span>
+                        <span class="c-list5__step">Bước 2</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon2"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile2"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
 
-                <div class="c-list5__item c-list5__item3">
-                    <figure class="c-list5__img">
-                        <img src="/assets/img/process/thietke.jpg" alt="">
-                    </figure>
-                    <span>Thiết kế website</span>
-                    <span class="c-list5__step">Bước 3</span>
-                </div>
-                <div class="c-list5__icon">
-                    <div class="c-list5__icon3"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile3"><i class="fa-solid fa-arrow-down"></i></div> 
-                </div>
+                    <div class="c-list5__item c-list5__item3">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/thietke.jpg" alt="">
+                        </figure>
+                        <span>Thiết kế website</span>
+                        <span class="c-list5__step">Bước 3</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon3"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile3"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
 
-                <div class="c-list5__item c-list5__item4">
-                    <figure class="c-list5__img">
-                        <img src="/assets/img/process/thuchien.jpg" alt="">
-                    </figure>
-                    <span>Phát triển website</span>
-                    <span class="c-list5__step">Bước 4</span>
-                </div>
-                <div class="c-list5__icon">
-                    <div class="c-list5__icon4"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile4"><i class="fa-solid fa-arrow-down"></i></div> 
-                </div>
+                    <div class="c-list5__item c-list5__item4">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/thuchien.jpg" alt="">
+                        </figure>
+                        <span>Phát triển website</span>
+                        <span class="c-list5__step">Bước 4</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon4"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile4"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
 
-                <div class="c-list5__item c-list5__item5">
-                    <figure class="c-list5__img">
-                        <img src="/assets/img/process/kiemthu.png" alt="">
-                    </figure>
-                    <span>Kiểm tra và chỉnh sửa</span>
-                    <span class="c-list5__step">Bước 5</span>
-                </div>
-                <div class="c-list5__icon">
-                    <div class="c-list5__icon5"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                    <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div> 
-                </div>
+                    <div class="c-list5__item c-list5__item5">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/kiemthu.png" alt="">
+                        </figure>
+                        <span>Kiểm tra và chỉnh sửa</span>
+                        <span class="c-list5__step">Bước 5</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon5"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
 
-                <div class="c-list5__item c-list5__item6">
-                    <figure class="c-list5__img">
-                        <img src="/assets/img/process/sanpham.jpg" alt="">
-                    </figure>
-                    <span>Hoàn thiện và bảo trì</span>
-                    <span class="c-list5__step">Bước 6</span>
+                    <div class="c-list5__item c-list5__item6">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/sanpham.jpg" alt="">
+                        </figure>
+                        <span>Hoàn thiện và bảo trì</span>
+                        <span class="c-list5__step">Bước 6</span>
+                    </div>
                 </div>
             </div>
         </div>
+        
     </section>
     <section class="p-team">
         <div class="l-container">
