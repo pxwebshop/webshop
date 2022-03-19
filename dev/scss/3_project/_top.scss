@@ -4,8 +4,10 @@
 
 
 .p-process {
-    padding-bottom: 30px;
-    // background: rgba($color: $colorBlue1, $alpha: 0.3);
-    background: url(https://cutewallpaper.org/23/grey-wallpaper-1920x1080/1040921382.jpg) no-repeat center center;
-
+    &__content {
+        padding-bottom: 30px;
+        background: url(https://greensoft.vn/wp-content/uploads/2021/09/bg_vi_sao_chon_chung_toi.gif) center center;
+        background-size: auto;
+        background-color: #FFFFFF;
+    }
 }

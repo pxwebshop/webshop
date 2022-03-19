@@ -495,6 +495,7 @@
     <section class="p-process">
         <div class="l-container">
             <h2 class="c-title1">Quá Trình thực hiện</h2>
+<<<<<<< HEAD
             <div class="c-list5">
                 <div class="c-list5__item c-list5__item1">
                     <figure class="c-list5__img">
@@ -556,16 +557,84 @@
                     <div class="c-list5__icon5"><i class="fa-solid fa-arrow-trend-down"></i></div>
                     <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div>
                 </div>
+=======
+        </div>
+        <div class="p-process__content">
+            <div class="l-container">
+                <div class="c-list5">
+                    <div class="c-list5__item c-list5__item1">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/thuthap.jpg" alt="">
+                        </figure>
+                        <span>Thu thập thông tin thiết kế website</span>
+                        <span class="c-list5__step">Bước 1</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon1"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile1"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
+                    
 
-                <div class="c-list5__item c-list5__item6">
-                    <figure class="c-list5__img">
-                        <img src="/assets/img/process/sanpham.jpg" alt="">
-                    </figure>
-                    <span>Hoàn thiện và bảo trì</span>
-                    <span class="c-list5__step">Bước 6</span>
+                    <div class="c-list5__item c-list5__item2">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/kehoach.jpg" alt="">
+                        </figure>
+                        <span>Lên kế hoạch thiết kế website</span>
+                        <span class="c-list5__step">Bước 2</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon2"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile2"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
+
+                    <div class="c-list5__item c-list5__item3">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/thietke.jpg" alt="">
+                        </figure>
+                        <span>Thiết kế website</span>
+                        <span class="c-list5__step">Bước 3</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon3"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile3"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
+
+                    <div class="c-list5__item c-list5__item4">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/thuchien.jpg" alt="">
+                        </figure>
+                        <span>Phát triển website</span>
+                        <span class="c-list5__step">Bước 4</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon4"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile4"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
+
+                    <div class="c-list5__item c-list5__item5">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/kiemthu.png" alt="">
+                        </figure>
+                        <span>Kiểm tra và chỉnh sửa</span>
+                        <span class="c-list5__step">Bước 5</span>
+                    </div>
+                    <div class="c-list5__icon">
+                        <div class="c-list5__icon5"><i class="fa-solid fa-arrow-trend-down"></i></div>
+                        <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div> 
+                    </div>
+>>>>>>> 942d5116469cab35fccc4dacba7048ee110e3327
+
+                    <div class="c-list5__item c-list5__item6">
+                        <figure class="c-list5__img">
+                            <img src="/assets/img/process/sanpham.jpg" alt="">
+                        </figure>
+                        <span>Hoàn thiện và bảo trì</span>
+                        <span class="c-list5__step">Bước 6</span>
+                    </div>
                 </div>
             </div>
         </div>
+        
     </section>
     <section class="p-team">
         <div class="l-container">
@@ -675,6 +744,7 @@
     </section>
 
     <section class="p-article__sc1 clearfix">
+<<<<<<< HEAD
         <div class="l-container">
             <div class="p-article__content">
                 <div class="c-list2">
@@ -697,6 +767,23 @@
                             <p class="c-list2__txt">
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
                             </p>
+=======
+    <div class="l-container">
+        <h2 class="c-title1">Tin tức</h2>
+        <div class="p-article__content">
+            <div class="c-list2">
+                <div class="c-list2__item">
+                    <figure class="c-list2__img">
+                        <img src="https://placehold.jp/220x250.png" alt="">
+                    </figure>
+                    <div class="c-list2__info">
+                        <h3 class="c-list2__title">
+                            <a href="#">arcu dui vivamus arcu felis</a>
+                        </h3>
+                        <div class="c-list2__time">
+                            <i class="fa-solid fa-calendar-days"></i>
+                            <span>14 Tháng Ba, 2022</span>
+>>>>>>> 942d5116469cab35fccc4dacba7048ee110e3327
                         </div>
                     </div>
                     <div class="c-list2__item">
