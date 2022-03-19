@@ -2,6 +2,17 @@
 <?php get_header(); ?>
 
 <section class="p-article__sc1 clearfix">
+    <div class="c-page__heading">
+        <div class="c-page__title">
+            <div>
+                <h2 class="c-title1">Tin tức</h2>
+                <div class="c-page__url">
+                    <a href="/" class="c-page__link">Trang chủ</a>
+                    <a href="/lien-he">/ Tin tức</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="l-container">
         <div class="p-article__content">
             <div class="c-list2">
