@@ -67,7 +67,7 @@
 							<a href="#">Thanh toán</a>
 						</li>
 						<li class="c-header__child__item">
-							<a href="#">Liên hệ</a>
+							<a href="/lien-he">Liên hệ</a>
 						</li>
 					</ul>
 				</li>
