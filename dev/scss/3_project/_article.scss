@@ -49,11 +49,14 @@
 
 .p-article {
     &__sc1 {
-        
+        .c-page__heading {
+            margin-bottom: 50px;
+        }
     }
     &__content {
         width: 70%;
         float: left;
+        margin-top: 50px;
         @include max-w(870px) {
             width: 60%;
         }
