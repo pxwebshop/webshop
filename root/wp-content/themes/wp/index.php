@@ -495,7 +495,7 @@
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_1.png" alt="">
+                            <img src="/assets/img/process/img01.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B1. Tiếp nhận yêu cầu và TƯ VẤN</p>
                     </div>
@@ -503,7 +503,7 @@
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_2.png" alt="">
+                            <img src="/assets/img/process/img02.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B2. Phác thảo giao diện và báo giá</p>
                     </div>
@@ -511,58 +511,58 @@
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_3.png" alt="">
+                            <img src="/assets/img/process/img03.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B3. Tiến hành ký hợp đồng, thu phí 50% giá trị hợp đồng</p>
-                </div>
+                    </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_4.png" alt="">
+                            <img src="/assets/img/process/img04.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B4. Tiến hành thiết kế website và gửi demo tới khách hàng</p>
-                </div>
+                    </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_5.png" alt="">
+                            <img src="/assets/img/process/img05.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B5. Chốt giao diện website, thu 30% giá trị hợp đồng</p>
-                </div>
+                    </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_6.png" alt="">
+                            <img src="/assets/img/process/img06.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B6. Tiến hành code và thiết kế website</p>
-                </div>
+                    </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_7.png" alt="">
+                            <img src="/assets/img/process/img07.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B7. Thu 20% giá trị hợp đồng còn lại và thanh lý hợp đồng</p>
-                </div>
+                    </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_8.png" alt="">
+                            <img src="/assets/img/process/img08.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B8. Hỗ trợ, hướng dẫn up sản phẩm</p>
-                </div>
+                    </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_9.png" alt="">
+                            <img src="/assets/img/process/img09.png" alt="">
                         </figure>
                         <p class="c-list5__txt">B9. Bảo hành 12 tháng</p>
-                </div>
+                    </div>
                 </div>
             </div>
         </div>
