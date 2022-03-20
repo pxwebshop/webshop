@@ -471,11 +471,11 @@ list
             #{$root}__name, #{$root}__position {
                 color: $colorWhite;
             }
+            #{$root}__skill {
+                border-color: #FFFFFF;
+            }
         }
     }
-    // &__img img{
-    //     border-radius: 50%;
-    // }
     &__img  {
         width: 100%;
     }
@@ -498,6 +498,9 @@ list
     }
     &__skill {
         text-align: left;
+        border-top: 1px solid $colorGrey3;
+        padding-top: 10px;
+        border-style: dotted;
         li {
             display: inline;
             span {
