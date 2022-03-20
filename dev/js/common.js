@@ -13,18 +13,23 @@ var modal = document.getElementById('modal');
 
 btnOpenModal1.onclick = function() {
 	modal.style.display = "flex";
+	document.body.style.overflow = "hidden";
 }
 btnOpenModal2.onclick = function() {
 	modal.style.display = "flex";
+	document.body.style.overflow = "hidden";
 }
 btnOpenModal3.onclick = function() {
 	modal.style.display = "flex";
+	document.body.style.overflow = "hidden";
 }
 btnOpenModal4.onclick = function() {
 	modal.style.display = "flex";
+	document.body.style.overflow = "hidden";
 }
 btnExitModal.onclick = function() {
 	modal.style.display = "none";
+	document.body.style.overflow = "scroll";
 }
 //end: modal
 

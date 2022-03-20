@@ -30,6 +30,7 @@ footer
             @include sp {
                 border-radius: 5px;
                 margin-bottom: 10px;
+                font-size: 1.3rem;
             }
         }
         button {
@@ -51,6 +52,7 @@ footer
             @include sp {
                 position: relative;
                 border-radius: 5px;
+                font-size: 1.3rem;
             }
         }
     }

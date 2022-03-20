@@ -461,11 +461,14 @@ other
         border-radius: 10px;
         position: relative;
         font-size: 1.6rem;
+        @include sp {
+            font-size: 1.3rem;
+        }
     }
     .c-title2 {
         text-align: center;
         background-color: $colorBlue2;
-        padding: 16px;
+        padding: 16px 40px 16px 16px;
         border-radius: 5px;
         // box-shadow: 0 0 5px $colorBlack;
         color: $colorWhite;
@@ -485,6 +488,9 @@ other
             padding: 6px 16px;
             border-radius: 5px;
             border: transparent;
+            @include sp {
+                font-size: 1.3rem;
+            }
         }
     }
     &__btnExit {
