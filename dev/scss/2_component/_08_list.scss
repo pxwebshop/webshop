@@ -293,9 +293,14 @@ list
         margin-left: -15px;
     }
     &__item {
+        cursor: pointer;
         width: 33.33%;
         padding-left: 30px;
         margin-bottom: 20px;
+        transition: all 0.5s ease-in-out;
+        @include hover() {
+            transform: translateY(-5px);
+        }
         @include sp() {
             width: 50%;
             margin-bottom: 10px;
