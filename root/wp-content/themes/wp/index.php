@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
 <main class="p-index">
-    <div class="p-banner">
+    <div class="p-index__banner">
         <div class="c-banner">
             <div class="l-container">
                 <div class="c-banner__content">
@@ -14,7 +14,7 @@
             </div>
         </div>
     </div>
-    <section class="p-slider">
+    <section class="p-index__slider">
         <div class="l-container">
             <div class="c-list6">
                 <div class="c-list6__item">
@@ -189,7 +189,7 @@
         </div>
     </section>
 
-    <section class="p-service">
+    <section class="p-index__service">
         <div class="l-container">
             <h2 class="c-title1">Dịch Vụ</h2>
             <div class="c-list7">
@@ -242,10 +242,10 @@
         </div>
     </section>
 
-    <section class="p-quote">
+    <section class="p-index__quote">
         <div class="l-container">
             <h2 class="c-title1">Báo giá thiết kế website</h2>
-            <div class="p-quote__content">
+            <div class="p-index__quote__content">
                 <div class="c-list4">
                     <div class="c-list4__item">
                         <div class="c-list4__info c-list4__info--background1">
@@ -488,7 +488,7 @@
         </div>
     </section>
 
-    <section class="p-modal">
+    <section class="p-index__modal">
         <div class="c-modal" id="modal">
             <div class="l-container">
                 <div class="c-modal__content">
@@ -522,10 +522,10 @@
         </div>
     </section>
 
-    <section class="p-process u-mt40">
+    <section class="p-index__process u-mt40">
         <div class="l-container">
             <h2 class="c-title1">Quá Trình thực hiện</h2>
-            <div class="c-list5 u-mt20">
+            <div class="c-list5 u-mt10">
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
@@ -603,10 +603,10 @@
     </section>
 
 
-    <section class="p-team">
+    <section class="p-index__team">
         <div class="l-container">
             <h2 class="c-title1">Thành Viên</h2>
-            <div class="c-list8 u-mt20">
+            <div class="c-list8">
                 <div class="c-list8__wrap">
                     <div class="c-list8__item">
                         <figure class="c-list8__img">
@@ -638,6 +638,7 @@
                             <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
+                                <li><span>Database</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
                                 <li><span>Javascript</span></li>
@@ -648,6 +649,8 @@
                                 <li><span>Aws</span></li>
                                 <li><span>Docker</span></li>
                                 <li><span>IOS</span></li>
+                                <li><span>Server</span></li>
+                                <li><span>...</span></li>
                             </ul>
                             <div class="c-list8__social">
                                 <ul>
@@ -668,12 +671,16 @@
                             <span class="c-list8__name">Nguyễn Minh Công</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
+                                 <li><span>Laravel</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
                                 <li><span>Javascript</span></li>
                                 <li><span>.NET</span></li>
                                 <li><span>Android</span></li>
-                                <li><span>MySQL</span></li>
+                                <li><span>Database</span></li>
+                                <li><span>Bootstrap</span></li>
+                                <li><span>Reactjs</span></li>
+                                <li><span>...</span></li>
                             </ul>
                             <div class="c-list8__social">
                                 <ul>
@@ -710,10 +717,10 @@
         </div>
     </section>
 
-    <section class="p-article__sc1">
+    <section class="p-index__article">
         <div class="l-container clearfix">
             <h2 class="c-title1">Thành Viên</h2>
-            <div class="p-article__content">
+            <div class="p-index__article__content">
                 <div class="c-list2">
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
@@ -802,7 +809,7 @@
                 </div>
             </div>
 
-            <div class="p-article__articleOther">
+            <div class="p-index__article__articleOther">
                 <div class="c-block1">
                     <h3 class="c-block1__heading">Bài viết khác</h3>
                     <div class="c-block1__inner">
@@ -861,7 +868,6 @@
                                 <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>

@@ -20,6 +20,12 @@ footer
         position: relative;
         width: 50%;
         margin: 16px auto;
+        @include sp () {
+            width: 80%;
+        }
+        @include max-w(500px) {
+            width: 100%;
+        }
         input {
             width: 90%;
             font-size: 1.6rem;
@@ -30,6 +36,7 @@ footer
             @include sp {
                 border-radius: 5px;
                 margin-bottom: 10px;
+                font-size: 1.3rem;
             }
         }
         button {
@@ -49,8 +56,9 @@ footer
                 background-color: $colorRed;
             }
             @include sp {
-                position: relative;
+                // position: ab;
                 border-radius: 5px;
+                font-size: 1.3rem;
             }
         }
     }

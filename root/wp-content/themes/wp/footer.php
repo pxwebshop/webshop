@@ -5,7 +5,7 @@
 			<h3 class="c-title2">PXWebShop – Công ty thiết kế Website chuyên nghiệp</h3>
 			<p class="c-footer__txt">Nhanh tay đăng ký dùng thử web 7 ngày MIỄN PHÍ ngay hôm nay!</p>
 			<div class="c-footer__form">
-				<input type="text" placeholder="Nhập số điện thoại cần tư vấn">
+				<input type="text" placeholder="Nhập số điện thoại tư vấn" maxlength="15" minlength="5">
 				<button type="submit">Đăng ký</button>
 			</div>
 		</div>

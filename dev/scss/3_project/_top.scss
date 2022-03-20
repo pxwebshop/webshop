@@ -1,5 +1,31 @@
-.p-top {
-
+.p-index {
+    &__article {
+        &__content {
+            width: 65%;
+            float: left;
+            margin-top: 50px;
+            @include max-w(870px) {
+                width: 60%;
+            }
+            @include sp() {
+                width: 100%;
+                margin-top: 0px;
+            }
+        }
+        &__articleOther {
+            width: 35%;
+            padding: 0 0 0 20px;
+            float: right;
+            @include max-w(870px) {
+                width: 40%;
+            }
+            @include sp() {
+                width: 100%;
+                margin-top: 20px;
+                padding-left: 0;
+            }
+        }
+    }
 }
 
 
