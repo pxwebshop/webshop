@@ -462,7 +462,7 @@ list
         text-align: center;
         background-color: $colorLightGrey;
         cursor: pointer;
-        transition: background-color 0.5s linear;
+        transition: background-color 0.2s linear;
         &:hover {
             background-color: $colorGrey3;
             #{$root}__social ul {
@@ -522,6 +522,7 @@ list
         height: 100%;
         left: 0;
         top: 0;
+        background-color: rgba(255, 255, 255, 0.2);
         justify-content: center;
         align-items: center;
         display: none;
@@ -534,7 +535,7 @@ list
             margin-left: 1px;
             background-repeat: no-repeat;
             background-position: center center;
-            transition: background-color 0.5s linear;
+            transition: background-color 0.2s linear;
             &:hover {
                 background-color: $colorLightGrey;
             }
