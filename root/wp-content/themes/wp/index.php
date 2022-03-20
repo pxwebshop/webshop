@@ -580,7 +580,7 @@
                         </figure>
                         <div class="c-list8__content">
                             <span class="c-list8__name">Phonexay Namsavanh</span> <br>
-                            <span class="c-list8__position">CEO - Network Designer</span>
+                            <span class="c-list8__position">Network Designer</span>
                             <ul class="c-list8__skill">
                                 <li><span>Cisco</span></li>
                                 <li><span>...</span></li>
@@ -598,11 +598,11 @@
                 <div class="c-list8__wrap">
                     <div class="c-list8__item">
                         <figure class="c-list8__img">
-                            <img src="./assets/img/team/idol.jpg" alt="">
+                            <img src="./assets/img/team/dangquy.jpg" alt="">
                         </figure>
                         <div class="c-list8__content">
                             <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
-                            <span class="c-list8__position">CEO - Developer</span>
+                            <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
