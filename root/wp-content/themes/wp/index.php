@@ -6,10 +6,10 @@
         <div class="c-banner">
             <div class="l-container">
                 <div class="c-banner__content">
-                   <h3 class="c-banner__txt">Thiết kế website chuyên nghiệp, uy tín.</h3>
-                   <h2 class="c-banner__txt c-banner__txt--large">Dẫn đầu <span class="c-banner__color">công nghệ.</span></h2>
-                   <p class="c-banner__text">Pxwebshop đi đầu trong lĩnh vực phần mềm và website với hơn 10 năm<br/> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
-                   <a class="c-banner__btn" href="/gioi-thieu">Tìm hiểu thêm</a>
+                    <h3 class="c-banner__txt">Thiết kế website chuyên nghiệp, uy tín.</h3>
+                    <h2 class="c-banner__txt c-banner__txt--large">Dẫn đầu <span class="c-banner__color">công nghệ.</span></h2>
+                    <p class="c-banner__text">Pxwebshop đi đầu trong lĩnh vực phần mềm và website với hơn 10 năm<br /> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
+                    <a class="c-banner__btn" href="/gioi-thieu">Tìm hiểu thêm</a>
                 </div>
             </div>
         </div>
@@ -244,247 +244,281 @@
 
     <section class="p-quote">
         <div class="l-container">
-            <h2 class="c-title1">Báo giá thiết kế website</h3>
-                <div class="p-quote__content">
-                    <div class="c-list4">
-                        <div class="c-list4__item">
-                            <div class="c-list4__info c-list4__info--background1">
-                                <h3 class="c-list4__title">
-                                    Basic
-                                </h3>
-                                <span class="c-list4__price">X.XXX.XXX đ</span>
-                            </div>
-                            <div class="c-list4__content">
-                                <ul>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Tên miền .com</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Hosting: 1000MB</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Băng thông không giới hạn</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Chọn mẫu giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                        <span>Thiết kế logo</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                        <span>Email doanh nghiệp</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                        <span>Tùy chỉnh giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Thiết kế chuấn SEO</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo mật SSL</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo hành trọn đời</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bàn giao source code</span>
-                                    </li>
-                                </ul>
-                            </div>
-                            <button class="c-list4__btn">
-                                Đặt ngay
-                            </button>
+            <h2 class="c-title1">Báo giá thiết kế website</h2>
+            <div class="p-quote__content">
+                <div class="c-list4">
+                    <div class="c-list4__item">
+                        <div class="c-list4__info c-list4__info--background1">
+                            <h3 class="c-list4__title">
+                                Basic
+                            </h3>
+                            <span class="c-list4__price">X.XXX.XXX đ</span>
                         </div>
-                        <div class="c-list4__item">
-                            <div class="c-list4__info c-list4__info--background2">
-                                <h3 class="c-list4__title">
-                                    PLUS
-                                </h3>
-                                <span class="c-list4__price">X.XXX.XXX đ</span>
-                            </div>
-                            <div class="c-list4__content">
-                                <ul>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Tên miền .com</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Hosting: 1500MB</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Băng thông không giới hạn</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Chọn mẫu giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Thiết kế logo</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                        <span>Email doanh nghiệp</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Tùy chỉnh giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Thiết kế chuấn SEO</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo mật SSL</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo hành trọn đời</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bàn giao source code</span>
-                                    </li>
-                                </ul>
-                            </div>
-                            <button class="c-list4__btn">
-                                Đặt ngay
-                            </button>
+                        <div class="c-list4__content">
+                            <ul>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Tên miền .com</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Hosting: 1000MB</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Băng thông không giới hạn</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Chọn mẫu giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                    <span>Thiết kế logo</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                    <span>Email doanh nghiệp</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                    <span>Tùy chỉnh giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Thiết kế chuấn SEO</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo mật SSL</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo hành trọn đời</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bàn giao source code</span>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="c-list4__item">
-                            <div class="c-list4__info c-list4__info--background3">
-                                <h3 class="c-list4__title">
-                                    PRO
-                                </h3>
-                                <span class="c-list4__price">X.XXX.XXX đ</span>
-                            </div>
-                            <div class="c-list4__content">
-                                <ul>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Tên miền .com</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Hosting: 2000MB</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Băng thông không giới hạn</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Chọn mẫu giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Thiết kế logo</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Email doanh nghiệp</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Tùy chỉnh giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Thiết kế chuấn SEO</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo mật SSL</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo hành trọn đời</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bàn giao source code</span>
-                                    </li>
-                                </ul>
-                            </div>
-                            <button class="c-list4__btn">
-                                Đặt ngay
-                            </button>
+                        <button class="c-list4__btn" id="btnOpenModal1">
+                            Đặt ngay
+                        </button>
+                    </div>
+                    <div class="c-list4__item">
+                        <div class="c-list4__info c-list4__info--background2">
+                            <h3 class="c-list4__title">
+                                PLUS
+                            </h3>
+                            <span class="c-list4__price">X.XXX.XXX đ</span>
                         </div>
-                        <div class="c-list4__item">
-                            <div class="c-list4__info c-list4__info--background4">
-                                <h3 class="c-list4__title">
-                                    BUSINESS
-                                </h3>
-                                <span class="c-list4__price">X.XXX.XXX đ</span>
-                            </div>
-                            <div class="c-list4__content">
-                                <ul>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Tên miền .com</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Hosting: 4000MB</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Băng thông không giới hạn</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Chọn mẫu giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Thiết kế logo</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Email doanh nghiệp</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Tùy chỉnh giao diện</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Thiết kế chuấn SEO</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo mật SSL</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bảo hành trọn đời</span>
-                                    </li>
-                                    <li>
-                                        <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>Bàn giao source code</span>
-                                    </li>
-                                </ul>
-                            </div>
-                            <button class="c-list4__btn">
-                                Đặt ngay
-                            </button>
+                        <div class="c-list4__content">
+                            <ul>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Tên miền .com</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Hosting: 1500MB</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Băng thông không giới hạn</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Chọn mẫu giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Thiết kế logo</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                    <span>Email doanh nghiệp</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Tùy chỉnh giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Thiết kế chuấn SEO</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo mật SSL</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo hành trọn đời</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bàn giao source code</span>
+                                </li>
+                            </ul>
                         </div>
+                        <button class="c-list4__btn" id="btnOpenModal2">
+                            Đặt ngay
+                        </button>
+                    </div>
+                    <div class="c-list4__item">
+                        <div class="c-list4__info c-list4__info--background3">
+                            <h3 class="c-list4__title">
+                                PRO
+                            </h3>
+                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                        </div>
+                        <div class="c-list4__content">
+                            <ul>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Tên miền .com</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Hosting: 2000MB</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Băng thông không giới hạn</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Chọn mẫu giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Thiết kế logo</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Email doanh nghiệp</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Tùy chỉnh giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Thiết kế chuấn SEO</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo mật SSL</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo hành trọn đời</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bàn giao source code</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <button class="c-list4__btn" id="btnOpenModal3">
+                            Đặt ngay
+                        </button>
+                    </div>
+                    <div class="c-list4__item">
+                        <div class="c-list4__info c-list4__info--background4">
+                            <h3 class="c-list4__title">
+                                BUSINESS
+                            </h3>
+                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                        </div>
+                        <div class="c-list4__content">
+                            <ul>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Tên miền .com</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Hosting: 4000MB</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Băng thông không giới hạn</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Chọn mẫu giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Thiết kế logo</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Email doanh nghiệp</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Tùy chỉnh giao diện</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Thiết kế chuấn SEO</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo mật SSL</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bảo hành trọn đời</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-check c-list4__check"></i>
+                                    <span>Bàn giao source code</span>
+                                </li>
+                            </ul>
+                        </div>
+                        <button class="c-list4__btn" id="btnOpenModal4">
+                            Đặt ngay
+                        </button>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="p-modal">
+        <div class="c-modal" id="modal">
+            <div class="l-container">
+                <div class="c-modal__content">
+                    <h3 class="c-title2">Đăng ký tư vấn website</h3>
+                    <form action="#" class="c-modal__form">
+                        <div class="c-modal__group">
+                            <label for="name">Họ và tên</label>
+                            <input type="text" placeholder="Nhập họ và tên khách hàng" class="c-modal__name" id="name">
+                        </div>
+                        <div class="c-modal__group">
+                            <label for="phone">Số điện thoại</label>
+                            <input type="text" placeholder="Nhập số điện thoại khách hàng" class="c-modal__name" id="phone">
+                        </div>
+                        <div class="c-modal__group">
+                            <label for="email">Email</label>
+                            <input type="email" placeholder="Nhập email khách hàng" class="c-modal__name" id="email">
+                        </div>
+                        <div class="c-modal__group">
+                            <label for="content">Nội dung</label>
+                            <textarea rows="5" type="text" class="c-modal__name" id="content"> </textarea>
+                        </div>
+                        <div class="c-modal__btnSubmit">
+                            <button type="submit">Đăng ký</button>
+                        </div>
+                        <div class="c-modal__btnExit" >
+                            <button type="button" id="btnExitModal">X</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
         </div>
     </section>
 

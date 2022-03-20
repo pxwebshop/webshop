@@ -1,0 +1,36 @@
+<svg id="Group_7476" data-name="Group 7476" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="199.347" viewBox="0 0 1920 199.347">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.229" y1="0.939" x2="0.965" y2="-0.254" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#004dbc"/>
+      <stop offset="1" stop-color="#0af"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.031" y1="1" x2="0.806" y2="0.434" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0b76f6"/>
+      <stop offset="1" stop-color="#004fbd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.919" y1="0.984" x2="0.122" y2="0.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0b76f6"/>
+      <stop offset="1" stop-color="#11d2fd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="1.331" y1="1.472" x2="0.296" y2="0.262" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#006ac1"/>
+      <stop offset="1" stop-color="#0af"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.796" y1="1.826" x2="0.22" y2="0.056" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-7" x1="1.14" y1="-0.05" x2="-0.664" y2="1.238" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-8" x1="1.54" y1="1.825" x2="0.382" y2="0.349" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <rect id="Rectangle_2638" data-name="Rectangle 2638" width="1920" height="199" fill="url(#linear-gradient)"/>
+  <path id="Path_8198" data-name="Path 8198" d="M338.48,250H0V91.28c79.48-17.36,197.88-20.5,282.83,77.33C312.72,203.03,329.92,229.56,338.48,250Z" transform="translate(0 -50.653)" fill="url(#linear-gradient-2)"/>
+  <circle id="Ellipse_16094" data-name="Ellipse 16094" cx="27" cy="27" r="27" transform="translate(323.219 120.846)" opacity="0.5" fill="url(#linear-gradient-3)"/>
+  <circle id="Ellipse_16095" data-name="Ellipse 16095" cx="13.696" cy="13.696" r="13.696" transform="translate(1219.609 31.652)" fill="url(#linear-gradient-3)"/>
+  <path id="Path_8199" data-name="Path 8199" d="M135.785,42.959h-3.309V39.65a2,2,0,1,0-3.995,0v3.309h-3.309a2,2,0,1,0,0,3.995h3.309v3.309a2,2,0,1,0,3.995,0V46.954h3.309a2,2,0,1,0,0-3.995Z" transform="translate(0 -8.102)" fill="url(#linear-gradient-5)"/>
+  <path id="Path_8200" data-name="Path 8200" d="M66.816,196.675l-8.556-6.351,6.351-8.557a6.434,6.434,0,1,0-10.332-7.67l-6.351,8.556L39.372,176.3a6.434,6.434,0,1,0-7.67,10.332l8.556,6.351-6.352,8.556a6.434,6.434,0,1,0,10.332,7.67l6.351-8.556,8.557,6.352a6.434,6.434,0,0,0,7.67-10.332Z" transform="translate(0 -41.427)" fill="#0ecdf9"/>
+  <path id="Path_8201" data-name="Path 8201" d="M1892.039,151.165l-2.732-2.028,2.028-2.732a2.054,2.054,0,1,0-3.3-2.449l-2.028,2.732-2.732-2.029a2.054,2.054,0,1,0-2.449,3.3l2.731,2.029-2.028,2.732a2.054,2.054,0,1,0,3.3,2.449l2.029-2.732,2.731,2.028a2.055,2.055,0,1,0,2.45-3.3Z" transform="translate(0 -30.573)" fill="#0ecdf9"/>
+  <path id="Path_8202" data-name="Path 8202" d="M1480.5,250h-159.29c13-30.45,46.08-64,87.79-59.48C1444.412,194.36,1472.992,224.21,1480.5,250Z" transform="translate(0 -51)" fill="url(#linear-gradient-6)"/>
+  <path id="Path_8203" data-name="Path 8203" d="M1817.458,129.09c-39.47,4.15-50.21-33.71-120.91-51.66-67.68-17.18-104.82,5.59-122.09-16.43-7.53-9.6-10.72-27.02,2.63-61h342.9C1920.908,52.02,1868.888,123.68,1817.458,129.09Z" fill="url(#linear-gradient-7)"/>
+  <g id="Group_4913" data-name="Group 4913" transform="translate(1756.793 152.232)">
+    <path id="Path_8204" data-name="Path 8204" d="M1765.411,211.807a8.617,8.617,0,1,1,8.617-8.617A8.627,8.627,0,0,1,1765.411,211.807Zm0-13.581a4.964,4.964,0,1,0,4.963,4.964A4.969,4.969,0,0,0,1765.411,198.226Z" transform="translate(-1756.793 -194.573)" fill="url(#linear-gradient-8)"/>
+  </g>
+  <circle id="Ellipse_16096" data-name="Ellipse 16096" cx="13.696" cy="13.696" r="13.696" transform="translate(1730.275 61.327)" fill="url(#linear-gradient-3)"/>
+</svg>
