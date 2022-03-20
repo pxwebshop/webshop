@@ -210,6 +210,19 @@
                 </div>
             </div>
         </div>
+        <div class="c-paginate">
+            <div class="l-container">
+                <ul class="c-paginate__list">
+                    <li class="c-paginate__item"><a href="#">&laquo;</a></li>
+                    <li class="c-paginate__item c-paginate__active"><a href="#">1</a></li>
+                    <li class="c-paginate__item"><a href="#">2</a></li>
+                    <li class="c-paginate__item"><a href="#">3</a></li>
+                    <li class="c-paginate__item"><a href="#">...</a></li>
+                    <li class="c-paginate__item"><a href="#">99</a></li>
+                    <li class="c-paginate__item"><a href="#">&raquo;</a></li>
+                </ul>
+            </div>
+        </div>
     </section>
 </main>
 

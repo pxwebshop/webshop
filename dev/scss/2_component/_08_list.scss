@@ -514,12 +514,13 @@ list
         border-style: dotted;
         li {
             display: inline;
+            
             span {
                 font-size: 1.3rem;
                 padding: 5px;
                 border-radius: 5px;
                 background-color: $colorGrey3;
-                line-height: 2;
+                line-height: 2.3;
                 color: $colorWhite;
                 border: 1px solid $colorGrey;
             }
