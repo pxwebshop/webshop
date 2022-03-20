@@ -454,15 +454,13 @@ other
     background-color: rgba(1,1,1,0.5);
     &__content {
         background-color: $colorBlue1;
-        width: 500px;
+        max-width: 600px;
+        width: 100%;
         height: 100%;
         margin: 0 auto;
         border-radius: 10px;
         position: relative;
         font-size: 1.6rem;
-        @include sp {
-            width: 300px;
-        }
     }
     .c-title2 {
         text-align: center;
