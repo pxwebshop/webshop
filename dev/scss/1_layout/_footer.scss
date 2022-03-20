@@ -56,9 +56,9 @@ footer
                 background-color: $colorRed;
             }
             @include sp {
-                // position: ab;
                 border-radius: 5px;
                 font-size: 1.3rem;
+                padding: 16px 23px;
             }
         }
     }

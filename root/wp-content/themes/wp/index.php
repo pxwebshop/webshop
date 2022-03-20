@@ -522,7 +522,7 @@
         </div>
     </section>
 
-    <section class="p-index__process u-mt40">
+    <section class="p-index__process">
         <div class="l-container">
             <h2 class="c-title1">Quá Trình thực hiện</h2>
             <div class="c-list5 u-mt10">
@@ -719,7 +719,7 @@
 
     <section class="p-index__article">
         <div class="l-container clearfix">
-            <h2 class="c-title1">Thành Viên</h2>
+            <h2 class="c-title1">Tin tức</h2>
             <div class="p-index__article__content">
                 <div class="c-list2">
                     <div class="c-list2__item">
