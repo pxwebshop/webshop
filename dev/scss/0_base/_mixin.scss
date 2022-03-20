@@ -67,3 +67,10 @@
 @mixin shadow {
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
+
+
+@for $i from 1 through 20 {
+    .u-mt#{$i*5} {
+       margin-top: #{$i*5}px;
+    }
+}
