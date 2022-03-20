@@ -488,10 +488,10 @@
         </div>
     </section>
 
-    <section class="p-process">
+    <section class="p-process u-mt40">
         <div class="l-container">
             <h2 class="c-title1">Quá Trình thực hiện</h2>
-            <div class="c-list5">
+            <div class="c-list5 u-mt20">
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
@@ -572,7 +572,7 @@
     <section class="p-team">
         <div class="l-container">
             <h2 class="c-title1">Thành Viên</h2>
-            <div class="c-list8">
+            <div class="c-list8 u-mt20">
                 <div class="c-list8__wrap">
                     <div class="c-list8__item">
                         <figure class="c-list8__img">
