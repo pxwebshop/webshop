@@ -286,142 +286,49 @@ list
 
 .c-list5 {
     $root: &;
-    
+    margin-left: -30px;
+    display: flex;
+    flex-wrap: wrap;
+    @include sp() {
+        margin-left: -15px;
+    }
     &__item {
-        font-size: 1.6rem;
-        box-shadow: -5px 5px 5px $colorBlue1;
-        transition: all 0.5s ease-in-out;
-        font-weight: 500;
-        cursor: pointer;
-        @include max-w(470px) {
-            display: flex;
-            span {
-                padding-top: 15px;
-                margin-left: 5px;
-            }
-        }
-        &1 {
-            background-color: rgba(255,255,0, $alpha: 0.1);
-        }
-        &2 {
-            margin-left: 120px;
-            background-color: rgba(255,255,0, $alpha: 0.2);
-            @include max-w(1024px) {
-                margin-left: 60px;
-            }
-        }
-        &3 {
-            margin-left: 240px;
-            background-color: rgba(255,255,0, $alpha: 0.3);
-            @include max-w(1024px) {
-                margin-left: 120px;
-            }
-        }
-        &4 {
-            margin-left: 360px;
-            background-color: rgba(255,255,0, $alpha: 0.4);
-            @include max-w(1024px) {
-                margin-left: 180px;
-            }
-        }
-        &5 {
-            margin-left: 480px;
-            background-color: rgba(255,255,0, $alpha: 0.5);
-            @include max-w(1024px) {
-                margin-left: 240px;
-            }
-        }
-        &6 {
-            margin-left: 600px;
-            background-color: rgba(255,255,0, $alpha: 0.6);
-            @include max-w(1024px) {
-                margin-left: 300px;
-            }
-        }
-        &:hover {
-            background-color: rgba(255,255,0, $alpha: 1);
-            box-shadow: -5px 5px 5px $colorRed1;
-            opacity: 0.8;
-        }
-        @include sp {
-            margin-left: 0;
+        width: 33.33%;
+        padding-left: 30px;
+        margin-bottom: 20px;
+        @include sp() {
+            width: 50%;
+            margin-bottom: 10px;
+            padding-left: 15px;
         }
     }
-
+    &__wrap {
+        height: 100%;
+        padding: 15px;
+        display: flex;
+        border-radius: 5px 5px 5px 5px;
+        border-style: solid;
+        border-width: 1px 1px 1px 1px;
+        border-color: #FFFFFF;
+        box-shadow: 0px 6px 10px 0px #8aa0c5;
+        transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    }
     &__img {
-        display: inline-block;
-        width: 120px;
-        height: 60px;
-    }
-
-    &__step {
-        float: right;
-        line-height: 60px;
-        padding-right: 30px;
-        @include sp {
-            display: none;
-        }
-    }
-
-    &__icon {
-        width: 120px;
-        text-align: center;
-        font-size: 36px;
-        color: $colorRed;
-        @include sp {
-            margin-left: 0;
+        width: 25%;
+        margin-right: 10px;
+        flex-shrink: 0;
+        img {
             width: 100%;
+            height: 100%;
+            object-fit: contain;
         }
-        &1 {
-            margin-left: 120px;
-            @include sp {
-                display: none;
-            }
-            @include max-w(1024px) {
-                margin-left: 60px;
-            }
-        }
-        &2 {
-            margin-left: 240px;
-            @include sp {
-                display: none;
-            }
-            @include max-w(1024px) {
-                margin-left: 120px;
-            }
-        }
-        &3 {
-            margin-left: 360px;
-            @include sp {
-                display: none;
-            }
-            @include max-w(1024px) {
-                margin-left: 180px;
-            }
-        }
-        &4 {
-            margin-left: 480px;
-            @include sp {
-                display: none;
-            }
-            @include max-w(1024px) {
-                margin-left: 240px;
-            }
-        }
-        &5 {
-            margin-left: 600px;
-            @include sp {
-                display: none;
-            }
-            @include max-w(1024px) {
-                margin-left: 300px;
-            }
-        }
-        &Mobile1, &Mobile2, &Mobile3, &Mobile4, &Mobile5 {
-            display: none;
-            @include sp {
-                display: inline-block;
-            }
+    }
+    &__txt {
+        font-size: 1.5rem;
+        line-height: 1.5;
+        font-weight: 500;
+        @include sp() {
+            font-size: 1.3rem;
         }
     }
 }

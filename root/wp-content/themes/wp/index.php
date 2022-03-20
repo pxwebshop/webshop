@@ -489,83 +489,86 @@
     </section>
 
     <section class="p-process">
-        <div class="p-process__content">
-            <div class="l-container">
-                <h2 class="c-title1">Quá Trình thực hiện</h2>
-                <div class="c-list5">
-                    <div class="c-list5__item c-list5__item1">
+        <div class="l-container">
+            <h2 class="c-title1">Quá Trình thực hiện</h2>
+            <div class="c-list5">
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="/assets/img/process/thuthap.jpg" alt="">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_1.png" alt="">
                         </figure>
-                        <span>Thu thập thông tin thiết kế website</span>
-                        <span class="c-list5__step">Bước 1</span>
-                    </div>
-                    <div class="c-list5__icon">
-                        <div class="c-list5__icon1"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                        <div class="c-list5__iconMobile1"><i class="fa-solid fa-arrow-down"></i></div>
-                    </div>
-
-
-                    <div class="c-list5__item c-list5__item2">
-                        <figure class="c-list5__img">
-                            <img src="/assets/img/process/kehoach.jpg" alt="">
-                        </figure>
-                        <span>Lên kế hoạch thiết kế website</span>
-                        <span class="c-list5__step">Bước 2</span>
-                    </div>
-                    <div class="c-list5__icon">
-                        <div class="c-list5__icon2"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                        <div class="c-list5__iconMobile2"><i class="fa-solid fa-arrow-down"></i></div>
-                    </div>
-
-                    <div class="c-list5__item c-list5__item3">
-                        <figure class="c-list5__img">
-                            <img src="/assets/img/process/thietke.jpg" alt="">
-                        </figure>
-                        <span>Thiết kế website</span>
-                        <span class="c-list5__step">Bước 3</span>
-                    </div>
-                    <div class="c-list5__icon">
-                        <div class="c-list5__icon3"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                        <div class="c-list5__iconMobile3"><i class="fa-solid fa-arrow-down"></i></div>
-                    </div>
-
-                    <div class="c-list5__item c-list5__item4">
-                        <figure class="c-list5__img">
-                            <img src="/assets/img/process/thuchien.jpg" alt="">
-                        </figure>
-                        <span>Phát triển website</span>
-                        <span class="c-list5__step">Bước 4</span>
-                    </div>
-                    <div class="c-list5__icon">
-                        <div class="c-list5__icon4"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                        <div class="c-list5__iconMobile4"><i class="fa-solid fa-arrow-down"></i></div>
-                    </div>
-
-                    <div class="c-list5__item c-list5__item5">
-                        <figure class="c-list5__img">
-                            <img src="/assets/img/process/kiemthu.png" alt="">
-                        </figure>
-                        <span>Kiểm tra và chỉnh sửa</span>
-                        <span class="c-list5__step">Bước 5</span>
-                    </div>
-                    <div class="c-list5__icon">
-                        <div class="c-list5__icon5"><i class="fa-solid fa-arrow-trend-down"></i></div>
-                        <div class="c-list5__iconMobile5"><i class="fa-solid fa-arrow-down"></i></div>
-                    </div>
-
-                        <div class="c-list5__item c-list5__item6">
-                            <figure class="c-list5__img">
-                                <img src="/assets/img/process/sanpham.jpg" alt="">
-                            </figure>
-                            <span>Hoàn thiện và bảo trì</span>
-                            <span class="c-list5__step">Bước 6</span>
-                        </div>
+                        <p class="c-list5__txt">B1. Tiếp nhận yêu cầu và TƯ VẤN</p>
                     </div>
                 </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_2.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B2. Phác thảo giao diện và báo giá</p>
+                    </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_3.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B3. Tiến hành ký hợp đồng, thu phí 50% giá trị hợp đồng</p>
+                </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_4.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B4. Tiến hành thiết kế website và gửi demo tới khách hàng</p>
+                </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_5.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B5. Chốt giao diện website, thu 30% giá trị hợp đồng</p>
+                </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_6.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B6. Tiến hành code và thiết kế website</p>
+                </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_7.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B7. Thu 20% giá trị hợp đồng còn lại và thanh lý hợp đồng</p>
+                </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_8.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B8. Hỗ trợ, hướng dẫn up sản phẩm</p>
+                </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <img src="https://greensoft.vn/wp-content/uploads/2021/09/step_9.png" alt="">
+                        </figure>
+                        <p class="c-list5__txt">B9. Bảo hành 12 tháng</p>
+                </div>
+                </div>
             </div>
-        </div> 
+        </div>
     </section>
+
+
     <section class="p-team">
         <div class="l-container">
             <h2 class="c-title1">Thành Viên</h2>
