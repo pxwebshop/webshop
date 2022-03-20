@@ -701,6 +701,13 @@
                             <span class="c-list8__name">To Viananh</span> <br>
                             <span class="c-list8__position">Designer</span>
                             <ul class="c-list8__skill">
+                                <li><span>UI-UX</span></li>
+                                <li><span>Figma</span></li>
+                                <li><span>Adobe XD</span></li>
+                                <li><span>Illustrator</span></li>
+                                <li><span>Sketch</span></li>
+                                <li><span>Photoshop</span></li>
+                                <li><span>Ai</span></li>
                                 <li><span>...</span></li>
                             </ul>
                             <div class="c-list8__social">
