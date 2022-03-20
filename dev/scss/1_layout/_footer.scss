@@ -4,6 +4,7 @@ footer
 .c-footer {
     $root: &;
     color: $colorWhite;
+    margin-top: 30px;
     &__txt {
         font-size: 1.6rem;
         line-height: 2;
