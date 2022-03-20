@@ -1,3 +1,108 @@
 /*------------------------------------------------------------
 footer
 ------------------------------------------------------------*/
+.c-footer {
+    $root: &;
+    color: $colorWhite;
+    &__txt {
+        font-size: 1.6rem;
+        line-height: 2;
+    }
+    &__advise {
+        padding: 30px 0;
+        background: $colorBlue1 url(/assets/img/common/bg-footer.svg);
+        text-align: center;
+        .c-title2 {
+            text-align: center;
+        }
+    }
+    &__form {
+        position: relative;
+        width: 50%;
+        margin: 16px auto;
+        input {
+            width: 90%;
+            font-size: 1.6rem;
+            line-height: 1.5;
+            padding: 16px 0 16px 16px;
+            border-radius: 50px;
+            border: none;
+            @include sp {
+                border-radius: 5px;
+                margin-bottom: 10px;
+            }
+        }
+        button {
+            position: absolute;
+            right: 0;
+            top: 0;
+            font-size: 1.6rem;
+            line-height: 1.5;
+            padding: 16px 32px;
+            border-radius: 50px;
+            border: none;
+            font-weight: 600;
+            color: white;
+            cursor: pointer;
+            background-color: $colorBlue2;
+            &:hover {
+                background-color: $colorRed;
+            }
+            @include sp {
+                position: relative;
+                border-radius: 5px;
+            }
+        }
+    }
+    &__info {
+        background-color: $colorBlue6;
+        .c-title2 {
+            margin: 16px 0;
+            @include sp {
+                margin-bottom: 0;
+            }
+        }
+    }
+    &__content, &__branch, &__social {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: -30px;
+        padding: 30px 0;
+    }
+    &__about, &__service, &__quote, &__support {
+        width: 25%;
+        padding-left: 30px;
+        @include sp {
+            width: 50%;
+        }
+        @include max-w(468px){
+            width: 100%;
+        }
+    }
+    &__branch1, &__branch2, &__branch3 {
+        width: 33.33%;
+        padding-left: 30px;
+        @include sp {
+            width: 100%;
+        }
+    }
+    &__website, &__network {
+        width: 50%;
+        padding-left: 30px;
+        @include sp {
+            width: 100%;
+        }
+    }
+    &__network {
+        li {
+            display: inline;
+            font-size: 3.2rem;
+            margin-right: 16px;
+        }
+    }
+    &__copyRight {
+        padding: 30px;
+        text-align: center;
+        background: $colorBlue1 url(/assets/img/common/bg-footer.svg);
+    }
+}
