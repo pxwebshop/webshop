@@ -638,6 +638,7 @@
                             <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
+                                <li><span>Database</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
                                 <li><span>Javascript</span></li>
@@ -648,6 +649,8 @@
                                 <li><span>Aws</span></li>
                                 <li><span>Docker</span></li>
                                 <li><span>IOS</span></li>
+                                <li><span>Server</span></li>
+                                <li><span>...</span></li>
                             </ul>
                             <div class="c-list8__social">
                                 <ul>
@@ -668,12 +671,16 @@
                             <span class="c-list8__name">Nguyễn Minh Công</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
+                                 <li><span>Laravel</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
                                 <li><span>Javascript</span></li>
                                 <li><span>.NET</span></li>
                                 <li><span>Android</span></li>
-                                <li><span>MySQL</span></li>
+                                <li><span>Database</span></li>
+                                <li><span>Bootstrap</span></li>
+                                <li><span>Reactjs</span></li>
+                                <li><span>...</span></li>
                             </ul>
                             <div class="c-list8__social">
                                 <ul>
