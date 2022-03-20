@@ -1,5 +1,29 @@
 .p-news {
+    .c-page__heading {
+        margin-bottom: 30px;
+    }
     &__content {
-        margin-top: 50px;
+        width: 65%;
+        float: left;
+        @include max-w(870px) {
+            width: 60%;
+        }
+        @include sp() {
+            width: 100%;
+            margin-top: 0px;
+        }
+    }
+    &__articleOther {
+        width: 35%;
+        padding: 0 0 0 20px;
+        float: right;
+        @include max-w(870px) {
+            width: 40%;
+        }
+        @include sp() {
+            width: 100%;
+            padding-left: 0;
+            margin-bottom: 30px;
+        }
     }
 }
