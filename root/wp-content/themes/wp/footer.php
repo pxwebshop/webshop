@@ -94,17 +94,16 @@
 <!--End #wrapper-->
 
 <?php wp_footer(); ?>
-<script>
-	AOS.init();
-</script>
+
 <script src="/assets/js/jquery-3.6.0.min.js"></script>
 <script src="/assets/js/jquery-migrate-3.3.2.min.js"></script>
 <script src="/assets/js/footer-fixed.min.js"></script>
 
 <script src="/assets/js/slick/slick.min.js"></script>
 <script src="/assets/js/common.js"></script>
-
-<script src="/assets/js/wow.min.js"></script>
+<script>
+	AOS.init();
+</script>
 <script>
 	new WOW().init();
 </script>

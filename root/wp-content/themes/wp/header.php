@@ -15,8 +15,8 @@
 	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
-	<!-- <link rel="stylesheet" href="../node_modules/wow.js/css/libs/animate.css"> -->
-	<link rel="stylesheet" href="/assets/css/animate.css">
+	<link rel='stylesheet' href='https://cdn.rawgit.com/daneden/animate.css/v3.1.0/animate.min.css'>
+	<script src='https://cdn.rawgit.com/matthieua/WOW/1.0.1/dist/wow.min.js'></script>
 </head>
 
 <body>

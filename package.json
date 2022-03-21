@@ -73,7 +73,6 @@
 		"auto-prefixer": "^0.4.2",
 		"file-system": "^2.2.2",
 		"gulp-sass": "^4.0.2",
-		"jquery": "^3.6.0",
-		"wow.js": "^1.2.2"
+		"jquery": "^3.6.0"
 	}
 }
