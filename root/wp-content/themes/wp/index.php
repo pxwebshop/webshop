@@ -5,7 +5,7 @@
     <div class="p-index__banner">
         <div class="c-banner">
             <div class="l-container">
-                <div class="c-banner__content">
+                <div class="c-banner__content wow slideInRight" >
                     <h3 class="c-banner__txt">Thiết kế website chuyên nghiệp, uy tín.</h3>
                     <h2 class="c-banner__txt c-banner__txt--large">Dẫn đầu <span class="c-banner__color">công nghệ.</span></h2>
                     <p class="c-banner__text">Pxwebshop đi đầu trong lĩnh vực phần mềm và website với hơn 10 năm<br /> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
@@ -14,7 +14,7 @@
             </div>
         </div>
     </div>
-    <section class="p-index__slider">
+    <section class="p-index__slider" data-aos="fade-up">
         <div class="l-container">
             <div class="c-list6">
                 <div class="c-list6__item">
@@ -193,7 +193,7 @@
         <div class="l-container">
             <h2 class="c-title1">Dịch Vụ</h2>
             <div class="c-list7">
-                <div class="c-list7__item1">
+                <div class="c-list7__item1 wow slideInLeft">
                     <a href="#">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service1.png" alt="">
@@ -201,7 +201,7 @@
                         <span class="c-list7__txt">Thiết kế website</span>
                     </a>
                 </div>
-                <div class="c-list7__item1">
+                <div class="c-list7__item1 wow slideInRight">
                     <a href="#">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service2.png" alt="">
@@ -211,7 +211,7 @@
                         </div>
                     </a>
                 </div>
-                <div class="c-list7__item2">
+                <div class="c-list7__item2 wow slideInLeft">
                     <a href="#">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service3.jpg" alt="">
@@ -219,7 +219,7 @@
                         <span class="c-list7__txt">Thiết kế banner</span>
                     </a>
                 </div>
-                <div class="c-list7__item2">
+                <div class="c-list7__item2 wow bounceInUp">
                     <a href="#">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service4.jpg" alt="">
@@ -227,7 +227,7 @@
                         <span class="c-list7__txt">Network design</span>
                     </a>
                 </div>
-                <div class="c-list7__item2">
+                <div class="c-list7__item2 wow slideInRight">
                     <a href="#">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service5.png" alt="">
@@ -247,7 +247,7 @@
             <h2 class="c-title1">Báo giá thiết kế website</h2>
             <div class="p-index__quote__content">
                 <div class="c-list4">
-                    <div class="c-list4__item">
+                    <div class="c-list4__item wow slideInLeft">
                         <div class="c-list4__info c-list4__info--background1">
                             <h3 class="c-list4__title">
                                 Basic
@@ -306,7 +306,7 @@
                             Đặt ngay
                         </button>
                     </div>
-                    <div class="c-list4__item">
+                    <div class="c-list4__item wow slideInLeft">
                         <div class="c-list4__info c-list4__info--background2">
                             <h3 class="c-list4__title">
                                 PLUS
@@ -365,7 +365,7 @@
                             Đặt ngay
                         </button>
                     </div>
-                    <div class="c-list4__item">
+                    <div class="c-list4__item wow slideInRight">
                         <div class="c-list4__info c-list4__info--background3">
                             <h3 class="c-list4__title">
                                 PRO
@@ -424,7 +424,7 @@
                             Đặt ngay
                         </button>
                     </div>
-                    <div class="c-list4__item">
+                    <div class="c-list4__item wow slideInRight">
                         <div class="c-list4__info c-list4__info--background4">
                             <h3 class="c-list4__title">
                                 BUSINESS
@@ -525,7 +525,7 @@
     <section class="p-index__process">
         <div class="l-container">
             <h2 class="c-title1">Quá Trình thực hiện</h2>
-            <div class="c-list5 u-mt10">
+            <div class="c-list5 u-mt10 wow bounceInUp">
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
@@ -607,7 +607,7 @@
         <div class="l-container">
             <h2 class="c-title1">Thành Viên</h2>
             <div class="c-list8">
-                <div class="c-list8__wrap">
+                <div class="c-list8__wrap wow slideInLeft">
                     <div class="c-list8__item">
                         <figure class="c-list8__img">
                             <img src="./assets/img/team/phonexay.jpg" alt="">
@@ -629,7 +629,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="c-list8__wrap">
+                <div class="c-list8__wrap wow slideInLeft">
                     <div class="c-list8__item">
                         <figure class="c-list8__img">
                             <img src="./assets/img/team/dangquy.jpg" alt="">
@@ -662,7 +662,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="c-list8__wrap">
+                <div class="c-list8__wrap wow slideInRight">
                     <div class="c-list8__item">
                         <figure class="c-list8__img">
                             <img src="./assets/img/team/minchong.jpg" alt="">
@@ -692,7 +692,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="c-list8__wrap">
+                <div class="c-list8__wrap wow slideInRight">
                     <div class="c-list8__item">
                         <figure class="c-list8__img">
                             <img src="./assets/img/team/viananh.jpg" alt="">
@@ -727,7 +727,7 @@
     <section class="p-index__article">
         <div class="l-container clearfix">
             <h2 class="c-title1">Tin tức</h2>
-            <div class="p-index__article__content">
+            <div class="p-index__article__content wow bounceInUp">
                 <div class="c-list2">
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
@@ -816,7 +816,7 @@
                 </div>
             </div>
 
-            <div class="p-index__article__articleOther">
+            <div class="p-index__article__articleOther wow slideInRight">
                 <div class="c-block1">
                     <h3 class="c-block1__heading">Bài viết khác</h3>
                     <div class="c-block1__inner">

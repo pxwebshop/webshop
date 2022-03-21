@@ -80,13 +80,13 @@
 				</div>
 			</div>
 		</div>
-		
+
 	</div>
 	<div class="c-footer__copyRight">
-			<div class="l-container">
-				<p class="c-footer__txt">Copyright © 2022 PXWebShop. All rights reserved.</p>
-			</div>
+		<div class="l-container">
+			<p class="c-footer__txt">Copyright © 2022 PXWebShop. All rights reserved.</p>
 		</div>
+	</div>
 </footer>
 <!--End .footer-->
 
@@ -94,7 +94,9 @@
 <!--End #wrapper-->
 
 <?php wp_footer(); ?>
-
+<script>
+	AOS.init();
+</script>
 <script src="/assets/js/jquery-3.6.0.min.js"></script>
 <script src="/assets/js/jquery-migrate-3.3.2.min.js"></script>
 <script src="/assets/js/footer-fixed.min.js"></script>
@@ -102,6 +104,10 @@
 <script src="/assets/js/slick/slick.min.js"></script>
 <script src="/assets/js/common.js"></script>
 
+<script src="/assets/js/wow.min.js"></script>
+<script>
+	new WOW().init();
+</script>
 </body>
 
 </html>
