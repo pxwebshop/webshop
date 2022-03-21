@@ -1,6 +1,6 @@
 <?php global $page_id; ?>
 <footer class="c-footer" id="footer">
-	<div class="c-footer__advise">
+	<div class="c-footer__advise wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
 			<h3 class="c-title2">PXWebShop – Công ty thiết kế Website chuyên nghiệp</h3>
 			<p class="c-footer__txt">Nhanh tay đăng ký dùng thử web 7 ngày MIỄN PHÍ ngay hôm nay!</p>
@@ -10,7 +10,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="c-footer__info">
+	<div class="c-footer__info wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
 			<div class="c-footer__content">
 				<div class="c-footer__about">
