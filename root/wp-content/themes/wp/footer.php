@@ -107,9 +107,6 @@
 <script src="/assets/js/particles.js"></script>
 <script src="/assets/js/app.js"></script>
 
-<!-- <script src="/assets/js/particles.json"></script> -->
-
-
 <script>
 	AOS.init();
 </script>
