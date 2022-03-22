@@ -7,6 +7,9 @@
     @include sp() {
         font-size: 2.0rem;
     }
+    &--color1 {
+        color: $colorWhite;
+    }
 }
 .c-title2 {
     font-size: 1.8rem;

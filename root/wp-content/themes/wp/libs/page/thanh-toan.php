@@ -5,7 +5,7 @@
     <div class="c-page__heading">
         <div class="c-page__title">
             <div>
-                <h2 class="c-title1">Thanh toán</h2>
+                <h2 class="c-title1 c-title1--color1">Thanh toán</h2>
                 <div class="c-page__url">
                     <a href="/" class="c-page__link">Trang chủ</a>
                     <span>/ Thanh toán</span>
