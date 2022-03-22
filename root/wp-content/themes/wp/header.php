@@ -12,11 +12,11 @@
 	<link href="/assets/js/slick/slick.css" rel="stylesheet" media="all">
 	<link href="/assets/js/slick/slick-theme.css" rel="stylesheet" media="all">
 
-	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+	<link href="/assets/css/aos.css" rel="stylesheet">
+	<script src="/assets/js/aos.js"></script>
 
-	<link rel='stylesheet' href='https://cdn.rawgit.com/daneden/animate.css/v3.1.0/animate.min.css'>
-	<script src='https://cdn.rawgit.com/matthieua/WOW/1.0.1/dist/wow.min.js'></script>
+	<link rel='stylesheet' href='/assets/css/animate.min.css'>
+	<script src='/assets/js/wow.min.js'></script>
 </head>
 
 <body>
