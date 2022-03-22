@@ -4,6 +4,7 @@ footer
 .c-footer {
     $root: &;
     color: $colorWhite;
+    margin-top: 30px;
     &__txt {
         font-size: 1.6rem;
         line-height: 2;
@@ -56,9 +57,9 @@ footer
                 background-color: $colorRed;
             }
             @include sp {
-                // position: ab;
                 border-radius: 5px;
                 font-size: 1.3rem;
+                padding: 16px 23px;
             }
         }
     }

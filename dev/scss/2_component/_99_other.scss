@@ -532,3 +532,32 @@ other
     }
 }
 // end: modal
+
+//tintuc
+.c-paginate {
+    &__list {
+       text-align: center;
+       margin: 30px 0;
+    }
+    &__item {
+        text-align: center;
+        display: inline;
+        font-size: 1.8rem;
+        line-height: 1.5;
+        padding: 8px 16px;
+        cursor: pointer;
+        &:hover {
+            background-color: $colorBlue2;
+        }
+        @include sp {
+            font-size: 1.4rem;
+            padding: 6px 12px;
+        }
+    }
+    &__active {
+        color: $colorWhite;
+        background-color: $colorBlue6;
+        display: inline-block;
+    }
+}
+// end: tintuc

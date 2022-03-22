@@ -1,6 +1,6 @@
 <?php global $page_id; ?>
 <footer class="c-footer" id="footer">
-	<div class="c-footer__advise">
+	<div class="c-footer__advise wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
 			<h3 class="c-title2">PXWebShop – Công ty thiết kế Website chuyên nghiệp</h3>
 			<p class="c-footer__txt">Nhanh tay đăng ký dùng thử web 7 ngày MIỄN PHÍ ngay hôm nay!</p>
@@ -10,7 +10,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="c-footer__info">
+	<div class="c-footer__info wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
 			<div class="c-footer__content">
 				<div class="c-footer__about">
@@ -80,13 +80,13 @@
 				</div>
 			</div>
 		</div>
-		
+
 	</div>
 	<div class="c-footer__copyRight">
-			<div class="l-container">
-				<p class="c-footer__txt">Copyright © 2022 PXWebShop. All rights reserved.</p>
-			</div>
+		<div class="l-container">
+			<p class="c-footer__txt">Copyright © 2022 PXWebShop. All rights reserved.</p>
 		</div>
+	</div>
 </footer>
 <!--End .footer-->
 
@@ -101,7 +101,12 @@
 
 <script src="/assets/js/slick/slick.min.js"></script>
 <script src="/assets/js/common.js"></script>
-
+<script>
+	AOS.init();
+</script>
+<script>
+	new WOW().init();
+</script>
 </body>
 
 </html>

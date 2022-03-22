@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
 <main class="p-news">
-    <section class="p-article__sc1">
+    <section class="p-news__sc1">
         <div class="c-page__heading">
             <div class="c-page__title">
                 <div>
@@ -15,7 +15,7 @@
             </div>
         </div>
         <div class="l-container clearfix">
-            <div class="p-article__content">
+            <div class="p-news__content">
                 <div class="c-list2">
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
@@ -146,7 +146,7 @@
                 </div>
             </div>
 
-            <div class="p-article__articleOther">
+            <div class="p-news__articleOther">
                 <div class="c-block1">
                     <h3 class="c-block1__heading">Bài viết khác</h3>
                     <div class="c-block1__inner">
@@ -208,6 +208,19 @@
 
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="c-paginate">
+            <div class="l-container">
+                <ul class="c-paginate__list">
+                    <li class="c-paginate__item"><a href="#">&laquo;</a></li>
+                    <li class="c-paginate__item c-paginate__active"><a href="#">1</a></li>
+                    <li class="c-paginate__item"><a href="#">2</a></li>
+                    <li class="c-paginate__item"><a href="#">3</a></li>
+                    <li class="c-paginate__item"><a href="#">...</a></li>
+                    <li class="c-paginate__item"><a href="#">99</a></li>
+                    <li class="c-paginate__item"><a href="#">&raquo;</a></li>
+                </ul>
             </div>
         </div>
     </section>
