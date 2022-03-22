@@ -75,7 +75,7 @@
 								<a href="/thanh-toan">Thanh toán</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/lien-he">Liên hệ</a>
+								<a href="/lien-he">Liên Hệ lien he</a>
 							</li>
 						</ul>
 					</li>
