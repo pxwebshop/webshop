@@ -112,13 +112,13 @@ other
         clear: both;
     }
 }
-
 .c-page {
     &__heading {
         background: url(../img/common/contact-background.jpg) no-repeat center center;
         background-size: 100%;
         height: 300px;
         width: 100%;
+        position: relative;
         @include sp {
             background-size: auto;
         }
@@ -126,6 +126,10 @@ other
             text-transform: none;
             font-weight: 600;
             text-align: center;
+        }
+        .particles-js-canvas-el {
+            position: absolute;
+            top: 0;
         }
     }
     &__title {

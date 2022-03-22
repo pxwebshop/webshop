@@ -101,12 +101,22 @@
 
 <script src="/assets/js/slick/slick.min.js"></script>
 <script src="/assets/js/common.js"></script>
+
+
+<!-- scripts -->
+<script src="/assets/js/particles.js"></script>
+<script src="/assets/js/app.js"></script>
+
+<!-- <script src="/assets/js/particles.json"></script> -->
+
+
 <script>
 	AOS.init();
 </script>
 <script>
 	new WOW().init();
 </script>
+
 </body>
 
 </html>
