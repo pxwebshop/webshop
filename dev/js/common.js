@@ -38,9 +38,9 @@ btnExitModal.onclick = function () {
 $(document).ready(function () {
 	// menu
 	$(".c-header__item").click(function() {
-		if($(".c-header__itemSeach").hasClass("is-search")) {
+		if($(".is-searchMenu").hasClass("is-search")) {
+			$(".is-searchMenu").removeClass("is-search");
 			$(".c-header__search").hide();
-			$(this).removeClass("is-search");
 		}
 
 		if($(this).hasClass("is-click")) {
@@ -59,13 +59,13 @@ $(document).ready(function () {
 		}
 	});
 
-	$(".c-header__itemSeach").click(function() {
+	$(".is-searchMenu").click(function() {
 		$(".c-header__item").each(function() {
 			$(this).children().next().hide();
 			$(this).removeClass("is-click");
 		});
 
-		$(this).children().next().slideToggle();
+		$(this).next().slideToggle();
 		if ($(this).hasClass("is-search")) {
 			$(this).removeClass("is-search");
 		} else {

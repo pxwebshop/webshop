@@ -80,7 +80,7 @@
 						</ul>
 					</li>
 					<li class="c-header__itemSeach">
-						<i class="fa-solid fa-magnifying-glass"></i>
+						<i class="fa-solid fa-magnifying-glass is-searchMenu"></i>
 						<div class="c-header__search">
 							<form action="" class="c-header__form">
 								<input type="text" placeholder="Nhập thông tin cần tìm">
