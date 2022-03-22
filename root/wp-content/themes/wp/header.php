@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>webshop</title>
 	<link rel="stylesheet" href="/assets/css/style.css">
-	<script src="https://kit.fontawesome.com/7690835cdf.js" crossorigin="anonymous"></script>
+	<script src="/assets/js/fontawesome.js" crossorigin="anonymous"></script>
 
 	<link href="/assets/js/slick/slick.css" rel="stylesheet" media="all">
 	<link href="/assets/js/slick/slick-theme.css" rel="stylesheet" media="all">
