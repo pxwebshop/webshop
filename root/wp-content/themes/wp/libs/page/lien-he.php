@@ -3,7 +3,7 @@
 
 <main class="p-contact">
     <section class="p-contact__sc1">
-        <div class="c-page__heading">
+        <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
                     <h2 class="c-title1 c-title1--color1">Liên hệ</h2>

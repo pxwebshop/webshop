@@ -2,7 +2,7 @@
 <?php get_header(); ?>
 
 <main class="p-intro">
-    <div class="c-page__heading">
+    <div class="c-page__heading" id="particles-js">
         <div class="c-page__title">
             <div>
                 <h2 class="c-title1 c-title1--color1">Về chúng tôi</h2>
