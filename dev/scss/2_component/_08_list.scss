@@ -253,6 +253,9 @@ list
             border-bottom: 1px solid $colorLightGrey;
             line-height: 1.5;
             padding: 10px 5px;
+            @include sp() {
+                font-size: 1.4rem;
+            }
         }
         #{$root}__check {
             color: $colorGreen2;
@@ -264,7 +267,7 @@ list
     &__btn {
         width: 100%;
         padding: 20px;
-        font-size: 16px;
+        font-size: 1.6rem;
         text-transform: uppercase;
         background-color: $colorBlue2;
         font-weight: 600;
@@ -275,6 +278,9 @@ list
         border-bottom-right-radius: 3px;
         cursor: pointer;
         @include roboto();
+        @include sp() {
+            font-size: 1.5rem;
+        }
         &:hover {
             border: 1px solid $colorRed;
             box-shadow: 0 0 5px $colorLightGrey;

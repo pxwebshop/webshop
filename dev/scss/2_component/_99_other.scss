@@ -416,11 +416,19 @@ other
     &__btn {
         background-color: $colorPurple;
         color: #fff;
-        padding: 20px 30px;
+        padding: 15px 30px;
         display: inline-block;
         margin-top: 20px;
         font-size: 1.7rem;
         font-weight: 500;
+        background: linear-gradient(to right, rgb(26, 73, 204) 50%, rgb(104, 20, 90) 50%);
+        background-size: 200% 100%;
+        background-position: right bottom;
+        transition: all .5s ease-out;
+        border-radius: 5px;
+        &:hover {
+            background-position: left bottom;
+        }
         @include sp() {
             font-size: 1.4rem;
             padding: 15px 20px;

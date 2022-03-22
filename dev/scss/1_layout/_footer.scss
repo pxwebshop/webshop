@@ -112,6 +112,7 @@ footer
     &__copyRight {
         padding: 30px;
         text-align: center;
-        background: $colorBlue1 url(/assets/img/common/bg-footer.svg);
+        background: url(/assets/img/common/bg-footer.svg);
+        background-size: cover; 
     }
 }

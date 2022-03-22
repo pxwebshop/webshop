@@ -1,14 +1,12 @@
-.c-title0 {
-    font-size: 3.2rem;
-    line-height: 2;
-    font-weight: bold;
-    text-transform: uppercase;
-}
 .c-title1 {
     font-size: 2.8rem;
     line-height: 1.5;
     font-weight: bold;
     text-transform: uppercase;
+    color: $colorPurple1;
+    @include sp() {
+        font-size: 2.0rem;
+    }
 }
 .c-title2 {
     font-size: 1.8rem;
