@@ -40,15 +40,6 @@
 				<a href="/" class="c-header__logo">
 					<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
 				</a>
-				<div class="c-header__search">
-					<div class="c-header__formSearch">
-						<form action="" class="c-header__form">
-							<i class="fa-solid fa-magnifying-glass"></i>
-							<input type="text" placeholder="Nhập thông tin cần tìm">
-							<button type="submit" class="c-hader__btnSearch">Tìm kiếm</button>
-						</form>
-					</div>
-				</div>
 				<ul class="c-header__menu">
 					<li class="c-header__item">
 						<a class="c-header__link" href="/">Trang chủ</a>
@@ -88,11 +79,22 @@
 							</li>
 						</ul>
 					</li>
+					<li class="c-header__itemSeach">
+						<i class="fa-solid fa-magnifying-glass"></i>
+						<div class="c-header__search">
+							<form action="" class="c-header__form">
+								<input type="text" placeholder="Nhập thông tin cần tìm">
+								<button class="c-header__btnSearch" type="submit">
+									<i class="fa-solid fa-magnifying-glass"></i>
+								</button>
+							</form>
+						</div>
+					</li>
 				</ul>
 			</div>
 		</div>
 
-		<nav class="sp-only">
+		<!-- <nav class="sp-only">
 			<div class="c-header1">
 				<div class="c-header1__heading">
 					<div class="c-header1__logo">
@@ -175,6 +177,6 @@
 			</div>
 
 
-		</nav>
+		</nav> -->
 	</header>
 	<!--▲ Header ▲-->

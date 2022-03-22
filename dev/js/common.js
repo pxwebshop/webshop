@@ -1,5 +1,4 @@
 "use strict";
-console.log('abc');
 
 //modal
 var btnOpenModal1 = document.getElementById('btnOpenModal1');
@@ -11,6 +10,8 @@ var btnExitModal = document.getElementById('btnExitModal');
 
 var modal = document.getElementById('modal');
 
+// trong page ko tìm được document.getElementById('btnOpenModal1');
+// sẽ dẫn đến bị lỗi. Null ko thể tìm thấy. Em debug để phát triền kĩ năng nha
 btnOpenModal1.onclick = function () {
 	modal.style.display = "flex";
 	document.body.style.overflow = "hidden";
@@ -33,62 +34,45 @@ btnExitModal.onclick = function () {
 }
 //end: modal
 
-// menu mobile
-var menuBtn = document.getElementById('menuMobile');
-var exitBtn = document.getElementById('exitMenu');
-var menu = document.getElementsByClassName('c-header1__menu');
-var menuChild = document.getElementsByClassName('c-header1__item');
-console.log(menuChild);
-var menuItemChild = document.getElementsByClassName('c-header1__child');
-menuBtn.onclick = function () {
-	menu[0].style.display = 'block';
-	document.body.style.overflow = "hidden";
-}
-exitBtn.onclick = function () {
-	menu[0].style.display = 'none';
-	document.body.style.overflow = "scroll";
-}
-// for (var i = 0; i < menuChild.length; i++) {
-// 	menuChild[i].onclick = function() {
-// 		console.log(i);
-// 		menuItemChild[i].style.display = 'block';
-// 	}
-//  }
-
-// menuChild[1].addEventListener = function() {
-// 	menuItemChild[0].style.display = 'block';
-// }
-var display = 'none';
-menuChild[1].addEventListener('click', function (e) {
-	if (display === 'block') {
-		menuItemChild[0].style.display = 'none';
-		display = 'none';    // set current color
-
-	} else {
-		menuItemChild[0].style.display = 'block';
-		display = 'block';
-
-	}
-}, false);
-menuChild[3].addEventListener('click', function (e) {
-	if (display === 'block') {
-		menuItemChild[1].style.display = 'none';
-		display = 'none';    // set current color
-
-	} else {
-		menuItemChild[1].style.display = 'block';
-		display = 'block';
-
-	}
-}, false);
-
-// end: menu mobile
 
 $(document).ready(function () {
-	//console.log( "document loaded" );
-});
+	// menu
+	$(".c-header__item").click(function() {
+		if($(".c-header__itemSeach").hasClass("is-search")) {
+			$(".c-header__search").hide();
+			$(this).removeClass("is-search");
+		}
 
-$(document).ready(function () {
+		if($(this).hasClass("is-click")) {
+			$(this).children().next().slideToggle();
+			$(this).removeClass("is-click");
+		} else {
+			$(".c-header__item").each(function() {
+				if($(this).hasClass("is-click")) {
+					$(this).children().next().hide();
+					$(this).removeClass("is-click");	
+				}
+			});
+
+			$(this).children().next().slideToggle();
+			$(this).addClass("is-click");
+		}
+	});
+
+	$(".c-header__itemSeach").click(function() {
+		$(".c-header__item").each(function() {
+			$(this).children().next().hide();
+			$(this).removeClass("is-click");
+		});
+
+		$(this).children().next().slideToggle();
+		if ($(this).hasClass("is-search")) {
+			$(this).removeClass("is-search");
+		} else {
+			$(this).addClass("is-search");
+		}
+	});
+
 	$(".c-list6").slick({
 		slidesToShow: 8,
 		dots: true,

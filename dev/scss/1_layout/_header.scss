@@ -34,21 +34,21 @@ header
             height: 100%;
             display: flex;
             align-items: center;
-            &:hover {
-                #{$root}__child {
-                    display: block;
-                }
-            }
+            // &:hover {
+            //     #{$root}__child {
+            //         display: block;
+            //     }
+            // }
         }
         &__abouts {
             height: 100%;
             display: flex;
             align-items: center;
-            &:hover {
-                #{$root}__child {
-                    display: block;
-                }
-            }
+            // &:hover {
+            //     #{$root}__child {
+            //         display: block;
+            //     }
+            // }
         }
         &:hover {
             color: $colorRed;
@@ -57,6 +57,16 @@ header
                 color: black;
             }
         }
+    }
+    &__itemSeach {
+        font-size: 1.7rem;
+        font-weight: 400;
+        line-height: 1.5;
+        font-weight: 600;
+        padding: 0 10px;
+        text-transform: capitalize;
+        position: relative;
+        cursor: pointer;
     }
     &__link {
         display: inline-block;
@@ -69,7 +79,7 @@ header
         top: 70px;
         min-width: 310px;
         padding: 10px;
-        transition: all 0.5s;
+        // transition: all 0.5s;
         display: none;
         border-radius: 3px;
         background-color: $colorBlue5;
@@ -129,51 +139,26 @@ header
         font-weight: 600;
         font-size: 1.7rem;
     }
-
     &__search {
-        height: 80px;
-        line-height: 80px;
-        @include max-w(550px) {
-            display: none;
-        }
+        display: none;
+        position: absolute;
+        top: 40px;
+        right: 7px;
+        z-index: 999;
     }
     &__form {
-        color: $colorGrey;
-        position: relative;
-
-        @include max-w(550px) {
-            text-align: center;
-            padding: 16px 0;
-        }
-
-        i {
-            position: absolute;
-            top: 30px;
-            left: 15px;
-        }
+        display: flex;
         input {
-            padding: 6px 0 6px 32px;
-            font-size: 1.6rem;
-            line-height: 1.5;
-            
-            border: transparent;
-            box-shadow: 0 0 1px $colorBlack;
-            @include max-w(1024px) {
-                width: 456px;
-            }
-            @include sp {
-                width: 50%;
-            }
+            padding: 0 15px;
+            border: 1px solid $colorLightGrey;
+            font-size: 1.5rem;
+            font-weight: 500;
         }
-        button {
-            padding: 6px 16px;
-            font-size: 1.6rem;
-            line-height: 1.5;
-            background-color: $colorBlue5;
-            border: transparent;
-            font-weight: 600;
-            box-shadow: 0 0 1px $colorBlack;
-        }
+    }
+    &__btnSearch {
+        border: 1px solid $colorLightGrey;
+        padding: 8px 20px;
+        font-size: 1.8rem;
     }
 }
 .c-header1 {
