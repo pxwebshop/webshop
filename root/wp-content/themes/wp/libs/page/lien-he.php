@@ -6,7 +6,7 @@
         <div class="c-page__heading">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1">Liên hệ</h2>
+                    <h2 class="c-title1 c-title1--color1">Liên hệ</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">Trang chủ</a>
                         <a href="/lien-he">/ Liên hệ</a>
@@ -22,19 +22,19 @@
                 <div class="c-contact__info">
                     <div class="c-contact__phone">
                         <i class="fa-solid fa-phone"></i>
-                        <span>0361.0214.01265</span>
+                        <span class="c-contact__txt">0361.0214.01265</span>
                     </div>
                     <div class="c-contact__email">
                         <i class="fa-solid fa-envelope"></i>
-                        <span>pxwebshop@gmail.com</span>
+                        <span class="c-contact__txt">pxwebshop@gmail.com</span>
                     </div>
                     <div class="c-contact__address1">
                         <i class="fa-solid fa-location-dot"></i>
-                        <span>..., thành phố Hồ Chí Minh, Việt Nam</span>
+                        <span class="c-contact__txt">..., thành phố Hồ Chí Minh, Việt Nam</span>
                     </div>
                     <div class="c-contact__address2">
                         <i class="fa-solid fa-location-dot"></i>
-                        <span>..., Vientiane, Lào</span>
+                        <span class="c-contact__txt">..., Vientiane, Lào</span>
                     </div>
                 </div>
                 <div class="c-contact__form">

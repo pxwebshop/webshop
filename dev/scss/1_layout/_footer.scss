@@ -4,7 +4,6 @@ footer
 .c-footer {
     $root: &;
     color: $colorWhite;
-    margin-top: 30px;
     &__txt {
         font-size: 1.6rem;
         line-height: 2;
@@ -112,6 +111,7 @@ footer
     &__copyRight {
         padding: 30px;
         text-align: center;
-        background: $colorBlue1 url(/assets/img/common/bg-footer.svg);
+        background: url(/assets/img/common/bg-footer.svg);
+        background-size: cover; 
     }
 }
