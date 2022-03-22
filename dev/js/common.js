@@ -12,26 +12,38 @@ var modal = document.getElementById('modal');
 
 // trong page ko tìm được document.getElementById('btnOpenModal1');
 // sẽ dẫn đến bị lỗi. Null ko thể tìm thấy. Em debug để phát triền kĩ năng nha
-btnOpenModal1.onclick = function () {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+if(btnOpenModal1 !== null) {
+	btnOpenModal1.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnOpenModal2.onclick = function () {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+if(btnOpenModal2 !== null){
+	btnOpenModal2.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnOpenModal3.onclick = function () {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+
+if(btnOpenModal3 !== null){
+	btnOpenModal3.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnOpenModal4.onclick = function () {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+if(btnOpenModal4 !== null){
+	btnOpenModal4.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnExitModal.onclick = function () {
-	modal.style.display = "none";
-	document.body.style.overflow = "scroll";
+if(btnExitModal !== null) {
+	btnExitModal.onclick = function () {
+		modal.style.display = "none";
+		document.body.style.overflow = "scroll";
+	}
 }
+
 //end: modal
 
 
