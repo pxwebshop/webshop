@@ -22,19 +22,19 @@
                 <div class="c-contact__info">
                     <div class="c-contact__phone">
                         <i class="fa-solid fa-phone"></i>
-                        <span>0361.0214.01265</span>
+                        <span class="c-contact__txt">0361.0214.01265</span>
                     </div>
                     <div class="c-contact__email">
                         <i class="fa-solid fa-envelope"></i>
-                        <span>pxwebshop@gmail.com</span>
+                        <span class="c-contact__txt">pxwebshop@gmail.com</span>
                     </div>
                     <div class="c-contact__address1">
                         <i class="fa-solid fa-location-dot"></i>
-                        <span>..., thành phố Hồ Chí Minh, Việt Nam</span>
+                        <span class="c-contact__txt">..., thành phố Hồ Chí Minh, Việt Nam</span>
                     </div>
                     <div class="c-contact__address2">
                         <i class="fa-solid fa-location-dot"></i>
-                        <span>..., Vientiane, Lào</span>
+                        <span class="c-contact__txt">..., Vientiane, Lào</span>
                     </div>
                 </div>
                 <div class="c-contact__form">
