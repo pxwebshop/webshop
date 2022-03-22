@@ -40,6 +40,15 @@
 				<a href="/" class="c-header__logo">
 					<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
 				</a>
+				<div class="c-header__search">
+					<div class="c-header__formSearch">
+						<form action="" class="c-header__form">
+							<i class="fa-solid fa-magnifying-glass"></i>
+							<input type="text" placeholder="Nhập thông tin cần tìm">
+							<button type="submit" class="c-hader__btnSearch">Tìm kiếm</button>
+						</form>
+					</div>
+				</div>
 				<ul class="c-header__menu">
 					<li class="c-header__item">
 						<a class="c-header__link" href="/">Trang chủ</a>
@@ -84,46 +93,88 @@
 		</div>
 
 		<nav class="sp-only">
-			<!-- <ul class="c-header1__menu">
-			<li class="c-header1__item">
-				<a class="c-header1__link" href="#">Trang chủ</a>
-			</li>
-			<li class="c-header1__item c-header1__item__services">
-				<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
-				<ul class="c-header1__child">
-					<li class="c-header1__child__item">
-						<a href="#">Thiết kế website</a>
-					</li>
-					<li class="c-header1__child__item">
-						<a href="#">Viết phần mềm theo yêu cầu</a>
-					</li>
-					<li class="c-header1__child__item">
-						<a href="#">Thiết kế banner</a>
-					</li>
-					<li class="c-header1__child__item">
-						<a href="#">Thiết kế website</a>
-					</li>
-				</ul>
-			</li>
-			<li class="c-header1__item">
-				<a class="c-header1__link" href="/tin-tuc">Tin tức</a>
-			</li>
-			<li class="c-header1__item c-header1__item__abouts">
-				<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
+			<div class="c-header1">
+				<div class="c-header1__heading">
+					<div class="c-header1__logo">
+						<a href="/" class="c-header__logo">
+							<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
+						</a>
+					</div>
 
-				<ul class="c-header1__child">
-					<li class="c-header1__child__item">
-						<a href="#">Giới thiệu</a>
-					</li>
-					<li class="c-header1__child__item">
-						<a href="/thanh-toan">Thanh toán</a>
-					</li>
-					<li class="c-header1__child__item">
-						<a href="/lien-he">Liên hệ</a>
-					</li>
-				</ul>
-			</li>
-		</ul> -->
+					<div class="c-header__search">
+						<div class="c-header__formSearch">
+							<form action="" class="c-header__form">
+								<i class="fa-solid fa-magnifying-glass"></i>
+								<input type="text" placeholder="Nhập thông tin cần tìm">
+								<button type="submit" class="c-hader__btnSearch">Tìm kiếm</button>
+							</form>
+						</div>
+					</div>
+					<div class="c-header1__menuBar" id="menuMobile">
+						<i class="fa-solid fa-bars"></i>
+					</div>
+				</div>
+
+				<div class="c-header1__search">
+					<div class="c-header__formSearch">
+						<form action="" class="c-header__form">
+							<input type="text" placeholder="Nhập thông tin cần tìm">
+							<button type="submit" class="c-hader__btnSearch">Tìm kiếm</button>
+						</form>
+					</div>
+				</div>
+
+				<div class="c-header1__menu">
+					<ul class="c-header1__list">
+						<a href="/" class="c-header__logo">
+							<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
+						</a>
+						<li class="c-header1__item">
+							<a class="c-header1__link" href="/">Trang chủ</a>
+						</li>
+						<li class="c-header1__item c-header1__item__services">
+							<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
+							<ul class="c-header1__child">
+								<li class="c-header1__child__item">
+									<a href="#">Thiết kế website</a>
+								</li>
+								<li class="c-header1__child__item">
+									<a href="#">Viết phần mềm theo yêu cầu</a>
+								</li>
+								<li class="c-header1__child__item">
+									<a href="#">Thiết kế banner</a>
+								</li>
+								<li class="c-header1__child__item">
+									<a href="#">Thiết kế website</a>
+								</li>
+							</ul>
+						</li>
+						<li class="c-header1__item">
+							<a class="c-header1__link" href="/tin-tuc">Tin tức</a>
+						</li>
+						<li class="c-header1__item c-header1__item__abouts">
+							<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
+
+							<ul class="c-header1__child">
+								<li class="c-header1__child__item">
+									<a href="/gioi-thieu">Giới thiệu</a>
+								</li>
+								<li class="c-header1__child__item">
+									<a href="/thanh-toan">Thanh toán</a>
+								</li>
+								<li class="c-header1__child__item">
+									<a href="/lien-he">Liên hệ</a>
+								</li>
+							</ul>
+						</li>
+						<div class="c-header1__exit" id="exitMenu">
+							<i class="fa-solid fa-xmark"></i>
+						</div>
+					</ul>
+				</div>
+			</div>
+
+
 		</nav>
 	</header>
 	<!--▲ Header ▲-->
