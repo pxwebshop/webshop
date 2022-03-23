@@ -48,6 +48,35 @@ if(btnExitModal !== null) {
 
 
 $(document).ready(function () {
+	$(".c-header__gnav__btn").click(function() {
+		if ($(this).hasClass("open")) {
+			$(this).removeClass("open");
+		} else {
+			$(this).addClass("open");
+		}
+		
+		if ($("body").css('overflow') == 'hidden') {
+			$("body").css("overflow", "");
+		} else {
+			$("body").css("overflow", "hidden");
+		}
+		$(".c-header__gnav__child").slideToggle();
+	});
+
+	$(".c-header__gnav__parent").click(function() {
+
+		if (!$(this).hasClass("is-show")) {
+			$(this).children().next().hide();
+			$(this).children().next().next().show();
+			$(this).addClass("is-show");
+		} else {
+			$(this).children().next().show();
+			$(this).children().next().next().hide();
+			$(this).removeClass("is-show");
+		}
+
+		$(this).next().slideToggle();
+	});
 	// menu
 	$(".c-header__item").click(function() {
 		if($(".is-searchMenu").hasClass("is-search")) {
