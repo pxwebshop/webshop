@@ -5,576 +5,784 @@ other
 /*
 ------------------------------------------------------------*/
 .c-articleDetail {
-    $root: &;
-    &__head {
-        @include sp {
-            padding: 0 30px;
-        }
-        #{$root}__title {
-            font-size: 3.2rem;
-            line-height: 2;
-            font-family: $roboto;
-        }
-        #{$root}__time {
-            font-size: 1.3rem;
-            font-style: italic;
-            font-family: $roboto;
-        }
-    }
-    &__body {
-        display: flex;
-        #{$root}__left {
-            width: 75%;
-            @include sp {
-                width: 100%;
-                padding: 0 30px;
-            }
-        }
-        #{$root}__share {
-            margin: 50px 0;
-            li {
-                display: inline;
-            }
-        }
-        #{$root}__right {
-            width: 25%;
-            padding-left: 60px;
-            h2 {
-                font-size: 2.4rem;
-                font-family: $roboto;
-                line-height: 2;
-            }
-            li {
-                font-size: 1.6rem;
-                list-style-type: decimal;
-                line-height: 1.5;
-            }
-            @include sp {display: none;}
-        }
-        #{$root}__related {
-            h2 {
-                font-size: 2.4rem;
-                line-height: 2;
-                font-family: $roboto;
-                text-align: center;
-            }
-        }
-    }
-    p{
-        font-family: $roboto;
-        font-size: 1.6rem;
-        text-align: justify;
-    }
-    
+	$root: &;
+	&__head {
+		@include sp {
+			padding: 0 30px;
+		}
+		#{$root}__title {
+			font-size: 3.2rem;
+			line-height: 2;
+			font-family: $roboto;
+		}
+		#{$root}__time {
+			font-size: 1.3rem;
+			font-style: italic;
+			font-family: $roboto;
+		}
+	}
+	&__body {
+		display: flex;
+		#{$root}__left {
+			width: 75%;
+			@include sp {
+				width: 100%;
+				padding: 0 30px;
+			}
+		}
+		#{$root}__share {
+			margin: 50px 0;
+			li {
+				display: inline;
+			}
+		}
+		#{$root}__right {
+			width: 25%;
+			padding-left: 60px;
+			h2 {
+				font-size: 2.4rem;
+				font-family: $roboto;
+				line-height: 2;
+			}
+			li {
+				font-size: 1.6rem;
+				list-style-type: decimal;
+				line-height: 1.5;
+			}
+			@include sp {
+				display: none;
+			}
+		}
+		#{$root}__related {
+			h2 {
+				font-size: 2.4rem;
+				line-height: 2;
+				font-family: $roboto;
+				text-align: center;
+			}
+		}
+	}
+	p {
+		font-family: $roboto;
+		font-size: 1.6rem;
+		text-align: justify;
+	}
 }
 
-
 .c-block1 {
-    &__item {
-        display: flex;
-        &:not(:first-child) {
-            margin-top: 10px;
-        }
-        transition: all .5s;
-        &:hover {
-                transform: translateY(-5px);
-        }
-    }
-    &__img {
-        width: 120px;
-        display: flex;
-        flex-shrink: 0;
-    }
-    &__heading {
-        font-size: 2.8rem;
-        line-height: 1.7;
-        font-weight: 700;
-    }
-    &__title {
-        font-size: 1.4rem;
-        font-weight: 600;
-    }
-    &__info {
-        padding-top: 5px;
-        padding-left: 10px;
-        text-align: justify;
-    }
-    &__txt {
-        font-size: 1.3rem;
-        margin-top: 5px;
-    }
+	&__item {
+		display: flex;
+		&:not(:first-child) {
+			margin-top: 10px;
+		}
+		transition: all 0.5s;
+		&:hover {
+			transform: translateY(-5px);
+		}
+	}
+	&__img {
+		width: 120px;
+		display: flex;
+		flex-shrink: 0;
+	}
+	&__heading {
+		font-size: 2.8rem;
+		line-height: 1.7;
+		font-weight: 700;
+	}
+	&__title {
+		font-size: 1.4rem;
+		font-weight: 600;
+	}
+	&__info {
+		padding-top: 5px;
+		padding-left: 10px;
+		text-align: justify;
+	}
+	&__txt {
+		font-size: 1.3rem;
+		margin-top: 5px;
+	}
 }
 
 .clearfix {
-    &:after {
-        content: "";
-        display: block;
-        clear: both;
-    }
+	&:after {
+		content: "";
+		display: block;
+		clear: both;
+	}
 }
 .c-page {
-    &__heading {
-        background: url(../img/common/contact-background.jpg) no-repeat center center;
-        background-size: 100%;
-        height: 300px;
-        width: 100%;
-        position: relative;
-        @include sp {
-            background-size: auto;
-        }
-        .c-title1 {
-            font-weight: 600;
-            text-align: center;
-        }
-        .particles-js-canvas-el {
-            position: absolute;
-            top: 0;
-        }
-    }
-    &__title {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        color: $colorWhite;
-        width: 100%;
-        height: 100%;
-        background-color: rgba(1,1,1,0.5);
-    }
-    &__url {
-        margin-top: 5px;
-    }
+	&__heading {
+		background: url(../img/common/contact-background.jpg) no-repeat center
+			center;
+		background-size: 100%;
+		height: 300px;
+		width: 100%;
+		position: relative;
+		@include sp {
+			background-size: auto;
+		}
+		.c-title1 {
+			font-weight: 600;
+			text-align: center;
+		}
+		.particles-js-canvas-el {
+			position: absolute;
+			top: 0;
+		}
+	}
+	&__title {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		color: $colorWhite;
+		width: 100%;
+		height: 100%;
+		background-color: rgba(1, 1, 1, 0.5);
+	}
+	&__url {
+		margin-top: 5px;
+	}
 }
 
 // Contact
 .c-contact {
-    $root: &;
+	$root: &;
 
-    
-    &__map {
-        width: 100%;
-        height: 346px;
-        iframe {
-            width: 100%;
-            height: 346px;
-        }
-    }
-    &__content {
-        display: flex;
-        flex-wrap: wrap;
-        @include sp {
-            display: block;
-        }
-    }
-    &__info {
-        width: 50%;
-        margin-top: 30px;
-        font-size: 1.6rem;
-        line-height: 2;
-        @include sp {
-            width: 100%;
-        }
-    }
-    &__form {
-        width: 50%;
-        background-color: $colorWhite;
-        padding: 30px;
-        margin-top: -130px;
-        box-shadow: 0 0 5px $colorGrey;
-        border-radius: 5px;
-        @include sp {
-            width: 100%;
-            margin-top: 30px;
-        }
-        &__btn {
-            color: $colorGrey;
-            height: 44px;
-            text-transform: uppercase;
-            padding: 0 30px;
-            font-weight: 700;
-            background-color: $colorBlue2;
-            border: none;
-            border-radius: 5px;
-            color: $colorWhite;
-            letter-spacing: 1px;
-            cursor: pointer;
-            @include roboto;
-        }
-    }
-    &__group {
-        label {
-            font-size: 1.6rem;
-            line-height: 1.5;
-            color: $colorBlack;
-            font-weight: 600;
-            @include roboto;
-            text-transform: uppercase;
-            padding-left: 10px;
-        }
-        input, textarea {
-            width: 95%;
-            padding: 10px;
-            font-size: 1.6rem;
-            line-height: 1.5;
-            border-radius: 5px;
-            border-style: hidden;
-            border: 1px solid $colorLightGrey;
-            margin-bottom: 10px;
-        }
-    }
-    &__txt {
-        font-weight: 500;
-    }
+	&__map {
+		width: 100%;
+		height: 346px;
+		iframe {
+			width: 100%;
+			height: 346px;
+		}
+	}
+	&__content {
+		display: flex;
+		flex-wrap: wrap;
+		@include sp {
+			display: block;
+		}
+	}
+	&__info {
+		width: 50%;
+		margin-top: 30px;
+		font-size: 1.6rem;
+		line-height: 2;
+		@include sp {
+			width: 100%;
+		}
+	}
+	&__form {
+		width: 50%;
+		background-color: $colorWhite;
+		padding: 30px;
+		margin-top: -130px;
+		box-shadow: 0 0 5px $colorGrey;
+		border-radius: 5px;
+		@include sp {
+			width: 100%;
+			margin-top: 30px;
+		}
+		&__btn {
+			color: $colorGrey;
+			height: 44px;
+			text-transform: uppercase;
+			padding: 0 30px;
+			font-weight: 700;
+			background-color: $colorBlue2;
+			border: none;
+			border-radius: 5px;
+			color: $colorWhite;
+			letter-spacing: 1px;
+			cursor: pointer;
+			@include roboto;
+		}
+	}
+	&__group {
+		label {
+			font-size: 1.6rem;
+			line-height: 1.5;
+			color: $colorBlack;
+			font-weight: 600;
+			@include roboto;
+			text-transform: uppercase;
+			padding-left: 10px;
+		}
+		input,
+		textarea {
+			width: 95%;
+			padding: 10px;
+			font-size: 1.6rem;
+			line-height: 1.5;
+			border-radius: 5px;
+			border-style: hidden;
+			border: 1px solid $colorLightGrey;
+			margin-bottom: 10px;
+		}
+	}
+	&__txt {
+		font-weight: 500;
+	}
 }
 
 .c-checkout {
-    $root: &;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    @include sp() {
-        flex-direction: column-reverse;
-    }
-    &__info {
-        width: 67.5%;
-        margin-top: 30px;
-        padding: 30px;
-        background-color: $colorWhite;
-        box-shadow: 0 0 5px $colorBlack;
-        @include sp() {
-            width: 100%;
-        }
-    }
-    &__totalPrice {
-        width: 27.5%;
-        margin-top: 30px;
-        padding: 30px;
-        background-color: $colorWhite;
-        box-shadow: 0 0 5px $colorBlack;
-        height: 100%;
-        @include sp() {
-            width: 100%;
-        }
-    }
-    &__person, &__payment {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        h3 {
-            width: 100%;
-        }
-        input, textarea {
-            border: none;
-            background-color: $colorWhite;
-            box-shadow: 0 0 2px $colorBlack;
-            margin: 10px 0;
-            padding: 10px;
-            font-size: 1.6rem;
-            line-height: 1.5;
-            @include roboto();
-        }
-    }
-    &__firstName, &__lastName, &__cardSecu, &__cardDate {
-        width: 45%;
-        @include max-w(500px) {
-            width: 100%;
-        }
-    }
-    &__email, &__phone, &__cardNumber, &__content {
-        width: 100%;
-    }
-    &__button {
-        margin: 40px 0;
-        padding: 10px;
-        width: 50%;
-        width: 100%;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        color: $colorWhite;
-        text-transform: uppercase;
-        font-weight: 700;
-        background-color: $colorBlue2;
-        border: none;
-        box-shadow: 0 0 5px $colorBlack;
-        cursor: pointer;
-        &:hover {
-            background-color: $colorRed;
-        }
-    }
-    &__txt {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        padding: 10px;
-        @include roboto();
-    }
-    &__price {
-        float: right;
-        @include max-w(1118px){
-            float: none;
-        }
-    }
+	$root: &;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	@include sp() {
+		flex-direction: column-reverse;
+	}
+	&__info {
+		width: 67.5%;
+		margin-top: 30px;
+		padding: 30px;
+		background-color: $colorWhite;
+		box-shadow: 0 0 5px $colorBlack;
+		@include sp() {
+			width: 100%;
+		}
+	}
+	&__totalPrice {
+		width: 27.5%;
+		margin-top: 30px;
+		padding: 30px;
+		background-color: $colorWhite;
+		box-shadow: 0 0 5px $colorBlack;
+		height: 100%;
+		@include sp() {
+			width: 100%;
+		}
+	}
+	&__person,
+	&__payment {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		h3 {
+			width: 100%;
+		}
+		input,
+		textarea {
+			border: none;
+			background-color: $colorWhite;
+			box-shadow: 0 0 2px $colorBlack;
+			margin: 10px 0;
+			padding: 10px;
+			font-size: 1.6rem;
+			line-height: 1.5;
+			@include roboto();
+		}
+	}
+	&__firstName,
+	&__lastName,
+	&__cardSecu,
+	&__cardDate {
+		width: 45%;
+		@include max-w(500px) {
+			width: 100%;
+		}
+	}
+	&__email,
+	&__phone,
+	&__cardNumber,
+	&__content {
+		width: 100%;
+	}
+	&__button {
+		margin: 40px 0;
+		padding: 10px;
+		width: 50%;
+		width: 100%;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		color: $colorWhite;
+		text-transform: uppercase;
+		font-weight: 700;
+		background-color: $colorBlue2;
+		border: none;
+		box-shadow: 0 0 5px $colorBlack;
+		cursor: pointer;
+		&:hover {
+			background-color: $colorRed;
+		}
+	}
+	&__txt {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		padding: 10px;
+		@include roboto();
+	}
+	&__price {
+		float: right;
+		@include max-w(1118px) {
+			float: none;
+		}
+	}
 }
 
 // c-payment
 .c-payment {
-    $root: &;
-    .c-title1 {
-        padding: 10px;
-        border: 3px solid $colorBlue2;
-        margin-bottom: 30px;
-        background-color: $colorBlue1;
-    }
-    &__bank1 {
-        margin: 30px 0;
-    }
-    &__content {
-        display: flex;
-        padding: 30px;
-    }
-    &__img {
-        width: 200px;
-        img {
-            width: 100%;
-        }
-        @include sp() {
-            display: none;
-        }
-    }
-    &__txt {
-        width: calc(100% - 200px);
-        padding-left: 30px;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        @include sp() {
-            width: 100%;
-        }
-    }
-    &__eWallets {
-        display: flex;
-        justify-content: space-between;
-        figure {
-            width: 100px;
-        }
-    }
-    &__note {
-        li {
-            list-style-type: circle;
-            font-size: 1.6rem;
-            line-height: 1.5;
-            padding: 5px;
-        }
-    }
-    &__btn {
-        margin: 30px 0;
-        width: 100%;
-        text-align: center;
-        button {
-            padding: 10px 30px;
-            font-size: 1.6rem;
-            line-height: 1.5;
-            border-radius: 30px;
-            background-color: $colorBlue2;
-            border: transparent;
-            box-shadow: 0 0 5px $colorBlack;
-            color: $colorWhite;
-            font-weight: 700;
-            text-transform: uppercase;
-            cursor: pointer;
-            &:hover {
-                background-color: $colorRed;
-            }
-        }
-    }
+	$root: &;
+	.c-title1 {
+		padding: 10px;
+		border: 3px solid $colorBlue2;
+		margin-bottom: 30px;
+		background-color: $colorBlue1;
+	}
+	&__bank1 {
+		margin: 30px 0;
+	}
+	&__content {
+		display: flex;
+		padding: 30px;
+	}
+	&__img {
+		width: 200px;
+		img {
+			width: 100%;
+		}
+		@include sp() {
+			display: none;
+		}
+	}
+	&__txt {
+		width: calc(100% - 200px);
+		padding-left: 30px;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		@include sp() {
+			width: 100%;
+		}
+	}
+	&__eWallets {
+		display: flex;
+		justify-content: space-between;
+		figure {
+			width: 100px;
+		}
+	}
+	&__note {
+		li {
+			list-style-type: circle;
+			font-size: 1.6rem;
+			line-height: 1.5;
+			padding: 5px;
+		}
+	}
+	&__btn {
+		margin: 30px 0;
+		width: 100%;
+		text-align: center;
+		button {
+			padding: 10px 30px;
+			font-size: 1.6rem;
+			line-height: 1.5;
+			border-radius: 30px;
+			background-color: $colorBlue2;
+			border: transparent;
+			box-shadow: 0 0 5px $colorBlack;
+			color: $colorWhite;
+			font-weight: 700;
+			text-transform: uppercase;
+			cursor: pointer;
+			&:hover {
+				background-color: $colorRed;
+			}
+		}
+	}
 }
 // end: c-payment
 
 // banner
 .c-banner {
-    $root: &;
-    // background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
-    background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
-    height: 640px;
-    @include sp() {
-        height: 480px;
-    }
-    &__txt {
-        font-size: 2.6rem;
-        font-weight: 500;
-        margin-top: 25px;
-        @include sp() {
-            font-size: 1.8rem;
-        }
-        &--large {
-            font-weight: 700;
-            font-size: 7.0rem;
-            margin-bottom: 13px;
-            @include sp() {
-                font-size: 4rem;
-            }
-        }
-    }
-    &__color {
-        color: $colorRed;
-    }
-    &__text {
-        font-size: 1.7rem;
-        line-height: 1.5;
-        @include sp() {
-            font-size: 1.6rem;
-        }
-    }
-    &__btn {
-        background-color: $colorPurple;
-        color: #fff;
-        padding: 15px 30px;
-        display: inline-block;
-        margin-top: 20px;
-        font-size: 1.7rem;
-        font-weight: 500;
-        background: linear-gradient(to right, rgb(26, 73, 204) 50%, rgb(104, 20, 90) 50%);
-        background-size: 200% 100%;
-        background-position: right bottom;
-        transition: all .5s ease-out;
-        border-radius: 5px;
-        &:hover {
-            background-position: left bottom;
-        }
-        @include sp() {
-            font-size: 1.4rem;
-            padding: 15px 20px;
-        }
-    }
-    &__content {
-        position: absolute;
-        top: 30%;
-        @include sp() {
-            top: 18%;
-        }
-    }
-    .l-container {
-        height: 100%;
-        position: relative;
-    }
+	$root: &;
+	// background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
+	background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png")
+		no-repeat center center;
+	height: 640px;
+	@include sp() {
+		height: 480px;
+	}
+	&__txt {
+		font-size: 2.6rem;
+		font-weight: 500;
+		margin-top: 25px;
+		@include sp() {
+			font-size: 1.8rem;
+		}
+		&--large {
+			font-weight: 700;
+			font-size: 7rem;
+			margin-bottom: 13px;
+			@include sp() {
+				font-size: 4rem;
+			}
+		}
+	}
+	&__color {
+		color: $colorRed;
+	}
+	&__text {
+		font-size: 1.7rem;
+		line-height: 1.5;
+		@include sp() {
+			font-size: 1.6rem;
+		}
+	}
+	&__btn {
+		background-color: $colorPurple;
+		color: #fff;
+		padding: 15px 30px;
+		display: inline-block;
+		margin-top: 20px;
+		font-size: 1.7rem;
+		font-weight: 500;
+		background: linear-gradient(
+			to right,
+			rgb(26, 73, 204) 50%,
+			rgb(104, 20, 90) 50%
+		);
+		background-size: 200% 100%;
+		background-position: right bottom;
+		transition: all 0.5s ease-out;
+		border-radius: 5px;
+		&:hover {
+			background-position: left bottom;
+		}
+		@include sp() {
+			font-size: 1.4rem;
+			padding: 15px 20px;
+		}
+	}
+	&__content {
+		position: absolute;
+		top: 30%;
+		@include sp() {
+			top: 18%;
+		}
+	}
+	.l-container {
+		height: 100%;
+		position: relative;
+	}
 }
 // end: banner
 
 // modal
 .c-modal {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-    top: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    display: none;
-    background-color: rgba(1,1,1,0.5);
-    &__content {
-        background-color: $colorBlue1;
-        max-width: 600px;
-        width: 100%;
-        height: 100%;
-        margin: 0 auto;
-        border-radius: 10px;
-        position: relative;
-        font-size: 1.6rem;
-        @include sp {
-            font-size: 1.3rem;
-        }
-    }
-    .c-title2 {
-        text-align: center;
-        background-color: $colorBlue2;
-        padding: 16px 40px 16px 16px;
-        border-radius: 5px;
-        // box-shadow: 0 0 5px $colorBlack;
-        color: $colorWhite;
-    }
-    &__form {
-        padding: 30px;
-        label {
-            display: block;
-            font-weight: 600;
-        }
-        input, textarea {
-            margin: 5px 0 16px;
-            width: 90%;
-            font-size: 1.6rem;
-            line-height: 1.5;
-            color: $colorGrey;
-            padding: 6px 16px;
-            border-radius: 5px;
-            border: transparent;
-            @include sp {
-                font-size: 1.4rem;
-            }
-        }
-    }
-    &__btnExit {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        button {
-            background-color: $colorRed;
-            width: 32px;
-            height: 32px;
-            color: $colorWhite;
-            border: transparent;
-            font-weight: bold;
-            box-shadow: 0 0 5px $colorBlack;
-            &:hover {
-                background-color: $colorRed1;
-                cursor: pointer;
-            }
-        }   
-    }
-    &__btnSubmit {
-        text-align: center;
-        button {
-            cursor: pointer;
-            padding: 10px 30px;
-            text-transform: uppercase;
-            background-color: $colorBlue2;
-            border-radius: 50px;
-            border: none;
-            box-shadow: 0 0 5px $colorBlack;
-            color: $colorWhite;
-            font-weight: 700;
-            transition: 1s;
-            &:hover {
-                background-color: $colorRed;
-            }
-        }
-        
-    }
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	top: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	display: none;
+	background-color: rgba(1, 1, 1, 0.5);
+	&__content {
+		background-color: $colorBlue1;
+		max-width: 600px;
+		width: 100%;
+		height: 100%;
+		margin: 0 auto;
+		border-radius: 10px;
+		position: relative;
+		font-size: 1.6rem;
+		@include sp {
+			font-size: 1.3rem;
+		}
+	}
+	.c-title2 {
+		text-align: center;
+		background-color: $colorBlue2;
+		padding: 16px 40px 16px 16px;
+		border-radius: 5px;
+		// box-shadow: 0 0 5px $colorBlack;
+		color: $colorWhite;
+	}
+	&__form {
+		padding: 30px;
+		label {
+			display: block;
+			font-weight: 600;
+		}
+		input,
+		textarea {
+			margin: 5px 0 16px;
+			width: 90%;
+			font-size: 1.6rem;
+			line-height: 1.5;
+			color: $colorGrey;
+			padding: 6px 16px;
+			border-radius: 5px;
+			border: transparent;
+			@include sp {
+				font-size: 1.4rem;
+			}
+		}
+	}
+	&__btnExit {
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		button {
+			background-color: $colorRed;
+			width: 32px;
+			height: 32px;
+			color: $colorWhite;
+			border: transparent;
+			font-weight: bold;
+			box-shadow: 0 0 5px $colorBlack;
+			&:hover {
+				background-color: $colorRed1;
+				cursor: pointer;
+			}
+		}
+	}
+	&__btnSubmit {
+		text-align: center;
+		button {
+			cursor: pointer;
+			padding: 10px 30px;
+			text-transform: uppercase;
+			background-color: $colorBlue2;
+			border-radius: 50px;
+			border: none;
+			box-shadow: 0 0 5px $colorBlack;
+			color: $colorWhite;
+			font-weight: 700;
+			transition: 1s;
+			&:hover {
+				background-color: $colorRed;
+			}
+		}
+	}
 }
 // end: modal
 
 //tintuc
 .c-paginate {
-    &__list {
-       text-align: center;
-       margin: 30px 0;
-    }
-    &__item {
-        text-align: center;
-        display: inline;
-        font-size: 1.8rem;
-        line-height: 1.5;
-        padding: 8px 16px;
-        cursor: pointer;
-        &:hover {
-            background-color: $colorBlue2;
-        }
-        @include sp {
-            font-size: 1.4rem;
-            padding: 6px 12px;
-        }
-    }
-    &__active {
-        color: $colorWhite;
-        background-color: $colorBlue6;
-        display: inline-block;
-    }
+	&__list {
+		text-align: center;
+		margin: 30px 0;
+	}
+	&__item {
+		text-align: center;
+		display: inline;
+		font-size: 1.8rem;
+		line-height: 1.5;
+		padding: 8px 16px;
+		cursor: pointer;
+		&:hover {
+			background-color: $colorBlue2;
+		}
+		@include sp {
+			font-size: 1.4rem;
+			padding: 6px 12px;
+		}
+	}
+	&__active {
+		color: $colorWhite;
+		background-color: $colorBlue6;
+		display: inline-block;
+	}
 }
 // end: tintuc
+
+// chi tiet bai viet
+.c-detail {
+	$root: &;
+	&__banner {
+		width: 100%;
+		height: 300px;
+	}
+    &__article {
+        // position: relative;
+        padding: 30px;
+        display: flex;
+        @include sp {
+            flex-wrap: wrap;
+            padding: 0;
+        }
+    }
+    &__share {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        text-align: center;
+        width: 100px;
+        box-shadow: 0 0 5px $colorLightGrey;
+        border-radius: 5px;
+        padding: 10px;
+        height: 100%;
+        
+        // position: absolute;
+        // top: 30px;
+        // left: -100px;
+        span {
+            i {
+                font-size: 3.2rem;
+            }
+            font-size: 1.8rem;
+            line-height: 2;
+            @include sp {
+                display: none;
+            }
+        }
+        ul {
+            @include sp {
+                display: inline;
+            }
+        }
+        li{
+            border: 1px solid $colorLightGrey;
+            border-radius: 5px;
+            padding: 5px;
+            margin: 5px 0;
+            cursor: pointer;
+            &:hover {
+                background-color: $colorLightGrey;
+            }
+            @include sp {
+                display: inline;
+                margin-right: 5px;
+                font-size: 1.3rem;
+            }
+        }
+        @include sp {
+            width: 100%;
+            font-size: 1.6rem;
+            box-shadow: none;
+            text-align: left;
+        }  
+    }
+    &__content {
+        padding-left: 30px;
+        @include sp {
+            padding: 0;
+        }
+    }
+    // title detail
+    &__title1 {
+        font-size: 4.8rem;
+        font-weight: 700;
+        line-height: 1.5;
+        @include sp {
+            font-size: 2.8rem;
+        }
+    }
+    &__title2 {
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 1.5;
+        margin: 16px 0;
+        @include sp {
+            font-size: 2.4rem;
+        }
+    }
+    &__title3 {
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.5;
+        margin: 16px 0;
+        @include sp {
+            font-size: 1.8rem;
+        }
+    }
+    &__title4 {
+        font-size: 1.8rem;
+        line-height: 1.5;
+        font-weight: 600;
+        color: $colorBlack;
+        margin-bottom: 16px;
+        @include sp {
+            font-size: 1.6rem;
+        }
+    }
+    // end: title detail
+    &__info {
+        color: $colorGrey;
+        font-size: 1.4rem;
+        @include sp {
+            font-size: 1.3rem;
+        }
+    }
+    &__txt {
+        margin: 30px 0;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        @include sp {
+            font-size: 1.3rem;
+        }
+    }
+    &__txt1 {
+        
+    }
+    &__tableContent {
+        margin: 30px;
+        background-color: $colorLightGrey;
+        border-radius: 5px;
+        padding: 30px;
+        span {
+            font-size: 1.4rem;
+            line-height: 2;
+            font-weight: 600;
+        }
+    }
+    &__contentItem {
+        font-size: 1.6rem;
+        line-height: 1.5;
+    }
+    &__contentSubItem {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        padding-left: 16px;
+    }
+    &__subImg {
+        font-size: 1.4rem;
+        line-height: 1.5;
+        text-align: center;
+        font-style: italic;
+        color: $colorGrey;
+    }
+    &__info1 {
+        display: flex;
+        padding: 30px;
+        box-shadow: 0 0 5px $colorLightGrey;
+    }
+    &__ava {
+
+        height: 100%;
+        img {
+            width: 100px;
+            border-radius: 50%;
+        }
+    }
+    &__text {
+        padding: 0 32px;
+        @include sp {
+            padding: 0 16px;
+        }
+        ul {
+            margin: 16px 0 16px -16px;
+        }
+        li {
+            display: inline;
+            margin: 10px;
+            padding: 6px;
+            &:hover {
+                background-color: $colorLightGrey;
+                border-radius: 5px
+            };
+        }
+    }
+
+
+    &__related {
+        margin: 30px;
+    }
+}
+// end: chi tiet bai viet
