@@ -94,89 +94,75 @@
 			</div>
 		</div>
 
-		<!-- <nav class="sp-only">
-			<div class="c-header1">
-				<div class="c-header1__heading">
-					<div class="c-header1__logo">
-						<a href="/" class="c-header__logo">
-							<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
-						</a>
-					</div>
-
-					<div class="c-header__search">
-						<div class="c-header__formSearch">
-							<form action="" class="c-header__form">
-								<i class="fa-solid fa-magnifying-glass"></i>
-								<input type="text" placeholder="Nhập thông tin cần tìm">
-								<button type="submit" class="c-hader__btnSearch">Tìm kiếm</button>
-							</form>
-						</div>
-					</div>
-					<div class="c-header1__menuBar" id="menuMobile">
-						<i class="fa-solid fa-bars"></i>
-					</div>
-				</div>
-
-				<div class="c-header1__search">
-					<div class="c-header__formSearch">
-						<form action="" class="c-header__form">
-							<input type="text" placeholder="Nhập thông tin cần tìm">
-							<button type="submit" class="c-hader__btnSearch">Tìm kiếm</button>
-						</form>
-					</div>
-				</div>
-
-				<div class="c-header1__menu">
-					<ul class="c-header1__list">
-						<a href="/" class="c-header__logo">
-							<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
-						</a>
-						<li class="c-header1__item">
-							<a class="c-header1__link" href="/">Trang chủ</a>
-						</li>
-						<li class="c-header1__item c-header1__item__services">
-							<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
-							<ul class="c-header1__child">
-								<li class="c-header1__child__item">
-									<a href="#">Thiết kế website</a>
-								</li>
-								<li class="c-header1__child__item">
-									<a href="#">Viết phần mềm theo yêu cầu</a>
-								</li>
-								<li class="c-header1__child__item">
-									<a href="#">Thiết kế banner</a>
-								</li>
-								<li class="c-header1__child__item">
-									<a href="#">Thiết kế website</a>
-								</li>
-							</ul>
-						</li>
-						<li class="c-header1__item">
-							<a class="c-header1__link" href="/tin-tuc">Tin tức</a>
-						</li>
-						<li class="c-header1__item c-header1__item__abouts">
-							<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
-
-							<ul class="c-header1__child">
-								<li class="c-header1__child__item">
-									<a href="/gioi-thieu">Giới thiệu</a>
-								</li>
-								<li class="c-header1__child__item">
-									<a href="/thanh-toan">Thanh toán</a>
-								</li>
-								<li class="c-header1__child__item">
-									<a href="/lien-he">Liên hệ</a>
-								</li>
-							</ul>
-						</li>
-						<div class="c-header1__exit" id="exitMenu">
-							<i class="fa-solid fa-xmark"></i>
-						</div>
-					</ul>
-				</div>
+		<div class="c-header__gnav sp-only">
+			<div class="c-header__logoSp">
+				<a href="#">
+					<img src="https://www.takabou.jp/wp-content/themes/No1_theme01/img/common/logo.svg" alt="高橋防水">
+				</a>
 			</div>
 
+			<div class="c-header__btn">
+				<div class="c-header__tel__btn">
+					<span class="tel_link"><a href="tel:07038951109">070-3895-1109</a></span>
+				</div>
 
-		</nav> -->
+				<div class="c-header__gnav__btn" id="gnav_open">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</div>
+		</div>
+		<nav class="c-header__gnav__child sp-only" id="gnav">
+			<ul class="c-header__gnav__menu">
+				<li class="c-header__gnav__item">
+					<a href="/"><span>Trang chủ</span></a>
+				</li>
+				<li class="c-header__gnav__item">
+					<a class="c-header__gnav__parent" href="#">
+						<span>Dịch vụ</span>
+						<i class="fa-solid fa-plus"></i>
+						<i class="fa-solid fa-minus"></i>
+					</a>
+					<ul class="c-header__gnav__menu__sub">
+						<li class="c-header__gnav__item">
+							<a href="#"><span>Thiết kế website</span></a>
+						</li>
+						<li class="c-header__gnav__item">
+							<a href="#"><span>Viết phần mềm theo yêu cầu</span></a>
+						</li>
+						<li class="c-header__gnav__item">
+							<a href="#"><span>Thiết kế banner</span></a>
+						</li>
+						<li class="c-header__gnav__item">
+							<a href="#"><span>Thiết kế website</span></a>
+						</li>
+					</ul>
+				</li>
+				<li class="c-header__gnav__item">
+					<a href="#">
+						<span>Tin tức</span>
+					</a>
+				</li>
+				<li class="c-header__gnav__item">
+					<a class="c-header__gnav__parent" href="#">
+						<span>Về chúng tôi</span>
+						<i class="fa-solid fa-plus"></i>
+						<i class="fa-solid fa-minus"></i>
+					</a>
+					<ul class="c-header__gnav__menu__sub">
+						<li class="c-header__gnav__item">
+							<a href="#"><span>Giới thiệu</span></a>
+						</li>
+						<li class="c-header__gnav__item">
+							<a href="#"><span>Thanh toán</span></a>
+						</li>
+						<li class="c-header__gnav__item">
+							<a href="#"><span>Liên hệ</span></a>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
 	</header>
 	<!--▲ Header ▲-->
