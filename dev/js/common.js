@@ -146,3 +146,24 @@ $(document).ready(function () {
 	});
 });
 
+
+
+// Show/Hide table of contents
+var showTableOfContent = document.getElementById('showTableOfContent');
+var hideTableOfContent = document.getElementById('hideTableOfContent');
+var tableOfContent = document.getElementsByClassName('c-detail__ItemContent');
+
+if(window.getComputedStyle(showTableOfContent, null).display === 'none' || window.getComputedStyle(hideTableOfContent, null).display === 'none') {
+  hideTableOfContent.onclick = function() {
+    showTableOfContent.style.display = 'inline';
+    hideTableOfContent.style.display = 'none';
+    tableOfContent[0].style.display = 'none';
+  }
+  showTableOfContent.onclick = function() {
+    hideTableOfContent.style.display = 'inline';
+    showTableOfContent.style.display = 'none';
+    tableOfContent[0].style.display = 'block';
+  }
+} 
+
+// end: Show/Hide table of contents
