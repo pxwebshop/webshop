@@ -142,8 +142,8 @@ header
         right: 7px;
         z-index: 999;
         @include sp() {
-            top: 7px;
-            left: 40px;
+            top: 32px;
+            left: 15px;
         }
     }
     &__form {
@@ -153,6 +153,12 @@ header
             border: 1px solid $colorLightGrey;
             font-size: 1.5rem;
             font-weight: 500;
+            @include sp {
+                width: 90%;
+            }
+            @include max-w(550px) {
+                width: 80%;
+            }
         }
     }
     &__btnSearch {
@@ -160,6 +166,12 @@ header
         padding: 8px 20px;
         font-size: 1.8rem;
         cursor: pointer;
+        @include sp {
+            width: 10%;
+        }
+        @include max-w(550px) {
+            width: 20%;
+        }
     }
     &__gnav {
         display: flex;
