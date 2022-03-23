@@ -715,11 +715,8 @@ other
         font-size: 1.6rem;
         line-height: 1.5;
         @include sp {
-            font-size: 1.3rem;
+            font-size: 1.4rem;
         }
-    }
-    &__txt1 {
-        
     }
     &__tableContent {
         margin: 30px;
@@ -731,6 +728,15 @@ other
             line-height: 2;
             font-weight: 600;
         }
+    }
+    &__show, &__hide {
+        font-size: 1.8rem;
+        line-height: 1.5;
+        cursor: pointer;
+        padding-left: 10px;
+    }
+    #showTableOfContent {
+        display: none;
     }
     &__contentItem {
         font-size: 1.6rem;
@@ -783,6 +789,10 @@ other
 
     &__related {
         margin: 30px;
+        .c-title2 {
+            font-size: 2.8rem;
+            font-weight: 700;
+        }
     }
 }
 // end: chi tiet bai viet

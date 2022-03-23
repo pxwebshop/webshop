@@ -5,7 +5,7 @@
     <div class="p-index__banner">
         <div class="c-banner">
             <div class="l-container">
-                <div class="c-banner__content wow slideInLeft" >
+                <div class="c-banner__content wow slideInLeft">
                     <h3 class="c-banner__txt">Thiết kế website chuyên nghiệp, uy tín.</h3>
                     <h2 class="c-banner__txt c-banner__txt--large">Dẫn đầu <span class="c-banner__color">công nghệ.</span></h2>
                     <p class="c-banner__text">Pxwebshop đi đầu trong lĩnh vực phần mềm và website với hơn 10 năm<br /> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
@@ -510,7 +510,7 @@
                         <div class="c-modal__btnSubmit">
                             <button type="submit">Đăng ký</button>
                         </div>
-                        <div class="c-modal__btnExit" >
+                        <div class="c-modal__btnExit">
                             <button type="button" id="btnExitModal">X</button>
                         </div>
                     </form>
@@ -668,7 +668,7 @@
                             <span class="c-list8__name">Nguyễn Minh Công</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
-                                 <li><span>Laravel</span></li>
+                                <li><span>Laravel</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
                                 <li><span>Javascript</span></li>
@@ -728,11 +728,11 @@
                 <div class="c-list2">
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
+                            <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/220x250.png" alt=""></a>
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
+                                <a href="/chi-tiet-bai-viet">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
                                 <i class="fa-solid fa-calendar-days"></i>
@@ -749,11 +749,11 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
+                            <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/220x250.png" alt=""></a>
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
+                                <a href="/chi-tiet-bai-viet">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
                                 <i class="fa-solid fa-calendar-days"></i>
@@ -770,11 +770,11 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
+                            <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/220x250.png" alt=""></a>
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
+                                <a href="/chi-tiet-bai-viet">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
                                 <i class="fa-solid fa-calendar-days"></i>
@@ -791,11 +791,11 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
+                            <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/220x250.png" alt=""></a>
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
+                                <a href="/chi-tiet-bai-viet">arcu dui vivamus arcu felis</a>
                             </h3>
                             <div class="c-list2__time">
                                 <i class="fa-solid fa-calendar-days"></i>
@@ -819,7 +819,7 @@
                     <div class="c-block1__inner">
                         <div class="c-block1__item">
                             <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
+                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
                             </figure>
                             <div class="c-block1__info">
                                 <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
@@ -828,7 +828,7 @@
                         </div>
                         <div class="c-block1__item">
                             <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
+                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
                             </figure>
                             <div class="c-block1__info">
                                 <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
@@ -837,7 +837,7 @@
                         </div>
                         <div class="c-block1__item">
                             <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
+                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
                             </figure>
                             <div class="c-block1__info">
                                 <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
@@ -846,17 +846,7 @@
                         </div>
                         <div class="c-block1__item">
                             <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
+                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
                             </figure>
                             <div class="c-block1__info">
                                 <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
@@ -865,7 +855,25 @@
                         </div>
                         <div class="c-block1__item">
                             <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
+                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
+                        </div>
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
+                            </figure>
+                            <div class="c-block1__info">
+                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
+                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
+                            </div>
+                        </div>
+                        <div class="c-block1__item">
+                            <figure class="c-block1__img">
+                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
                             </figure>
                             <div class="c-block1__info">
                                 <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>

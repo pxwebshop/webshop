@@ -152,13 +152,13 @@
 					</a>
 					<ul class="c-header__gnav__menu__sub">
 						<li class="c-header__gnav__item">
-							<a href="#"><span>Giới thiệu</span></a>
+							<a href="/gioi-thieu"><span>Giới thiệu</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="#"><span>Thanh toán</span></a>
+							<a href="/thanh-toan"><span>Thanh toán</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="#"><span>Liên hệ</span></a>
+							<a href="/lien-he"><span>Liên hệ</span></a>
 						</li>
 					</ul>
 				</li>

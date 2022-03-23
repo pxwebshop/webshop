@@ -2,10 +2,21 @@
 <?php get_header(); ?>
 <main class="p-detail">
     <div class="c-detail">
-        <div class="c-detail__heading">
+        <!-- <div class="c-detail__heading">
             <figure class="c-detail__banner">
                 <img src="https://designmodo.com/wp-content/uploads/2020/01/Valentines-Day-Email-Newsletter-1920x1080.jpg" alt="">
             </figure>
+        </div> -->
+        <div class="c-page__heading" id="particles-js">
+            <div class="c-page__title">
+                <div>
+                    <h2 class="c-title1 c-title1--color1">Tin tức</h2>
+                    <div class="c-page__url">
+                        <a href="/" class="c-page__link">Trang chủ</a>
+                        <a href="/lien-he">/ Bài viết số XX</a>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="l-container">
             <div class="c-detail__article">
@@ -28,38 +39,46 @@
                 </div>
                 <div class="c-detail__content">
                     <h1 class="c-detail__title1">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                     </h1>
                     <p class="c-detail__info">
                         Tin tức | Đặng Ngọc Quý | 23/03/2022 | 8 phút trước
                     </p>
                     <p class="c-detail__txt">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet dictum sit amet justo donec enim diam. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Arcu vitae elementum curabitur vitae nunc sed velit.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet dictum sit amet justo donec enim diam. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Arcu vitae elementum curabitur vitae nunc sed velit.
                     </p>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet dictum sit amet justo donec enim diam. Habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Arcu vitae elementum curabitur vitae nunc sed velit.</p>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tempus iaculis urna id volutpat lacus. Diam sit amet nisl suscipit adipiscing.</p>
                     <div class="c-detail__tableContent">
                         <span>Table of Contents</span>
-                        <div class="c-detail__contentItem">
-                            <a href="">Mục lục 1</a>
+                        <i class="fa-solid fa-eye-slash c-detail__hide" id="hideTableOfContent"></i>
+                        <i class="fa-solid fa-eye c-detail__show" id="showTableOfContent"></i>
+                        <div class="c-detail__ItemContent">
+                            <div class="c-detail__contentItem">
+                                <a href="#title1">Mục lục 1</a>
+                            </div>
+                            <div class="c-detail__contentItem">
+                                <a href="#title2">Mục lục 2</a>
+                            </div>
+                            <div class="c-detail__contentItem">
+                                <a href="#title3">Mục lục 3</a>
+                            </div>
+                            <div class="c-detail__contentSubItem">
+                                <a href="#title3-1">Mục lục 3.1</a>
+                            </div>
+                            <div class="c-detail__contentSubItem">
+                                <a href="#title3-2">Mục lục 3.2</a>
+                            </div>
+                            <div class="c-detail__contentSubItem">
+                                <a href="#title3-3">Mục lục 3.2</a>
+                            </div>
+                            <div class="c-detail__contentItem">
+                                <a href="#title4">Mục lục 4</a>
+                            </div>
                         </div>
-                        <div class="c-detail__contentItem">
-                            <a href="">Mục lục 2</a>
-                        </div>
-                        <div class="c-detail__contentItem">
-                            <a href="">Mục lục 3</a>
-                        </div>
-                        <div class="c-detail__contentSubItem">
-                            <a href="">Mục lục 3.1</a>
-                        </div>
-                        <div class="c-detail__contentSubItem">
-                            <a href="">Mục lục 3.2</a>
-                        </div>
-                        <div class="c-detail__contentItem">
-                            <a href="">Mục lục 4</a>
-                        </div>
+
                     </div>
-                    <h2 class="c-detail__title2">
+                    <h2 class="c-detail__title2" id="title1">
                         Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                     </h2>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non consectetur a erat nam at lectus urna. Imperdiet sed euismod nisi porta lorem.</p>
@@ -71,19 +90,19 @@
                     </figure>
                     <p class="c-detail__subImg">Lorem ipsum</p>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis vel eros donec ac odio. Magna fermentum iaculis eu non diam phasellus vestibulum. Vestibulum mattis ullamcorper velit sed ullamcorper.</p>
-                    <h2 class="c-detail__title2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
+                    <h2 class="c-detail__title2" id="title2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus at. Tellus pellentesque eu tincidunt tortor.</p>
                     <figure class="c-detail__img">
                         <img src="https://placehold.jp/1280x720.png" alt="">
                     </figure>
                     <p class="c-detail__subImg">Lorem ipsum</p>
-                    <h2 class="c-detail__title2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
-                    <h3 class="c-detail__title3">Lorem ipsum</h3>
+                    <h2 class="c-detail__title2" id="title3">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
+                    <h3 class="c-detail__title3" id="title3-1">Lorem ipsum</h3>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis vel eros donec ac odio. Magna fermentum iaculis eu non diam phasellus vestibulum. Vestibulum mattis ullamcorper velit sed ullamcorper.</p>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis vel eros donec ac odio. Magna fermentum iaculis eu non diam phasellus vestibulum. Vestibulum mattis ullamcorper velit sed ullamcorper.</p>
-                    <h3 class="c-detail__title3">Lorem ipsum</h3>
+                    <h3 class="c-detail__title3" id="title3-2">Lorem ipsum</h3>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis vel eros donec ac odio. Magna fermentum iaculis eu non diam phasellus vestibulum. Vestibulum mattis ullamcorper velit sed ullamcorper.</p>
-                    <h3 class="c-detail__title3">Lorem ipsum</h3>
+                    <h3 class="c-detail__title3" id="title3-3">Lorem ipsum</h3>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis vel eros donec ac odio. Magna fermentum iaculis eu non diam phasellus vestibulum. Vestibulum mattis ullamcorper velit sed ullamcorper.</p>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis vel eros donec ac odio. Magna fermentum iaculis eu non diam phasellus vestibulum. Vestibulum mattis ullamcorper velit sed ullamcorper.</p>
                     <figure class="c-detail__img">
@@ -91,7 +110,7 @@
                     </figure>
                     <p class="c-detail__subImg">Lorem ipsum</p>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis vel eros donec ac odio. Magna fermentum iaculis eu non diam phasellus vestibulum. Vestibulum mattis ullamcorper velit sed ullamcorper.</p>
-                    <h2 class="c-detail__title2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
+                    <h2 class="c-detail__title2" id="title4">Lorem ipsum dolor sit amet, consectetur adipiscing elit</h2>
                     <p class="c-detail__txt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dignissim cras tincidunt lobortis feugiat vivamus at. Tellus pellentesque eu tincidunt tortor.</p>
                     <div class="c-detail__info1">
                         <figure class="c-detail__ava">
@@ -212,7 +231,7 @@
             </div>
         </div>
     </div>
-    
+
 
 </main>
 <?php get_footer(); ?>
