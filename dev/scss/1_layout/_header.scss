@@ -57,6 +57,12 @@ header
         text-transform: capitalize;
         position: relative;
         cursor: pointer;
+        @include sp() {
+            font-size: 1.8rem;
+            font-weight: 600;
+            padding: 10px 15px;
+            line-height: 1.5;
+        }
     }
     &__link {
         display: inline-block;
@@ -135,6 +141,10 @@ header
         top: 40px;
         right: 7px;
         z-index: 999;
+        @include sp() {
+            top: 7px;
+            left: 40px;
+        }
     }
     &__form {
         display: flex;
