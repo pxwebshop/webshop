@@ -142,12 +142,13 @@ header
         right: 7px;
         z-index: 999;
         @include sp() {
-            top: 32px;
-            left: 15px;
+            display: block;
+            position: static;
         }
     }
     &__form {
         display: flex;
+        margin-top: 15px;
         input {
             padding: 0 15px;
             border: 1px solid $colorLightGrey;
