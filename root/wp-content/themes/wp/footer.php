@@ -102,10 +102,13 @@
 <script src="/assets/js/slick/slick.min.js"></script>
 <script src="/assets/js/common.js"></script>
 
+<?php if ( !is_home() ) { ?>
 
-<!-- scripts -->
 <script src="/assets/js/particles.js"></script>
 <script src="/assets/js/app.js"></script>
+
+<?php } ?>
+
 
 <script>
 	AOS.init();
