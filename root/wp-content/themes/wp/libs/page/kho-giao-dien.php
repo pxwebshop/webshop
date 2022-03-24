@@ -1,7 +1,6 @@
 <?php $page_id = 'kho-giao-dien'; ?>
 <?php get_header(); ?>
 
-<<<<<<< HEAD
 <main class="p-stock">
     <div class="c-stock">
         <div class="c-page__heading" id="particles-js">
@@ -109,7 +108,6 @@
         </div>
     </div>
 </main>
-=======
->>>>>>> ed53b6b9dce80d6c35b9770593105c4e6ae6263f
+
 
 <?php get_footer(); ?>
