@@ -122,7 +122,7 @@
 					<a href="/"><span>Trang chủ</span></a>
 				</li>
 				<li class="c-header__gnav__item">
-					<a href="/"><span>Kho giao diện</span></a>
+					<a href="/kho-giao-dien"><span>Kho giao diện</span></a>
 				</li>
 				<li class="c-header__gnav__item">
 					<a class="c-header__gnav__parent" href="#">
