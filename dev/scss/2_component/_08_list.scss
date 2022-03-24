@@ -721,3 +721,82 @@ list
         }
     }
 }
+
+// list interface stock
+.c-list11 {
+    $root: &;
+    display: flex;
+    margin-left: -30px;
+    flex-wrap: wrap;
+    &__wrap {
+        width: 25%;
+        padding-left: 30px;
+        padding-bottom: 30px;
+        @include max-w(880px) {
+            width: 33.33%;
+        }
+        @include max-w(620px) {
+            width: 50%;
+        }
+        @include max-w(420px) {
+            width: 100%;
+        }
+    }
+    &__item {
+        background-color: $colorWhite;
+        box-shadow: 0 0 5px $colorGrey
+    }
+    &__content {
+        position: relative;
+    }
+    &__link {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        text-align: center;
+        display: inline;
+        padding: 15px;
+        background-color: rgba(1, 1, 1, 0.5);
+        color: $colorWhite;
+        font-size: 1.4rem;
+    }
+    &__img {
+        overflow: hidden;
+        img {
+            transition: transform 1s ease-in-out;
+        }
+        &:hover {
+            img {
+                transform: scale(1.2);
+            }  
+            .c-list11__link {
+                display: block;
+            }
+        }
+    }
+    &__demo, &__detail {
+        background-color: $colorBlack;
+        line-height: 1.5;
+        padding: 10px;
+        border-radius: 7px;
+        &:hover {
+            opacity: 0.7;
+        }
+    }
+    &__info {
+        padding: 15px;
+        text-align: center;
+    }
+    &__tag {
+        font-size: 1.4rem;
+        line-height: 1.5;
+        color:$colorGrey;
+    }
+    &__name {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        font-weight: 600;
+        color: $colorBlue6;
+    }
+}
+// end: list interface stock
