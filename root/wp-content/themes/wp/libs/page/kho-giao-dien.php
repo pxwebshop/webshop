@@ -39,7 +39,7 @@
                                 <img src="https://websiteviet.vn/wp-content/uploads/2020/10/art.websiteviet.vn_.png" alt="">
                             </figure>
                             <div class="c-list11__link">
-                                <a href="#" class="c-list11__demo">Demo</a>
+                                <a href="/assets/demo-page/websitedaynhaccu/index.htm" class="c-list11__demo">Demo</a>
                                 <a href="#" class="c-list11__detail">Chi tiết</a>
                             </div>
                         </div>
