@@ -44,6 +44,9 @@
 					<li class="c-header__item">
 						<a class="c-header__link" href="/">Trang chủ</a>
 					</li>
+					<li class="c-header__item">
+						<a class="c-header__link" href="/kho-giao-dien">Kho giao diện</a>
+					</li>
 					<li class="c-header__item c-header__item__services">
 						<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
 						<ul class="c-header__child">
@@ -57,7 +60,7 @@
 								<a href="#">Thiết kế banner</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#">Thiết kế website</a>
+								<a href="#">Lập trình web App</a>
 							</li>
 						</ul>
 					</li>
@@ -138,7 +141,7 @@
 							<a href="#"><span>Thiết kế banner</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="#"><span>Thiết kế website</span></a>
+							<a href="#">Lập trình web App</a>
 						</li>
 					</ul>
 				</li>
