@@ -1,0 +1,862 @@
+﻿<link href="../uploads/plugin/setting/3/web4s-fabicon.png" type="image/x-icon" rel="icon"><link href="../uploads/plugin/setting/3/web4s-fabicon.png" type="image/x-icon" rel="shortcut icon">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+    Theme fs-05
+</title>
+<meta http-equiv="content-language" content="vie">
+<link rel="canonical" href="fs-05.html">
+<link rel="alternate" href="fs-05.html" hreflang="vn">
+
+<link rel="stylesheet" type="text/css" href="../web4s/assets/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="../web4s/assets/css/fontawesome-all.min.css">
+<link rel="stylesheet" type="text/css" href="../web4s/assets/css/bootstrap-chosen.css">
+<link rel="stylesheet" type="text/css" href="../web4s/assets/css/style.css">
+<link rel="stylesheet" type="text/css" href="../web4s/css/css_custom.css">
+<link rel="stylesheet" type="text/css" href="../web4s/assets/css/toastr.min.css">
+<link rel="stylesheet" type="text/css" href="../web4s/assets/css/view_demo.css">
+
+<script type="text/javascript">
+    function addLoadEvent(e) {
+        if (document.readyState === "complete") {
+            e()
+        } else {
+            var t = window.onload;
+            if (typeof window.onload != "function") {
+                window.onload = e
+            } else {
+                window.onload = function () {
+                    if (t) {
+                        t()
+                    }
+                    e()
+                }
+            }
+        }
+    }
+</script>   
+    
+<script type="text/javascript" src="../web4s/assets/js/jquery-2.2.4.min.js"></script>
+<script type="text/javascript" src="../web4s/assets/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../web4s/assets/js/include-all-plugins.js"></script>
+<script type="text/javascript" src="../web4s/assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="../web4s/assets/js/toastr.min.js"></script>
+<script type="text/javascript" src="../web4s/js/main.js"></script>
+
+<script type="text/javascript">
+    var lang = "vie";
+    var global_lang = {
+        code: lang
+    };
+    var nh_config = {
+        url_current: window.location.pathname
+    };
+
+    global_lang.msg_undefined = "Lỗi không xác định !";
+    global_lang.title_notification = "Thông báo hệ thống";
+    global_lang.btn_oke = "Đồng ý";
+    global_lang.btn_cancel = "Hủy bỏ";
+    global_lang.title_notification = "Thông báo hệ thống";
+    global_lang.messages_compare_success = "Đã thêm sản phẩm vào danh sách so sánh.";
+    global_lang.messages_compare_error = "Không thể so sánh sản phẩm.";
+    global_lang.please_select_payment_method = "Vui lòng chọn phường thức thanh toán";
+    global_lang.select_district_option = "-- Quận huyện --";
+    global_lang.select_ward_option = "-- Phường xã --";
+    global_lang.messages_out_of_stock = "Sản phẩm này hiện tại đang hết hàng";
+    global_lang.messages_please_select_quantity = "Xin vui lòng chọn số lượng sản phẩm";
+    global_lang.messages_compare_success = "Đã thêm sản phẩm vào danh sách so sánh.";
+    global_lang.messages_compare_error = "Không thể so sánh sản phẩm.";
+    global_lang.discount = "Giảm giá";
+</script>
+<script src="../recaptcha/api.js" async="" defer=""></script>
+<div id="view-demo">
+
+    <div id="demo-wrapper" class="desktop-view">
+        <div id="demo-container">
+                            <iframe id="frame" src="https://fs-05.web4s.vn"></iframe>     
+            
+        </div>
+    </div>
+</div>
+<div class="element-page">
+    <div class="warp-loading-all hidden">
+    <div class="warp-bg"></div>
+    <div class="sk-cube-grid ajax-loading-icon">
+        <div class="sk-cube sk-cube1"></div>
+        <div class="sk-cube sk-cube2"></div>
+        <div class="sk-cube sk-cube3"></div>
+        <div class="sk-cube sk-cube4"></div>
+        <div class="sk-cube sk-cube5"></div>
+        <div class="sk-cube sk-cube6"></div>
+        <div class="sk-cube sk-cube7"></div>
+        <div class="sk-cube sk-cube8"></div>
+        <div class="sk-cube sk-cube9"></div>
+    </div>
+</div>
+    
+    <div id="trail-register" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" style="background-image: url(../uploads/plugin/custom_img/2021-10-08/group-10751-2x.jpg);background-size: cover;background-repeat: no-repeat;height: 100vh;">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close color-white" data-dismiss="modal" style="margin-top: 5px;">&times;</button>
+               <div class="title-contact-form-trial text-center mb-4">
+                    <div class="logo mb-4">
+                        <img src="../uploads/plugin/custom_img/2021-10-08/logo-6me4aonh.png" alt="logo">
+                    </div>
+                    <div class="title color-white fw">
+                        DÙNG THỬ WEBSITE MIỄN PHÍ 15 NGÀY
+                    </div>
+                    <p class="color-white">
+                        +100.000 doanh nghiệp & chủ shop đã tin dùng
+                    </p>
+                </div>
+                <div class="content-register bg-white rounded p-40">
+                    <form id="frm-register-trail" method="POST" action="https://web4s.vn/contact/contact-us/send-request">
+    
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <!--<label>-->
+                                <!--    Tên khách hàng-->
+                                <!--</label>-->
+                                <input class="form-control required" type="text" name="full_name" placeholder="Họ và tên">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <!--<label>-->
+                                <!--    Email-->
+                                <!--</label>-->
+                                <input type="email" class="form-control required" name="email" id="email" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group  col-md-6">
+                                <!--<label>-->
+                                <!--    Số điện thoại-->
+                                <!--</label>-->
+                                <input class="form-control required" type="text" name="phone" placeholder="Số điện thoại">       
+                            </div>
+                            <div class="form-group  col-md-6">
+                                <!--<label>-->
+                                <!--    Địa chỉ    -->
+                                <!--</label>-->
+                                <input type="text" class="form-control" name="address" id="address" placeholder="Địa chỉ">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <!--<label>-->
+                            <!--    Tên miền … Web4s.vn-->
+                            <!--</label>-->
+                            <div class="input-group">
+                                <input type="text" class="form-control required" name="domain" id="domain" placeholder="Tên miền … Web4s.vn">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">web4s.vn</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group  col-md-6">
+                                <!--<label>-->
+                                <!--    Chọn loại giao diện -->
+                                <!--</label>-->
+                                <select class="form-control" name="services">
+                                    <option value="1">Web4s</option>
+                                    <option value="2">WordPress</option>
+                                </select>
+                            </div>
+                            
+                            <div class="form-group col-md-6">
+                                <!--<label>-->
+                                <!--    Chọn giao diện-->
+                                <!--</label>-->
+
+                                <select name="template" class="form-control chosen-select required" data-placeholder="Chọn giao diện" id="template" aria-required="true">
+                                    <option value="">Chọn giao diện</option>
+                                                                            <optgroup label="Bán Túi xách">
+                                                                                    </optgroup>
+                                                                            <optgroup label="Bán hàng">
+                                                                                            <option services="1" value="1">Thời trang 11</option>
+                                                                                            <option services="1" value="3">Web thời trang 10</option>
+                                                                                            <option services="1" value="8">Điện tử điện lạnh 01</option>
+                                                                                            <option services="1" value="10">Thời trang 09</option>
+                                                                                            <option services="1" value="13">Thời trang 08</option>
+                                                                                            <option services="1" value="28">Bán hàng 04</option>
+                                                                                            <option services="1" value="30">Du lịch 01</option>
+                                                                                            <option services="1" value="35">Thời trang 07</option>
+                                                                                            <option services="1" value="36">Thời trang 05</option>
+                                                                                            <option services="1" value="38">Mỹ phẩm 01</option>
+                                                                                            <option services="1" value="39">Thời trang 01</option>
+                                                                                            <option services="1" value="41">Điện thoại 01</option>
+                                                                                            <option services="1" value="45">Bán hàng 03</option>
+                                                                                            <option services="1" selected="" value="47">Thời trang 02</option>
+                                                                                            <option services="1" value="48">Thời trang 03</option>
+                                                                                            <option services="1" value="52">Bán hàng 02</option>
+                                                                                            <option services="1" value="55">Bán hàng 01</option>
+                                                                                            <option services="1" value="59">Đồng hồ 01</option>
+                                                                                            <option services="1" value="63">Thời trang 04</option>
+                                                                                            <option services="1" value="64">Thời trang 06</option>
+                                                                                            <option services="1" value="73">Thực phẩm 05</option>
+                                                                                            <option services="1" value="76">Nha khoa 01</option>
+                                                                                            <option services="1" value="77">Xây Dựng 01</option>
+                                                                                            <option services="2" value="78">Bất động sản 01</option>
+                                                                                            <option services="2" value="79">Giới thiệu công ty 001</option>
+                                                                                            <option services="2" value="80">Nội thất 001</option>
+                                                                                            <option services="2" value="81">Shop thời trang 001</option>
+                                                                                            <option services="2" value="82">Tin tức 001</option>
+                                                                                            <option services="2" value="83">Tin tức ẩm thực 001</option>
+                                                                                            <option services="2" value="84">Tin tức 002</option>
+                                                                                            <option services="2" value="85">Bất động sản 002</option>
+                                                                                            <option services="2" value="86">Công ty xây dựng 001</option>
+                                                                                            <option services="2" value="87">Dịch vụ vệ sinh công nghiệp 001</option>
+                                                                                            <option services="2" value="89">Đồng hồ thời trang 001</option>
+                                                                                            <option services="2" value="90">Shop thời trang 002</option>
+                                                                                            <option services="2" value="92">Nhà thuốc 001</option>
+                                                                                            <option services="2" value="93">Nhà hàng 001</option>
+                                                                                            <option services="2" value="94">Shop bán hoa quả 001</option>
+                                                                                            <option services="2" value="95">Shop công nghệ 001</option>
+                                                                                            <option services="2" value="97">Shop công nghệ 002</option>
+                                                                                            <option services="2" value="98">Shop công nghệ 003</option>
+                                                                                            <option services="2" value="99">Shop công nghệ 004</option>
+                                                                                            <option services="2" value="100">Shop bán rượu 001</option>
+                                                                                            <option services="2" value="101">Shop bán rượu 002</option>
+                                                                                            <option services="2" value="105">Bege - Mẫu Website Cửa hàng Công nghệ</option>
+                                                                                            <option services="2" value="106">Elemix - Mẫu Website Thời trang hiện đại</option>
+                                                                                            <option services="2" value="107">Famita - Mẫu Website Cửa hàng Thời trang</option>
+                                                                                            <option services="2" value="108">Flaton - Mẫu Website bán đồ Công nghệ</option>
+                                                                                            <option services="2" value="109">Gravity - Mẫu Website Cửa hàng Nội thất</option>
+                                                                                            <option services="2" value="110">Junno - Mẫu Website Thời trang sáng tạo</option>
+                                                                                            <option services="2" value="111">Korando - Mẫu Website cửa hàng Công nghệ, Nội thất</option>
+                                                                                            <option services="2" value="112">Lustria - Mẫu Website Cửa hàng Cây cảnh</option>
+                                                                                            <option services="2" value="113">Orgafe – Mẫu Website Thực phẩm hữu cơ</option>
+                                                                                            <option services="2" value="114">Origine - Mẫu Website Cửa hàng Thực phẩm</option>
+                                                                                            <option services="2" value="115">Retbo – Mẫu Website Cửa hàng Phụ kiện</option>
+                                                                                            <option services="2" value="117">Safira - Mẫu Website Cửa hàng Thực phẩm</option>
+                                                                                            <option services="2" value="119">Bizi - Mẫu Website Blog về Ẩm thực</option>
+                                                                                            <option services="2" value="132">Domnoo - Mẫu Website cửa hàng bánh Pizza</option>
+                                                                                            <option services="2" value="144">Basil - Mẫu Website Lớp học nấu ăn & Hội thảo</option>
+                                                                                            <option services="2" value="145">Edukul - Mẫu Website Khóa học online</option>
+                                                                                            <option services="2" value="146">Edumy - Mẫu Website Giáo dục trực tuyến</option>
+                                                                                            <option services="2" value="147">eLearni - Mẫu Website Khóa học trực tuyến</option>
+                                                                                            <option services="2" value="148">Hogwords - Mẫu Website Trung tâm giáo dục đẹp</option>
+                                                                                            <option services="2" value="149">Kalvi Education - mẫu Website Khóa học online hiện đại</option>
+                                                                                            <option services="2" value="150">Kipso - Mẫu Website LMS giáo dục online</option>
+                                                                                            <option services="2" value="151">Mashura - Mẫu Website Giáo dục & Bán khóa học online</option>
+                                                                                            <option services="2" value="152">Studeon - Mẫu Website bán khóa học online</option>
+                                                                                            <option services="2" value="153">Beyoga - Mẫu Website hướng dẫn tập Yoga</option>
+                                                                                            <option services="2" value="154">Skola - Mẫu Website Khóa học Online LMS</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Bất động sản">
+                                                                                            <option services="1" value="58">Bất động sản 01</option>
+                                                                                            <option services="1" value="67">Bất động sản 02</option>
+                                                                                            <option services="1" value="68">Khách sạn 01</option>
+                                                                                            <option services="1" value="77">Xây Dựng 01</option>
+                                                                                            <option services="2" value="78">Bất động sản 01</option>
+                                                                                            <option services="2" value="85">Bất động sản 002</option>
+                                                                                            <option services="2" value="91">Nội thất 002</option>
+                                                                                            <option services="2" value="140">HomeRadar - Mẫu Website Dự án bất động sản</option>
+                                                                                            <option services="2" value="141">Hompark - Mẫu Website Bất động sản sang trọng</option>
+                                                                                            <option services="2" value="142">HouseRent - Mẫu Website Bất Động Sản Đẹp</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Website theo yêu cầu">
+                                                                                            <option services="1" value="1">Thời trang 11</option>
+                                                                                            <option services="1" value="3">Web thời trang 10</option>
+                                                                                            <option services="1" value="10">Thời trang 09</option>
+                                                                                            <option services="1" value="11">Mẹ và bé 06</option>
+                                                                                            <option services="1" value="35">Thời trang 07</option>
+                                                                                            <option services="1" value="36">Thời trang 05</option>
+                                                                                            <option services="1" value="39">Thời trang 01</option>
+                                                                                            <option services="1" value="42">Doanh nghiệp 01</option>
+                                                                                            <option services="1" value="43">Doanh nghiệp 02</option>
+                                                                                            <option services="1" selected="" value="47">Thời trang 02</option>
+                                                                                            <option services="1" value="48">Thời trang 03</option>
+                                                                                            <option services="1" value="54">Văn phòng phẩm 01</option>
+                                                                                            <option services="1" value="56">Tin tức 01</option>
+                                                                                            <option services="1" value="63">Thời trang 04</option>
+                                                                                            <option services="1" value="64">Thời trang 06</option>
+                                                                                            <option services="1" value="66">Giáo dục 01</option>
+                                                                                            <option services="1" value="67">Bất động sản 02</option>
+                                                                                            <option services="1" value="69">Mẹ và bé 04</option>
+                                                                                            <option services="1" value="71">Thực phẩm 03</option>
+                                                                                            <option services="1" value="74">Thiết kế website trọn gói</option>
+                                                                                            <option services="1" value="76">Nha khoa 01</option>
+                                                                                            <option services="1" value="77">Xây Dựng 01</option>
+                                                                                            <option services="2" value="79">Giới thiệu công ty 001</option>
+                                                                                            <option services="2" value="80">Nội thất 001</option>
+                                                                                            <option services="2" value="81">Shop thời trang 001</option>
+                                                                                            <option services="2" value="82">Tin tức 001</option>
+                                                                                            <option services="2" value="83">Tin tức ẩm thực 001</option>
+                                                                                            <option services="2" value="84">Tin tức 002</option>
+                                                                                            <option services="2" value="85">Bất động sản 002</option>
+                                                                                            <option services="2" value="86">Công ty xây dựng 001</option>
+                                                                                            <option services="2" value="87">Dịch vụ vệ sinh công nghiệp 001</option>
+                                                                                            <option services="2" value="88">Tổ chức sự kiện 001</option>
+                                                                                            <option services="2" value="89">Đồng hồ thời trang 001</option>
+                                                                                            <option services="2" value="90">Shop thời trang 002</option>
+                                                                                            <option services="2" value="91">Nội thất 002</option>
+                                                                                            <option services="2" value="92">Nhà thuốc 001</option>
+                                                                                            <option services="2" value="93">Nhà hàng 001</option>
+                                                                                            <option services="2" value="94">Shop bán hoa quả 001</option>
+                                                                                            <option services="2" value="95">Shop công nghệ 001</option>
+                                                                                            <option services="2" value="96">Spa, Dịch vụ làm đẹp 001</option>
+                                                                                            <option services="2" value="97">Shop công nghệ 002</option>
+                                                                                            <option services="2" value="98">Shop công nghệ 003</option>
+                                                                                            <option services="2" value="99">Shop công nghệ 004</option>
+                                                                                            <option services="2" value="100">Shop bán rượu 001</option>
+                                                                                            <option services="2" value="101">Shop bán rượu 002</option>
+                                                                                            <option services="2" value="105">Bege - Mẫu Website Cửa hàng Công nghệ</option>
+                                                                                            <option services="2" value="106">Elemix - Mẫu Website Thời trang hiện đại</option>
+                                                                                            <option services="2" value="107">Famita - Mẫu Website Cửa hàng Thời trang</option>
+                                                                                            <option services="2" value="108">Flaton - Mẫu Website bán đồ Công nghệ</option>
+                                                                                            <option services="2" value="109">Gravity - Mẫu Website Cửa hàng Nội thất</option>
+                                                                                            <option services="2" value="110">Junno - Mẫu Website Thời trang sáng tạo</option>
+                                                                                            <option services="2" value="111">Korando - Mẫu Website cửa hàng Công nghệ, Nội thất</option>
+                                                                                            <option services="2" value="112">Lustria - Mẫu Website Cửa hàng Cây cảnh</option>
+                                                                                            <option services="2" value="113">Orgafe – Mẫu Website Thực phẩm hữu cơ</option>
+                                                                                            <option services="2" value="114">Origine - Mẫu Website Cửa hàng Thực phẩm</option>
+                                                                                            <option services="2" value="115">Retbo – Mẫu Website Cửa hàng Phụ kiện</option>
+                                                                                            <option services="2" value="118">Bitther - Mẫu Website Tạp chí & Blog</option>
+                                                                                            <option services="2" value="122">Magine - Mẫu Website Blog kinh doanh</option>
+                                                                                            <option services="2" value="123">Multicote - Mẫu Website Tạp chí Tin tức</option>
+                                                                                            <option services="2" value="125">Neder - Mẫu Website Tạp chí & Blog cá nhân</option>
+                                                                                            <option services="2" value="127">Deliciko - Mẫu Website Nhà hàng đẹp</option>
+                                                                                            <option services="2" value="128">Charlostin - Mẫu Website đặt phòng Khách sạn & Resort</option>
+                                                                                            <option services="2" value="131">Delizus - Mẫu Website Nhà hàng và Quán Café</option>
+                                                                                            <option services="2" value="144">Basil - Mẫu Website Lớp học nấu ăn & Hội thảo</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Doanh nghiệp">
+                                                                                            <option services="1" value="1">Thời trang 11</option>
+                                                                                            <option services="1" value="3">Web thời trang 10</option>
+                                                                                            <option services="1" value="10">Thời trang 09</option>
+                                                                                            <option services="1" value="13">Thời trang 08</option>
+                                                                                            <option services="1" value="35">Thời trang 07</option>
+                                                                                            <option services="1" value="36">Thời trang 05</option>
+                                                                                            <option services="1" value="39">Thời trang 01</option>
+                                                                                            <option services="1" value="42">Doanh nghiệp 01</option>
+                                                                                            <option services="1" value="43">Doanh nghiệp 02</option>
+                                                                                            <option services="1" value="44">Doanh nghiệp 03</option>
+                                                                                            <option services="1" selected="" value="47">Thời trang 02</option>
+                                                                                            <option services="1" value="48">Thời trang 03</option>
+                                                                                            <option services="1" value="63">Thời trang 04</option>
+                                                                                            <option services="1" value="64">Thời trang 06</option>
+                                                                                            <option services="1" value="76">Nha khoa 01</option>
+                                                                                            <option services="1" value="77">Xây Dựng 01</option>
+                                                                                            <option services="2" value="79">Giới thiệu công ty 001</option>
+                                                                                            <option services="2" value="92">Nhà thuốc 001</option>
+                                                                                            <option services="2" value="93">Nhà hàng 001</option>
+                                                                                            <option services="2" value="94">Shop bán hoa quả 001</option>
+                                                                                            <option services="2" value="95">Shop công nghệ 001</option>
+                                                                                            <option services="2" value="96">Spa, Dịch vụ làm đẹp 001</option>
+                                                                                            <option services="2" value="97">Shop công nghệ 002</option>
+                                                                                            <option services="2" value="99">Shop công nghệ 004</option>
+                                                                                            <option services="2" value="100">Shop bán rượu 001</option>
+                                                                                            <option services="2" value="101">Shop bán rượu 002</option>
+                                                                                            <option services="2" value="118">Bitther - Mẫu Website Tạp chí & Blog</option>
+                                                                                            <option services="2" value="119">Bizi - Mẫu Website Blog về Ẩm thực</option>
+                                                                                            <option services="2" value="120">Dabba – Mẫu Website Blog & Shop</option>
+                                                                                            <option services="2" value="121">Maaya Blog - Mẫu Website Blog du lịch, cá nhân</option>
+                                                                                            <option services="2" value="122">Magine - Mẫu Website Blog kinh doanh</option>
+                                                                                            <option services="2" value="123">Multicote - Mẫu Website Tạp chí Tin tức</option>
+                                                                                            <option services="2" value="124">Munfarid - Mẫu Website Blog cá nhân</option>
+                                                                                            <option services="2" value="125">Neder - Mẫu Website Tạp chí & Blog cá nhân</option>
+                                                                                            <option services="2" value="126">Pressroom - Mẫu Website Tạp chí & Tin tức</option>
+                                                                                            <option services="2" value="127">Deliciko - Mẫu Website Nhà hàng đẹp</option>
+                                                                                            <option services="2" value="128">Charlostin - Mẫu Website đặt phòng Khách sạn & Resort</option>
+                                                                                            <option services="2" value="131">Delizus - Mẫu Website Nhà hàng và Quán Café</option>
+                                                                                            <option services="2" value="133">Easybook - Mẫu Website đặt phòng Khách sạn và Tour du lịch</option>
+                                                                                            <option services="2" value="134">Gloreya - Mẫu Website cửa hàng đồ ăn nhanh</option>
+                                                                                            <option services="2" value="135">Hotel - Mẫu Website Khách sạn hiện đại</option>
+                                                                                            <option services="2" value="136">Koad - Mẫu Website nhà hàng hiện đại</option>
+                                                                                            <option services="2" value="137">Bigger - Mẫu Website Xây dựng hiện đại</option>
+                                                                                            <option services="2" value="138">Buildbench - Mẫu Website xây dựng công trình</option>
+                                                                                            <option services="2" value="139">Constrau - Mẫu Website Kinh doanh xây dựng đẹp</option>
+                                                                                            <option services="2" value="140">HomeRadar - Mẫu Website Dự án bất động sản</option>
+                                                                                            <option services="2" value="141">Hompark - Mẫu Website Bất động sản sang trọng</option>
+                                                                                            <option services="2" value="142">HouseRent - Mẫu Website Bất Động Sản Đẹp</option>
+                                                                                            <option services="2" value="143">Roof - Mẫu Website Xây Dựng đẹp & hiện đại</option>
+                                                                                            <option services="2" value="153">Beyoga - Mẫu Website hướng dẫn tập Yoga</option>
+                                                                                            <option services="2" value="155">City Hostel | A Travel & Hotel Booking WP Theme</option>
+                                                                                            <option services="2" value="156">Hozing - Hotel Booking WordPress Theme</option>
+                                                                                            <option services="2" value="157">Goto - Tour & Travel WordPress Theme</option>
+                                                                                            <option services="2" value="158">LoveTravel - Travel WordPress Theme</option>
+                                                                                            <option services="2" value="159">Travlio - Travel Booking WordPress Theme</option>
+                                                                                            <option services="2" value="160">UniTravel - Travel Agency & Tourism Bureau WP</option>
+                                                                                            <option services="2" value="161">Tevily - Travel & Tour Booking WordPress Theme</option>
+                                                                                            <option services="2" value="162">Travesia - Travel WordPress Theme</option>
+                                                                                            <option services="2" value="163">Hotel - Mẫu Website Khách sạn hiện đại</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Tin tức">
+                                                                                            <option services="1" value="35">Thời trang 07</option>
+                                                                                            <option services="1" value="36">Thời trang 05</option>
+                                                                                            <option services="1" value="56">Tin tức 01</option>
+                                                                                            <option services="1" value="57">Tin tức 02</option>
+                                                                                            <option services="2" value="82">Tin tức 001</option>
+                                                                                            <option services="2" value="83">Tin tức ẩm thực 001</option>
+                                                                                            <option services="2" value="118">Bitther - Mẫu Website Tạp chí & Blog</option>
+                                                                                            <option services="2" value="119">Bizi - Mẫu Website Blog về Ẩm thực</option>
+                                                                                            <option services="2" value="120">Dabba – Mẫu Website Blog & Shop</option>
+                                                                                            <option services="2" value="121">Maaya Blog - Mẫu Website Blog du lịch, cá nhân</option>
+                                                                                            <option services="2" value="122">Magine - Mẫu Website Blog kinh doanh</option>
+                                                                                            <option services="2" value="123">Multicote - Mẫu Website Tạp chí Tin tức</option>
+                                                                                            <option services="2" value="124">Munfarid - Mẫu Website Blog cá nhân</option>
+                                                                                            <option services="2" value="125">Neder - Mẫu Website Tạp chí & Blog cá nhân</option>
+                                                                                            <option services="2" value="126">Pressroom - Mẫu Website Tạp chí & Tin tức</option>
+                                                                                            <option services="2" value="146">Edumy - Mẫu Website Giáo dục trực tuyến</option>
+                                                                                            <option services="2" value="150">Kipso - Mẫu Website LMS giáo dục online</option>
+                                                                                            <option services="2" value="153">Beyoga - Mẫu Website hướng dẫn tập Yoga</option>
+                                                                                            <option services="2" value="154">Skola - Mẫu Website Khóa học Online LMS</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Du lịch">
+                                                                                            <option services="1" value="30">Du lịch 01</option>
+                                                                                            <option services="2" value="121">Maaya Blog - Mẫu Website Blog du lịch, cá nhân</option>
+                                                                                            <option services="2" value="133">Easybook - Mẫu Website đặt phòng Khách sạn và Tour du lịch</option>
+                                                                                            <option services="2" value="135">Hotel - Mẫu Website Khách sạn hiện đại</option>
+                                                                                            <option services="2" value="155">City Hostel | A Travel & Hotel Booking WP Theme</option>
+                                                                                            <option services="2" value="157">Goto - Tour & Travel WordPress Theme</option>
+                                                                                            <option services="2" value="158">LoveTravel - Travel WordPress Theme</option>
+                                                                                            <option services="2" value="159">Travlio - Travel Booking WordPress Theme</option>
+                                                                                            <option services="2" value="160">UniTravel - Travel Agency & Tourism Bureau WP</option>
+                                                                                            <option services="2" value="161">Tevily - Travel & Tour Booking WordPress Theme</option>
+                                                                                            <option services="2" value="162">Travesia - Travel WordPress Theme</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Bệnh viện">
+                                                                                            <option services="2" value="92">Nhà thuốc 001</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Điện tử điện lạnh">
+                                                                                            <option services="1" value="8">Điện tử điện lạnh 01</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Điện máy">
+                                                                                            <option services="1" value="2">Điện máy 01</option>
+                                                                                            <option services="1" value="6">Điện máy 02</option>
+                                                                                            <option services="1" value="7">Điện thoại 02</option>
+                                                                                            <option services="1" value="8">Điện tử điện lạnh 01</option>
+                                                                                            <option services="1" value="41">Điện thoại 01</option>
+                                                                                            <option services="1" value="59">Đồng hồ 01</option>
+                                                                                            <option services="2" value="105">Bege - Mẫu Website Cửa hàng Công nghệ</option>
+                                                                                            <option services="2" value="108">Flaton - Mẫu Website bán đồ Công nghệ</option>
+                                                                                            <option services="2" value="111">Korando - Mẫu Website cửa hàng Công nghệ, Nội thất</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Đồng hồ">
+                                                                                            <option services="1" value="59">Đồng hồ 01</option>
+                                                                                            <option services="2" value="89">Đồng hồ thời trang 001</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Khách sạn">
+                                                                                            <option services="1" value="68">Khách sạn 01</option>
+                                                                                            <option services="2" value="128">Charlostin - Mẫu Website đặt phòng Khách sạn & Resort</option>
+                                                                                            <option services="2" value="133">Easybook - Mẫu Website đặt phòng Khách sạn và Tour du lịch</option>
+                                                                                            <option services="2" value="135">Hotel - Mẫu Website Khách sạn hiện đại</option>
+                                                                                            <option services="2" value="156">Hozing - Hotel Booking WordPress Theme</option>
+                                                                                            <option services="2" value="163">Hotel - Mẫu Website Khách sạn hiện đại</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Nội thất">
+                                                                                            <option services="1" value="29">Nội thất 11</option>
+                                                                                            <option services="1" value="32">Nội thất 01</option>
+                                                                                            <option services="1" value="33">Nội thất 02</option>
+                                                                                            <option services="1" value="34">Nội thất 10</option>
+                                                                                            <option services="1" value="40">Nội thất 05</option>
+                                                                                            <option services="1" value="61">Nội thất 03</option>
+                                                                                            <option services="1" value="62">Nội thất 06</option>
+                                                                                            <option services="1" value="65">Nội thất 09</option>
+                                                                                            <option services="1" value="74">Thiết kế website trọn gói</option>
+                                                                                            <option services="1" value="75">Nội thất 04</option>
+                                                                                            <option services="2" value="80">Nội thất 001</option>
+                                                                                            <option services="2" value="91">Nội thất 002</option>
+                                                                                            <option services="2" value="109">Gravity - Mẫu Website Cửa hàng Nội thất</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Giáo dục">
+                                                                                            <option services="1" value="66">Giáo dục 01</option>
+                                                                                            <option services="2" value="145">Edukul - Mẫu Website Khóa học online</option>
+                                                                                            <option services="2" value="146">Edumy - Mẫu Website Giáo dục trực tuyến</option>
+                                                                                            <option services="2" value="147">eLearni - Mẫu Website Khóa học trực tuyến</option>
+                                                                                            <option services="2" value="148">Hogwords - Mẫu Website Trung tâm giáo dục đẹp</option>
+                                                                                            <option services="2" value="149">Kalvi Education - mẫu Website Khóa học online hiện đại</option>
+                                                                                            <option services="2" value="150">Kipso - Mẫu Website LMS giáo dục online</option>
+                                                                                            <option services="2" value="151">Mashura - Mẫu Website Giáo dục & Bán khóa học online</option>
+                                                                                            <option services="2" value="152">Studeon - Mẫu Website bán khóa học online</option>
+                                                                                            <option services="2" value="154">Skola - Mẫu Website Khóa học Online LMS</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Điện thoại">
+                                                                                            <option services="1" value="7">Điện thoại 02</option>
+                                                                                            <option services="1" value="41">Điện thoại 01</option>
+                                                                                            <option services="2" value="95">Shop công nghệ 001</option>
+                                                                                            <option services="2" value="97">Shop công nghệ 002</option>
+                                                                                            <option services="2" value="98">Shop công nghệ 003</option>
+                                                                                            <option services="2" value="99">Shop công nghệ 004</option>
+                                                                                            <option services="2" value="108">Flaton - Mẫu Website bán đồ Công nghệ</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Xây dựng">
+                                                                                            <option services="1" value="68">Khách sạn 01</option>
+                                                                                            <option services="1" value="77">Xây Dựng 01</option>
+                                                                                            <option services="2" value="86">Công ty xây dựng 001</option>
+                                                                                            <option services="2" value="137">Bigger - Mẫu Website Xây dựng hiện đại</option>
+                                                                                            <option services="2" value="138">Buildbench - Mẫu Website xây dựng công trình</option>
+                                                                                            <option services="2" value="139">Constrau - Mẫu Website Kinh doanh xây dựng đẹp</option>
+                                                                                            <option services="2" value="143">Roof - Mẫu Website Xây Dựng đẹp & hiện đại</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Nha khoa">
+                                                                                            <option services="1" value="76">Nha khoa 01</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Thẩm mỹ viện">
+                                                                                            <option services="2" value="96">Spa, Dịch vụ làm đẹp 001</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Mỹ phẩm">
+                                                                                            <option services="1" value="38">Mỹ phẩm 01</option>
+                                                                                            <option services="2" value="136">Koad - Mẫu Website nhà hàng hiện đại</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Thời trang">
+                                                                                            <option services="1" value="1">Thời trang 11</option>
+                                                                                            <option services="1" value="3">Web thời trang 10</option>
+                                                                                            <option services="1" value="10">Thời trang 09</option>
+                                                                                            <option services="1" value="13">Thời trang 08</option>
+                                                                                            <option services="1" value="35">Thời trang 07</option>
+                                                                                            <option services="1" value="36">Thời trang 05</option>
+                                                                                            <option services="1" value="39">Thời trang 01</option>
+                                                                                            <option services="1" selected="" value="47">Thời trang 02</option>
+                                                                                            <option services="1" value="48">Thời trang 03</option>
+                                                                                            <option services="1" value="63">Thời trang 04</option>
+                                                                                            <option services="1" value="64">Thời trang 06</option>
+                                                                                            <option services="1" value="70">Mẹ và bé 05</option>
+                                                                                            <option services="2" value="81">Shop thời trang 001</option>
+                                                                                            <option services="2" value="90">Shop thời trang 002</option>
+                                                                                            <option services="2" value="106">Elemix - Mẫu Website Thời trang hiện đại</option>
+                                                                                            <option services="2" value="107">Famita - Mẫu Website Cửa hàng Thời trang</option>
+                                                                                            <option services="2" value="110">Junno - Mẫu Website Thời trang sáng tạo</option>
+                                                                                            <option services="2" value="115">Retbo – Mẫu Website Cửa hàng Phụ kiện</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Nhà hàng">
+                                                                                            <option services="2" value="88">Tổ chức sự kiện 001</option>
+                                                                                            <option services="2" value="93">Nhà hàng 001</option>
+                                                                                            <option services="2" value="127">Deliciko - Mẫu Website Nhà hàng đẹp</option>
+                                                                                            <option services="2" value="131">Delizus - Mẫu Website Nhà hàng và Quán Café</option>
+                                                                                            <option services="2" value="132">Domnoo - Mẫu Website cửa hàng bánh Pizza</option>
+                                                                                            <option services="2" value="133">Easybook - Mẫu Website đặt phòng Khách sạn và Tour du lịch</option>
+                                                                                            <option services="2" value="134">Gloreya - Mẫu Website cửa hàng đồ ăn nhanh</option>
+                                                                                            <option services="2" value="136">Koad - Mẫu Website nhà hàng hiện đại</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Trang sức">
+                                                                                            <option services="1" value="53">Trang sức 01</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Mẹ và bé">
+                                                                                            <option services="1" value="11">Mẹ và bé 06</option>
+                                                                                            <option services="1" value="49">Mẹ và bé 01</option>
+                                                                                            <option services="1" value="50">Mẹ và bé 02</option>
+                                                                                            <option services="1" value="51">Mẹ và bé 03</option>
+                                                                                            <option services="1" value="69">Mẹ và bé 04</option>
+                                                                                            <option services="1" value="70">Mẹ và bé 05</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Thực phẩm">
+                                                                                            <option services="1" value="37">Thực phẩm 01</option>
+                                                                                            <option services="1" value="46">Thực phẩm 02</option>
+                                                                                            <option services="1" value="71">Thực phẩm 03</option>
+                                                                                            <option services="1" value="72">Thực phẩm 04</option>
+                                                                                            <option services="1" value="73">Thực phẩm 05</option>
+                                                                                            <option services="2" value="83">Tin tức ẩm thực 001</option>
+                                                                                            <option services="2" value="94">Shop bán hoa quả 001</option>
+                                                                                            <option services="2" value="113">Orgafe – Mẫu Website Thực phẩm hữu cơ</option>
+                                                                                            <option services="2" value="114">Origine - Mẫu Website Cửa hàng Thực phẩm</option>
+                                                                                            <option services="2" value="117">Safira - Mẫu Website Cửa hàng Thực phẩm</option>
+                                                                                            <option services="2" value="119">Bizi - Mẫu Website Blog về Ẩm thực</option>
+                                                                                            <option services="2" value="132">Domnoo - Mẫu Website cửa hàng bánh Pizza</option>
+                                                                                            <option services="2" value="134">Gloreya - Mẫu Website cửa hàng đồ ăn nhanh</option>
+                                                                                            <option services="2" value="144">Basil - Mẫu Website Lớp học nấu ăn & Hội thảo</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Sách văn phòng phẩm">
+                                                                                            <option services="1" value="54">Văn phòng phẩm 01</option>
+                                                                                            <option services="1" value="66">Giáo dục 01</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Cà phê">
+                                                                                    </optgroup>
+                                                                            <optgroup label="Ảnh viện áo cưới">
+                                                                                    </optgroup>
+                                                                            <optgroup label="Bán đồ chơi">
+                                                                                    </optgroup>
+                                                                            <optgroup label="Bán hoa tươi">
+                                                                                    </optgroup>
+                                                                            <optgroup label="Dạy học trực tuyến">
+                                                                                            <option services="2" value="84">Tin tức 002</option>
+                                                                                            <option services="2" value="145">Edukul - Mẫu Website Khóa học online</option>
+                                                                                            <option services="2" value="146">Edumy - Mẫu Website Giáo dục trực tuyến</option>
+                                                                                            <option services="2" value="147">eLearni - Mẫu Website Khóa học trực tuyến</option>
+                                                                                            <option services="2" value="148">Hogwords - Mẫu Website Trung tâm giáo dục đẹp</option>
+                                                                                            <option services="2" value="149">Kalvi Education - mẫu Website Khóa học online hiện đại</option>
+                                                                                            <option services="2" value="150">Kipso - Mẫu Website LMS giáo dục online</option>
+                                                                                            <option services="2" value="151">Mashura - Mẫu Website Giáo dục & Bán khóa học online</option>
+                                                                                            <option services="2" value="152">Studeon - Mẫu Website bán khóa học online</option>
+                                                                                            <option services="2" value="154">Skola - Mẫu Website Khóa học Online LMS</option>
+                                                                                    </optgroup>
+                                                                            <optgroup label="Kiến trúc đẹp">
+                                                                                            <option services="2" value="86">Công ty xây dựng 001</option>
+                                                                                    </optgroup>
+                                                                    </select>
+
+                                
+                            </div>
+                        </div>
+                        <div id="info-theme" class="form-group info-theme hidden ">
+                            <div class="add-theme">
+                                <img src="" class="img-fluid" alt="">
+                                <div class="btn-xct">
+                                    <a href="#" class="btn btn-ct theme-view-demo" target="_blank">
+                                        Xem demo
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+    					<!--<div class="captcha">-->
+    					<!--    <img src="/uploads/plugin/custom_img/2021-10-09/image-36.png">-->
+    					<!--</div>-->
+                        <div class="form-group mb-0 text-center">
+                            <button id="trial-registration" type="submit" class="bg-main rounded mt-3 mb-3 g-recaptcha color-white fw" data-sitekey="6LeGlsUUAAAAAPkovrZc-PLKh2RACfRdGkJ6Ynk5" data-callback='onSubmitRegisterTrail' data-action='submit'>
+                                Đăng ký dùng thử
+                            </button>
+                            <p class="mb-0 text-center">
+                                Chúng tôi sẽ liên hện bạn thời gian sớm nhất
+                            </p>
+                        </div>
+    
+                        <div class="hidden">
+                            <input type="hidden" name="title" value="Đăng ký dùng thử">
+                            <input type="hidden" id="type" name="type" value="trial_registration">
+                            <input type="hidden" id="check_domain" value="1">
+                            <input type="hidden" id="error_domain" value="">
+    						<input type="hidden" name="recaptcha_response" class="recaptchaResponse">
+                        </div>
+    
+                        <div class="clearfix"></div>
+<div class="warp-loading-block hidden">
+    <div class="warp-bg"></div>
+    <div class="sk-cube-grid ajax-loading-icon">
+        <div class="sk-cube sk-cube1"></div>
+        <div class="sk-cube sk-cube2"></div>
+        <div class="sk-cube sk-cube3"></div>
+        <div class="sk-cube sk-cube4"></div>
+        <div class="sk-cube sk-cube5"></div>
+        <div class="sk-cube sk-cube6"></div>
+        <div class="sk-cube sk-cube7"></div>
+        <div class="sk-cube sk-cube8"></div>
+        <div class="sk-cube sk-cube9"></div>
+    </div>
+</div>
+    
+                    </form>
+                </div>
+
+                <div id="registration-success" class="col-xs-12 col-md-12 mt-5 hidden">
+                    <div class="alert alert-success">
+                        <strong>Thành công!</strong> Bạn đã đăng ký thành công dịch vụ web4s, vui lòng kiểm tra email để lấy thông tin tài khoản. Hoặc xin vui lòng liên lạc vào hotline <b>1900 6680</b> để được hỗ
+                        trợ
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+	
+	function onSubmitRegisterTrail(token) {
+		$("#frm-register-trail").trigger('submit')
+	}
+
+    addLoadEvent(function () {
+        //add theme
+        $(document).on('click', '.add-trial-template', function () {
+            nh_registration.theme_id = typeof ($(this).attr('data-theme')) != 'undefined' ? $(this).attr('data-theme') : '';
+
+            var services = $('#trail-register #template option[value="'+ nh_registration.theme_id +'"]').attr('services');
+            $('#trail-register [name="services"]').val(services);
+            
+            if (typeof ($(this).attr('data-readonly')) != 'undefined' && $(this).attr('data-readonly') == 1 ) {
+                $('select[name="template"]').closest('.form-group').hide()
+                $('.info-theme').hide()
+            };
+
+            $('#trail-register').modal('show')
+        });
+
+        //check domain exist
+        $(document).on('blur', '#domain', function () {
+            var domain = $(this).val();
+            nh_registration.checkDomainExist(domain);
+        });
+
+        $(document).on("change", '#trail-register [name="services"]', function (event) {
+            var services = $(this).val();            
+            $('#trail-register #template option').hide();
+            $('#trail-register #template optgroup').hide();
+            $('#trail-register #template option[services="'+ services +'"]').show();
+            $('#trail-register #template option[services="'+ services +'"]').closest('optgroup').show();
+            $('#trail-register #template').val('').trigger('change');
+        });
+
+        // event change select template
+        $(document).on("change", "#template", function (event) {
+            var theme_id = $(this).val();
+            if (theme_id == '') {
+                $('#info-theme').addClass('hidden');
+            } else {
+                $('#trail-register').find('.warp-loading-block').removeClass('hidden');
+                nh_registration.loadInfoTheme(theme_id, function () {
+                    setTimeout(function () {
+                        $('#trail-register').find('.warp-loading-block').addClass('hidden');
+                    }, 500);
+                });
+            }
+        });
+
+        // event submit form
+        $(document).on("click", "#trial-registration", function (event) {
+            // check domain before submit
+            if ($('#check_domain').val() == 0) {
+                nh_functions.showTooltipError('#domain', $('#error_domain').val());
+                return false;
+            }
+
+            $('#frm-register-trail').submit();
+            return false;
+        });
+
+        $('#trail-register [name="services"]').trigger('change');
+    })
+
+    addLoadEvent(function () {
+
+        $('#trail-register').on('show.bs.modal', function () {
+            $("#frm-send-contact").find('input[type=text],input[type=email]').val('');
+            $('#template').val('').trigger('chosen:updated');
+            $('#info-theme').addClass('hidden');
+
+            $("#frm-send-contact").removeClass('hidden');
+            $('#registration-success').addClass('hidden');
+
+            var theme_id = nh_registration.theme_id;
+            if (theme_id != '' && theme_id > 0) {
+                nh_registration.loadInfoTheme(theme_id);
+            }
+        });
+
+        $.validator.addMethod(
+            "regex",
+            function (value, element, regexp) {
+                var re = new RegExp(regexp);
+                return this.optional(element) || re.test(value);
+            },
+            "regex Mở rộng"
+        );
+        // submit form
+        $("#frm-register-trail").validate({
+            ignore: ":hidden:not(select)",
+            rules: {
+                domain: {
+                    regex: /^[a-zA-Z0-9-]*$/,
+                },
+            },
+            messages: {
+                full_name: {
+                    required: 'Họ và tên không được để trống',
+                },
+                phone: {
+                    required: 'Số điện thoại không được để trống',
+                },
+                title: {
+                    required: 'Tiêu đề không được để trống',
+                },
+                email: {
+                    required: 'Email không được để trống',
+                    email: 'Email không đúng định dạng',
+                },
+                domain: {
+                    required: 'Tên miền không được để trống',
+                    regex: 'Tên miền chưa hợp lệ',
+                },
+                template: {
+                    required: 'Bạn chưa chọn giao diện',
+                },
+            },
+            showErrors: function (errorMap, errorList) {
+                // Clean up any tooltips for valid elements
+                $.each(this.validElements(), function (index, element) {
+                    nh_functions.showTooltipSuccess(element);
+                });
+
+                // Create new tooltips for invalid elements
+                $.each(errorList, function (index, error) {
+                    nh_functions.showTooltipError(error.element, error.message);
+                });
+            },
+            submitHandler: function (form) {
+
+                nh_functions.showLoadingPage();
+                
+                $.ajax({
+                    url: form.action,
+                    type: form.method,
+                    contentType: false,
+                    processData: false,
+                    data: new FormData($(form).get(0)),
+                    dataType: 'json',
+                    success: function (response) {                    
+                        nh_functions.hiddenLoadingPage()
+                        setTimeout(function () {
+                            if (response.code == 'success') {
+                                window.location.href = "https://web4s.vn/dang-ky-thanh-cong";
+                            } else {
+                                nh_functions.showAlertGritter('error', response.messages);
+                            }
+                        }, 500);
+
+                    },
+                    error: function (response, json, errorThrown) {
+                        nh_functions.showAlertGritter('error', response.messages);
+                    }
+                });
+            }
+        });
+    })
+</script>
+</div>
+
+<style type="text/css">
+    .warp-loading-all{
+        z-index: 10000;
+    }
+</style>
+
+<script type="text/javascript">
+
+    var url_demo = "https://fs-05.web4s.vn";
+    $(document).on("click", ".type-item", function (event) {
+        $('#demo-container').html('');
+
+        $('.type-item').removeClass('current');
+        $(this).addClass('current');
+
+        var type = $(this).attr('data-type');
+        var url_iframe = url_demo;
+        switch (type) {
+            case 'desktop':
+                $("#demo-container").attr('style', 'max-width: 100%; max-height: 100%; margin: 0px; top: 0px; left: 0px;');
+                url_iframe = url_demo + '?device=1'
+                break;
+            case 'tablet':
+                $("#demo-container").attr('style', 'max-width: 1024px; max-height: 568px; margin:5% auto;');
+                url_iframe = url_demo + '?device=1'
+                break;
+            case 'mobile':
+                $("#demo-container").attr('style', 'max-width: 375px; max-height: 568px; margin:5% auto;');
+                url_iframe = url_demo + '?device=2'
+                break;
+            
+            default:
+                $("#demo-container").attr('style', 'max-width: 100%; max-height: 100%; margin: 0px; top: 0px; left: 0px;');
+        }
+
+        // reload iframe
+        $('#demo-container').html('<iframe id="frame" src="' + url_iframe + '"></iframe>');
+
+    });
+
+
+   /* $(document).on('click', '.add-trial-template', function () {
+        nh_registration.theme_id = typeof ($(this).attr('data-theme')) != 'undefined' ? $(this).attr('data-theme') : '';
+        $('#trail-register').modal('show')
+    });*/
+</script>

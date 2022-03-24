@@ -1,0 +1,72 @@
+Uri: https://web4s.vn/uploads/plugin/custom_img/2021-10-08/group-10751-2x.jpg
+File Name: D:\cyotek-webcopy\web4s.vn\uploads\plugin\custom_img\2021-10-08\group-10751-2x.jpg
+Content Type: image/jpeg
+
+Uri: https://web4s.vn/uploads/plugin/custom_img/2021-10-08/logo-6me4aonh.png
+File Name: D:\cyotek-webcopy\web4s.vn\uploads\plugin\custom_img\2021-10-08\logo-6me4aonh.png
+Content Type: image/png
+
+Uri: https://web4s.vn/uploads/plugin/setting/3/web4s-fabicon.png
+File Name: D:\cyotek-webcopy\web4s.vn\uploads\plugin\setting\3\web4s-fabicon.png
+Content Type: image/png
+
+Uri: https://web4s.vn/view-demo/fs-05
+File Name: D:\cyotek-webcopy\web4s.vn\view-demo\fs-05.html
+Content Type: text/html
+
+Uri: https://web4s.vn/web4s/assets/css/bootstrap-chosen.css
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\css\bootstrap-chosen.css
+Content Type: text/css
+
+Uri: https://web4s.vn/web4s/assets/css/bootstrap.min.css
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://web4s.vn/web4s/assets/css/fontawesome-all.min.css
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://web4s.vn/web4s/assets/css/style.css
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\css\style.css
+Content Type: text/css
+
+Uri: https://web4s.vn/web4s/assets/css/toastr.min.css
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://web4s.vn/web4s/assets/css/view_demo.css
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\css\view_demo.css
+Content Type: text/css
+
+Uri: https://web4s.vn/web4s/assets/js/bootstrap.min.js
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://web4s.vn/web4s/assets/js/include-all-plugins.js
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\js\include-all-plugins.js
+Content Type: application/javascript
+
+Uri: https://web4s.vn/web4s/assets/js/jquery-2.2.4.min.js
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\js\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://web4s.vn/web4s/assets/js/jquery.validate.min.js
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://web4s.vn/web4s/assets/js/toastr.min.js
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\assets\js\toastr.min.js
+Content Type: application/javascript
+
+Uri: https://web4s.vn/web4s/css/css_custom.css
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\css\css_custom.css
+Content Type: text/css
+
+Uri: https://web4s.vn/web4s/js/main.js
+File Name: D:\cyotek-webcopy\web4s.vn\web4s\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\cyotek-webcopy\web4s.vn\recaptcha\api.js
+Content Type: text/javascript
+

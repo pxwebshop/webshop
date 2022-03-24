@@ -744,7 +744,8 @@ list
     }
     &__item {
         background-color: $colorWhite;
-        box-shadow: 0 0 5px $colorGrey
+        box-shadow: 0 0 5px $colorGrey;
+        height: 100%;
     }
     &__content {
         position: relative;
@@ -768,6 +769,7 @@ list
     }
     &__img {
         overflow: hidden;
+        height: 300px;
         img {
             transition: transform 1s ease-in-out;
         }
