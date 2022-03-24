@@ -3,7 +3,7 @@
 
 <main class="p-news">
     <section class="p-news__sc1">
-        <div class="c-page__heading">
+        <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
                     <h2 class="c-title1 c-title1--color1">Tin tức</h2>
@@ -224,6 +224,7 @@
             </div>
         </div>
     </section>
+
 </main>
 
 <?php get_footer(); ?>

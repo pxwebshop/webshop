@@ -646,3 +646,165 @@ list
     }
 }
 // end: intro
+
+.c-list10 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -30px;
+    &__item {
+        width: 25%;
+        padding-left: 30px;
+        height: 100%;
+        transition: 0.5s;
+        @include max-w(1050px) {
+            width: 33.33%;
+        }
+        @include sp {
+            width: 50%;
+            margin-top: 30px;
+        }
+        @include max-w(600px) {
+            width: 100%;
+            margin-top: 30px;
+        }
+        &:hover {
+            transform: translateY(-5px);
+       }
+    }
+    &__img {
+        display: inline-block;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+        
+    }
+    &__info {
+        margin-top: 10px;
+    }
+    &__title {
+        font-size: 2rem;
+        line-height: 1.5;
+        font-weight: 700;
+        @include sp {
+            font-size: 2.0rem;
+        }
+    }
+    &__time {
+        font-size: 1.1rem;
+        line-height: 1.5;
+        font-style: italic;
+        color: $colorGrey;
+        display: inline;
+        @include sp {
+            display: block;
+        }
+    }
+    &__author{
+        font-size: 1.1rem;
+        line-height: 1.5;
+        color: $colorGrey;
+        display: inline;
+        float: right;
+        @include sp {
+            display: block;
+            float: none;
+        }
+    }
+    &__txt {
+        font-size: 1.4rem;
+        line-height: 1.5;
+        color: $colorBlack;
+        text-align: justify;
+        margin-top: 5px;
+        @include sp {
+            font-size: 1.5rem;
+        }
+    }
+}
+
+// list interface stock
+.c-list11 {
+    $root: &;
+    display: flex;
+    margin-left: -30px;
+    flex-wrap: wrap;
+    &__wrap {
+        width: 25%;
+        padding-left: 30px;
+        padding-bottom: 30px;
+        @include max-w(880px) {
+            width: 33.33%;
+        }
+        @include max-w(620px) {
+            width: 50%;
+        }
+        @include max-w(420px) {
+            width: 100%;
+        }
+    }
+    &__item {
+        background-color: $colorWhite;
+        box-shadow: 0 0 5px $colorGrey;
+        height: 100%;
+    }
+    &__content {
+        position: relative;
+        &:hover {
+            #{$root}__link {
+                display: block;
+            }
+        }
+    }
+    &__link {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        text-align: center;
+        display: inline;
+        padding: 15px;
+        background-color: rgba(1, 1, 1, 0.5);
+        color: $colorWhite;
+        font-size: 1.4rem;
+        display: none;
+    }
+    &__img {
+        overflow: hidden;
+        height: 300px;
+        img {
+            transition: transform 1s ease-in-out;
+        }
+        &:hover {
+            img {
+                transform: scale(1.2);
+            }  
+            .c-list11__link {
+                display: block;
+            }
+        }
+    }
+    &__demo, &__detail {
+        background-color: $colorBlack;
+        line-height: 1.5;
+        padding: 10px;
+        border-radius: 7px;
+        &:hover {
+            opacity: 0.7;
+        }
+    }
+    &__info {
+        padding: 15px;
+        text-align: center;
+    }
+    &__tag {
+        font-size: 1.4rem;
+        line-height: 1.5;
+        color:$colorGrey;
+    }
+    &__name {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        font-weight: 600;
+        color: $colorBlue6;
+    }
+}
+// end: list interface stock

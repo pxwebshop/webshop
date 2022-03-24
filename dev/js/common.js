@@ -1,6 +1,5 @@
 "use strict";
 
-
 //modal
 var btnOpenModal1 = document.getElementById('btnOpenModal1');
 var btnOpenModal2 = document.getElementById('btnOpenModal2');
@@ -11,34 +10,110 @@ var btnExitModal = document.getElementById('btnExitModal');
 
 var modal = document.getElementById('modal');
 
-btnOpenModal1.onclick = function() {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+// trong page ko tìm được document.getElementById('btnOpenModal1');
+// sẽ dẫn đến bị lỗi. Null ko thể tìm thấy. Em debug để phát triền kĩ năng nha
+if(btnOpenModal1 !== null) {
+	btnOpenModal1.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnOpenModal2.onclick = function() {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+if(btnOpenModal2 !== null){
+	btnOpenModal2.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnOpenModal3.onclick = function() {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+
+if(btnOpenModal3 !== null){
+	btnOpenModal3.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnOpenModal4.onclick = function() {
-	modal.style.display = "flex";
-	document.body.style.overflow = "hidden";
+if(btnOpenModal4 !== null){
+	btnOpenModal4.onclick = function () {
+		modal.style.display = "flex";
+		document.body.style.overflow = "hidden";
+	}
 }
-btnExitModal.onclick = function() {
-	modal.style.display = "none";
-	document.body.style.overflow = "scroll";
+if(btnExitModal !== null) {
+	btnExitModal.onclick = function () {
+		modal.style.display = "none";
+		document.body.style.overflow = "scroll";
+	}
 }
+
 //end: modal
 
 
 $(document).ready(function () {
-	//console.log( "document loaded" );
-});
+	$(".c-header__gnav__btn").click(function() {
+		if ($(this).hasClass("open")) {
+			$(this).removeClass("open");
+		} else {
+			$(this).addClass("open");
+		}
+		
+		if ($("body").css('overflow') == 'hidden') {
+			$("body").css("overflow", "");
+		} else {
+			$("body").css("overflow", "hidden");
+		}
+		$(".c-header__gnav__child").slideToggle();
+	});
 
-$(document).ready(function () {
+	$(".c-header__gnav__parent").click(function() {
+
+		if (!$(this).hasClass("is-show")) {
+			$(this).children().next().hide();
+			$(this).children().next().next().show();
+			$(this).addClass("is-show");
+		} else {
+			$(this).children().next().show();
+			$(this).children().next().next().hide();
+			$(this).removeClass("is-show");
+		}
+
+		$(this).next().slideToggle();
+	});
+	// menu
+	$(".c-header__item").click(function() {
+		if($(".is-searchMenu").hasClass("is-search")) {
+			$(".is-searchMenu").removeClass("is-search");
+			$(".c-header__search").hide();
+		}
+
+		if($(this).hasClass("is-click")) {
+			$(this).children().next().slideToggle();
+			$(this).removeClass("is-click");
+		} else {
+			$(".c-header__item").each(function() {
+				if($(this).hasClass("is-click")) {
+					$(this).children().next().hide();
+					$(this).removeClass("is-click");	
+				}
+			});
+
+			$(this).children().next().slideToggle();
+			$(this).addClass("is-click");
+		}
+	});
+
+	$(".is-searchMenu").click(function() {
+		$(".c-header__item").each(function() {
+			$(this).children().next().hide();
+			$(this).removeClass("is-click");
+		});
+
+		$(this).next().slideToggle();
+		if ($(this).hasClass("is-search")) {
+			$(this).removeClass("is-search");
+		} else {
+			$(this).addClass("is-search");
+		}
+	});
+
 	$(".c-list6").slick({
 		slidesToShow: 8,
 		dots: true,
@@ -71,3 +146,28 @@ $(document).ready(function () {
 	});
 });
 
+
+
+// Show/Hide table of contents
+var showTableOfContent = document.getElementById('showTableOfContent');
+var hideTableOfContent = document.getElementById('hideTableOfContent');
+var tableOfContent = document.getElementsByClassName('c-detail__ItemContent');
+
+if(showTableOfContent !== null && hideTableOfContent !== null) {
+	if(window.getComputedStyle(showTableOfContent, null).display === 'none' || window.getComputedStyle(hideTableOfContent, null).display === 'none') {
+		hideTableOfContent.onclick = function() {
+		  showTableOfContent.style.display = 'inline';
+		  hideTableOfContent.style.display = 'none';
+		  tableOfContent[0].style.display = 'none';
+		}
+		showTableOfContent.onclick = function() {
+		  hideTableOfContent.style.display = 'inline';
+		  showTableOfContent.style.display = 'none';
+		  tableOfContent[0].style.display = 'block';
+		}
+	  } 
+}
+
+
+
+// end: Show/Hide table of contents
