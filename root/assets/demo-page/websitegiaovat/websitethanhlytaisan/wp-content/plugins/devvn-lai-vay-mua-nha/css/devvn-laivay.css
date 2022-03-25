@@ -1,0 +1,261 @@
+.devvn_laivay_muanha, .devvn_laivay_muanha * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+.index-value-interest-retes .title {
+    font-size: 15px;
+    color: #1c345f;
+    font-weight: 500;
+    padding: 10px 0;
+    margin: 0;
+}
+.index-value-interest-retes .text-input {
+    color: #4c4c4c;
+    border-radius: 5px;
+    border: 1px solid #ebebeb;
+    background: #f9fafb;
+}
+.index-value-interest-retes .text-input input.txt-input {
+    width: 80%;
+    width: calc(100% - 70px);
+    width: -webkit-calc(100% - 70px);
+    width: -moz-calc(100% - 70px);
+    border: 0;
+    background: transparent;
+    outline: none;
+    height: 32px;
+    padding: 0 8px;
+}
+.index-value-interest-retes .text-input span.quantitative {
+    width: 65px;
+    display: inline-block;
+    text-align: right;
+    padding-right: 10px;
+}
+.text-input select {
+    width: 100%;
+    border: none;
+    padding: 6px 5px;
+    font-size: 14px;
+    background: #f9fafb;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+.index-value-interest-retes {
+    width: 49%;
+    float: left;
+}
+.content-value-interest-retes .payment {
+    width: 49%;
+    float: right;
+}
+.total-payment {
+    padding: 30px 20px 20px 20px;
+    margin-bottom: 18px;
+    width: 100%;
+    border-radius: 5px;
+    display: inline-block;
+    float: left;
+    border: 1px solid #ebebeb;
+}
+p.txt-payment {
+    color: #4e4e4e;
+    font-weight: 700;
+    font-size: 15px;
+    margin: 0;
+}
+p.txt-index-payment {
+    font-size: 230%;
+    color: #0298da;
+    font-weight: 700;
+    margin: 0;
+}
+button.btn-calculator {
+    display: none;
+}
+.devvn_laivay_muanha p {
+    margin: 0 !important;
+}
+.tbl-detail-payment {
+    display: none;
+    width: 100%;
+    margin: 30px 0;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.tbl-detail-payment table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0;
+}
+
+.tbl-detail-payment table thead {
+    background: #27406d;
+}
+.tbl-detail-payment table thead th {
+    color: #fff;
+    padding: 10px 4px;
+    font-size: 15px;
+    text-transform: none;
+    font-weight: 700;
+    text-align: center;
+}
+.tbl-detail-payment table tbody tr td{
+    border-right: 1px solid #ebebeb;
+    text-align: center;
+    padding: 10px 0;
+}
+.tbl-detail-payment table tbody tr:nth-child(2n+2) {
+    background: #f5f5f5;
+}
+.tbl-detail-payment table tbody tr td:last-child {
+    border-right: 0;
+}
+.tbl-detail-payment table>tfoot>tr>td {
+    color: #3d4d64;
+    font-weight: 500;
+    padding: 16px;
+    font-size: 18px;
+    text-align: center;
+    background: #d4e3f3;
+}
+.detail-payment button {
+    border: 1px solid #0298da;
+    background: #fff;
+    color: #0298da;
+    font-weight: 700;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    outline: 0;
+}
+.detail-payment button ~ button {
+    margin-left: 10px;
+}
+.detail-payment button:hover {
+    color: #fff;
+    background: #0298da;
+}
+.form-email {
+    border: 1px solid #e40e08;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+.form-email {
+    display: none;
+}
+.email-input {
+    -js-display: flex;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    width: 100%;
+}
+.email_input_col_grow{
+    -ms-flex: 1;
+    flex: 1;
+    -ms-flex-negative: 1;
+    -ms-flex-preferred-size: auto!important;
+    max-height: 100%;
+}
+.email-input input {
+    height: 35px;
+    border-right: 0;
+    border-radius: 3px 0 0 3px;
+    outline: none;
+    padding: 0 10px;
+    width: 100%;
+}
+.email-input button.btn-submit-sendmail {
+    max-height: 100%;
+    background: #dd3333;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 0;
+    border-radius: 0 3px 3px 0;
+    height: 35px;
+    outline: none;
+    white-space: nowrap;
+    padding: 0 10px;
+}
+button.btn-open-mailform {
+    background: #0298da;
+    color: #fff;
+}
+
+.form-email input {
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    margin: 0 0 6px 0;
+    padding: 0 10px;
+    height: 35px;
+}
+.form-email input.wpcf7-form-control.wpcf7-submit {
+    background: #dd3333;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 14px;
+    border: 0;
+    width: auto;
+    height: 35px;
+    padding: 0 15px;
+}
+.form-email form {
+    margin: 0;
+}
+.form-email div.wpcf7-response-output {
+    margin: 5px 0;
+}
+.form-email span.wpcf7-not-valid-tip {
+    font-size: 12px;
+}
+
+@media (max-width: 767px){
+    .index-value-interest-retes,.content-value-interest-retes .payment {
+        width: 100%;
+        float: none;
+    }
+    .index-value-interest-retes {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 560px){
+    .tbl-detail-payment {
+        overflow-x: auto;
+    }
+    .tbl-detail-payment table thead th {
+        white-space: nowrap;
+        font-size: 11px;
+        font-weight: 400;
+        padding: 3px;
+    }
+    .tbl-detail-payment table tbody tr td {
+        padding: 3px;
+    }
+    .detail-payment button {
+        width: 100%;
+        margin: 0 0 10px 0 !important;
+    }
+    .total-payment {
+        padding: 10px;
+    }
+}
+

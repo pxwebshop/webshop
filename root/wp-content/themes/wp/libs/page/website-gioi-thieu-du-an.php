@@ -33,7 +33,23 @@
                 <li class="c-stock__tagItem"><a href="/kho-giao-dien/danh-muc-khac">Danh mục khác</a></li>
             </ul>
             <div class="c-list11">
-                
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://websiteviet.vn/wp-content/uploads/2021/06/bds-scaled.jpg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitebatdongsan/websitebatdongsan/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web giới thiệu dự án</p>
+                            <p class="c-list11__name">Mẫu web bất động sản</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

@@ -307,6 +307,75 @@
                         </div>
                     </div>
                 </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://websiteviet.vn/wp-content/uploads/2021/06/tintuc6nbw.jpeg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitetintuc/websitetintuc1/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web tin tức</p>
+                            <p class="c-list11__name">Mẫu web tin tức 1</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://citweb.net/wp-content/uploads/2022/01/maubdsraovat.jpg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitegiaovat/websitegiaovatbatdongsan/demo-2.html" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web rao vặt</p>
+                            <p class="c-list11__name">Mẫu web rao vặt bất động sản</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://websiteviet.vn/wp-content/uploads/2021/06/thanhlybds.jpg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitegiaovat/websitethanhlytaisan/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web rao vặt</p>
+                            <p class="c-list11__name">Mẫu web thanh lý tài sản thế chấp của ngân hàng</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://websiteviet.vn/wp-content/uploads/2020/08/salecar2.websiteviet.vn_.png" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitebanhang/websitebanphukienxehoi/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web bán hàng</p>
+                            <p class="c-list11__name">Mẫu web bán phụ kiện xe hơi</p>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
         </div>
     </div>
