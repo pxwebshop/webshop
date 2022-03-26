@@ -1,0 +1,8 @@
+Uri: http://pixelcurve.epizy.com/aes.js
+File Name: D:\cyotek-webcopy\pixelcurve.epizy.com\aes.js
+Content Type: application/javascript
+
+Uri: http://pixelcurve.epizy.com/rappix-live/index-s2.html
+File Name: D:\cyotek-webcopy\pixelcurve.epizy.com\rappix-live\index-s2.html
+Content Type: text/html
+

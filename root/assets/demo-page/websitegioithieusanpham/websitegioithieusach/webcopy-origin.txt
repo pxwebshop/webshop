@@ -1,0 +1,420 @@
+Uri: http://edu9.ninhbinhweb.info/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/300-ten-tieng-anh-hay-danh-cho-nam-va-nu-y-nghia-nhat/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\300-ten-tieng-anh-hay-danh-cho-nam-va-nu-y-nghia-nhat\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/300-ten-tieng-anh-hay-danh-cho-nam-va-nu-y-nghia-nhat/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\300-ten-tieng-anh-hay-danh-cho-nam-va-nu-y-nghia-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/audio/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\audio\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/cach-hoc-ngu-phap-tieng-anh-trong-3-buoc-don-gian-den-bat-ngo/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cach-hoc-ngu-phap-tieng-anh-trong-3-buoc-don-gian-den-bat-ngo\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/cach-hoc-ngu-phap-tieng-anh-trong-3-buoc-don-gian-den-bat-ngo/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cach-hoc-ngu-phap-tieng-anh-trong-3-buoc-don-gian-den-bat-ngo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/cai-thien-cach-doc-tieng-anh-cua-ban-voi-8-buoc-don-gian/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cai-thien-cach-doc-tieng-anh-cua-ban-voi-8-buoc-don-gian\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/cai-thien-cach-doc-tieng-anh-cua-ban-voi-8-buoc-don-gian/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cai-thien-cach-doc-tieng-anh-cua-ban-voi-8-buoc-don-gian\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/cau-chuyen-thanh-cong/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cau-chuyen-thanh-cong\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/cau-chuyen-thanh-cong/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cau-chuyen-thanh-cong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/cau-dieu-kien-cong-thuc-cach-dung-va-ung-dung/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cau-dieu-kien-cong-thuc-cach-dung-va-ung-dung\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/cau-dieu-kien-cong-thuc-cach-dung-va-ung-dung/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\cau-dieu-kien-cong-thuc-cach-dung-va-ung-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/comments/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/giam-doc-dong-san-pham/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\giam-doc-dong-san-pham\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/giam-doc-dong-san-pham/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\giam-doc-dong-san-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/gioi-thieu/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/hack-nao-ielts/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\hack-nao-ielts\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/lien-he/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/quan-ly-dao-tao-va-phat-trien/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\quan-ly-dao-tao-va-phat-trien\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/quan-ly-dao-tao-va-phat-trien/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\quan-ly-dao-tao-va-phat-trien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/tat-tan-tat-ve-menh-de-quan-he-trong-tieng-anh/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\tat-tan-tat-ve-menh-de-quan-he-trong-tieng-anh\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/tat-tan-tat-ve-menh-de-quan-he-trong-tieng-anh/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\tat-tan-tat-ve-menh-de-quan-he-trong-tieng-anh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/thang-diem-toeic-va-cach-tinh-diem-moi-nhat-2019/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\thang-diem-toeic-va-cach-tinh-diem-moi-nhat-2019\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/thang-diem-toeic-va-cach-tinh-diem-moi-nhat-2019/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\thang-diem-toeic-va-cach-tinh-diem-moi-nhat-2019\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/tin-tuc/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/truong-phong-marketing/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\truong-phong-marketing\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/truong-phong-marketing/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\truong-phong-marketing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/tuyen-dung/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: http://edu9.ninhbinhweb.info/tuyen-dung/feed/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\tuyen-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/cache/min/1/1a6d10499c8da38380c3ccba52275f28.js
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\cache\min\1\1a6d10499c8da38380c3ccba52275f28.js
+Content Type: application/x-javascript
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/cache/min/1/1ed57cf252bcbcd248e7d2395fdc6a2d.js
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\cache\min\1\1ed57cf252bcbcd248e7d2395fdc6a2d.js
+Content Type: application/x-javascript
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/cache/min/1/5cec8d7dc8a7f4a09f2cc3051776947f.js
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\cache\min\1\5cec8d7dc8a7f4a09f2cc3051776947f.js
+Content Type: application/x-javascript
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/cache/min/1/70782b703b67787f8873e77750e755cd.js
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\cache\min\1\70782b703b67787f8873e77750e755cd.js
+Content Type: application/x-javascript
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/cache/min/1/bdbd5589c443dfcbc2675e2261aa835f.css
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\cache\min\1\bdbd5589c443dfcbc2675e2261aa835f.css
+Content Type: text/css
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/lazy.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\lazy.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/1234-300x280.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\1234-300x280.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/1234.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\1234.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/3-1-150x150.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\3-1-150x150.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/3-1.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\3-1.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/300-tên-tiếng-Anh-hay-dành-cho-nam-và-nữ-ý-nghĩa-nhất-01-1080x675-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\300-tên-tiếng-Anh-hay-dành-cho-nam-và-nữ-ý-nghĩa-nhất-01-1080x675-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/4-1-150x150.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\4-1-150x150.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/4-1.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\4-1.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/4-150x150.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\4-150x150.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/4.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\4.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/567-300x280.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\567-300x280.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/567.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\567.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/6789-300x223.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\6789-300x223.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/6789.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\6789.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/8-BƯỚC-CẢI-THIỆN-CÁCH-ĐỌC-TA-1080x675-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\8-BƯỚC-CẢI-THIỆN-CÁCH-ĐỌC-TA-1080x675-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/bg-news.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\bg-news.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/bg2.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/bg6.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\bg6.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/CÁCH-HỌC-NGỮ-PHÁP-TA-VỚI-3-BƯỚC-1080x675-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\CÁCH-HỌC-NGỮ-PHÁP-TA-VỚI-3-BƯỚC-1080x675-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/CẤU-TRÚC-CÂU-ĐIỀU-KIỆN-1080x675-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\CẤU-TRÚC-CÂU-ĐIỀU-KIỆN-1080x675-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/CEO-Mini-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\CEO-Mini-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/check@2x.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\check@2x.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/CLO-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\CLO-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/CMO-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\CMO-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuseart-180x180.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuseart-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuseart-192x192.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuseart-192x192.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuseart-32x32.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuseart-32x32.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/line-1.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\line-1.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/logo-light-300x63.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\logo-light-300x63.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/logo2.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\logo2.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/MỆNH-ĐỀ-QUAN-HỆ-1080x675-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\MỆNH-ĐỀ-QUAN-HỆ-1080x675-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/pikbest_263002_818-large-geometric-flat-taobao-train-background-map-150x150.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\pikbest_263002_818-large-geometric-flat-taobao-train-background-map-150x150.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/pikbest_263002_818-large-geometric-flat-taobao-train-background-map-300x300.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\pikbest_263002_818-large-geometric-flat-taobao-train-background-map-300x300.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/pikbest_263002_818-large-geometric-flat-taobao-train-background-map.png
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\pikbest_263002_818-large-geometric-flat-taobao-train-background-map.png
+Content Type: image/png
+
+Uri: http://edu9.ninhbinhweb.info/wp-content/uploads/2019/08/THANG-ĐIỂM-VÀ-CÁCH-TÍNH-ĐIỂM-TOEIC-1080x675-150x150.jpg
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2019\08\THANG-ĐIỂM-VÀ-CÁCH-TÍNH-ĐIỂM-TOEIC-1080x675-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://edu9.ninhbinhweb.info/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/pages/25
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\pages\25
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/pages/29
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\pages\29
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/pages/40
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\pages\40
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/567
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\567
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/570
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\570
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/573
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\573
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/619
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\619
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/622
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\622
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/625
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\625
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/628
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\628
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/631
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\631
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/wp-json/wp/v2/posts/634
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-json\wp\v2\posts\634
+Content Type: application/json
+
+Uri: http://edu9.ninhbinhweb.info/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://media3.webcollage.net/760729857a27375eb61831c37db20be8476d566d?Signature=SeLcqEod8%2B7XaBSpmIfiYl%2BjAKQ%3D&AWSAccessKeyId=AKIAIIE5CHZ4PRWSLYKQ&Expires=1893508456&response-content-type=application/pdf
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\760729857a27375eb61831c37db20be8476d566d
+Content Type: application/pdf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252F300-ten-tieng-anh-hay-danh-cho-nam-va-nu-y-nghia-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Fcach-hoc-ngu-phap-tieng-anh-trong-3-buoc-don-gian-den-bat-ngo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Fcai-thien-cach-doc-tieng-anh-cua-ban-voi-8-buoc-don-gian%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Fcau-dieu-kien-cong-thuc-cach-dung-va-ung-dung%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Fgiam-doc-dong-san-pham%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Fquan-ly-dao-tao-va-phat-trien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Ftat-tan-tat-ve-menh-de-quan-he-trong-tieng-anh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Fthang-diem-toeic-va-cach-tinh-diem-moi-nhat-2019%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fedu9.ninhbinhweb.info%252Ftruong-phong-marketing%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://www.readingsanctuary.com/wp-content/uploads/2018/10/M.-R.-Carey-The-Girl-With-All-the-Gifts.pdf
+File Name: C:\Downloaded Web Sites\edu9.ninhbinhweb.info\wp-content\uploads\2018\10\M.-R.-Carey-The-Girl-With-All-the-Gifts.pdf
+Content Type: application/pdf
+

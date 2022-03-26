@@ -1,0 +1,256 @@
+Uri: http://codestar.xyz/demo/applan/
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\index.htm
+Content Type: text/html
+
+Uri: http://codestar.xyz/demo/applan/css/all.css
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\css\all.css
+Content Type: text/css
+
+Uri: http://codestar.xyz/demo/applan/css/animate.css
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\css\animate.css
+Content Type: text/css
+
+Uri: http://codestar.xyz/demo/applan/css/bootstrap.min.css
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://codestar.xyz/demo/applan/css/style.css
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\css\style.css
+Content Type: text/css
+
+Uri: http://codestar.xyz/demo/applan/images/banner.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\banner.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/bars.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\bars.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/blog-image-1.jpg
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\blog-image-1.jpg
+Content Type: image/jpeg
+
+Uri: http://codestar.xyz/demo/applan/images/blog-image-2.jpg
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\blog-image-2.jpg
+Content Type: image/jpeg
+
+Uri: http://codestar.xyz/demo/applan/images/blog-image-3.jpg
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\blog-image-3.jpg
+Content Type: image/jpeg
+
+Uri: http://codestar.xyz/demo/applan/images/favicon.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\favicon.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/feature-icon-1.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\feature-icon-1.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/feature-icon-2.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\feature-icon-2.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/feature-icon-3.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\feature-icon-3.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/feature-icon-4.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\feature-icon-4.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/feature.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\feature.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/logo.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\logo.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/people/1.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\people\1.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/people/2.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\people\2.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/people/3.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\people\3.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/people/4.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\people\4.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/people/5.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\people\5.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/phone-1.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\phone-1.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/phone-2.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\phone-2.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/phone-3.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\phone-3.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/phone.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\phone.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/images/screen.jpg
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\screen.jpg
+Content Type: image/jpeg
+
+Uri: http://codestar.xyz/demo/applan/images/testimonial.png
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\images\testimonial.png
+Content Type: image/png
+
+Uri: http://codestar.xyz/demo/applan/js/bootstrap.min.js
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://codestar.xyz/demo/applan/js/custom.js
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\js\custom.js
+Content Type: application/javascript
+
+Uri: http://codestar.xyz/demo/applan/js/jquery-contact.js
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\js\jquery-contact.js
+Content Type: application/javascript
+
+Uri: http://codestar.xyz/demo/applan/js/jquery.ajaxchimp.min.js
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\js\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: http://codestar.xyz/demo/applan/js/jquery.min.js
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://codestar.xyz/demo/applan/js/wow.min.js
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\js\wow.min.js
+Content Type: application/javascript
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-brands-400.eot
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-brands-400.eot?
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-brands-400.svg
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-brands-400.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-brands-400.woff
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-brands-400.woff2
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-regular-400.eot
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-regular-400.eot?
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-regular-400.svg
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-regular-400.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-regular-400.woff
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-regular-400.woff2
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-solid-900.eot
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-solid-900.eot?
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-solid-900.svg
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-solid-900.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-solid-900.woff
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://codestar.xyz/demo/applan/webfonts/fa-solid-900.woff2
+File Name: D:\cyotek-webcopy\codestar.xyz\demo\applan\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700&display=swap
+File Name: D:\cyotek-webcopy\codestar.xyz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: D:\cyotek-webcopy\codestar.xyz\s\poppins\v19\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+

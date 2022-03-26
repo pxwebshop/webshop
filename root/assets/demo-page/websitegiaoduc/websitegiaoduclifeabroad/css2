@@ -1,0 +1,77 @@
+﻿@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/mitr/v9/pxiEypw5ucZF8ZcaFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/mitr/v9/pxiLypw5ucZFyTs.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Mitr';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/mitr/v9/pxiEypw5ucZF8eMcFJA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/sarabun/v12/DtVmJx26TKEr37c9YL5rulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/sarabun/v12/DtVjJx26TKEr37c9WBI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/sarabun/v12/DtVmJx26TKEr37c9YOZqulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/sarabun/v12/DtVmJx26TKEr37c9YK5sulw.ttf) format('truetype');
+}

@@ -87,6 +87,91 @@
                         </div>
                     </div>
                 </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://websiteviet.vn/wp-content/uploads/2020/10/vientoc.websiteviet.vn_.png" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitegiaoduc/websitevientoc/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web giáo dục</p>
+                            <p class="c-list11__name">Mẫu web viện tóc</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://southteam.vn/wp-content/uploads/2018/03/mau-website-giao-duc-Edumart-745x1024.jpg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitegiaoduc/websitegiaoducedumart/edumart/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web giáo dục</p>
+                            <p class="c-list11__name">Mẫu web giáo dục Edumart</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://southteam.vn/wp-content/uploads/2018/03/mau-website-giao-duc-educate-745x1024.jpg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitegiaoduc/websitegiaoduceducate/html/educate/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web giáo dục</p>
+                            <p class="c-list11__name">Mẫu web giáo dục Educate</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://www.mypage.vn/wp-content/uploads/2020/10/resized/gia-su-so-1-350x656.jpg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitegiaoduc/websitegiasu/giasusomot/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web giáo dục</p>
+                            <p class="c-list11__name">Mẫu web gia sư</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list11__wrap">
+                    <div class="c-list11__item">
+                        <div class="c-list11__content">
+                            <figure class="c-list11__img">
+                                <img src="https://www.mypage.vn/wp-content/uploads/2020/11/resized/giao-duc-life-abroad-350x1039.jpg" alt="">
+                            </figure>
+                            <div class="c-list11__link">
+                                <a href="/assets/demo-page/websitegiaoduc/websitegiaoduclifeabroad/lifeabroad/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                            </div>
+                        </div>
+                        <div class="c-list11__info">
+                            <p class="c-list11__tag">Web giáo dục</p>
+                            <p class="c-list11__name">Mẫu web giáo dục life abroad</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

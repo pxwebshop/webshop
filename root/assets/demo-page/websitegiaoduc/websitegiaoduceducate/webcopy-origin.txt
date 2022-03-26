@@ -1,0 +1,612 @@
+Uri: http://themesflat.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\index.htm
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/about-us.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\about-us.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/blog-single.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\blog-single.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/blog.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\blog.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/contact.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\contact.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/courses-grid-sidebar.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\courses-grid-sidebar.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/courses-grid.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\courses-grid.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/courses-list-sidebar.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\courses-list-sidebar.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/courses-single.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\courses-single.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/fonts/fontawesome-webfont.eot?
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themesflat.com/html/educate/fonts/fontawesome-webfont.eot?v=4.6.1
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themesflat.com/html/educate/fonts/fontawesome-webfont.svg?v=4.6.1
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://themesflat.com/html/educate/fonts/fontawesome-webfont.ttf?v=4.6.1
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://themesflat.com/html/educate/fonts/fontawesome-webfont.woff2?v=4.6.1
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: http://themesflat.com/html/educate/fonts/fontawesome-webfont.woff?v=4.6.1
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://themesflat.com/html/educate/icon/apple-touch-icon-48-precomposed.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\icon\apple-touch-icon-48-precomposed.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/icon/apple-touch-icon-57-precomposed.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\icon\apple-touch-icon-57-precomposed.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/icon/favicon.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\icon\favicon.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/about/faq.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\about\faq.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/1singlev1.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\1singlev1.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/blog/2singlev1.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\2singlev1.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/blog/3singlev1.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\3singlev1.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/blog/4singlev1.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\4singlev1.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-01.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-01.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-02.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-02.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-03.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-03.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-04.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-04.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-05.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-05.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-06.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-06.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-07.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-07.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Blog-08.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Blog-08.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/bs.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\bs.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/bs1.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\bs1.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Footer-01.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Footer-01.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/blog/Footer-02.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Footer-02.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/blog/Footer-03.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\blog\Footer-03.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/clients/Logo-01.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\clients\Logo-01.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/clients/Logo-02.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\clients\Logo-02.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/clients/Logo-03.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\clients\Logo-03.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/clients/Logo-04.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\clients\Logo-04.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/clients/Logo-05.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\clients\Logo-05.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/clients/Logo-06.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\clients\Logo-06.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/1.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\1.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/2.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\2.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/3.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\3.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/4.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\4.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/5.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\5.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/6.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\6.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/7.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\7.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/8.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\8.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/flickr/9.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\flickr\9.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/icon/arrow.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\icon\arrow.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/icon/c1.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\icon\c1.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/icon/c2.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\icon\c2.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/icon/c3.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\icon\c3.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/index/bg-news-letter.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\bg-news-letter.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/bg-testimonial.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\bg-testimonial.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/Cate-01.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\Cate-01.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/Cate-02.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\Cate-02.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/Cate-03.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\Cate-03.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/Cate-04.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\Cate-04.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/Cate-05.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\Cate-05.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/Cate-06.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\Cate-06.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/course1.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\course1.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/course2.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\course2.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/course3.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\course3.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/index/testimonial-icon.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\index\testimonial-icon.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/logo.png
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\logo.png
+Content Type: image/png
+
+Uri: http://themesflat.com/html/educate/images/parallax/bg-parallax1.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\parallax\bg-parallax1.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/parallax/bg-parallax2.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\parallax\bg-parallax2.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/parallax/bg-parallax3.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\parallax\bg-parallax3.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/parallax/bg-parallax4.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\parallax\bg-parallax4.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/1.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\1.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/Certifications.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\Certifications.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/v1/10.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\v1\10.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/v1/4.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\v1\4.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/v1/5.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\v1\5.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/v1/6.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\v1\6.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/v1/7.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\v1\7.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/v1/8.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\v1\8.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/services/v1/9.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\services\v1\9.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/slides/1.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\slides\1.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-01.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-01.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-02.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-02.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-03.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-03.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-04.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-04.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-05.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-05.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-06.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-06.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-07.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-07.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-08.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-08.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-09.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-09.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-10.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-10.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/images/teacher/Team-11.jpg
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\images\teacher\Team-11.jpg
+Content Type: image/jpeg
+
+Uri: http://themesflat.com/html/educate/index-onepage.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\index-onepage.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/index.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\index.html
+Content Type: text/html
+
+Uri: http://themesflat.com/html/educate/javascript/bootstrap.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/gmap3.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\gmap3.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/imagesloaded.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/jquery-countTo.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\jquery-countTo.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/jquery-validate.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\jquery-validate.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/jquery-waypoints.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\jquery-waypoints.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/jquery.cookie.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/jquery.easing.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\jquery.easing.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/jquery.isotope.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\jquery.isotope.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/jquery.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/main.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\main.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/owl.carousel.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/parallax.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\parallax.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/javascript/switcher.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\javascript\switcher.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/css/layers.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\css\layers.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/revolution/css/settings.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\css\settings.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/revolution/fonts/revicons/revicons.eot?5510888
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://themesflat.com/html/educate/revolution/fonts/revicons/revicons.svg?5510888
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://themesflat.com/html/educate/revolution/fonts/revicons/revicons.ttf?5510888
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://themesflat.com/html/educate/revolution/fonts/revicons/revicons.woff?5510888
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\fonts\revicons\revicons.woff
+Content Type: application/x-font-woff
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.actions.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.carousel.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.kenburn.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.layeranimation.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.migration.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.navigation.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.parallax.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.slideanims.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/extensions/revolution.extension.video.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\extensions\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/jquery.themepunch.revolution.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/jquery.themepunch.tools.min.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/revolution/js/slider.js
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\revolution\js\slider.js
+Content Type: application/javascript
+
+Uri: http://themesflat.com/html/educate/stylesheets/animate.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\animate.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/bootstrap.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\bootstrap.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/colors/color1.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\colors\color1.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/flexslider.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\flexslider.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/font-awesome.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\font-awesome.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/owl.carousel.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\owl.carousel.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/responsive.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\responsive.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/shortcodes.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\shortcodes.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/stylesheets/style.css
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\stylesheets\style.css
+Content Type: text/css
+
+Uri: http://themesflat.com/html/educate/team.html
+File Name: D:\cyotek-webcopy\themesflat.com\html\educate\team.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css
+File Name: D:\cyotek-webcopy\themesflat.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700' rel='stylesheet' type='text/css
+File Name: D:\cyotek-webcopy\themesflat.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic
+File Name: D:\cyotek-webcopy\themesflat.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\poppins\v19\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\poppins\v19\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\poppins\v19\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\poppins\v19\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v19/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\poppins\v19\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v16/EJRQQgYoZZY2vCFuvAFT9gaQZynfpQ.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\ptserif\v16\EJRQQgYoZZY2vCFuvAFT9gaQZynfpQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v16/EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\ptserif\v16\EJRSQgYoZZY2vCFuvAnt66qSVy4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v16/EJRTQgYoZZY2vCFuvAFT_r21dw.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\ptserif\v16\EJRTQgYoZZY2vCFuvAFT_r21dw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptserif/v16/EJRVQgYoZZY2vCFuvAFWzro.ttf
+File Name: D:\cyotek-webcopy\themesflat.com\s\ptserif\v16\EJRVQgYoZZY2vCFuvAFWzro.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?sensor=false
+File Name: D:\cyotek-webcopy\themesflat.com\maps\api\js
+Content Type: text/javascript
+

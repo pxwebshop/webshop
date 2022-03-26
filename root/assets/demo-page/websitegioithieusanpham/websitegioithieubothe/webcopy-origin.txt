@@ -1,0 +1,492 @@
+Uri: http://tinhbot.websiteviet.vn/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/author/admin/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/author/admin/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/cach-dung-tinh-bot-he-trong-an-dam-me-biet-ngay-de-con-an-ngon-mieng/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\cach-dung-tinh-bot-he-trong-an-dam-me-biet-ngay-de-con-an-ngon-mieng\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/cach-dung-tinh-bot-he-trong-an-dam-me-biet-ngay-de-con-an-ngon-mieng/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\cach-dung-tinh-bot-he-trong-an-dam-me-biet-ngay-de-con-an-ngon-mieng\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/category/goc-me-va-be/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\category\goc-me-va-be\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/category/goc-me-va-be/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\category\goc-me-va-be\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/category/kien-thuc/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\category\kien-thuc\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/category/kien-thuc/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\category\kien-thuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/cham-soc-tre-suy-dinh-duong-the-nao-la-hieu-qua/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\cham-soc-tre-suy-dinh-duong-the-nao-la-hieu-qua\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/cham-soc-tre-suy-dinh-duong-the-nao-la-hieu-qua/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\cham-soc-tre-suy-dinh-duong-the-nao-la-hieu-qua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/co-che-va-tac-dung-cua-tinh-bot-he-tri-tao-bon-tieu-chay/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\co-che-va-tac-dung-cua-tinh-bot-he-tri-tao-bon-tieu-chay\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/co-che-va-tac-dung-cua-tinh-bot-he-tri-tao-bon-tieu-chay/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\co-che-va-tac-dung-cua-tinh-bot-he-tri-tao-bon-tieu-chay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/comments/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/diem-ban/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\diem-ban\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/lien-he/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/meo-vang-tri-tao-bon-cho-tre-me-khong-the-bo-qua/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\meo-vang-tri-tao-bon-cho-tre-me-khong-the-bo-qua\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/meo-vang-tri-tao-bon-cho-tre-me-khong-the-bo-qua/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\meo-vang-tri-tao-bon-cho-tre-me-khong-the-bo-qua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/muon-tre-het-han-tao-bon-bieng-an-me-nam-long-6-nguyen-tac-nay/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\muon-tre-het-han-tao-bon-bieng-an-me-nam-long-6-nguyen-tac-nay\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/muon-tre-het-han-tao-bon-bieng-an-me-nam-long-6-nguyen-tac-nay/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\muon-tre-het-han-tao-bon-bieng-an-me-nam-long-6-nguyen-tac-nay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/san-pham/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\san-pham\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/tac-dung-cua-cay-la-he-cho-suc-de-khang-cua-tre-so-sinh-va-tre-nho/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\tac-dung-cua-cay-la-he-cho-suc-de-khang-cua-tre-so-sinh-va-tre-nho\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/tac-dung-cua-cay-la-he-cho-suc-de-khang-cua-tre-so-sinh-va-tre-nho/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\tac-dung-cua-cay-la-he-cho-suc-de-khang-cua-tre-so-sinh-va-tre-nho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/thoi-tiet-hanh-hao-con-kho-mui-hong-de-om-me-phai-lam-sao/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\thoi-tiet-hanh-hao-con-kho-mui-hong-de-om-me-phai-lam-sao\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/thoi-tiet-hanh-hao-con-kho-mui-hong-de-om-me-phai-lam-sao/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\thoi-tiet-hanh-hao-con-kho-mui-hong-de-om-me-phai-lam-sao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/tre-kem-hap-thu-phai-lam-sao-danh-gia-tu-chuyen-gia-tieu-hoa/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\tre-kem-hap-thu-phai-lam-sao-danh-gia-tu-chuyen-gia-tieu-hoa\index.htm
+Content Type: text/html
+
+Uri: http://tinhbot.websiteviet.vn/tre-kem-hap-thu-phai-lam-sao-danh-gia-tu-chuyen-gia-tieu-hoa/feed/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\tre-kem-hap-thu-phai-lam-sao-danh-gia-tu-chuyen-gia-tieu-hoa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/themes/flatsome/assets/img/lazy.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\themes\flatsome\assets\img\lazy.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=1.0
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/themes/tinh-bot-he/style.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\themes\tinh-bot-he\style.css
+Content Type: text/css
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/14348243-0-phone-calling-1528453278.gif
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\14348243-0-phone-calling-1528453278.gif
+Content Type: image/gif
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/bac-sy-tu-van.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\bac-sy-tu-van.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/BANNER-HEADER-1024x474.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\BANNER-HEADER-1024x474.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/BANNER-HEADER-300x139.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\BANNER-HEADER-300x139.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/BANNER-HEADER-768x356.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\BANNER-HEADER-768x356.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/BANNER-HEADER.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\BANNER-HEADER.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/chứng-nhận1.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\chứng-nhận1.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/chứng-nhận2.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\chứng-nhận2.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/chứng-nhận3.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\chứng-nhận3.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/goc-me-va-be-banner.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\goc-me-va-be-banner.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/Group-3.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\Group-3.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/Hộp-hẹ-trang-chủ-300x272.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\Hộp-hẹ-trang-chủ-300x272.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/Hộp-hẹ-trang-chủ.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\Hộp-hẹ-trang-chủ.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/img-sidebar-300x294.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\img-sidebar-300x294.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/img-sidebar.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\img-sidebar.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/logo-web-tinh-bot-he-1542385588-1.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\logo-web-tinh-bot-he-1542385588-1.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/nhan-xet-khach-hang-1-300x217.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\nhan-xet-khach-hang-1-300x217.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/nhan-xet-khach-hang-1.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\nhan-xet-khach-hang-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/nhan-xet-khach-hang-2-300x217.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\nhan-xet-khach-hang-2-300x217.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/nhan-xet-khach-hang-2.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\nhan-xet-khach-hang-2.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/nhan-xet-khach-hang-34-300x217.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\nhan-xet-khach-hang-34-300x217.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/nhan-xet-khach-hang-34.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\nhan-xet-khach-hang-34.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/Rectangle-11.1.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\Rectangle-11.1.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/slider-01-1024x251.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\slider-01-1024x251.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/slider-01-300x73.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\slider-01-300x73.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/slider-01-768x188.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\slider-01-768x188.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/slider-01.jpg
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\slider-01.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhbot.websiteviet.vn/wp-content/uploads/2019/02/thong-bao.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-content\uploads\2019\02\thong-bao.png
+Content Type: image/png
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/js/comment-reply.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.1
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/js/wp-embed.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhbot.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fcach-dung-tinh-bot-he-trong-an-dam-me-biet-ngay-de-con-an-ngon-mieng%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fcach-dung-tinh-bot-he-trong-an-dam-me-biet-ngay-de-con-an-ngon-mieng%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fcham-soc-tre-suy-dinh-duong-the-nao-la-hieu-qua%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fcham-soc-tre-suy-dinh-duong-the-nao-la-hieu-qua%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fco-che-va-tac-dung-cua-tinh-bot-he-tri-tao-bon-tieu-chay%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fco-che-va-tac-dung-cua-tinh-bot-he-tri-tao-bon-tieu-chay%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fdiem-ban%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fdiem-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fmeo-vang-tri-tao-bon-cho-tre-me-khong-the-bo-qua%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fmeo-vang-tri-tao-bon-cho-tre-me-khong-the-bo-qua%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fmuon-tre-het-han-tao-bon-bieng-an-me-nam-long-6-nguyen-tac-nay%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fmuon-tre-het-han-tao-bon-bieng-an-me-nam-long-6-nguyen-tac-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fsan-pham%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fsan-pham%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Ftac-dung-cua-cay-la-he-cho-suc-de-khang-cua-tre-so-sinh-va-tre-nho%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Ftac-dung-cua-cay-la-he-cho-suc-de-khang-cua-tre-so-sinh-va-tre-nho%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fthoi-tiet-hanh-hao-con-kho-mui-hong-de-om-me-phai-lam-sao%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Fthoi-tiet-hanh-hao-con-kho-mui-hong-de-om-me-phai-lam-sao%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Ftre-kem-hap-thu-phai-lam-sao-danh-gia-tu-chuyen-gia-tieu-hoa%2F
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhbot.websiteviet.vn%2Ftre-kem-hap-thu-phai-lam-sao-danh-gia-tu-chuyen-gia-tieu-hoa%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/pages/45
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\pages\45
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/pages/47
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\pages\47
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/pages/53
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\pages\53
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/pages/55
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\pages\55
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/114
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\114
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/117
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\117
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/140
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\140
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/144
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\144
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/150
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\150
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/153
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\153
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/156
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\156
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/wp-json/wp/v2/posts/81
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\wp-json\wp\v2\posts\81
+Content Type: application/json
+
+Uri: http://tinhbot.websiteviet.vn/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://bizhostvn.com/w/tinhbot/wp-content/uploads/2019/02/logo-tinh-bot-he.png
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\w\tinhbot\wp-content\uploads\2019\02\logo-tinh-bot-he.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Fcach-dung-tinh-bot-he-trong-an-dam-me-biet-ngay-de-con-an-ngon-mieng%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Fcham-soc-tre-suy-dinh-duong-the-nao-la-hieu-qua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Fco-che-va-tac-dung-cua-tinh-bot-he-tri-tao-bon-tieu-chay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Fmeo-vang-tri-tao-bon-cho-tre-me-khong-the-bo-qua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Fmuon-tre-het-han-tao-bon-bieng-an-me-nam-long-6-nguyen-tac-nay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Ftac-dung-cua-cay-la-he-cho-suc-de-khang-cua-tre-so-sinh-va-tre-nho%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Fthoi-tiet-hanh-hao-con-kho-mui-hong-de-om-me-phai-lam-sao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftinhbot.websiteviet.vn%252Ftre-kem-hap-thu-phai-lam-sao-danh-gia-tu-chuyen-gia-tieu-hoa%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tinhbot.websiteviet.vn\login-5.php
+Content Type: application/xhtml+xml
+
