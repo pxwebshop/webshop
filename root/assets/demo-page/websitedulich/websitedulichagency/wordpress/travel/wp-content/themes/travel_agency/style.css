@@ -1,0 +1,24 @@
+/*
+    Theme Name: Gridgum Travel Agency
+    Author: Sandro Vardiashvili (Gridgum)
+*/
+
+
+.toplefter {
+    margin-top:15px !important;
+    margin-left:0;
+}
+
+.light-white {
+    padding: 20px 20px;
+    background:#fafafa;
+    font-size:13px;
+}
+
+.light-white b {
+    color:#636363;
+}
+
+.spacer {
+    padding-top:10px;
+}

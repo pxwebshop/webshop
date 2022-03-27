@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/bio-care-cream.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-09-20T04:58:59-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052958805</id>
+    <published>2019-09-20T04:58:59-04:00</published>
+    <updated>2019-09-20T04:58:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/eau-de-parfum"/>
+    <title>Eau de Parfum</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Glamo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p21.jpg?v=1568969940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glamo<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Glamo</s:tag>
+    <s:tag>Jasmine</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052958805</id>
+      <title>Jasmine / Pink</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052893269</id>
+    <published>2019-09-20T04:58:57-04:00</published>
+    <updated>2019-09-20T04:58:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/summer-body-lotion"/>
+    <title>Summer Body Lotion</title>
+    <s:type>Face cream</s:type>
+    <s:vendor>Glamo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p20.jpg?v=1568969938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glamo<br>
+        <strong>Type: </strong>Face cream<br>
+        <strong>Price: </strong>
+            699.00 - 700.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/summer-body-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$600 - $700</s:tag>
+    <s:tag>Face cream</s:tag>
+    <s:tag>Glamo</s:tag>
+    <s:tag>Pappya</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052893269</id>
+      <title>White / Pappya</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052893269</id>
+      <title>Purple / Pappya</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+    <published>2019-09-20T04:58:53-04:00</published>
+    <updated>2019-09-20T04:58:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/eau-de-toilette"/>
+    <title>Eau de Toilette</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Wisteria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p19.jpg?v=1568969936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wisteria<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Aloe Vera</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:tag>Wisteria</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+      <title>Orange / Aloe Vera</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+      <title>Purple / Aloe Vera</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+      <title>Purple / Pappaya</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052598357</id>
+    <published>2019-09-20T04:58:49-04:00</published>
+    <updated>2019-09-20T04:58:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/hair-conditioner"/>
+    <title>Hair Conditioner</title>
+    <s:type>Haircare</s:type>
+    <s:vendor>Lever</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p17.jpg?v=1568969931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lever<br>
+        <strong>Type: </strong>Haircare<br>
+        <strong>Price: </strong>
+            200.00 - 300.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/hair-conditioner">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Haircare</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>Lever</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052598357</id>
+      <title>Honey / Black</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052598357</id>
+      <title>Honey / Green</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052500053</id>
+    <published>2019-09-20T04:58:48-04:00</published>
+    <updated>2019-09-20T04:58:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/facial-lotion"/>
+    <title>Facial Lotion</title>
+    <s:type>Face cream</s:type>
+    <s:vendor>Glamo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p16.jpg?v=1568969929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glamo<br>
+        <strong>Type: </strong>Face cream<br>
+        <strong>Price: </strong>
+            198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Face cream</s:tag>
+    <s:tag>Glamo</s:tag>
+    <s:tag>Pappaya</s:tag>
+    <s:tag>Salmon</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052500053</id>
+      <title>Salmon / Pappaya</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052270677</id>
+    <published>2019-09-20T04:58:42-04:00</published>
+    <updated>2019-09-20T04:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/cologne-spray"/>
+    <title>Cologne Spray</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Cindrella</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p13.jpg?v=1568969925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cindrella<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            500.00 - 600.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/cologne-spray">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>CindrellaLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cindrella</s:tag>
+    <s:tag>Jasmine</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052270677</id>
+      <title>Black / Jasmine</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052270677</id>
+      <title>Blue / Honey</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052270677</id>
+      <title>Blue / Jasmine</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113051975765</id>
+    <published>2019-09-20T04:58:37-04:00</published>
+    <updated>2019-09-20T04:58:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/ladies-deodorant"/>
+    <title>Ladies Deodorant</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Glamo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p11.jpg?v=1568969919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glamo<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            0.00 - 100.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/ladies-deodorant">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Glamo</s:tag>
+    <s:tag>Honey</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051975765</id>
+      <title>Honey / Purple</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051975765</id>
+      <title>Bamboo / Purple</title>
+      <s:price currency="USD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113051877461</id>
+    <published>2019-09-20T04:58:35-04:00</published>
+    <updated>2019-09-20T04:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/body-lotion"/>
+    <title>Body Lotion</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Revlon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p10.jpg?v=1568969916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Revlon<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            550.00 - 600.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/body-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Revlon</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>Vanilla</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051877461</id>
+      <title>Vanilla / Sandal</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051877461</id>
+      <title>Lime / Sandal</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113051811925</id>
+    <published>2019-09-20T04:58:33-04:00</published>
+    <updated>2019-09-20T04:58:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/intimate-perfume"/>
+    <title>Intimate Perfume</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Revlon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p9.jpg?v=1568969914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Revlon<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>Pappaya</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:tag>Revlon</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051811925</id>
+      <title>Pappaya</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051811925</id>
+      <title>Strawberry</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113051615317</id>
+    <published>2019-09-20T04:58:26-04:00</published>
+    <updated>2019-09-20T04:58:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/cool-facewash"/>
+    <title>Cool facewash</title>
+    <s:type>Face cream</s:type>
+    <s:vendor>Glamo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p7.jpg?v=1568969909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glamo<br>
+        <strong>Type: </strong>Face cream<br>
+        <strong>Price: </strong>
+            200.00 - 300.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/cool-facewash">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Aloe Vera</s:tag>
+    <s:tag>Face cream</s:tag>
+    <s:tag>Glamo</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051615317</id>
+      <title>White / Aloe Vera</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051615317</id>
+      <title>Green / Aloe Vera</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113051484245</id>
+    <published>2019-09-20T04:58:22-04:00</published>
+    <updated>2019-09-20T04:58:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/cold-cream"/>
+    <title>Cold Cream</title>
+    <s:type>Face cream</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p6.jpg?v=1568969905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Face cream<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Aloe Vera</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Face cream</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051484245</id>
+      <title>Aloe Vera / Gold</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051484245</id>
+      <title>Honey / Gold</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113051484245</id>
+      <title>Lotus / Gold</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113050992725</id>
+    <published>2019-09-20T04:58:14-04:00</published>
+    <updated>2019-09-20T04:58:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/body-wash-cream"/>
+    <title>Body Wash Cream</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p3.jpg?v=1568969896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            700.00 - 1000.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/body-wash-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Jasmine</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050992725</id>
+      <title>Gold / Jasmine</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050992725</id>
+      <title>Black / Jasmine</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+    <published>2019-09-20T04:58:10-04:00</published>
+    <updated>2019-09-20T04:58:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/facial-cream"/>
+    <title>Facial Cream</title>
+    <s:type>Face cream</s:type>
+    <s:vendor>Mystique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p2.jpg?v=1568969893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mystique<br>
+        <strong>Type: </strong>Face cream<br>
+        <strong>Price: </strong>
+            400.00 - 500.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/facial-cream">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Camellia</s:tag>
+    <s:tag>Face cream</s:tag>
+    <s:tag>Mystique</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+      <title>Camellia / White</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+      <title>Pappaya / Green</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+      <title>Alovera / Sandal</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

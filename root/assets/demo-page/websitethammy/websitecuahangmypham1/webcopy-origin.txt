@@ -1,0 +1,1152 @@
+Uri: https://bizhostvn.com/w/daytrangdiem/wp-content/uploads/2019/04/patten-bg.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\w\daytrangdiem\wp-content\uploads\2019\04\patten-bg.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:regular%2C700%2Cregular%2C700%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fcac-buoc-trang-diem-co-ban-cho-nguoi-moi-bat-dau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252F226%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fbo-duong-chong-lao-hoa-therapy-the-faceshop%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fbo-duong-da-toan-dien-collagen-3w-clinic%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fbo-duong-thao-moc-daandan-bit-premium-hanbang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fbo-tien-ich-duong-da-va-phan-nuoc-iope%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fbo-tien-ich-duong-da-va-phan-nuoc-iope-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fdau-goi-kich-thich-moc-toc-kaminomoto-m-shampoo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fma-hong-focallure-hang-order-my-xin%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fmat-na-ngu-laneige-chinh-hang-nhap-khau-15ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fnuoc-hoa-vung-kin-dionel-secret-love%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Fnuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fsan-pham%252Ftay-te-bao-chet-dang-hu-stives-hang-nhap-khau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fthiet-ke-bo-thuong-hieu-mam-non-tu-thuc-thien-nhan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fmypham.shostweb.com%252Fthiet-ke-to-roi-tuyen-sinh-truong-mam-non-thien-nhan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyDrUJRAll-JEBxWRh_q51em1EAv6IQ6nOo&ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://mypham.shostweb.com/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/author/admin/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/cac-buoc-trang-diem-co-ban-cho-nguoi-moi-bat-dau/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\cac-buoc-trang-diem-co-ban-cho-nguoi-moi-bat-dau\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/cac-buoc-trang-diem-co-ban-cho-nguoi-moi-bat-dau/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\cac-buoc-trang-diem-co-ban-cho-nguoi-moi-bat-dau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/category/beauty-tips/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\beauty-tips\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/category/beauty-tips/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\beauty-tips\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/category/blogs/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\blogs\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/category/blogs/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\blogs\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/category/lop-trang-diem/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\lop-trang-diem\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/category/lop-trang-diem/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\lop-trang-diem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/category/video/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\video\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/category/video/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\category\video\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/chao-moi-nguoi/?replytocom=1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\chao-moi-nguoi\index-1.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/comments/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/danh-muc-san-pham/cham-soc-da/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\danh-muc-san-pham\cham-soc-da\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/danh-muc-san-pham/cham-soc-da/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\danh-muc-san-pham\cham-soc-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/danh-muc-san-pham/trang-diem/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\danh-muc-san-pham\trang-diem\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/danh-muc-san-pham/trang-diem/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\danh-muc-san-pham\trang-diem\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/gio-hang/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/lien-he/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/lop-beauty-blogger/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\lop-beauty-blogger\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/lop-trang-diem-ca-nhan-quan-10/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\lop-trang-diem-ca-nhan-quan-10\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/lop-trang-diem-ca-nhan/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\lop-trang-diem-ca-nhan\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/lop-trang-diem-chuyen-nghiep/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\lop-trang-diem-chuyen-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/mua/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\mua\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/mua/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\mua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/226/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\226\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/226/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\226\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/bo-duong-chong-lao-hoa-therapy-the-faceshop/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-duong-chong-lao-hoa-therapy-the-faceshop\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/bo-duong-da-toan-dien-collagen-3w-clinic/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-duong-da-toan-dien-collagen-3w-clinic\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/bo-duong-thao-moc-daandan-bit-premium-hanbang/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-duong-thao-moc-daandan-bit-premium-hanbang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope-2/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope-2\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope-2/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/bo-tien-ich-duong-da-va-phan-nuoc-iope/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\bo-tien-ich-duong-da-va-phan-nuoc-iope\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-m-shampoo/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-m-shampoo\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/dau-goi-kich-thich-moc-toc-kaminomoto-m-shampoo/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\dau-goi-kich-thich-moc-toc-kaminomoto-m-shampoo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/ma-hong-focallure-hang-order-my-xin/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\ma-hong-focallure-hang-order-my-xin\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/ma-hong-focallure-hang-order-my-xin/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\ma-hong-focallure-hang-order-my-xin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/mat-na-ngu-laneige-chinh-hang-nhap-khau-15ml/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\mat-na-ngu-laneige-chinh-hang-nhap-khau-15ml\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/mat-na-ngu-laneige-chinh-hang-nhap-khau-15ml/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\mat-na-ngu-laneige-chinh-hang-nhap-khau-15ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/nuoc-hoa-vung-kin-dionel-secret-love/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\nuoc-hoa-vung-kin-dionel-secret-love\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\nuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/san-pham/tay-te-bao-chet-dang-hu-stives-hang-nhap-khau/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\tay-te-bao-chet-dang-hu-stives-hang-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/san-pham/tay-te-bao-chet-dang-hu-stives-hang-nhap-khau/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\san-pham\tay-te-bao-chet-dang-hu-stives-hang-nhap-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/thiet-ke-bo-thuong-hieu-mam-non-tu-thuc-thien-nhan/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\thiet-ke-bo-thuong-hieu-mam-non-tu-thuc-thien-nhan\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/thiet-ke-bo-thuong-hieu-mam-non-tu-thuc-thien-nhan/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\thiet-ke-bo-thuong-hieu-mam-non-tu-thuc-thien-nhan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/thiet-ke-to-roi-tuyen-sinh-truong-mam-non-thien-nhan/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\thiet-ke-to-roi-tuyen-sinh-truong-mam-non-thien-nhan\index.htm
+Content Type: text/html
+
+Uri: https://mypham.shostweb.com/thiet-ke-to-roi-tuyen-sinh-truong-mam-non-thien-nhan/feed/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\thiet-ke-to-roi-tuyen-sinh-truong-mam-non-thien-nhan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://mypham.shostweb.com/wp-admin/js/password-strength-meter.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/aio-tools/public/assets/css/aio-tools-public.css?ver=2.2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\aio-tools\public\assets\css\aio-tools-public.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/aio-tools/public/assets/images/background.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\aio-tools\public\assets\images\background.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/aio-tools/public/assets/images/icon-zalo.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\aio-tools\public\assets\images\icon-zalo.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/aio-tools/public/assets/js/aio-tools-public.js?ver=2.2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\aio-tools\public\assets\js\aio-tools-public.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/aio-tools/public/partials/wc-city-select/assets/js/city-select.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\aio-tools\public\partials\wc-city-select\assets\js\city-select.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.6.2.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.7.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.7.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/themes/day-trang-diem/style.css?ver=3.0
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\day-trang-diem\style.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bg-ft.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bg-ft.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bg.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bo-chong-lao-hoa-the-therapy-thefaceshop-768x553.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bo-chong-lao-hoa-the-therapy-thefaceshop-768x553.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bo-dau-goi-xa-kich-thich-moc-toc-kaminomoto-medicated-shampoo-300ml__81505_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bo-duong-da-Collagen-3W-Clinic-4__67020_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bo-duong-da-Collagen-3W-Clinic-4__67020_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bo-duong-da-phan-nuoc-_IOPE__05170_zoom-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bo-duong-da-phan-nuoc-_IOPE__05170_zoom-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bo-duong-da-phan-nuoc-_IOPE__05170_zoom-1.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bo-duong-da-phan-nuoc-_IOPE__05170_zoom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/bo-duong-da-phan-nuoc-_IOPE__05170_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\bo-duong-da-phan-nuoc-_IOPE__05170_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/kin1__60430_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\kin1__60430_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom-300x300.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\Mặt_nạ_ngủ_Opaeng_Omija_Snail_Sleeping_Pack_100ml__35657_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/Mat-na-ngu-Laneige-1__63399_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\Mat-na-ngu-Laneige-1__63399_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\Nước_tẩy_trang_dành_cho_da_dầu_và_hỗn_hợp_Bioderma_Sébium_H2O_100ml-1__90319_zoom.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/patten-bg.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\patten-bg.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/post1-150x150.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\post1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom-768x768.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\Tẩy_tế_bào_chết_dạng_hũ_StIves__52538_zoom-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2019/04/The-Face-Shop-The-THERAPY-First-Serum-Review-2.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2019\04\The-Face-Shop-The-THERAPY-First-Serum-Review-2.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/contact-page-for-flatsome-wordpress-theme-pointed-hero.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\contact-page-for-flatsome-wordpress-theme-pointed-hero.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/favicon-100x100.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\favicon-100x100.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/favicon.png
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\favicon.png
+Content Type: image/png
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/humphrey-muleba-9MoQKZW0nGU-unsplash-1-1024x683.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\humphrey-muleba-9MoQKZW0nGU-unsplash-1-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/logo-demo-my-pham.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\logo-demo-my-pham.svg
+Content Type: image/svg+xml
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/mark-west-Fg_4Wn1r0bU-unsplash-1-819x1024.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\mark-west-Fg_4Wn1r0bU-unsplash-1-819x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/SLIDE1.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\SLIDE1.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-content/uploads/2021/06/SLIDE3.jpg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-content\uploads\2021\06\SLIDE3.jpg
+Content Type: image/jpeg
+
+Uri: https://mypham.shostweb.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://mypham.shostweb.com/wp-includes/js/comment-reply.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://mypham.shostweb.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fcac-buoc-trang-diem-co-ban-cho-nguoi-moi-bat-dau%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fcac-buoc-trang-diem-co-ban-cho-nguoi-moi-bat-dau%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-beauty-blogger%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-beauty-blogger%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-trang-diem-ca-nhan%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-trang-diem-ca-nhan%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-trang-diem-ca-nhan-quan-10%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-trang-diem-ca-nhan-quan-10%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-trang-diem-chuyen-nghiep%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Flop-trang-diem-chuyen-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2F226%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2F226%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-duong-chong-lao-hoa-therapy-the-faceshop%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-duong-chong-lao-hoa-therapy-the-faceshop%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-duong-da-toan-dien-collagen-3w-clinic%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-duong-da-toan-dien-collagen-3w-clinic%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-duong-thao-moc-daandan-bit-premium-hanbang%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-duong-thao-moc-daandan-bit-premium-hanbang%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-tien-ich-duong-da-va-phan-nuoc-iope%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-tien-ich-duong-da-va-phan-nuoc-iope%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-tien-ich-duong-da-va-phan-nuoc-iope-2%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fbo-tien-ich-duong-da-va-phan-nuoc-iope-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fdau-goi-kich-thich-moc-toc-kaminomoto-m-shampoo%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fdau-goi-kich-thich-moc-toc-kaminomoto-m-shampoo%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fma-hong-focallure-hang-order-my-xin%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fma-hong-focallure-hang-order-my-xin%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fmat-na-ngu-laneige-chinh-hang-nhap-khau-15ml%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fmat-na-ngu-laneige-chinh-hang-nhap-khau-15ml%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fnuoc-hoa-vung-kin-dionel-secret-love%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fnuoc-hoa-vung-kin-dionel-secret-love%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fnuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Fnuoc-tay-trang-cho-da-dau-bioderma-sebium-h2o%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Ftay-te-bao-chet-dang-hu-stives-hang-nhap-khau%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fsan-pham%2Ftay-te-bao-chet-dang-hu-stives-hang-nhap-khau%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fthiet-ke-bo-thuong-hieu-mam-non-tu-thuc-thien-nhan%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fthiet-ke-bo-thuong-hieu-mam-non-tu-thuc-thien-nhan%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fthiet-ke-to-roi-tuyen-sinh-truong-mam-non-thien-nhan%2F
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmypham.shostweb.com%2Fthiet-ke-to-roi-tuyen-sinh-truong-mam-non-thien-nhan%2F&format=xml
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/categories/20
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\categories\20
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/categories/21
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\categories\21
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/33
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\33
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/39
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\39
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/43
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\43
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/447
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\447
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/45
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\45
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/58
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\58
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/pages/60
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\pages\60
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/posts/308
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\posts\308
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/posts/311
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\posts\311
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/posts/314
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\posts\314
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/223
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\223
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/226
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\226
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/228
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\228
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/230
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\230
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/232
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\232
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/234
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\234
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/236
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\236
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/238
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\238
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/240
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\240
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/242
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\242
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/244
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\244
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product/285
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product\285
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/product_cat/19
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\product_cat\19
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://mypham.shostweb.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://resources.shost.vn/images/logo-shostvn-light.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\images\logo-shostvn-light.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/css/all.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/js/all.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\js\all.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.12.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/css/all.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/css/v4-shims.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mypham.shostweb.com\releases\v5.13.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+

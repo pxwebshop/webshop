@@ -1,0 +1,1160 @@
+Uri: http://demoaicvietnam.webtravel.vn/
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\index.htm
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/介绍1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\介绍1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/目的地1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\目的地1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/网络日记
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\网络日记.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/联系人
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\联系人.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/联系人1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\联系人1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/酒店
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\酒店.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/about-us1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\about-us1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/Areas/Administrator/Content/img/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Areas\Administrator\Content\img\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://demoaicvietnam.webtravel.vn/blog
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\blog.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/blog1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\blog1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/central-vietnam
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\central-vietnam.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/contact-us
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\contact-us.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Css/Style.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Css\Style.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Css/StyleHome.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Css\StyleHome.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/font-awesome.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\font-awesome.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/2(1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\2(1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/bg-why-ICS.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\bg-why-ICS.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/book.gif
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\book.gif
+Content Type: image/gif
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/brasol.vn-logo-zalo-vector-logo-zalo-vector.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\brasol.vn-logo-zalo-vector-logo-zalo-vector.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/divider.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\divider.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/ICS_Bkk_Train.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\ICS_Bkk_Train.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/ICS_intro_slide008.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\ICS_intro_slide008.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/rate-1.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\rate-1.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Img/tag-owl.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Img\tag-owl.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Js/bootstrap-rating-input.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Js\bootstrap-rating-input.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Js/JavaScript.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Js\JavaScript.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Content/Js/layout_page.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Content\Js\layout_page.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/da-lat1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\da-lat1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/da-nang-hoi-an
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\da-nang-hoi-an.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/da-nang-ly-son1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\da-nang-ly-son1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/da-nang1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\da-nang1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/destinations
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\destinations.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/favicon.ico
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/20731427476_32f3630c58_o.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\20731427476_32f3630c58_o.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/Cau_Vang_Sun_world_ba_na_hills_26.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\Cau_Vang_Sun_world_ba_na_hills_26.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/du-lich-bui-da-nang-hoi-an-hue-kinh-nghiem-lich-trinh-chi-tiet-3.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\du-lich-bui-da-nang-hoi-an-hue-kinh-nghiem-lich-trinh-chi-tiet-3.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/kinh-thanh-hue.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\kinh-thanh-hue.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/Ninh-Binh2.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\Ninh-Binh2.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/Ninh-Binh3.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\Ninh-Binh3.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/tải xuống (1).jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\tải xuống (1).jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/tải xuống (2).jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\tải xuống (2).jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/tải xuống (3).jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\tải xuống (3).jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/tải xuống.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\tải xuống.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/z1-ma-vung-dien-thoai-moi-cua-ha-noi-la-bao-nhieu-ma-vung-ha-noi-la-bao-nhieu-ma-vung-ha-noi-moi-la-bao-nhieu-ma-vung-ha-noi-2017-la-bao-nhieu.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\z1-ma-vung-dien-thoai-moi-cua-ha-noi-la-bao-nhieu-ma-vung-ha-noi-la-bao-nhieu-ma-vung-ha-noi-moi-la-bao-nhieu-ma-vung-ha-noi-2017-la-bao-nhieu.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/files/_MG_9954-2.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\files\_MG_9954-2.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/16570b6d08f258c.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\16570b6d08f258c.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/2.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\2.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/20.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\20.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/67994.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\67994.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/Article/logo aic vn-01.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\Article\logo aic vn-01.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/1-2.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\1-2.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/1521957263-tour-phan-thiet-mui-ne.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\1521957263-tour-phan-thiet-mui-ne.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/bitexco.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\bitexco.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/Catbabeach-ressort-850.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\Catbabeach-ressort-850.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/dg_160519_du-lich-da-nang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\dg_160519_du-lich-da-nang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/du-lich-ba-ria-vung-tau-hut-nha-dau-tu.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\du-lich-ba-ria-vung-tau-hut-nha-dau-tu.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/hanoi-48hours.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\hanoi-48hours.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/hoi-an-evening.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\hoi-an-evening.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/Nhà_ga_Đà_Lạt.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\Nhà_ga_Đà_Lạt.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/Ninh-Binh.gif
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\Ninh-Binh.gif
+Content Type: image/gif
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/quang_ninh_2_irtz.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\quang_ninh_2_irtz.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/tf_180531053939_516564.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\tf_180531053939_516564.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/ava/the-palmy-phu-quoc-resort.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\ava\the-palmy-phu-quoc-resort.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/banner/img_201804231131000957.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\banner\img_201804231131000957.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/banner/khach-san-view-cau-rong-song-han-gia-re-da-nang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\banner\khach-san-view-cau-rong-song-han-gia-re-da-nang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/banner/maxresdefault.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\banner\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/banner/nhatrang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\banner\nhatrang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/banner/photo1528984661154-15289846611601103968493.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\banner\photo1528984661154-15289846611601103968493.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/danang/đại nội huế.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\danang\đại nội huế.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/danang/bà nà hill.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\danang\bà nà hill.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/danang/biển đà nẵng.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\danang\biển đà nẵng.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/danang/cầu rồng.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\danang\cầu rồng.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/danang/hội an.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\danang\hội an.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/danang/lặn biển.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\danang\lặn biển.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong-ninhbinh/cáp treo.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong-ninhbinh\cáp treo.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong-ninhbinh/halong sunworld park.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong-ninhbinh\halong sunworld park.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong-ninhbinh/ninh binh.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong-ninhbinh\ninh binh.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong-ninhbinh/phố cổ HN.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong-ninhbinh\phố cổ HN.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong-ninhbinh/vòng quay mặt trời.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong-ninhbinh\vòng quay mặt trời.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong-ninhbinh/vịnh hạ long.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong-ninhbinh\vịnh hạ long.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong-ninhbinh/Vietnam-Airlines-copy.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong-ninhbinh\Vietnam-Airlines-copy.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong/cáp treo.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong\cáp treo.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong/cầu thê húc.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong\cầu thê húc.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong/kayak.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong\kayak.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong/phòng ngủ tàu era.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong\phòng ngủ tàu era.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong/tàu era.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong\tàu era.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong/vòng quay mặt trời.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong\vòng quay mặt trời.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/halong/Vietnam-Airlines-copy.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\halong\Vietnam-Airlines-copy.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/nhatrang/ảnh 1 Nha Trang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\nhatrang\ảnh 1 Nha Trang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/nhatrang/ảnh 3 vinpearland.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\nhatrang\ảnh 3 vinpearland.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/nhatrang/hòn tằm ảnh 2.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\nhatrang\hòn tằm ảnh 2.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/nhatrang/tôm hùm ảnh 5.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\nhatrang\tôm hùm ảnh 5.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/nhatrang/tắm bùn ảnh 6.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\nhatrang\tắm bùn ảnh 6.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/nhatrang/tháp chàm ảnh 4.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\nhatrang\tháp chàm ảnh 4.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/bờ hồ.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\bờ hồ.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/casinophu quoc ngày 4.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\casinophu quoc ngày 4.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/chùa một cột - Ngày 2.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\chùa một cột - Ngày 2.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/lặn san hô ngày 3.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\lặn san hô ngày 3.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/mua sam ngọc trai - ngày 5.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\mua sam ngọc trai - ngày 5.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/nam đảo ngày 3.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\nam đảo ngày 3.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/nha-tho-lon-ha-noi ngày 2.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\nha-tho-lon-ha-noi ngày 2.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/novotel phu quoc ngày 3.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\novotel phu quoc ngày 3.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/quốc tử giám ngày 2.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\quốc tử giám ngày 2.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/CHINA/phuquoc/vinpearl safari phu quoc- ngày 4.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\CHINA\phuquoc\vinpearl safari phu quoc- ngày 4.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/comment/langcn.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\comment\langcn.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/comment/langen.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\comment\langen.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/comment/langjp.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\comment\langjp.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/comment/langvn.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\comment\langvn.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/icon-hotelaria.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\icon-hotelaria.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/dalat-nhatrang/du-ngoan-da-lat-lang-cu-lan-ho-dankia-langbiang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\dalat-nhatrang\du-ngoan-da-lat-lang-cu-lan-ho-dankia-langbiang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/dalat-nhatrang/Hồ-Tuyền-Lâm-Đà-Lạt-(3).jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\dalat-nhatrang\Hồ-Tuyền-Lâm-Đà-Lạt-(3).jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/dalat-nhatrang/Hon-tam-hon-gai.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\dalat-nhatrang\Hon-tam-hon-gai.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/dalat-nhatrang/i-resort.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\dalat-nhatrang\i-resort.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/dalat-nhatrang/Thac-Yang-bay.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\dalat-nhatrang\Thac-Yang-bay.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/dalat-nhatrang/Thuy-Cung-Vinpearl-NT.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\dalat-nhatrang\Thuy-Cung-Vinpearl-NT.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/dalat-nhatrang/vinpearl-land-nha-trang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\dalat-nhatrang\vinpearl-land-nha-trang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/danang/Bien-Da-Nang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\danang\Bien-Da-Nang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/danang/Cau-rong-Da-Nang.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\danang\Cau-rong-Da-Nang.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/danang/Vòng-quay-Mặt-trời.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\danang\Vòng-quay-Mặt-trời.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/hanoi-halong/Dragon-park.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\hanoi-halong\Dragon-park.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/hanoi-halong/tour-ha-long-ngu-tau-era-cruise4-4.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\hanoi-halong\tour-ha-long-ngu-tau-era-cruise4-4.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/hue-hoian/Ba-Na-Hill.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\hue-hoian\Ba-Na-Hill.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/hue-hoian/Hoi-quan-Phuc-Kien.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\hue-hoian\Hoi-quan-Phuc-Kien.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/hue-hoian/hue.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\hue-hoian\hue.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/phuquoc-hungyen/nha-tu-phu-quoc-amega_travel.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\phuquoc-hungyen\nha-tu-phu-quoc-amega_travel.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/phuquoc-hungyen/Vinpearl-Safari.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\phuquoc-hungyen\Vinpearl-Safari.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/tours/phuquoc-hungyen/vuon-tieu-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\tours\phuquoc-hungyen\vuon-tieu-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/trangchu/cap-treo-sapa.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\trangchu\cap-treo-sapa.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/trangchu/Ha - Long - Bay.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\trangchu\Ha - Long - Bay.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/files/images/trangchu/Vòng quay Mặt trời.jpg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\files\images\trangchu\Vòng quay Mặt trời.jpg
+Content Type: image/jpeg
+
+Uri: http://demoaicvietnam.webtravel.vn/Ha-Noi
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Ha-Noi.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/ha-noi-cat-ba-1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\ha-noi-cat-ba-1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/ha-noi-phan-thiet-1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\ha-noi-phan-thiet-1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hanoi-danang1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hanoi-danang1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hanoi-ha-long
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hanoi-ha-long.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hanoi-nha-trang1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hanoi-nha-trang1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hanoi-ninh-binh1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hanoi-ninh-binh1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hanoi-phu-quoc
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hanoi-phu-quoc.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/ho-chi-minh-nha-trang1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\ho-chi-minh-nha-trang1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/ho-chi-minh-phan-thiet1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\ho-chi-minh-phan-thiet1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/ho-chi-minh-vung-tau1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\ho-chi-minh-vung-tau1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/ho-chi-minh1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\ho-chi-minh1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hochiminh-dalat
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hochiminh-dalat.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hochiminh-phu-quoc
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hochiminh-phu-quoc.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hoi-an1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hoi-an1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/hue1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\hue1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/nha-trang-da-lat
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\nha-trang-da-lat.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/nha-trang1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\nha-trang1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/ninh-binhs
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\ninh-binhs.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/north-vietnam
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\north-vietnam.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/phu-quoc
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\phu-quoc.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/phu-yen1
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\phu-yen1.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Bootstrap/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Bootstrap\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Bootstrap/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Bootstrap\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/css/hover.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\css\hover.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/cssmenu/script.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\cssmenu\script.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/cssmenu/styles.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\cssmenu\styles.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/dist/ekko-lightbox.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\dist\ekko-lightbox.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/dist/ekko-lightbox.min.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\dist\ekko-lightbox.min.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/flexslider/flexslider.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\flexslider\flexslider.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/flexslider/fonts/flexslider-icon.eot
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\flexslider\fonts\flexslider-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/flexslider/fonts/flexslider-icon.eot?
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\flexslider\fonts\flexslider-icon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/flexslider/fonts/flexslider-icon.svg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\flexslider\fonts\flexslider-icon.svg
+Content Type: image/svg+xml
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/flexslider/fonts/flexslider-icon.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\flexslider\fonts\flexslider-icon.ttf
+Content Type: application/octet-stream
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/flexslider/fonts/flexslider-icon.woff
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\flexslider\fonts\flexslider-icon.woff
+Content Type: font/x-woff
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/flexslider/jquery.flexslider.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\flexslider\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/html5jquery/html5lightbox.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\html5jquery\html5lightbox.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/isotope/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/external/jquery/jquery.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\external\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/jquery-ui.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\jquery-ui.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/jquery-ui/jquery-ui.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\jquery-ui\jquery-ui.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/mp-mansory/mp.mansory.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\mp-mansory\mp.mansory.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/nino-slider/jquery.nivo.slider.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\nino-slider\jquery.nivo.slider.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/nino-slider/nivo-slider.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\nino-slider\nivo-slider.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/OwlCarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\OwlCarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/OwlCarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\OwlCarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/OwlCarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\OwlCarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/OwlCarousel/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\OwlCarousel\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/OwlCarousel/owlcarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\OwlCarousel\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/OwlCarousel/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\OwlCarousel\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/tab-zozo/css/zozo.tabs.min.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\tab-zozo\css\zozo.tabs.min.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/tab-zozo/img/loading-image.gif
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\tab-zozo\img\loading-image.gif
+Content Type: image/gif
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/tab-zozo/img/z-tabs-icons.png
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\tab-zozo\img\z-tabs-icons.png
+Content Type: image/png
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/tab-zozo/js/zozo.tabs.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\tab-zozo\js\zozo.tabs.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Validate/jquery-validation-1.13.1/additional-methods.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Validate\jquery-validation-1.13.1\additional-methods.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Validate/jquery-validation-1.13.1/jquery-validation.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Validate\jquery-validation-1.13.1\jquery-validation.css
+Content Type: text/css
+
+Uri: http://demoaicvietnam.webtravel.vn/Plugins/Validate/jquery-validation-1.13.1/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Plugins\Validate\jquery-validation-1.13.1\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/sapa
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\sapa.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/Scripts/jquery.cookie.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\Scripts\jquery.cookie.js
+Content Type: application/javascript
+
+Uri: http://demoaicvietnam.webtravel.vn/services
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\services.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/south-vietnam
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\south-vietnam.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/中国-河内-富国岛-6天5晚
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\中国-河内-富国岛-6天5晚.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/河内-下龙湾5天4晚-体验星游船）
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\河内-下龙湾5天4晚-体验星游船）.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/河内-宁平-下龙湾5天4晚
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\河内-宁平-下龙湾5天4晚.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/芽庄一地-5天4晚
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\芽庄一地-5天4晚.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/顺化-会安-岘港6天5晚
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\顺化-会安-岘港6天5晚.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/da-nang-than-tai-mountain-hoi-an-ba-na-hill
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\da-nang-than-tai-mountain-hoi-an-ba-na-hill.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/ha-noi-da-nang-hoi-an-hue-ba-na-hanoi
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\ha-noi-da-nang-hoi-an-hue-ba-na-hanoi.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/ha-noi-phu-quoc-ha-noi
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\ha-noi-phu-quoc-ha-noi.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/hanoi-da-lat-nha-trang-hanoi
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\hanoi-da-lat-nha-trang-hanoi.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/hanoi-halong-hanoi
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\hanoi-halong-hanoi.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/hanoi-ninh-binh
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\hanoi-ninh-binh.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/hanoi-ninhbinh-1-day
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\hanoi-ninhbinh-1-day.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tour/hanoi-ninhbinh-1-day-2
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tour\hanoi-ninhbinh-1-day-2.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tours-from-central-vietnam
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tours-from-central-vietnam.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tours-from-north-vietnam
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tours-from-north-vietnam.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/tours-from-south-vietnam
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\tours-from-south-vietnam.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/vietnam-tours
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\vietnam-tours.html
+Content Type: text/html
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-brands-400.woff
+Content Type: font/x-woff
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-brands-400.woff2
+Content Type: font/x-woff2
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-regular-400.woff
+Content Type: font/x-woff
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-regular-400.woff2
+Content Type: font/x-woff2
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-solid-900.woff
+Content Type: font/x-woff
+
+Uri: http://demoaicvietnam.webtravel.vn/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\webfonts\fa-solid-900.woff2
+Content Type: font/x-woff2
+
+Uri: http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\css-2
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\css-4
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800);@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);article, aside, figcaption, figure, footer, header, hgroup, nav, section {display: block;}.z-tabs,.z-tabs > ul,.z-tabs > ul > li,.z-tabs > ul > li > a,.z-tabs > .z-container,.z-tabs > .z-container > .z-content,.z-tabs > .z-container > .z-content > .z-content-inner {-moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box;} .z-tabs, .z-tabs:before, .z-tabs:after {-moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box;} .z-tabs, .z-tabs > ul, .z-tabs > ul > li, .z-tabs > ul > li > a {position: relative; margin: 0; padding: 0; border: 0; outline: 0; display: block; outline: 0 none; text-decoration: none; list-style: none; list-style-type: none;} .z-tabs > .z-container > .z-content::after, .z-tabs > .z-container > .z-content > .z-content-inner::after {content: ".
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\css-3
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\lato\v22\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://apis.google.com/js/platform.js
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\js\platform.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300i,400,400i,600,700&subset=vietnamese
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV8exQ.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV8exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV8exQ.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV8exQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4vaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4vaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4vaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4vaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVc.ttf
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVc.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252F%25E4%25BB%258B%25E7%25BB%258D1%252F2322%252F%25E4%25BA%259A%25E6%25B4%25B2%25E5%258D%25B0%25E5%25BA%25A6%25E6%2594%25AF%25E9%2582%25A3%25E6%2597%2585%25E6%25B8%25B8%25E5%2585%25AC%25E5%258F%25B8%26ref%3Dplugin%26src%3Dlike%26kid_directed_site%3D0&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&kid_directed_site=0&ref=plugin&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Fabout-us1%252F2323%252Fabout-us%26ref%3Dplugin%26src%3Dlike%26kid_directed_site%3D0&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&kid_directed_site=0&ref=plugin&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252F%25E4%25B8%25AD%25E5%259B%25BD-%25E6%25B2%25B3%25E5%2586%2585-%25E5%25AF%258C%25E5%259B%25BD%25E5%25B2%259B-6%25E5%25A4%25A95%25E6%2599%259A%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252FCHINA%252Fphuquoc%252Fvinpearl%2Bsafari%2Bphu%2Bquoc-%2Bng%25C3%25A0y%2B4.jpg%26title%3D%25E4%25B8%25AD%25E5%259B%25BD-%2B%25E6%25B2%25B3%25E5%2586%2585-%25E5%25AF%258C%25E5%259B%25BD%25E5%25B2%259B%2B6%25E5%25A4%25A95%25E6%2599%259A&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252F%25E6%25B2%25B3%25E5%2586%2585-%25E4%25B8%258B%25E9%25BE%2599%25E6%25B9%25BE5%25E5%25A4%25A94%25E6%2599%259A-%25E4%25BD%2593%25E9%25AA%258C%25E6%2598%259F%25E6%25B8%25B8%25E8%2588%25B9%25EF%25BC%2589%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252FCHINA%252Fhalong%252Ft%25C3%25A0u%2Bera.jpg%26title%3D%25E6%25B2%25B3%25E5%2586%2585-%25E4%25B8%258B%25E9%25BE%2599%25E6%25B9%25BE5%25E5%25A4%25A94%25E6%2599%259A%2B%2528%25E4%25BD%2593%25E9%25AA%258C%25E6%2598%259F%25E6%25B8%25B8%25E8%2588%25B9%25EF%25BC%2589&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252F%25E6%25B2%25B3%25E5%2586%2585-%25E5%25AE%2581%25E5%25B9%25B3-%25E4%25B8%258B%25E9%25BE%2599%25E6%25B9%25BE5%25E5%25A4%25A94%25E6%2599%259A%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252FCHINA%252Fhalong-ninhbinh%252Fhalong%2Bsunworld%2Bpark.jpg%26title%3D%25E6%25B2%25B3%25E5%2586%2585-%25E5%25AE%2581%25E5%25B9%25B3-%25E4%25B8%258B%25E9%25BE%2599%25E6%25B9%25BE5%25E5%25A4%25A94%25E6%2599%259A&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252F%25E8%258A%25BD%25E5%25BA%2584%25E4%25B8%2580%25E5%259C%25B0-5%25E5%25A4%25A94%25E6%2599%259A%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252FCHINA%252Fnhatrang%252F%25E1%25BA%25A3nh%2B1%2BNha%2BTrang.jpg%26title%3D%25E8%258A%25BD%25E5%25BA%2584%25E4%25B8%2580%25E5%259C%25B0%2B5%25E5%25A4%25A94%25E6%2599%259A&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252F%25E9%25A1%25BA%25E5%258C%2596-%25E4%25BC%259A%25E5%25AE%2589-%25E5%25B2%2598%25E6%25B8%25AF6%25E5%25A4%25A95%25E6%2599%259A%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252FCHINA%252Fdanang%252Fb%25C3%25A0%2Bn%25C3%25A0%2Bhill.jpg%26title%3D%25E9%25A1%25BA%25E5%258C%2596-%25E4%25BC%259A%25E5%25AE%2589-%25E5%25B2%2598%25E6%25B8%25AF6%25E5%25A4%25A95%25E6%2599%259A&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fda-nang-than-tai-mountain-hoi-an-ba-na-hill%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252Ftours%252Fdanang%252FV%25C3%25B2ng-quay-M%25E1%25BA%25B7t-tr%25E1%25BB%259Di.jpg%26title%3DDA%2BNANG%2B-%2BTHAN%2BTAI%2BMOUNTAIN%2B-%2BHOI%2BAN%2B-%2BBA%2BNA%2BHILL&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fha-noi-da-nang-hoi-an-hue-ba-na-hanoi%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252Ftours%252Fhue-hoian%252FBa-Na-Hill.jpg%26title%3DHA%2BNOI%2B-%2BDA%2BNANG%2B-%2BHOI%2BAN%2B-%2BHUE%2B-%2BBA%2BNA%2B-%2BHANOI&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fha-noi-phu-quoc-ha-noi%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252Ftours%252Fphuquoc-hungyen%252FVinpearl-Safari.jpg%26title%3DHA%2BNOI%2B-%2BPHU%2BQUOC%2B-%2BHA%2BNOI&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fhanoi-da-lat-nha-trang-hanoi%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252Ftours%252Fdalat-nhatrang%252Fi-resort.jpg%26title%3DHANOI%2B-%2BDA%2BLAT%2B-%2BNHA%2BTRANG%2B-%2BHANOI&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fhanoi-halong-hanoi%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Fimages%252Ftours%252Fhanoi-halong%252FDragon-park.jpg%26title%3DHANOI%2B-%2BHALONG%2B-%2BHANOI&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fhanoi-ninh-binh%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Ffiles%252FNinh-Binh2.jpg%26title%3DHanoi%2B-%2BNinh%2BBinh&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fhanoi-ninhbinh-1-day%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Ffiles%252FNinh-Binh2.jpg%26title%3DHa%2BNoi%2B-%2BNinh%2BBinh&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ftour%252Fhanoi-ninhbinh-1-day-2%26picture%3Dhttp%253A%252F%252Faicvietnam.vn%252F%252Ffiles%252Ffiles%252FNinh-Binh2.jpg%26title%3DHa%2BNoi%2B-%2BNinh%2BBinh&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBkKxeP9U3h8QzyGoPPUuL7prK8pbC8ovg&callback=initMap
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\demoaicvietnam.webtravel.vn\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+

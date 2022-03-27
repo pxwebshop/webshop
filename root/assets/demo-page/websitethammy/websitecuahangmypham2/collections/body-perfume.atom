@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/body-perfume.atom"/>
+  <title>Beauty Store</title>
+  <updated>2017-05-25T06:10:48-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387465680</id>
+    <published>2017-05-25T06:10:48-04:00</published>
+    <updated>2017-05-25T06:10:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/cricket-bat"/>
+    <title>Cricket Bat</title>
+    <s:type>Cricket Bat</s:type>
+    <s:vendor>Vector X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-17_5a47a4fe-0ee8-4d67-ab47-ed1977a8c365.jpg?v=1575032129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vector X<br>
+        <strong>Type: </strong>Cricket Bat<br>
+        <strong>Price: </strong>
+            580.00 - 689.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/cricket-bat">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Cyan</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Skateboard</s:tag>
+    <s:tag>Vector X</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387465680</id>
+      <title>L / Cyan</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387465680</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">632.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387465680</id>
+      <title>S / Black</title>
+      <s:price currency="USD">689.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387401040</id>
+    <published>2017-05-25T06:00:42-04:00</published>
+    <updated>2017-05-25T06:00:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/tennis-bat"/>
+    <title>Tennis Bat</title>
+    <s:type>Table Tennis Bat</s:type>
+    <s:vendor>Vector X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-1_299a1891-d3d7-4036-8c5a-5cbd69e6f99d.jpg?v=1613634531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vector X<br>
+        <strong>Type: </strong>Table Tennis Bat<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Table Tennis Bat</s:tag>
+    <s:tag>Vector X</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387401040</id>
+      <title>L / Red</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387401040</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387401040</id>
+      <title>S / Green</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387294032</id>
+    <published>2017-05-25T05:52:40-04:00</published>
+    <updated>2017-05-25T05:52:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/golf-steel-set"/>
+    <title>Golf Steel Set</title>
+    <s:type>Golf</s:type>
+    <s:vendor>Puma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-20_1ec97ec9-e360-4326-acfa-cef2cdf317a8.jpg?v=1575032480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puma<br>
+        <strong>Type: </strong>Golf<br>
+        <strong>Price: </strong>
+            310.00 - 380.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/golf-steel-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Hockey Stick</s:tag>
+    <s:tag>Puma</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387294032</id>
+      <title>S / Black</title>
+      <s:price currency="USD">310.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387294032</id>
+      <title>M / Black</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387294032</id>
+      <title>L / Black</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387151696</id>
+    <published>2017-05-25T05:34:07-04:00</published>
+    <updated>2017-05-25T05:34:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/wicket-keeping-gloves"/>
+    <title>Wicket Keeping Gloves</title>
+    <s:type>Gloves</s:type>
+    <s:vendor>Reebok Sports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/product6.jpg?v=1575007686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reebok Sports<br>
+        <strong>Type: </strong>Gloves<br>
+        <strong>Price: </strong>
+            590.00 - 689.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/wicket-keeping-gloves">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Gloves</s:tag>
+    <s:tag>Reebok Sports</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387151696</id>
+      <title>S / Black</title>
+      <s:price currency="USD">590.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387151696</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">689.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387151696</id>
+      <title>L / Red</title>
+      <s:price currency="USD">650.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+    <published>2017-05-25T05:30:29-04:00</published>
+    <updated>2017-05-25T05:30:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/football"/>
+    <title>Football</title>
+    <s:type>Foot Ball</s:type>
+    <s:vendor>Physique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-6_34bc0a44-eff9-4bc6-9651-f4c2ae61e29a.jpg?v=1575030597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physique<br>
+        <strong>Type: </strong>Foot Ball<br>
+        <strong>Price: </strong>
+            580.00 - 690.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/football">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Foot Ball</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Physique</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+      <title>M / Black</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">690.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+    <published>2017-05-25T05:27:50-04:00</published>
+    <updated>2017-05-25T05:27:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/sports-jacket"/>
+    <title>Sports Jacket</title>
+    <s:type>Clothes</s:type>
+    <s:vendor>Amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-18_45d8fc0d-4940-4c90-9dd3-809e43150015.jpg?v=1575032291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazon<br>
+        <strong>Type: </strong>Clothes<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Hockey Stick Bag</s:tag>
+    <s:tag>Puma</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+      <title>S / Black</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387062224</id>
+    <published>2017-05-25T05:25:35-04:00</published>
+    <updated>2017-05-25T05:25:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/badminton-bat"/>
+    <title>Badminton Bat</title>
+    <s:type>Badminton</s:type>
+    <s:vendor>Puma</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-7_8eae0583-2f1c-49da-b8d1-8c3b2bbf7471.jpg?v=1575030696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puma<br>
+        <strong>Type: </strong>Badminton<br>
+        <strong>Price: </strong>
+            420.00 - 490.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/badminton-bat">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Puma</s:tag>
+    <s:tag>Tennis bat</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387062224</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387062224</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387062224</id>
+      <title>L / Green</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+    <published>2017-05-25T05:20:42-04:00</published>
+    <updated>2017-05-25T05:20:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/shuttlecocks"/>
+    <title>Shuttlecocks</title>
+    <s:type>Cork</s:type>
+    <s:vendor>Reebok Sports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/product17.jpg?v=1575007710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reebok Sports<br>
+        <strong>Type: </strong>Cork<br>
+        <strong>Price: </strong>
+            358.00 - 427.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/shuttlecocks">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Cork</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Reebok Sports</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">372.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">358.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+      <title>L / Red</title>
+      <s:price currency="USD">427.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387002640</id>
+    <published>2017-05-25T05:17:46-04:00</published>
+    <updated>2017-05-25T05:17:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/shuttle-racquet"/>
+    <title>Shuttle Racquet</title>
+    <s:type>Shuttle</s:type>
+    <s:vendor>Vector X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-3_7e12a8b4-a0c1-4d39-a5c6-8902809ab375.jpg?v=1575030142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vector X<br>
+        <strong>Type: </strong>Shuttle<br>
+        <strong>Price: </strong>
+            589.00 - 699.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/shuttle-racquet">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Cyan</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Table Tennis Bat</s:tag>
+    <s:tag>Tennis bat</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387002640</id>
+      <title>L / Cyan</title>
+      <s:price currency="USD">589.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387002640</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">689.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387002640</id>
+      <title>S / Green</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9386922896</id>
+    <published>2017-05-25T05:07:07-04:00</published>
+    <updated>2017-05-25T05:07:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/chessmen-with-board"/>
+    <title>Chessmen with Board</title>
+    <s:type>Chess Board</s:type>
+    <s:vendor>Vector X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/product10.jpg?v=1575007720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vector X<br>
+        <strong>Type: </strong>Chess Board<br>
+        <strong>Price: </strong>
+            789.00 - 999.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/chessmen-with-board">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Chess Board</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Vector X</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9386922896</id>
+      <title>M / Black</title>
+      <s:price currency="USD">789.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9386922896</id>
+      <title>S / Brown</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9386922896</id>
+      <title>L / Green</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9386881040</id>
+    <published>2017-05-25T05:02:48-04:00</published>
+    <updated>2017-05-25T05:02:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/brown-basketball"/>
+    <title>Brown Basketball</title>
+    <s:type>Badminton</s:type>
+    <s:vendor>Vector X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-16_774d1444-8395-48fd-a191-360520c8a7e0.jpg?v=1575096042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vector X<br>
+        <strong>Type: </strong>Badminton<br>
+        <strong>Price: </strong>
+            560.00 - 690.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/brown-basketball">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Skateboard</s:tag>
+    <s:tag>Vector X</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9386881040</id>
+      <title>M / Black</title>
+      <s:price currency="USD">560.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9386881040</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">620.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9386881040</id>
+      <title>S / Lime</title>
+      <s:price currency="USD">690.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

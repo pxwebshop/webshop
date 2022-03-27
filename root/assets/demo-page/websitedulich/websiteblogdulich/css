@@ -1,0 +1,21 @@
+﻿@font-face {
+  font-family: 'Dancing Script';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/notosans/v25/o-0IIpQlx3QUlC5A4PNr5TRF.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/notosans/v25/o-0NIpQlx3QUlC5A4PNjXhFVZNyE.ttf) format('truetype');
+}

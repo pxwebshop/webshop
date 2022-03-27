@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/perfumes.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-09-20T04:58:53-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+    <published>2019-09-20T04:58:53-04:00</published>
+    <updated>2019-09-20T04:58:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/eau-de-toilette"/>
+    <title>Eau de Toilette</title>
+    <s:type>Perfume</s:type>
+    <s:vendor>Wisteria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p19.jpg?v=1568969936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wisteria<br>
+        <strong>Type: </strong>Perfume<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Aloe Vera</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:tag>Wisteria</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+      <title>Orange / Aloe Vera</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+      <title>Purple / Aloe Vera</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052794965</id>
+      <title>Purple / Pappaya</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113052500053</id>
+    <published>2019-09-20T04:58:48-04:00</published>
+    <updated>2019-09-20T04:58:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/facial-lotion"/>
+    <title>Facial Lotion</title>
+    <s:type>Face cream</s:type>
+    <s:vendor>Glamo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p16.jpg?v=1568969929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Glamo<br>
+        <strong>Type: </strong>Face cream<br>
+        <strong>Price: </strong>
+            198.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Face cream</s:tag>
+    <s:tag>Glamo</s:tag>
+    <s:tag>Pappaya</s:tag>
+    <s:tag>Salmon</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113052500053</id>
+      <title>Salmon / Pappaya</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+    <published>2019-09-20T04:58:10-04:00</published>
+    <updated>2019-09-20T04:58:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/facial-cream"/>
+    <title>Facial Cream</title>
+    <s:type>Face cream</s:type>
+    <s:vendor>Mystique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/p2.jpg?v=1568969893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mystique<br>
+        <strong>Type: </strong>Face cream<br>
+        <strong>Price: </strong>
+            400.00 - 500.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/facial-cream">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut...</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Camellia</s:tag>
+    <s:tag>Face cream</s:tag>
+    <s:tag>Mystique</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+      <title>Camellia / White</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+      <title>Pappaya / Green</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4113050959957</id>
+      <title>Alovera / Sandal</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

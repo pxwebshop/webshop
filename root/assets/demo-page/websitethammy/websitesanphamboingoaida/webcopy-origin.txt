@@ -1,0 +1,988 @@
+Uri: http://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C500|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\s\dancingscript\v22\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: http://sorizon.ninhbinhsite.com/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/ayurveda-kien-thuc-ve-cuoc-song-quanh-ta/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\ayurveda-kien-thuc-ve-cuoc-song-quanh-ta\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/ayurveda-kien-thuc-ve-cuoc-song-quanh-ta/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\ayurveda-kien-thuc-ve-cuoc-song-quanh-ta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-cac-dia-chi-tin-cay-chua-vay-nen/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-cac-dia-chi-tin-cay-chua-vay-nen\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-cac-dia-chi-tin-cay-chua-vay-nen/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-cac-dia-chi-tin-cay-chua-vay-nen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/benh-vay-nen/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\benh-vay-nen\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/cach-dung-kem-boi-da-sorion-hieu-qua-cho-benh-vay-nen/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\cach-dung-kem-boi-da-sorion-hieu-qua-cho-benh-vay-nen\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/cach-dung-kem-boi-da-sorion-hieu-qua-cho-benh-vay-nen/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\cach-dung-kem-boi-da-sorion-hieu-qua-cho-benh-vay-nen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/category/sirozon/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\category\sirozon\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/category/sirozon/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\category\sirozon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/comments/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/dai-ly/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\dai-ly\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/dau-goi-sorion/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\dau-goi-sorion\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/dau-goi-sorion/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\dau-goi-sorion\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/gio-hang/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/hanh-trinh-dieu-tri-benh-vay-nen-voi-kem-sorion-an-do/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\hanh-trinh-dieu-tri-benh-vay-nen-voi-kem-sorion-an-do\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/hanh-trinh-dieu-tri-benh-vay-nen-voi-kem-sorion-an-do/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\hanh-trinh-dieu-tri-benh-vay-nen-voi-kem-sorion-an-do\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/hoi-dap/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\hoi-dap\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/kem-sorion-dieu-tri-vay-nen-viem-da-co-dia-co-tot-khong/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\kem-sorion-dieu-tri-vay-nen-viem-da-co-dia-co-tot-khong\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/kem-sorion-dieu-tri-vay-nen-viem-da-co-dia-co-tot-khong/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\kem-sorion-dieu-tri-vay-nen-viem-da-co-dia-co-tot-khong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/kem-vay-nen-sorion/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\kem-vay-nen-sorion\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/kem-vay-nen-sorion/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\kem-vay-nen-sorion\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/kiem-soat-benh-vay-nen-nho-kem-vay-nen-sorion/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\kiem-soat-benh-vay-nen-nho-kem-vay-nen-sorion\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/kiem-soat-benh-vay-nen-nho-kem-vay-nen-sorion/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\kiem-soat-benh-vay-nen-nho-kem-vay-nen-sorion\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/lich-su-hinh-thanh/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\lich-su-hinh-thanh\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/loi-ich-cua-la-neem-cho-benh-vay-nen-ban-nen-biet/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\loi-ich-cua-la-neem-cho-benh-vay-nen-ban-nen-biet\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/loi-ich-cua-la-neem-cho-benh-vay-nen-ban-nen-biet/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\loi-ich-cua-la-neem-cho-benh-vay-nen-ban-nen-biet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/mau-mien-phi/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\mau-mien-phi\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/san-pham/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\san-pham\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/san-pham/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\san-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/sorion-da-duoc-phan-phoi-doc-quyen-chinh-thuc-tai-viet-nam/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\sorion-da-duoc-phan-phoi-doc-quyen-chinh-thuc-tai-viet-nam\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/sorion-da-duoc-phan-phoi-doc-quyen-chinh-thuc-tai-viet-nam/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\sorion-da-duoc-phan-phoi-doc-quyen-chinh-thuc-tai-viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/sorion/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\sorion\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/sorion/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\sorion\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/thanh-phan-cau-tao-cua-thuoc-sirozon-ban-nen-biet/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\thanh-phan-cau-tao-cua-thuoc-sirozon-ban-nen-biet\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/thanh-phan-cau-tao-cua-thuoc-sirozon-ban-nen-biet/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\thanh-phan-cau-tao-cua-thuoc-sirozon-ban-nen-biet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/uu-diem-va-han-che-cua-kem-boi-sorion-cho-nguoi-vay-nen-viem-da-co-dia/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\uu-diem-va-han-che-cua-kem-boi-sorion-cho-nguoi-vay-nen-viem-da-co-dia\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/uu-diem-va-han-che-cua-kem-boi-sorion-cho-nguoi-vay-nen-viem-da-co-dia/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\uu-diem-va-han-che-cua-kem-boi-sorion-cho-nguoi-vay-nen-viem-da-co-dia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/vay-nen-khi-mang-thai-nhung-dieu-ma-ban-can-biet/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\vay-nen-khi-mang-thai-nhung-dieu-ma-ban-can-biet\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/vay-nen-khi-mang-thai-nhung-dieu-ma-ban-can-biet/feed/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\vay-nen-khi-mang-thai-nhung-dieu-ma-ban-can-biet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://sorizon.ninhbinhsite.com/ve-chung-toi/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\ve-chung-toi\index.htm
+Content Type: text/html
+
+Uri: http://sorizon.ninhbinhsite.com/wp-admin/js/password-strength-meter.min.js?ver=5.5.9
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/cache/min/1/2e1f22fcc2f8b05648872a12e7b997f7.js
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\cache\min\1\2e1f22fcc2f8b05648872a12e7b997f7.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/cache/min/1/3d01455be119dd9e6df68513220746de.js
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\cache\min\1\3d01455be119dd9e6df68513220746de.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/cache/min/1/47173d171eb89fc9203a2d81da5dce72.js
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\cache\min\1\47173d171eb89fc9203a2d81da5dce72.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/cache/min/1/624c0e506d4d25a5b6fcad44eebe0924.js
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\cache\min\1\624c0e506d4d25a5b6fcad44eebe0924.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/cache/min/1/98bde30e73ab352d2fb06e9437bd6780.css
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\cache\min\1\98bde30e73ab352d2fb06e9437bd6780.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/cache/min/1/cff26a1dfcfda8861dd440fbc0f5f482.css
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\cache\min\1\cff26a1dfcfda8861dd440fbc0f5f482.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/contact-form-7/assets/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\contact-form-7\assets\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/kk-star-ratings/public/css/kk-star-ratings.css?ver=4.1.7
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\kk-star-ratings\public\css\kk-star-ratings.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/kk-star-ratings/public/js/kk-star-ratings.js?ver=4.1.7
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\kk-star-ratings\public\js\kk-star-ratings.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/kk-star-ratings/public/svg/active.svg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\kk-star-ratings\public\svg\active.svg
+Content Type: image/svg+xml
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/kk-star-ratings/public/svg/inactive.svg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\kk-star-ratings\public\svg\inactive.svg
+Content Type: image/svg+xml
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/kk-star-ratings/public/svg/selected.svg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\kk-star-ratings\public\svg\selected.svg
+Content Type: image/svg+xml
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2002
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\table-of-contents-plus\front.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2002
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\table-of-contents-plus\screen.min.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.8.3
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.6
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.8.1
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.8.1
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\vendors-style.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.12.2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.12.2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Bold.eot
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Bold.eot?
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Bold.ttf
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Bold.woff
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Bold.woff
+Content Type: application/font-woff
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Bold.woff2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Bold.woff2
+Content Type: font/woff2
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Regular.eot
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Regular.eot?
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Regular.ttf
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Regular.woff
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Regular.woff
+Content Type: application/font-woff
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/font/SFProDisplay-Regular.woff2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\font\SFProDisplay-Regular.woff2
+Content Type: font/woff2
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/themes/sorizon/style.css?ver=3.0
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\themes\sorizon\style.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/117865891_610498806199053_4333194613249252311_o-300x205.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\117865891_610498806199053_4333194613249252311_o-300x205.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/117865891_610498806199053_4333194613249252311_o-600x409.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\117865891_610498806199053_4333194613249252311_o-600x409.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/117865891_610498806199053_4333194613249252311_o.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\117865891_610498806199053_4333194613249252311_o.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/ayurvedic-sorion-300x200.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\ayurvedic-sorion-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/ayurvedic-sorion.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\ayurvedic-sorion.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-600x350-1-300x175.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-600x350-1-300x175.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-600x350-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\bac-si-gioi-chua-benh-vay-nen-o-bac-ninh-600x350-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/bg-question.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\bg-question.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/bk.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\bk.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cach-dung-kem-sorion-hieu-qua-1370x1536.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cach-dung-kem-sorion-hieu-qua-1370x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cach-dung-kem-sorion-hieu-qua-268x300.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cach-dung-kem-sorion-hieu-qua-268x300.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cach-dung-kem-sorion-hieu-qua-600x673.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cach-dung-kem-sorion-hieu-qua-600x673.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cach-dung-kem-sorion-hieu-qua-768x861.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cach-dung-kem-sorion-hieu-qua-768x861.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cach-dung-kem-sorion-hieu-qua-913x1024.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cach-dung-kem-sorion-hieu-qua-913x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cach-dung-kem-sorion-hieu-qua.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cach-dung-kem-sorion-hieu-qua.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/chi-phi-su-dung-sorion-600x350-1-300x175.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\chi-phi-su-dung-sorion-600x350-1-300x175.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/chi-phi-su-dung-sorion-600x350-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\chi-phi-su-dung-sorion-600x350-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cropped-favicon-180x180.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cropped-favicon-180x180.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cropped-favicon-192x192.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cropped-favicon-192x192.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/cropped-favicon-32x32.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\cropped-favicon-32x32.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/DAT-MUA.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\DAT-MUA.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/dau_goi_sorion-683x1024-1-200x300.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\dau_goi_sorion-683x1024-1-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/dau_goi_sorion-683x1024-1-300x400.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\dau_goi_sorion-683x1024-1-300x400.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/dau_goi_sorion-683x1024-1-600x900.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\dau_goi_sorion-683x1024-1-600x900.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/dau_goi_sorion-683x1024-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\dau_goi_sorion-683x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/dieu_tri_vay_nen-300x184.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\dieu_tri_vay_nen-300x184.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/dieu_tri_vay_nen.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\dieu_tri_vay_nen.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/dot-icon.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\dot-icon.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-bao-linh-100x100.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-bao-linh-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-bao-linh-150x150.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-bao-linh-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-bao-linh-300x300.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-bao-linh-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-bao-linh.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-bao-linh.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-hien-100x100.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-hien-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-hien-150x150.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-hien-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-hien-300x300.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-hien-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-hien.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-hien.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-thu-tra-100x100.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-thu-tra-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-thu-tra-150x150.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-thu-tra-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-thu-tra-300x300.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-thu-tra-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/duoc-si-thu-tra.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\duoc-si-thu-tra.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/fanpage-img-1-300x247.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\fanpage-img-1-300x247.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/fanpage-img-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\fanpage-img-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/fanpage-img-300x247.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\fanpage-img-300x247.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/fanpage-img.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\fanpage-img.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/foody-upload-api-foody-mobile-avar-jpg-181116083652-300x172.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\foody-upload-api-foody-mobile-avar-jpg-181116083652-300x172.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/foody-upload-api-foody-mobile-avar-jpg-181116083652-600x344.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\foody-upload-api-foody-mobile-avar-jpg-181116083652-600x344.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/foody-upload-api-foody-mobile-avar-jpg-181116083652-768x440.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\foody-upload-api-foody-mobile-avar-jpg-181116083652-768x440.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/foody-upload-api-foody-mobile-avar-jpg-181116083652.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\foody-upload-api-foody-mobile-avar-jpg-181116083652.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/hotline-icon.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\hotline-icon.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/hotline.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\hotline.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/ico-call.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\ico-call.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/img-1-300x175.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\img-1-300x175.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/img-1.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\img-1.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/Kem_sorion_50g-683x1024-1-200x300.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\Kem_sorion_50g-683x1024-1-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/Kem_sorion_50g-683x1024-1-300x400.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\Kem_sorion_50g-683x1024-1-300x400.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/Kem_sorion_50g-683x1024-1-600x900.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\Kem_sorion_50g-683x1024-1-600x900.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/Kem_sorion_50g-683x1024-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\Kem_sorion_50g-683x1024-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/la-neem-an-do-300x220-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\la-neem-an-do-300x220-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/la-neem-trong-sorion-300x220-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\la-neem-trong-sorion-300x220-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/logo-sorizon.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\logo-sorizon.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/mang-thai-khi-bi-vay-nen-750x350-1-300x140.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\mang-thai-khi-bi-vay-nen-750x350-1-300x140.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/mang-thai-khi-bi-vay-nen-750x350-1-600x280.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\mang-thai-khi-bi-vay-nen-750x350-1-600x280.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/mang-thai-khi-bi-vay-nen-750x350-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\mang-thai-khi-bi-vay-nen-750x350-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/mess.png
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\mess.png
+Content Type: image/png
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/neem-sorion-vay-nen-1-300x154.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\neem-sorion-vay-nen-1-300x154.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/neem-sorion-vay-nen-1-600x308.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\neem-sorion-vay-nen-1-600x308.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/neem-sorion-vay-nen-1.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\neem-sorion-vay-nen-1.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion-banner-4-1024x404.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion-banner-4-1024x404.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion-banner-4-300x118.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion-banner-4-300x118.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion-banner-4-600x237.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion-banner-4-600x237.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion-banner-4-768x303.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion-banner-4-768x303.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion-banner-4.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion-banner-4.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion-dat-mua.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion-dat-mua.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion_banner_shampoo-1024x404.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion_banner_shampoo-1024x404.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion_banner_shampoo-300x118.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion_banner_shampoo-300x118.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion_banner_shampoo-600x237.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion_banner_shampoo-600x237.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion_banner_shampoo-768x303.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion_banner_shampoo-768x303.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorion_banner_shampoo.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorion_banner_shampoo.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorrion-kem-1024x404.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorrion-kem-1024x404.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorrion-kem-300x118.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorrion-kem-300x118.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorrion-kem-600x237.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorrion-kem-600x237.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorrion-kem-768x303.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorrion-kem-768x303.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sorrion-kem.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sorrion-kem.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sp2-276x300.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sp2-276x300.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/sp2.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\sp2.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/tu-van-100x100.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\tu-van-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/tu-van-150x150.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\tu-van-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-content/uploads/2020/10/tu-van.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-content\uploads\2020\10\tu-van.jpg
+Content Type: image/jpeg
+
+Uri: http://sorizon.ninhbinhsite.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.9
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://sorizon.ninhbinhsite.com/wp-includes/js/dist/i18n.min.js?ver=4ab02c8fd541b8cfb8952fe260d21f16
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-includes\js\jquery\jquery.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: http://sorizon.ninhbinhsite.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/21
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\21
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/118
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\118
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/121
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\121
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/125
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\125
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/128
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\128
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/131
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\131
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/134
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\134
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/137
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\137
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/141
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\141
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/144
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\144
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/147
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\147
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/posts/150
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\posts\150
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/product/589
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\product\589
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/wp-json/wp/v2/product/617
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\wp-json\wp\v2\product\617
+Content Type: application/json
+
+Uri: http://sorizon.ninhbinhsite.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fayurveda-kien-thuc-ve-cuoc-song-quanh-ta%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fbac-si-gioi-chua-benh-vay-nen-o-bac-ninh-cac-dia-chi-tin-cay-chua-vay-nen%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fcach-dung-kem-boi-da-sorion-hieu-qua-cho-benh-vay-nen%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fdau-goi-sorion%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fhanh-trinh-dieu-tri-benh-vay-nen-voi-kem-sorion-an-do%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fkem-sorion-dieu-tri-vay-nen-viem-da-co-dia-co-tot-khong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fkem-vay-nen-sorion%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fkiem-soat-benh-vay-nen-nho-kem-vay-nen-sorion%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Floi-ich-cua-la-neem-cho-benh-vay-nen-ban-nen-biet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fsorion-da-duoc-phan-phoi-doc-quyen-chinh-thuc-tai-viet-nam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fthanh-phan-cau-tao-cua-thuoc-sirozon-ban-nen-biet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fuu-diem-va-han-che-cua-kem-boi-sorion-cho-nguoi-vay-nen-viem-da-co-dia%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fsorizon.ninhbinhsite.com%252Fvay-nen-khi-mang-thai-nhung-dieu-ma-ban-can-biet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://vn-live-02.slatic.net/original/24b0e264e173ac28a18d9fff20082e8c.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\original\24b0e264e173ac28a18d9fff20082e8c.jpg
+Content Type: image/jpg
+
+Uri: https://vn-live-02.slatic.net/original/793cb2ff5d32ba22f2ff78e19ea8c940.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\original\793cb2ff5d32ba22f2ff78e19ea8c940.jpg
+Content Type: image/jpg
+
+Uri: https://vn-live-02.slatic.net/original/f3e1cef8b8a13c35e0c74e05797bc601.jpg
+File Name: C:\Downloaded Web Sites\sorizon.ninhbinhsite.com\original\f3e1cef8b8a13c35e0c74e05797bc601.jpg
+Content Type: image/jpg
+

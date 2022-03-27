@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/princess-dress.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-11-05T04:05:50-05:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4345703989333</id>
+    <published>2019-11-05T04:05:50-05:00</published>
+    <updated>2019-11-05T04:05:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/silk-sleeveless-frock"/>
+    <title>Silk Sleeveless Frock</title>
+    <s:type>Frock</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-10_aad745c0-d87a-4f3a-b5aa-fae0cab9da5a.jpg?v=1572944756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Frock<br>
+        <strong>Price: </strong>
+            248.00 - 278.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/silk-sleeveless-frock">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>cotton</s:tag>
+    <s:tag>Frock</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345703989333</id>
+      <title>S / Pink / Cotton</title>
+      <s:price currency="USD">278.00</s:price>
+      <s:sku>GCP28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345703989333</id>
+      <title>L / Blue / Wool</title>
+      <s:price currency="USD">248.00</s:price>
+      <s:sku>GCP29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345703989333</id>
+      <title>M / Red / Silk</title>
+      <s:price currency="USD">258.00</s:price>
+      <s:sku>GCP30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4345703530581</id>
+    <published>2019-11-05T04:05:39-05:00</published>
+    <updated>2019-11-05T04:05:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/solid-regular-casual-shirt"/>
+    <title>Solid Regular Casual Shirt</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Converse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-3_bff0b3f6-626d-422b-864a-64b27dbddd3b.jpg?v=1572944744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Converse<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            106.00 - 146.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/solid-regular-casual-shirt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Converse</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345703530581</id>
+      <title>S / White / Silk</title>
+      <s:price currency="USD">106.00</s:price>
+      <s:sku>GCP7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345703530581</id>
+      <title>L / Blue / cotton</title>
+      <s:price currency="USD">146.00</s:price>
+      <s:sku>GCP8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345703530581</id>
+      <title>M / Black / Wool</title>
+      <s:price currency="USD">136.00</s:price>
+      <s:sku>GCP9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4345702416469</id>
+    <published>2019-11-05T04:05:01-05:00</published>
+    <updated>2019-11-05T04:05:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/regular-plain-fit-shirt"/>
+    <title>Regular Plain Fit Shirt</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Himalaya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-5_ff5bf893-f45d-421c-b64e-df87cfad04be.jpg?v=1613641708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Himalaya<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            234.00 - 254.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/regular-plain-fit-shirt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Himalaya</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polyester</s:tag>
+    <s:tag>Shirt</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345702416469</id>
+      <title>XXL / Pink / Polyester</title>
+      <s:price currency="USD">234.00</s:price>
+      <s:sku>GCP13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345702416469</id>
+      <title>L / Gold / Silk</title>
+      <s:price currency="USD">244.00</s:price>
+      <s:sku>GCP14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345702416469</id>
+      <title>M / Red / Wool</title>
+      <s:price currency="USD">254.00</s:price>
+      <s:sku>GCP15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4345702219861</id>
+    <published>2019-11-05T04:04:57-05:00</published>
+    <updated>2019-11-05T04:04:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/sleeveless-flower-printed-tshirt"/>
+    <title>Sleeveless Flower Printed Tshirt</title>
+    <s:type>Tshirt</s:type>
+    <s:vendor>Lacoste</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-20_dde832d3-6a97-4a33-8de8-da243a2c111c.jpg?v=1572944700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lacoste<br>
+        <strong>Type: </strong>Tshirt<br>
+        <strong>Price: </strong>
+            625.00 - 675.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/sleeveless-flower-printed-tshirt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Polyester</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345702219861</id>
+      <title>Black / XXL / Polyester</title>
+      <s:price currency="USD">675.00</s:price>
+      <s:sku>GCP58</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345702219861</id>
+      <title>White / M / Wool</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>GCP59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345702219861</id>
+      <title>Pink / L / Silk</title>
+      <s:price currency="USD">625.00</s:price>
+      <s:sku>GCP60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4345701761109</id>
+    <published>2019-11-05T04:04:41-05:00</published>
+    <updated>2019-11-05T04:04:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/tshirt-and-long-pant-outfit"/>
+    <title>Tshirt And Long Pant Outfit</title>
+    <s:type>Tshirt</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-9_947b6234-8793-4cbc-913f-c5557f738e64.jpg?v=1572944685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Tshirt<br>
+        <strong>Price: </strong>
+            344.00 - 364.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/tshirt-and-long-pant-outfit">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>Polyester</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Tshirt</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345701761109</id>
+      <title>S / blue / Polyester</title>
+      <s:price currency="USD">364.00</s:price>
+      <s:sku>GCP25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345701761109</id>
+      <title>M / Black / Cotton</title>
+      <s:price currency="USD">344.00</s:price>
+      <s:sku>GCP26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4345701761109</id>
+      <title>L / Red / Wool</title>
+      <s:price currency="USD">354.00</s:price>
+      <s:sku>GCP27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

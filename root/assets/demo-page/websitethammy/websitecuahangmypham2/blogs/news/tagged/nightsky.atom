@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/tagged/nightsky.atom"/>
+  <title>Beauty Store - News</title>
+  <updated>2017-05-25T08:57:00-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/blogs/news/makeup-musts-for-winter-2016</id>
+    <published>2017-03-15T05:56:00-04:00</published>
+    <updated>2021-02-09T05:11:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/makeup-musts-for-winter-2016"/>
+    <title>Makeup musts for winter: 2016</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ]]>
+    </content>
+  </entry>
+</feed>
