@@ -1,0 +1,732 @@
+Uri: https://bizhostvn.com/w/pregmom/wp-content/uploads/2018/10/123.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\w\pregmom\wp-content\uploads\2018\10\123.jpg
+Content Type: image/jpeg
+
+Uri: https://bizhostvn.com/w/pregmom/wp-content/uploads/2018/10/loa-cau-hoi.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\w\pregmom\wp-content\uploads\2018\10\loa-cau-hoi.png
+Content Type: image/png
+
+Uri: https://bizhostvn.com/w/pregmom/wp-content/uploads/2018/10/logo-pregmom-1.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\w\pregmom\wp-content\uploads\2018\10\logo-pregmom-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bizhostvn.com/w/pregmom/wp-content/uploads/2018/10/white-pattern-png-5.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\w\pregmom\wp-content\uploads\2018\10\white-pattern-png-5.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fpregmom.websiteviet.vn%252Fban-o-dau-bao-tu-loi-khuan-pregmom-co-tot-khong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fpregmom.websiteviet.vn%252Fbao-tu-loi-khuan-pregmom-co-that-su-tot-cho-be%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fpregmom.websiteviet.vn%252Fcon-em-thoat-khoi-tao-bon-mot-cach-than-ky-nho-bao-tu-loi-khuan-preg-mom%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fpregmom.websiteviet.vn%252Fpregmom-bao-tu-loi-khuan-song-cho-me-va-be%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fpregmom.websiteviet.vn%252Fso-sanh-entergermina-preg-mom%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://pregmom.websiteviet.vn/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/2018/10/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\2018\10\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/author/admin/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/author/admin/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/ban-o-dau-bao-tu-loi-khuan-pregmom-co-tot-khong/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\ban-o-dau-bao-tu-loi-khuan-pregmom-co-tot-khong\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/ban-o-dau-bao-tu-loi-khuan-pregmom-co-tot-khong/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\ban-o-dau-bao-tu-loi-khuan-pregmom-co-tot-khong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/bao-tu-loi-khuan-pregmom-co-that-su-tot-cho-be/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\bao-tu-loi-khuan-pregmom-co-that-su-tot-cho-be\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/bao-tu-loi-khuan-pregmom-co-that-su-tot-cho-be/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\bao-tu-loi-khuan-pregmom-co-that-su-tot-cho-be\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/category/khong-phan-loai/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\category\khong-phan-loai\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/category/khong-phan-loai/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\category\khong-phan-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/comments/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/con-em-thoat-khoi-tao-bon-mot-cach-than-ky-nho-bao-tu-loi-khuan-preg-mom/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\con-em-thoat-khoi-tao-bon-mot-cach-than-ky-nho-bao-tu-loi-khuan-preg-mom\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/con-em-thoat-khoi-tao-bon-mot-cach-than-ky-nho-bao-tu-loi-khuan-preg-mom/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\con-em-thoat-khoi-tao-bon-mot-cach-than-ky-nho-bao-tu-loi-khuan-preg-mom\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/pregmom-bao-tu-loi-khuan-song-cho-me-va-be/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\pregmom-bao-tu-loi-khuan-song-cho-me-va-be\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/pregmom-bao-tu-loi-khuan-song-cho-me-va-be/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\pregmom-bao-tu-loi-khuan-song-cho-me-va-be\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/so-sanh-entergermina-preg-mom/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\so-sanh-entergermina-preg-mom\index.htm
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/so-sanh-entergermina-preg-mom/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\so-sanh-entergermina-preg-mom\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/css/forms.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/css/l10n.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/css/login.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/js/password-strength-meter.min.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-admin/js/user-profile.min.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://pregmom.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.4
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/css/effects.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\css\effects.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/confetti1.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\confetti1.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/confetti2.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\confetti2.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/glass1.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\glass1.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/glass2.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\glass2.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/rain.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\rain.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/snow1.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\snow1.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/snow2.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\snow2.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/sparkle1.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\sparkle1.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/sparkle2.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\sparkle2.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/lazy.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\lazy.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=1.0
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/SFUDaxCondensedRegular/SFUDaxCondensed.eot
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\SFUDaxCondensedRegular\SFUDaxCondensed.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/SFUDaxCondensedRegular/SFUDaxCondensed.eot?
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\SFUDaxCondensedRegular\SFUDaxCondensed-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/SFUDaxCondensedRegular/SFUDaxCondensed.svg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\SFUDaxCondensedRegular\SFUDaxCondensed.svg
+Content Type: image/svg+xml
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/SFUDaxCondensedRegular/SFUDaxCondensed.ttf
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\SFUDaxCondensedRegular\SFUDaxCondensed.ttf
+Content Type: application/octet-stream
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/SFUDaxCondensedRegular/SFUDaxCondensed.woff
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\SFUDaxCondensedRegular\SFUDaxCondensed.woff
+Content Type: font/woff
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/SFUDaxCondensedRegular/SFUDaxCondensed.woff2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\SFUDaxCondensedRegular\SFUDaxCondensed.woff2
+Content Type: font/woff2
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/UTMcookies/UTMCookies.eot
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\UTMcookies\UTMCookies.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/UTMcookies/UTMCookies.eot?
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\UTMcookies\UTMCookies-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/UTMcookies/UTMCookies.svg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\UTMcookies\UTMCookies.svg
+Content Type: image/svg+xml
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/UTMcookies/UTMCookies.ttf
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\UTMcookies\UTMCookies.ttf
+Content Type: application/octet-stream
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/UTMcookies/UTMCookies.woff
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\UTMcookies\UTMCookies.woff
+Content Type: font/woff
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/fonts/UTMcookies/UTMCookies.woff2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\fonts\UTMcookies\UTMCookies.woff2
+Content Type: font/woff2
+
+Uri: https://pregmom.websiteviet.vn/wp-content/themes/pregmom/style.css?ver=3.6.1
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\themes\pregmom\style.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/Bào-tử-lợi-khuẩn-Pregmom-300x235.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\Bào-tử-lợi-khuẩn-Pregmom-300x235.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/Bào-tử-lợi-khuẩn-Pregmom.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\Bào-tử-lợi-khuẩn-Pregmom.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/Banner-big-1024x377.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\Banner-big-1024x377.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/Banner-big-300x110.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\Banner-big-300x110.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/Banner-big-768x283.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\Banner-big-768x283.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/Banner-big.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\Banner-big.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/banner-mobile-300x270.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\banner-mobile-300x270.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/banner-mobile.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\banner-mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/bao-tu-loi-khuan-cho-me-va-be-1-300x73.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\bao-tu-loi-khuan-cho-me-va-be-1-300x73.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/bao-tu-loi-khuan-cho-me-va-be-1.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\bao-tu-loi-khuan-cho-me-va-be-1.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/bao-tu-loi-khuan-cho-me-va-be-300x81.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\bao-tu-loi-khuan-cho-me-va-be-300x81.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/bao-tu-loi-khuan-cho-me-va-be.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\bao-tu-loi-khuan-cho-me-va-be.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/be-an-ngon-hon-300x285.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\be-an-ngon-hon-300x285.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/be-an-ngon-hon.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\be-an-ngon-hon.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/bird.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\bird.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/button.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\button.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/cau-hoi-thuong-gap-300x173.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\cau-hoi-thuong-gap-300x173.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/cau-hoi-thuong-gap.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\cau-hoi-thuong-gap.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/cau-hoi-thuong-gap2-300x151.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\cau-hoi-thuong-gap2-300x151.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/cau-hoi-thuong-gap2.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\cau-hoi-thuong-gap2.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chi-hang-240x300.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chi-hang-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chi-hang.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chi-hang.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chi-thuy-240x300.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chi-thuy-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chi-thuy.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chi-thuy.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chug-nhan-3-224x300.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chug-nhan-3-224x300.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chug-nhan-3.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chug-nhan-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-chi-224x300.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-chi-224x300.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-chi.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-chi.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-1-224x300.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-1-224x300.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-1.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-giai-thuong-1024x230.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-giai-thuong-1024x230.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-giai-thuong-300x68.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-giai-thuong-300x68.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-giai-thuong-768x173.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-giai-thuong-768x173.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-giai-thuong.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-giai-thuong.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-isô-1-224x300.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-isô-1-224x300.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/chung-nhan-isô-1.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\chung-nhan-isô-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/con-bo.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\con-bo.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/con-ong.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\con-ong.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/CONG-NGHE-BAO-TU-LOI-KHUAN-SONG.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\CONG-NGHE-BAO-TU-LOI-KHUAN-SONG.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/footer.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\footer.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/HANH-TRINH-CUA-ME.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\HANH-TRINH-CUA-ME.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/het-tao-bon-300x285.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\het-tao-bon-300x285.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/het-tao-bon.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\het-tao-bon.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/icon.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\icon.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/logo-bo-cong-thuong.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\logo-bo-cong-thuong.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/logo1.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\logo1.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/logo2.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\logo2.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/logo3.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\logo3.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/logo4.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\logo4.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/logo5.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\logo5.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/logo6.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\logo6.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/mc-anh-thu-240x300.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\mc-anh-thu-240x300.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/mc-anh-thu.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\mc-anh-thu.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/phone-icon.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\phone-icon.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/section-2-bg.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\section-2-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/section-3-title-1024x196.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\section-3-title-1024x196.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/section-3-title-300x57.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\section-3-title-300x57.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/section-3-title-768x147.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\section-3-title-768x147.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/section-3-title.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\section-3-title.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/section-4-bg.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\section-4-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/star.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\star.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tang-can-tu-nhien-300x285.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tang-can-tu-nhien-300x285.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tang-can-tu-nhien.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tang-can-tu-nhien.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/thanh-phan.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\thanh-phan.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tim-hieu-ngay-button.png
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tim-hieu-ngay-button.png
+Content Type: image/png
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tin-tuc-1024x194.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tin-tuc-1024x194.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tin-tuc-300x57.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tin-tuc-300x57.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tin-tuc-768x146.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tin-tuc-768x146.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tin-tuc-bg-300x62.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tin-tuc-bg-300x62.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tin-tuc-bg.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tin-tuc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-content/uploads/2018/10/tin-tuc.jpg
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-content\uploads\2018\10\tin-tuc.jpg
+Content Type: image/jpeg
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/css/buttons.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/css/dashicons.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\fonts\dashicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/comment-reply.min.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/wp-util.min.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://pregmom.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://pregmom.websiteviet.vn/wp-json/
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2F
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2F&format=xml
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fban-o-dau-bao-tu-loi-khuan-pregmom-co-tot-khong%2F
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fban-o-dau-bao-tu-loi-khuan-pregmom-co-tot-khong%2F&format=xml
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fbao-tu-loi-khuan-pregmom-co-that-su-tot-cho-be%2F
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fbao-tu-loi-khuan-pregmom-co-that-su-tot-cho-be%2F&format=xml
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fcon-em-thoat-khoi-tao-bon-mot-cach-than-ky-nho-bao-tu-loi-khuan-preg-mom%2F
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fcon-em-thoat-khoi-tao-bon-mot-cach-than-ky-nho-bao-tu-loi-khuan-preg-mom%2F&format=xml
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fpregmom-bao-tu-loi-khuan-song-cho-me-va-be%2F
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fpregmom-bao-tu-loi-khuan-song-cho-me-va-be%2F&format=xml
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fso-sanh-entergermina-preg-mom%2F
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fpregmom.websiteviet.vn%2Fso-sanh-entergermina-preg-mom%2F&format=xml
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/posts/513
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\posts\513
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/posts/516
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\posts\516
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/posts/519
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\posts\519
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/posts/521
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\posts\521
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/posts/524
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\posts\524
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://pregmom.websiteviet.vn/wp-login.php?itsec-hb-token=wpgpsc
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-login.php.html
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/wp-login.php?itsec-hb-token=wpgpsc&action=lostpassword
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://pregmom.websiteviet.vn/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\pregmom.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+

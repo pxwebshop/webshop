@@ -1,0 +1,308 @@
+Uri: http://crypto.websiteviet.vn/
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: http://crypto.websiteviet.vn/comments/feed/
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://crypto.websiteviet.vn/feed/
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://crypto.websiteviet.vn/trang-mau/feed/
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\trang-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://crypto.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://crypto.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.14.3
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.14.3
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.14.3
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.14.3
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.14.3
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.14.3
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=295a0d1d1e8168b25a51f884bffa7b33
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://crypto.websiteviet.vn/wp-content/themes/thuatpartner/style.css?ver=3.0
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\themes\thuatpartner\style.css
+Content Type: text/css
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/banner-3.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\banner-3.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/banner-5.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\banner-5.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/chart-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\chart-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/code-laptop-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\code-laptop-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/cropped-logo-cryto-scaled-1-180x180.jpg
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\cropped-logo-cryto-scaled-1-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/cropped-logo-cryto-scaled-1-192x192.jpg
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\cropped-logo-cryto-scaled-1-192x192.jpg
+Content Type: image/jpeg
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/cropped-logo-cryto-scaled-1-32x32.jpg
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\cropped-logo-cryto-scaled-1-32x32.jpg
+Content Type: image/jpeg
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/cryptovnm_logo_transparent-150x150.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\cryptovnm_logo_transparent-150x150.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/cryptovnm_logo_transparent-768x768.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\cryptovnm_logo_transparent-768x768.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/cryptovnm_logo_transparent.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\cryptovnm_logo_transparent.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/email-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\email-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/fb-icon-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\fb-icon-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/HOWLCITY.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\HOWLCITY.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/icon-codepen-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\icon-codepen-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/KILL-BOX.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\KILL-BOX.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/LB-BANK.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\LB-BANK.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/logo-crv-lab-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\logo-crv-lab-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/logo-text.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\logo-text.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/meta.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\meta.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/POPOP.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\POPOP.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/REMINATO.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\REMINATO.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/T-DOM.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\T-DOM.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/telegram-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\telegram-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/twitter-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\twitter-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-content/uploads/2021/11/youtube-icon-2.png
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-content\uploads\2021\11\youtube-icon-2.png
+Content Type: image/png
+
+Uri: http://crypto.websiteviet.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://crypto.websiteviet.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://crypto.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://crypto.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://crypto.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://crypto.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://crypto.websiteviet.vn/wp-json/
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://crypto.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcrypto.websiteviet.vn%2F
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://crypto.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcrypto.websiteviet.vn%2F&format=xml
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://crypto.websiteviet.vn/wp-json/wp/v2/pages/2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://crypto.websiteviet.vn/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://fonts.googleapis.com/css?family=Quicksand:regular%2C500%2Cregular%2C700%2Cregular&display=swap&ver=3.9
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/all.css
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2
+File Name: D:\cyotek-webcopy\crypto.websiteviet.vn\releases\v5.15.4\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+

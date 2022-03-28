@@ -1,0 +1,696 @@
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:regular%2C700%2Cregular%2Cregular|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\s\dancingscript\v22\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://tuvantamly.ninhbinhsite.com/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/author/ninhbinhweb/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\author\ninhbinhweb\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/author/ninhbinhweb/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\author\ninhbinhweb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/cau-hoi-thuong-gap/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\cau-hoi-thuong-gap\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/comments/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/day-con-buoc-cung-toan-cau/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\day-con-buoc-cung-toan-cau\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/day-con-buoc-cung-toan-cau/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\day-con-buoc-cung-toan-cau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/doi-ngu-chuyen-gia/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\doi-ngu-chuyen-gia\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/giao-vien-chu-nhiem-nguoi-thay-hanh-phuc/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\giao-vien-chu-nhiem-nguoi-thay-hanh-phuc\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/giao-vien-chu-nhiem-nguoi-thay-hanh-phuc/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\giao-vien-chu-nhiem-nguoi-thay-hanh-phuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/ho-tro-tam-ly-cho-nguoi-lgbt-va-gia-dinh/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\ho-tro-tam-ly-cho-nguoi-lgbt-va-gia-dinh\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/ho-tro-tam-ly-cho-nguoi-lgbt-va-gia-dinh/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\ho-tro-tam-ly-cho-nguoi-lgbt-va-gia-dinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/khoa-hoc-su-kien/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\khoa-hoc-su-kien\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/khoa-hoc-su-kien/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\khoa-hoc-su-kien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/ky-nang-trinh-bay-tu-tin-trong-moi-tinh-huong/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\ky-nang-trinh-bay-tu-tin-trong-moi-tinh-huong\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/ky-nang-trinh-bay-tu-tin-trong-moi-tinh-huong/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\ky-nang-trinh-bay-tu-tin-trong-moi-tinh-huong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/lien-he/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/tam-nhin-su-menh/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\tam-nhin-su-menh\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/tin-tuc/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/tinh-yeu-kien-tao-hanh-phuc/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\tinh-yeu-kien-tao-hanh-phuc\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/tinh-yeu-kien-tao-hanh-phuc/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\tinh-yeu-kien-tao-hanh-phuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/trai-nghiem-khach-hang/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\trai-nghiem-khach-hang\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/tuyen-dung/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/tuyen-dung/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\tuyen-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/ve-chung-toi/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\ve-chung-toi\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/cache/min/1/wp-content/plugins/hotline-phone-ring/assets/css/style-1-9a94ad83316582354f9ed2fae8b63439.css
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\cache\min\1\wp-content\plugins\hotline-phone-ring\assets\css\style-1-9a94ad83316582354f9ed2fae8b63439.css
+Content Type: text/css
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/cache/min/1/wp-content/themes/flatsome/assets/css/fl-icons-0112efb9f73e86094709e7ea8a1f64d2.css
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\cache\min\1\wp-content\themes\flatsome\assets\css\fl-icons-0112efb9f73e86094709e7ea8a1f64d2.css
+Content Type: text/css
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/cache/min/1/wp-content/themes/flatsome/assets/css/flatsome-7716ea782a4106ce644beaa3828fe193.css
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\cache\min\1\wp-content\themes\flatsome\assets\css\flatsome-7716ea782a4106ce644beaa3828fe193.css
+Content Type: text/css
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/cache/min/1/wp-content/themes/flatsome/assets/js/flatsome-ccb99515f2ec40284de2e588ceb6113d.js
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\cache\min\1\wp-content\themes\flatsome\assets\js\flatsome-ccb99515f2ec40284de2e588ceb6113d.js
+Content Type: application/x-javascript
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/cache/min/1/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page-d0c7464593693f02006c27e160ad8a75.js
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\cache\min\1\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page-d0c7464593693f02006c27e160ad8a75.js
+Content Type: application/x-javascript
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/plugins/hotline-phone-ring/assets/images/icon-1.png
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\plugins\hotline-phone-ring\assets\images\icon-1.png
+Content Type: image/png
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.12.3
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/themes/tu-van-tam-ly/style.css?ver=3.0
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\themes\tu-van-tam-ly\style.css
+Content Type: text/css
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/10-1024x768.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\10-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/10-1536x1152.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\10-1536x1152.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/10-2048x1536.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\10-2048x1536.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/10-300x225.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\10-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/10-768x576.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\10-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/10.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\10.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/BANNER-EDIT-2-1024x379.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\BANNER-EDIT-2-1024x379.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/BANNER-EDIT-2-1536x568.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\BANNER-EDIT-2-1536x568.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/BANNER-EDIT-2-2048x758.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\BANNER-EDIT-2-2048x758.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/BANNER-EDIT-2-300x111.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\BANNER-EDIT-2-300x111.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/BANNER-EDIT-2-768x284.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\BANNER-EDIT-2-768x284.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/BANNER-EDIT-2.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\BANNER-EDIT-2.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/bn1-300x189.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\bn1-300x189.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/bn1.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\bn1.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/cropped-logo-180x180.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\cropped-logo-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/cropped-logo-192x192.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\cropped-logo-192x192.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/cropped-logo-32x32.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\cropped-logo-32x32.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/day-con-buoc-cung-toan-cau-1920x1001-1-1024x534.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\day-con-buoc-cung-toan-cau-1920x1001-1-1024x534.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/day-con-buoc-cung-toan-cau-1920x1001-1-1536x801.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\day-con-buoc-cung-toan-cau-1920x1001-1-1536x801.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/day-con-buoc-cung-toan-cau-1920x1001-1-300x156.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\day-con-buoc-cung-toan-cau-1920x1001-1-300x156.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/day-con-buoc-cung-toan-cau-1920x1001-1-768x400.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\day-con-buoc-cung-toan-cau-1920x1001-1-768x400.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/day-con-buoc-cung-toan-cau-1920x1001-1.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\day-con-buoc-cung-toan-cau-1920x1001-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/hinh-anh-1024x341.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\hinh-anh-1024x341.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/hinh-anh-1536x512.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\hinh-anh-1536x512.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/hinh-anh-300x100.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\hinh-anh-300x100.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/hinh-anh-768x256.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\hinh-anh-768x256.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/hinh-anh.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\hinh-anh.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon-01.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon-01.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon-02.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon-02.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon-03.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon-03.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon-04.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon-04.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon-05.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon-05.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon-06.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon-06.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon001.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon001.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon002.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon002.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon003.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon003.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon004.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon004.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon2.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon2.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon3.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon3.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon4.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon4.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon5.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon5.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/icon6.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\icon6.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/img11-300x188.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\img11-300x188.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/img11.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\img11.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/img22-300x188.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\img22-300x188.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/img22.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\img22.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/KI-NANG-THUYET-PHUC-300x189.png
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\KI-NANG-THUYET-PHUC-300x189.png
+Content Type: image/png
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/KI-NANG-THUYET-PHUC.png
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\KI-NANG-THUYET-PHUC.png
+Content Type: image/png
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/line-1024x22.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\line-1024x22.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/line-1536x33.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\line-1536x33.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/line-300x6.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\line-300x6.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/line-768x17.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\line-768x17.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/line.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\line.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/logo.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/slider.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\slider.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/tam-ly-tre-sunnycare-1024x373.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\tam-ly-tre-sunnycare-1024x373.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/tam-ly-tre-sunnycare-1536x560.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\tam-ly-tre-sunnycare-1536x560.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/tam-ly-tre-sunnycare-300x109.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\tam-ly-tre-sunnycare-300x109.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/tam-ly-tre-sunnycare-768x280.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\tam-ly-tre-sunnycare-768x280.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/tam-ly-tre-sunnycare.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\tam-ly-tre-sunnycare.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/Tinh-yeu-va-hanh-phuc-gia-dinh-1-300x189.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\Tinh-yeu-va-hanh-phuc-gia-dinh-1-300x189.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/Tinh-yeu-va-hanh-phuc-gia-dinh-1.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\Tinh-yeu-va-hanh-phuc-gia-dinh-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/Untitled-218x150-1.png
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\Untitled-218x150-1.png
+Content Type: image/png
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/video-call-1-300x188.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\video-call-1-300x188.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/video-call-1-768x482.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\video-call-1-768x482.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/video-call-1.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\video-call-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/VIEN_TAM_LY_2-200x300.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\VIEN_TAM_LY_2-200x300.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/VIEN_TAM_LY_2.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\VIEN_TAM_LY_2.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/Yeu-thuong-xa-vang-300x161.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\Yeu-thuong-xa-vang-300x161.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-content/uploads/2020/11/Yeu-thuong-xa-vang.jpg
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-content\uploads\2020\11\Yeu-thuong-xa-vang.jpg
+Content Type: image/jpeg
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-includes/js/comment-reply.min.js?ver=5.5.9
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-includes\js\jquery\jquery.js
+Content Type: application/x-javascript
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-includes/js/wp-embed.min.js?ver=5.5.9
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fcau-hoi-thuong-gap%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fcau-hoi-thuong-gap%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fday-con-buoc-cung-toan-cau%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fday-con-buoc-cung-toan-cau%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fdoi-ngu-chuyen-gia%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fdoi-ngu-chuyen-gia%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fgiao-vien-chu-nhiem-nguoi-thay-hanh-phuc%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fgiao-vien-chu-nhiem-nguoi-thay-hanh-phuc%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fho-tro-tam-ly-cho-nguoi-lgbt-va-gia-dinh%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fho-tro-tam-ly-cho-nguoi-lgbt-va-gia-dinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fky-nang-trinh-bay-tu-tin-trong-moi-tinh-huong%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fky-nang-trinh-bay-tu-tin-trong-moi-tinh-huong%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Ftam-nhin-su-menh%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Ftam-nhin-su-menh%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Ftinh-yeu-kien-tao-hanh-phuc%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Ftinh-yeu-kien-tao-hanh-phuc%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Ftrai-nghiem-khach-hang%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Ftrai-nghiem-khach-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fve-chung-toi%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fve-chung-toi%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fyeu-thuong-du-xa-vang%2F
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftuvantamly.ninhbinhsite.com%2Fyeu-thuong-du-xa-vang%2F&format=xml
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/categories/2
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\categories\2
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/pages/18
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\pages\18
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/pages/20
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\pages\20
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/pages/22
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\pages\22
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/pages/24
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/pages/26
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\pages\26
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/pages/28
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\pages\28
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/pages/32
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\pages\32
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/posts/187
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\posts\187
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/posts/190
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\posts\190
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/posts/193
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\posts\193
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/posts/196
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\posts\196
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/posts/199
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\posts\199
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/posts/202
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\posts\202
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://tuvantamly.ninhbinhsite.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://tuvantamly.ninhbinhsite.com/yeu-thuong-du-xa-vang/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\yeu-thuong-du-xa-vang\index.htm
+Content Type: text/html
+
+Uri: http://tuvantamly.ninhbinhsite.com/yeu-thuong-du-xa-vang/feed/
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\yeu-thuong-du-xa-vang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftuvantamly.ninhbinhsite.com%252Fday-con-buoc-cung-toan-cau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftuvantamly.ninhbinhsite.com%252Fgiao-vien-chu-nhiem-nguoi-thay-hanh-phuc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftuvantamly.ninhbinhsite.com%252Fho-tro-tam-ly-cho-nguoi-lgbt-va-gia-dinh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftuvantamly.ninhbinhsite.com%252Fky-nang-trinh-bay-tu-tin-trong-moi-tinh-huong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftuvantamly.ninhbinhsite.com%252Ftinh-yeu-kien-tao-hanh-phuc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Ftuvantamly.ninhbinhsite.com%252Fyeu-thuong-du-xa-vang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tuvantamly.ninhbinhsite.com\login-5.php
+Content Type: application/xhtml+xml
+
