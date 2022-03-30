@@ -1,0 +1,132 @@
+﻿@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/elmessiri/v14/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe55pjDk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/elmessiri/v14/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe55pjDk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/elmessiri/v14/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufJ5pjDk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/elmessiri/v14/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfJ5pjDk.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 100;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8ReDFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 200;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8RODFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 300;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 400;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 500;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORODFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 600;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 700;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ-DFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 800;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: italic;
+  font-weight: 900;
+  src: url(s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05obVQ-DFR-M.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 100;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsSkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 200;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsWkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 300;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 600;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 700;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 800;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkDtDM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Libre Franklin';
+  font-style: normal;
+  font-weight: 900;
+  src: url(s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KkDtDM.ttf) format('truetype');
+}

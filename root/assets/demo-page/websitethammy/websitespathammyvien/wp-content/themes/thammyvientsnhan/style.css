@@ -1,0 +1,28 @@
+/*
+Theme Name: ThammyvienTSNhan
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+@font-face {
+    font-family: 'utmavo';
+    src: url('/wp-content/themes/thammyvientsnhan/font/utmavo.eot');
+    src: local('UTM Avo'), 
+    url('/wp-content/themes/thammyvientsnhan/font/utmavo.woff') format('woff'), 
+    url('/wp-content/themes/thammyvientsnhan/font/utmavo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{font-family:"utmavo",  sans-serif}
+.nav > li > a {font-family:  "utmavo", sans-serif;}
+h1,h2,h3,h4,h5,h6, .heading-font{font-family: "utmavo", sans-serif;}
+.alt-font{font-family: "utmavo", sans-serif;}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}

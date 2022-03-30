@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'futura';
+					src: url('3924Futura.woff2') format('woff2'),
+						url('3924Futura.woff') format('woff');
+					font-display: auto;
+				}
+
+				.futura{font-family: 'futura' !important;}
+
+						h1, h2, h3, h4, h6, .entry-title, .widget-title, .site-title, .site-description, body, p, blockquote, li, a, strong, b, i, em, .menu-main-menu-container li a, .menu-main-menu-container li span, #menu-main-menu li a, #menu-main-menu li span{
+					font-family: 'futura' !important;
+				}
+		

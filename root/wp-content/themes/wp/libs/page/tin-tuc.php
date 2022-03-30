@@ -1,4 +1,4 @@
-<?php $page_id = 'lien-he'; ?>
+<?php $page_id = 'tin-tuc'; ?>
 <?php get_header(); ?>
 
 <main class="p-news">

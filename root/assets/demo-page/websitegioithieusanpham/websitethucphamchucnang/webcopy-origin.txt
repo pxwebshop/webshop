@@ -1,0 +1,564 @@
+Uri: http://thucphamchucnang2.websiteviet.vn/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/3-tac-dung-than-ky-cua-bao-tu-loi-khuan-doi-voi-tre-so-sinh/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\3-tac-dung-than-ky-cua-bao-tu-loi-khuan-doi-voi-tre-so-sinh\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/3-tac-dung-than-ky-cua-bao-tu-loi-khuan-doi-voi-tre-so-sinh/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\3-tac-dung-than-ky-cua-bao-tu-loi-khuan-doi-voi-tre-so-sinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/3-thong-tin-co-ban-de-ban-hieu-ro-benh-tao-bon-la-gi/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\3-thong-tin-co-ban-de-ban-hieu-ro-benh-tao-bon-la-gi\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/3-thong-tin-co-ban-de-ban-hieu-ro-benh-tao-bon-la-gi/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\3-thong-tin-co-ban-de-ban-hieu-ro-benh-tao-bon-la-gi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/author/admin/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/author/admin/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/bao-tu-loi-khuan-cuu-canh-cho-me-bau-mac-chung-tao-bon/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\bao-tu-loi-khuan-cuu-canh-cho-me-bau-mac-chung-tao-bon\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/bao-tu-loi-khuan-cuu-canh-cho-me-bau-mac-chung-tao-bon/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\bao-tu-loi-khuan-cuu-canh-cho-me-bau-mac-chung-tao-bon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/category/cam-nang/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\category\cam-nang\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/category/cam-nang/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\category\cam-nang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/comments/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/dai-ly/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\dai-ly\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/khach-hang-chia-se/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\khach-hang-chia-se\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/lien-he/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/san-pham/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\san-pham\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/tai-sao-noi-bao-tu-loi-khuan-pregmom-la-thuoc-tien-cho-nguoi-cao-tuoi/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\tai-sao-noi-bao-tu-loi-khuan-pregmom-la-thuoc-tien-cho-nguoi-cao-tuoi\index.htm
+Content Type: text/html
+
+Uri: http://thucphamchucnang2.websiteviet.vn/tai-sao-noi-bao-tu-loi-khuan-pregmom-la-thuoc-tien-cho-nguoi-cao-tuoi/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\tai-sao-noi-bao-tu-loi-khuan-pregmom-la-thuoc-tien-cho-nguoi-cao-tuoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/trang-mau/feed/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\trang-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/sticky-popup/css/sticky-popup.css?ver=1.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\sticky-popup\css\sticky-popup.css
+Content Type: text/css
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/plugins/sticky-popup/js/modernizr.custom.js?ver=1.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\plugins\sticky-popup\js\modernizr.custom.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/css/effects.css?ver=3.6.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\css\effects.css
+Content Type: text/css
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/confetti1.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\confetti1.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/confetti2.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\confetti2.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/glass1.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\glass1.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/glass2.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\glass2.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/rain.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\rain.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/snow1.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\snow1.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/snow2.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\snow2.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/sparkle1.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\sparkle1.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/effects/sparkle2.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\effects\sparkle2.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/lazy.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\lazy.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.6.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=1.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/themes/pregmom/style.css?ver=3.6.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\themes\pregmom\style.css
+Content Type: text/css
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/01.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\01.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/02.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\02.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/03.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\03.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/43-300x176.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\43-300x176.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/43-768x451.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\43-768x451.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/43.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\43.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/ba-bau-nen-nghe-nhac-gi-150x150.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\ba-bau-nen-nghe-nhac-gi-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/background-1.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\background-1.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/banner-tu-che-1024x320.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\banner-tu-che-1024x320.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/banner-tu-che-300x94.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\banner-tu-che-300x94.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/banner-tu-che-768x240.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\banner-tu-che-768x240.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/banner-tu-che.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\banner-tu-che.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/bg2.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/bg4.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\bg4.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/công-nghệ-việt-nam-150x150.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\công-nghệ-việt-nam-150x150.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/công-nghệ-việt-nam.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\công-nghệ-việt-nam.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chug-nhan-3-224x300.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chug-nhan-3-224x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chug-nhan-3.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chug-nhan-3.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chung-chi-224x300.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chung-chi-224x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chung-chi.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chung-chi.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chung-nhan-1-224x300.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chung-nhan-1-224x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chung-nhan-1.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chung-nhan-1.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chung-nhan-isô-224x300.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chung-nhan-isô-224x300.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/chung-nhan-isô.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\chung-nhan-isô.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/cong-nghe-phan-bao-loi-khuan-150x150.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\cong-nghe-phan-bao-loi-khuan-150x150.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/cong-nghe-phan-bao-loi-khuan.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\cong-nghe-phan-bao-loi-khuan.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/cropped-logo-pregmom-180x180.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\cropped-logo-pregmom-180x180.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/cropped-logo-pregmom-192x192.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\cropped-logo-pregmom-192x192.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/cropped-logo-pregmom-32x32.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\cropped-logo-pregmom-32x32.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/dac-diem-noi-bat.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\dac-diem-noi-bat.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/footer-logo.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\footer-logo.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/iôcn-34.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\iôcn-34.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/icon-1.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\icon-1.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/icon-3.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\icon-3.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/icon-4.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\icon-4.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/icon-6.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\icon-6.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/ifon2.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\ifon2.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/light-300x294.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\light-300x294.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/light.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\light.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/loi-khuan-150x150.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\loi-khuan-150x150.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/loi-khuan.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\loi-khuan.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/nghien-cuu-sinh-hoc-1-150x150.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\nghien-cuu-sinh-hoc-1-150x150.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/nghien-cuu-sinh-hoc-1.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\nghien-cuu-sinh-hoc-1.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/nhung-dieu-ky-la-ve-tre-so-sinh-nhung-co-that-1-1478832996-width500height372-150x150.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\nhung-dieu-ky-la-ve-tre-so-sinh-nhung-co-that-1-1478832996-width500height372-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/tải-xuống-3-150x150.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\tải-xuống-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/text-300x108.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\text-300x108.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/text.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\text.png
+Content Type: image/png
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-content/uploads/2018/04/tram-cam-nguoi-cao-tuoi-150x150.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-content\uploads\2018\04\tram-cam-nguoi-cao-tuoi-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-includes/js/comment-reply.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.1
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-includes/js/wp-embed.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2F3-tac-dung-than-ky-cua-bao-tu-loi-khuan-doi-voi-tre-so-sinh%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2F3-tac-dung-than-ky-cua-bao-tu-loi-khuan-doi-voi-tre-so-sinh%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2F3-thong-tin-co-ban-de-ban-hieu-ro-benh-tao-bon-la-gi%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2F3-thong-tin-co-ban-de-ban-hieu-ro-benh-tao-bon-la-gi%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fbao-tu-loi-khuan-cuu-canh-cho-me-bau-mac-chung-tao-bon%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fbao-tu-loi-khuan-cuu-canh-cho-me-bau-mac-chung-tao-bon%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fdai-ly%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fdai-ly%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fkhach-hang-chia-se%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fkhach-hang-chia-se%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Flien-he%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Flien-he%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fsan-pham%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Fsan-pham%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Ftai-sao-noi-bao-tu-loi-khuan-pregmom-la-thuoc-tien-cho-nguoi-cao-tuoi%2F
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fthucphamchucnang2.websiteviet.vn%2Ftai-sao-noi-bao-tu-loi-khuan-pregmom-la-thuoc-tien-cho-nguoi-cao-tuoi%2F&format=xml
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/categories/1
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/pages/2
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/pages/20
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\pages\20
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/pages/22
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\pages\22
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/pages/24
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/pages/26
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\pages\26
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/posts/461
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\posts\461
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/posts/464
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\posts\464
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/posts/467
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\posts\467
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/wp-json/wp/v2/posts/470
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\wp-json\wp\v2\posts\470
+Content Type: application/json
+
+Uri: http://thucphamchucnang2.websiteviet.vn/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://bizhostvn.com/w/thucphamchucnang2/wp-content/uploads/2018/04/bg2.jpg
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\w\thucphamchucnang2\wp-content\uploads\2018\04\bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://bizhostvn.com/w/thucphamchucnang2/wp-content/uploads/2018/04/logo2.png
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\w\thucphamchucnang2\wp-content\uploads\2018\04\logo2.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fthucphamchucnang2.websiteviet.vn%252F3-tac-dung-than-ky-cua-bao-tu-loi-khuan-doi-voi-tre-so-sinh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fthucphamchucnang2.websiteviet.vn%252F3-thong-tin-co-ban-de-ban-hieu-ro-benh-tao-bon-la-gi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fthucphamchucnang2.websiteviet.vn%252Fbao-tu-loi-khuan-cuu-canh-cho-me-bau-mac-chung-tao-bon%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fthucphamchucnang2.websiteviet.vn%252Ftai-sao-noi-bao-tu-loi-khuan-pregmom-la-thuoc-tien-cho-nguoi-cao-tuoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\thucphamchucnang2.websiteviet.vn\login-1.php
+Content Type: application/xhtml+xml
+

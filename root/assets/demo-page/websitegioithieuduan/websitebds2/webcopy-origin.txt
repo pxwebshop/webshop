@@ -1,0 +1,192 @@
+Uri: http://bds6.websiteviet.vn/
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: http://bds6.websiteviet.vn/comments/feed/
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://bds6.websiteviet.vn/feed/
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://bds6.websiteviet.vn/trang-mau/feed/
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\trang-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://bds6.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://bds6.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/bds/style.css?ver=3.6.1
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\bds\style.css
+Content Type: text/css
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.1
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/assets/img/lazy.png
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\assets\img\lazy.png
+Content Type: image/png
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.1
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=1.0
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/inc/shortcodes/ux_countdown/countdown-script-min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\inc\shortcodes\ux_countdown\countdown-script-min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/inc/shortcodes/ux_countdown/ux-countdown.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\inc\shortcodes\ux_countdown\ux-countdown.css
+Content Type: text/css
+
+Uri: http://bds6.websiteviet.vn/wp-content/themes/flatsome/inc/shortcodes/ux_countdown/ux-countdown.js?ver=3.2.6
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\themes\flatsome\inc\shortcodes\ux_countdown\ux-countdown.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/1.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\1.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/back-to-top.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\back-to-top.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/cropped-favicon-180x180.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\cropped-favicon-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/cropped-favicon-192x192.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\cropped-favicon-192x192.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/cropped-favicon-32x32.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\cropped-favicon-32x32.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/dau-tu-khon-ngoan.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\dau-tu-khon-ngoan.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/icon1.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\icon1.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/icon2.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\icon2.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/icon3.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\icon3.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/icon4.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\icon4.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/icon5.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\icon5.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-content/uploads/2019/04/img01.jpg
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-content\uploads\2019\04\img01.jpg
+Content Type: image/jpeg
+
+Uri: http://bds6.websiteviet.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/dist/api-fetch.min.js?ver=134e23b5f88ba06a093f9f92520a98df
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/dist/url.min.js?ver=9e623834b7667b522230408f099fc05f
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\dist\url.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.1
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/js/wp-embed.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://bds6.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://bds6.websiteviet.vn/wp-json/
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://bds6.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fbds6.websiteviet.vn%2F
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://bds6.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fbds6.websiteviet.vn%2F&format=xml
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://bds6.websiteviet.vn/wp-json/wp/v2/pages/2
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://bds6.websiteviet.vn/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://bizhostvn.com/w/bds6/wp-content/uploads/2019/04/logo-nova.png
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\w\bds6\wp-content\uploads\2019\04\logo-nova.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: D:\cyotek-webcopy\bds6.websiteviet.vn\ajax\libs\jquery\3.2.1\jquery.min.js
+Content Type: application/javascript
+

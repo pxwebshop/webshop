@@ -1,0 +1,208 @@
+Uri: http://fonts.googleapis.com/css?family=Quicksand:regular%2C700%2Cregular%2C600|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\s\dancingscript\v22\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/quicksand/v28/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\s\quicksand\v28\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: http://tinhdau.ninhbinhsite.com/
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\index.htm
+Content Type: text/html
+
+Uri: http://tinhdau.ninhbinhsite.com/comments/feed/
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhdau.ninhbinhsite.com/feed/
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhdau.ninhbinhsite.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/cache/min/1/wp-content/plugins/jquery-smooth-scroll/css/style-ffc1a182c92abf3a042a75769bfa2630.css
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\cache\min\1\wp-content\plugins\jquery-smooth-scroll\css\style-ffc1a182c92abf3a042a75769bfa2630.css
+Content Type: text/css
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/cache/min/1/wp-content/themes/flatsome/assets/css/fl-icons-d5a3911d84a6eb346787eff357aaa4f4.css
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\cache\min\1\wp-content\themes\flatsome\assets\css\fl-icons-d5a3911d84a6eb346787eff357aaa4f4.css
+Content Type: text/css
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/cache/min/1/wp-content/themes/flatsome/assets/css/flatsome-12c2ce4553eef0ef0e17c65c5ecf7642.css
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\cache\min\1\wp-content\themes\flatsome\assets\css\flatsome-12c2ce4553eef0ef0e17c65c5ecf7642.css
+Content Type: text/css
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/plugins/jquery-smooth-scroll/images/arrow.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\plugins\jquery-smooth-scroll\images\arrow.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/plugins/jquery-smooth-scroll/js/script.min.js?ver=5.5.9
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\plugins\jquery-smooth-scroll\js\script.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.12.3
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/x-javascript
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/themes/tinh-dau/style.css?ver=3.0
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\themes\tinh-dau\style.css
+Content Type: text/css
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/aro-300x200.jpg
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\aro-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/aro-768x511.jpg
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\aro-768x511.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/aro.jpg
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\aro.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/banner-1024x324.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\banner-1024x324.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/banner-1536x485.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\banner-1536x485.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/banner-300x95.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\banner-300x95.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/banner-768x243.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\banner-768x243.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/banner.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\banner.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/giatri-300x250.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\giatri-300x250.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/giatri.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\giatri.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/jojoba-300x273.jpg
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\jojoba-300x273.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/jojoba.jpg
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\jojoba.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/logo-tinh-dau.jpg
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\logo-tinh-dau.jpg
+Content Type: image/jpeg
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/story-300x250.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\story-300x250.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/story.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\story.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/tinh-dau-bergamot-1-300x250.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\tinh-dau-bergamot-1-300x250.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/tinh-dau-bergamot-1.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\tinh-dau-bergamot-1.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/tinh-dau-ylang-300x250.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\tinh-dau-ylang-300x250.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-content/uploads/2020/12/tinh-dau-ylang.png
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-content\uploads\2020\12\tinh-dau-ylang.png
+Content Type: image/png
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-includes\js\jquery\jquery.js
+Content Type: application/x-javascript
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-includes/js/wp-embed.min.js?ver=5.5.9
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-json/
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhdau.ninhbinhsite.com%2F
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-json/oembed/1.0/embed?url=http:%2F%2Ftinhdau.ninhbinhsite.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://tinhdau.ninhbinhsite.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://tinhdau.ninhbinhsite.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tinhdau.ninhbinhsite.com\xmlrpc.php
+Content Type: text/xml
+

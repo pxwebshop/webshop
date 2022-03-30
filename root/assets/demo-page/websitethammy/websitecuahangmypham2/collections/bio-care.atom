@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/bio-care.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-10-24T06:19:11-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4312261984341</id>
+    <published>2019-10-24T06:19:11-04:00</published>
+    <updated>2019-10-24T06:19:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/bio-care-gel"/>
+    <title>Bio-care Gel</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-16.png?v=1571912746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            400.00 - 500.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/bio-care-gel">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Aloe Vera</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4312261984341</id>
+      <title>Red / Aloe Vera</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4312261984341</id>
+      <title>Brown / Pappaya</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4311330947157</id>
+    <published>2019-10-24T05:57:45-04:00</published>
+    <updated>2019-10-24T05:57:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/anti-aging-cream"/>
+    <title>Anti Aging Cream</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-10.png?v=1571911106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            300.00 - 400.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/anti-aging-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Red</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311330947157</id>
+      <title>Red / Peach</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311330947157</id>
+      <title>Brown / Jasmine</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4311325048917</id>
+    <published>2019-10-24T05:52:16-04:00</published>
+    <updated>2019-10-24T05:52:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/body-powder"/>
+    <title>Body Powder</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-15.png?v=1571910755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            500.00 - 600.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/body-powder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311325048917</id>
+      <title>Pink / Peach</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311325048917</id>
+      <title>Brown / Peach</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4311321968725</id>
+    <published>2019-10-24T05:47:40-04:00</published>
+    <updated>2019-10-24T05:47:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/face-powder-1"/>
+    <title>Face Powder</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-13.png?v=1613715631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            500.00 - 700.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/face-powder-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Pappaya</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311321968725</id>
+      <title>Brown / Pappaya</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311321968725</id>
+      <title>White / Pappaya</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4311318855765</id>
+    <published>2019-10-24T05:44:38-04:00</published>
+    <updated>2019-10-24T05:44:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/womens-fragrance"/>
+    <title>Women&apos;s Fragrance</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-11.png?v=1571910307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            600.00 - 700.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/womens-fragrance">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$600 - $700</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Lotus</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311318855765</id>
+      <title>Green / Lotus</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311318855765</id>
+      <title>White / Lotus</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4311308763221</id>
+    <published>2019-10-24T05:34:17-04:00</published>
+    <updated>2019-10-24T05:34:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/gentle-body-lotion"/>
+    <title>Gentle Body Lotion</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-4.png?v=1571909687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            500.00 - 700.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/gentle-body-lotion">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311308763221</id>
+      <title>Pink</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311308763221</id>
+      <title>Black</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4311301390421</id>
+    <published>2019-10-24T05:30:14-04:00</published>
+    <updated>2019-10-24T05:30:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/whitening-facial-cream"/>
+    <title>Whitening Facial Cream</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-2.png?v=1571909494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            500.00 - 700.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/whitening-facial-cream">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>Aloe Vera</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311301390421</id>
+      <title>Yellow / Aloe Vera</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311301390421</id>
+      <title>Black / Aloe Vera</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4311280844885</id>
+    <published>2019-10-24T05:11:35-04:00</published>
+    <updated>2019-10-24T05:11:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/face-powder"/>
+    <title>Face Powder</title>
+    <s:type>Body Wash</s:type>
+    <s:vendor>Clinique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/Shop-1.png?v=1571908399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clinique<br>
+        <strong>Type: </strong>Body Wash<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ratio Eight changes everything with precision brewing technique, top-quality construction, and a design that will elevate any environment for years to come. Each machine is hand assembled and tested in Portland, Oregon. That Eight has a powerful 1600 watt heating element in 110 (US &amp; Canada) or 220 volt. Eight's carafe holds Chemex paper filters or Able Kone stainless steel filter.</p>
+<p>Expected to ship: 2-3 weeks<br>Free shipping | 10 years warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $600</s:tag>
+    <s:tag>Aloe Vera</s:tag>
+    <s:tag>Body Wash</s:tag>
+    <s:tag>Clinique</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4311280844885</id>
+      <title>Gold / Aloe Vera</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

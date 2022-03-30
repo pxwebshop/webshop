@@ -1,0 +1,2668 @@
+Uri: https://7oroof.com/tfdemos/axima/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/about-us/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\about-us\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/author/admin/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/author/admin/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/author/admin/page/2/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\author\admin\page\2\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/award-recognition/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\award-recognition\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/blog-carousel/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\blog-carousel\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/blog-standard/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\blog-standard\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/blog-standard/page/2/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\blog-standard\page\2\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/careers/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\careers\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/cargo-flow-through-better-supply-chain-visibility-control/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\cargo-flow-through-better-supply-chain-visibility-control\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/cargo-flow-through-better-supply-chain-visibility-control/?replytocom=2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\cargo-flow-through-better-supply-chain-visibility-control\index-1.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/cargo-flow-through-better-supply-chain-visibility-control/?replytocom=5
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\cargo-flow-through-better-supply-chain-visibility-control\index-2.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/cargo-flow-through-better-supply-chain-visibility-control/?replytocom=8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\cargo-flow-through-better-supply-chain-visibility-control\index-3.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/cargo-flow-through-better-supply-chain-visibility-control/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\cargo-flow-through-better-supply-chain-visibility-control\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/case-studies-classic/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-studies-classic\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-studies-grid/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-studies-grid\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/chemicals/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\chemicals\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/chemicals/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\chemicals\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/construction/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\construction\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/construction/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\construction\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/energy/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\energy\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/energy/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\energy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/engineering/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\engineering\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/engineering/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\engineering\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/oil-gas/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\oil-gas\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study-category/oil-gas/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study-category\oil-gas\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/documents-electronic-data/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\documents-electronic-data\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/floride-chemicals-factory-2/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\floride-chemicals-factory-2\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/floride-chemicals-factory/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\floride-chemicals-factory\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/highway-energy-station/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\highway-energy-station\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/page/2/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\page\2\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/regulatory-compliance-seminar/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\regulatory-compliance-seminar\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/role-of-the-importer/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\role-of-the-importer\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/case-study/villy-manufacturing-inc/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\case-study\villy-manufacturing-inc\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/construction/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\construction\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/construction/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\construction\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/category/distribution/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\distribution\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/distribution/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\distribution\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/category/engineering/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\engineering\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/engineering/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\engineering\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/category/industry/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\industry\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/industry/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\industry\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/category/insights/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\insights\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/insights/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\insights\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/category/logistics/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\logistics\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/logistics/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\logistics\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/category/news/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\news\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/news/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\news\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/category/oil-gas/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\oil-gas\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/category/oil-gas/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\category\oil-gas\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/changes-to-our-trade-credit-policy-and-procedures/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\changes-to-our-trade-credit-policy-and-procedures\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/changes-to-our-trade-credit-policy-and-procedures/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\changes-to-our-trade-credit-policy-and-procedures\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/comments/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/contact-us/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/help-faqs/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\help-faqs\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/home-2/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\home-2\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importance-of-specialized-focus-in-projects-oil-gas-logistics/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importance-of-specialized-focus-in-projects-oil-gas-logistics\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importance-of-specialized-focus-in-projects-oil-gas-logistics/?replytocom=4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importance-of-specialized-focus-in-projects-oil-gas-logistics\index-1.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importance-of-specialized-focus-in-projects-oil-gas-logistics/?replytocom=6
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importance-of-specialized-focus-in-projects-oil-gas-logistics\index-2.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importance-of-specialized-focus-in-projects-oil-gas-logistics/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importance-of-specialized-focus-in-projects-oil-gas-logistics\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/importers-achieve-cost-savings-through-the-first-sale-rule-2/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importers-achieve-cost-savings-through-the-first-sale-rule-2\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importers-achieve-cost-savings-through-the-first-sale-rule-2/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importers-achieve-cost-savings-through-the-first-sale-rule-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/importers-achieve-cost-savings-through-the-first-sale-rule/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importers-achieve-cost-savings-through-the-first-sale-rule\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importers-achieve-cost-savings-through-the-first-sale-rule/?replytocom=3
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importers-achieve-cost-savings-through-the-first-sale-rule\index-1.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importers-achieve-cost-savings-through-the-first-sale-rule/?replytocom=7
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importers-achieve-cost-savings-through-the-first-sale-rule\index-2.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/importers-achieve-cost-savings-through-the-first-sale-rule/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\importers-achieve-cost-savings-through-the-first-sale-rule\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/industries-served/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\industries-served\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/industry-sectors/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\industry-sectors\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/leadership-team/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\leadership-team\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/new-additions-to-our-great-metro-trucks-fleet/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\new-additions-to-our-great-metro-trucks-fleet\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/new-additions-to-our-great-metro-trucks-fleet/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\new-additions-to-our-great-metro-trucks-fleet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/our-news/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\our-news\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/pricing-plans/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\pricing-plans\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/request-quote/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\request-quote\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/automotive-manufacturing/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\automotive-manufacturing\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/basic-industrial-chemicals/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\basic-industrial-chemicals\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/bridge-construction/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\bridge-construction\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/construction-engineering/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\construction-engineering\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/service/food-beverage/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\food-beverage\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/industrial-chemical/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\industrial-chemical\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/mechanical-engineering/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\mechanical-engineering\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/oil-gas/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\oil-gas\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/page/2/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\page\2\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/page/3/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\page\3\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/petroleum-gas-energy/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\petroleum-gas-energy\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/power-generation/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\power-generation\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/retail-consumer/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\retail-consumer\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/service/sciences-healthcare/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\service\sciences-healthcare\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/tag/business/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\business\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/tag/business/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\business\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/tag/corporate/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\corporate\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/tag/corporate/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\corporate\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/tag/industry/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\industry\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/tag/industry/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\industry\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/tag/insights/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\insights\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/tag/insights/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\insights\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/tag/modern/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\modern\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/tag/modern/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\modern\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/tag/responsive/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\responsive\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/tag/responsive/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\tag\responsive\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/the-new-driver-training-recruitment-program/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\the-new-driver-training-recruitment-program\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/the-new-driver-training-recruitment-program/feed/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\the-new-driver-training-recruitment-program\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://7oroof.com/tfdemos/axima/why-choose-us/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\why-choose-us\index.htm
+Content Type: text/html
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.3
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.3
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor-theme-core/assets/css/lib/owl.carousel.min.css?ver=2.2.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor-theme-core\assets\css\lib\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor-theme-core/assets/css/lib/progressbar.min.css?ver=0.7.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor-theme-core\assets\css\lib\progressbar.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor-theme-core/assets/css/main.css?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor-theme-core\assets\css\main.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor-theme-core/assets/js/lib/isotope.pkgd.min.js?ver=3.0.5
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor-theme-core\assets\js\lib\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor-theme-core/assets/js/main.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor-theme-core\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.13.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.13.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.13.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.13.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.13.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons-1.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.8
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/slick/slick.min.js?ver=1.8.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/newsletter/style.css?ver=7.3.3
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\newsletter\style.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/redux-framework/redux-core/extendify-sdk/public/build/extendify-utilities.css?ver=13.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\redux-framework\redux-core\extendify-sdk\public\build\extendify-utilities.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/assets/dummy.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\assets\dummy.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: 
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: 
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.5.11
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.5.11
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\js\rbtools.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.11
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1-wc.5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\js\jquery-cookie\jquery.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.9.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.1.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.1.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=3.2.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.woff2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=3.2.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\flatpickr\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/images/frontend/arrow-down.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\images\frontend\arrow-down.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/images/social-login/facebook.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\images\social-login\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/images/social-login/github-fa.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\images\social-login\github-fa.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/images/social-login/google.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\images\social-login\google.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/images/social-login/linkedin.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\images\social-login\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/images/social-login/twitter.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\images\social-login\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/images/social-login/vk-fa.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\images\social-login\vk-fa.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=3.2.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\plugins\wp-user-avatar\assets\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/css/bootstrap.min.css?ver=4.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/css/font-awesome5.min.css?ver=5.8.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\css\font-awesome5.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/css/magnific-popup.css?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/css/material-design-iconic-font.min.css?ver=2.2.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\css\material-design-iconic-font.min.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/css/style-lang.css?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\css\style-lang.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/css/theme.css?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-brands-400.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-brands-400.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-brands-400.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-brands-400.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-brands-400.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-brands-400.woff2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-light-300.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-light-300.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-light-300.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-light-300.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-light-300.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-light-300.woff2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-regular-400.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-regular-400.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-regular-400.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-regular-400.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-regular-400.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-regular-400.woff2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-solid-900.eot
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-solid-900.eot?
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-solid-900.svg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-solid-900.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-solid-900.woff
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/fontawesome/fa-solid-900.woff2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\fontawesome\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/Material-Design-Iconic-Font.ttf?v=2.2.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\Material-Design-Iconic-Font.ttf
+Content Type: font/ttf
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\Material-Design-Iconic-Font.woff2
+Content Type: font/woff2
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/fonts/Material-Design-Iconic-Font.woff?v=2.2.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\fonts\Material-Design-Iconic-Font.woff
+Content Type: font/woff
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/arrow-left-light.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\arrow-left-light.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/arrow-left.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/arrow-right-light.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\arrow-right-light.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/arrow-right.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/bg-404.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\bg-404.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/flag/en.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\flag\en.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/flag/fr.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\flag\fr.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/flag/ru.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\flag\ru.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/logo-dark.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\logo-dark.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/logo-light.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\logo-light.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/images/pointer.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\images\pointer.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/js/bootstrap.min.js?ver=4.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/js/enscroll.js?ver=all
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\js\enscroll.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/js/magnific-popup.min.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\js\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/js/main.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/js/match-height-min.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\js\match-height-min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/js/nice-select.min.js?ver=all
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\js\nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/assets/js/sidebar-scroll-fixed.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\assets\js\sidebar-scroll-fixed.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/elementor/js/cms-accordion-widget.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\elementor\js\cms-accordion-widget.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/elementor/js/cms-clients-list-widget.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\elementor\js\cms-clients-list-widget.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/elementor/js/cms-counter-widget.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\elementor\js\cms-counter-widget.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/elementor/js/cms-post-carousel-widget.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\elementor\js\cms-post-carousel-widget.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/elementor/js/cms-post-grid-widget.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\elementor\js\cms-post-grid-widget.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/elementor/js/custom-gm-widget.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\elementor\js\custom-gm-widget.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/style.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\style.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/themes/axima/woocommerce/woocommerce.js?ver=1.0.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\themes\axima\woocommerce\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-16-1024x512.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-16-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-16-300x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-16-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-16-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-16-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-16-768x384.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-16-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-16.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-16.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-20-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-20-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-20-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-20-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-20-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-20-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-20-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-20-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-20.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-20.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-21-1024x683.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-21-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-21-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-21-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-21-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-21-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-21-768x512.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-21-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-21.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-21.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-22-1024x683.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-22-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-22-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-22-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-22-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-22-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-22-768x512.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-22-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-22.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-22.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-23-1024x683.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-23-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-23-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-23-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-23-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-23-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-23-768x512.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-23-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-23.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-23.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-24-1024x683.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-24-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-24-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-24-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-24-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-24-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-24-768x512.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-24-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/07/axima-24.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\07\axima-24.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1-370x247.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-01.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-01.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-02-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-02-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-02-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-02-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-02-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-02-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-02-370x247.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-02-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-02-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-02-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-02-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-02-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-02.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-02.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-03-1024x512.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-03-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-03-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-03-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-03-300x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-03-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-03-370x247.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-03-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-03-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-03-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-03-768x384.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-03-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-03.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-03.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-04-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-04-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-04-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-04-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-04-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-04-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-04-370x247.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-04-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-04-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-04-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-04-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-04-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-04.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-04.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-05-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-05-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-05-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-05-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-05-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-05-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-05-370x247.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-05-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-05-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-05-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-05-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-05-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-05.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-05.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06-370x247.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06-370x247.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06-600x600.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-06.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-06.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-30-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-30-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-30-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-30-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-30-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-30-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-30-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-30-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/axima-30.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\axima-30.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/chart-236x300.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\chart-236x300.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/chart.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\chart.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/favicon.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\favicon.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/logo-footer.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\logo-footer.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/service-icon-01.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\service-icon-01.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/service-icon-02.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\service-icon-02.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/service-icon-03.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\service-icon-03.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/service-icon-04.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\service-icon-04.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/service-icon-05.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\service-icon-05.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/08/service-icon-06.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\08\service-icon-06.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/author-2-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\author-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/author1-150x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\author1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-07-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-07-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-07-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-07-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-07-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-07-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-07-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-07-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-07.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-07.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-08.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-08.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-09-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-09-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-09-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-09-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-09-600x600.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-09-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-09-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-09-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-09.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-09.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-10-1024x960.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-10-1024x960.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-10-300x281.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-10-300x281.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-10-600x600.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-10-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-10-768x720.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-10-768x720.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-10.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-10.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-11-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-11-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-11-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-11-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-11-600x600.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-11-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-11-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-11-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-11.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-11.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-12-1024x853.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-12-1024x853.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-12-300x250.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-12-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-12-600x600.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-12-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-12-768x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-12-768x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-12.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-12.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-13-248x300.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-13-248x300.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-13-600x600.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-13-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-13-768x930.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-13-768x930.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-13-846x1024.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-13-846x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-13.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-13.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-14-288x300.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-14-288x300.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-14-600x600.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-14-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-14-768x800.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-14-768x800.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-14-983x1024.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-14-983x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-14.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-14.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-15-1024x640.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-15-1024x640.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-15-300x188.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-15-300x188.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-15-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-15-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-15-768x480.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-15-768x480.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/axima-15.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\axima-15.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/banner-01.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\banner-01.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/chart-300x128.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\chart-300x128.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/chart-768x328.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\chart-768x328.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/chart.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\chart.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/signature.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\signature.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/testimonial-01-60x80.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\testimonial-01-60x80.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/testimonial-02-60x80.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\testimonial-02-60x80.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/09/video-player-01.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\09\video-player-01.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-01-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-01-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-01.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-01.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-02-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-02-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-02.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-02.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-03-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-03-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-03.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-03.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-04-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-04-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-04.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-04.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-05-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-05-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-05.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-05.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-06-300x200.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-06-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/award-06.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\award-06.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-17.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-17.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-18-1024x512.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-18-1024x512.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-18-300x150.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-18-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-18-600x401.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-18-600x401.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-18-768x384.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-18-768x384.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-18.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-18.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-19.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-19.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-25.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-25.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-26.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-26.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-27.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-27.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-28.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-28.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/axima-29.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\axima-29.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/box-image-02.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\box-image-02.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/client-01.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\client-01.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/client-02.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\client-02.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/client-03.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\client-03.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/client-04.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\client-04.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/client-05.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\client-05.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/client-06.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\client-06.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/map.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\map.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/sales-01.png
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\sales-01.png
+Content Type: image/png
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/team-01.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/team-02.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/team-03.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/team-04.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/team-05.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/team-06.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/2019/10/team-07.jpg
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\2019\10\team-07.jpg
+Content Type: image/jpeg
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/global.css?ver=1638871320
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-10.css?ver=1639014628
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-10.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-12.css?ver=1638878417
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-14.css?ver=1639076966
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-14.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-24.css?ver=1638879998
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-24.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-269.css?ver=1639107944
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-269.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-28.css?ver=1638893360
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-28.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-280.css?ver=1639127463
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-280.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-287.css?ver=1639118074
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-287.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-288.css?ver=1639125207
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-288.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-289.css?ver=1638892106
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-289.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-290.css?ver=1639049811
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-290.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-291.css?ver=1639098488
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-291.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-295.css?ver=1639693576
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-295.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-30.css?ver=1639106476
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-30.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-32.css?ver=1638908759
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-32.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-34.css?ver=1639203294
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-34.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-36.css?ver=1639081508
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-36.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-38.css?ver=1639179996
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-38.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-40.css?ver=1639021280
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-40.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-429.css?ver=1638904350
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-429.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-436.css?ver=1638915943
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-436.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-437.css?ver=1639036483
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-437.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-441.css?ver=1639065468
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-441.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-442.css?ver=1638967770
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-442.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-443.css?ver=1638983698
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-443.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-455.css?ver=1639130295
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-455.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-462.css?ver=1638888585
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-462.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-463.css?ver=1639088930
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-463.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-464.css?ver=1639089206
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-464.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-465.css?ver=1639487402
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-465.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-466.css?ver=1639187044
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-466.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-479.css?ver=1638894213
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-479.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-481.css?ver=1639089359
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-481.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-62.css?ver=1638985733
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-62.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-90.css?ver=1638915673
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-90.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-content/uploads/elementor/css/post-988.css?ver=1638978172
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-content\uploads\elementor\css\post-988.css
+Content Type: text/css
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/comment-reply.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/js/wp-embed.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://7oroof.com/tfdemos/axima/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fabout-us%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fabout-us%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Faward-recognition%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Faward-recognition%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fblog-carousel%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fblog-carousel%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcareers%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcareers%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcargo-flow-through-better-supply-chain-visibility-control%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcargo-flow-through-better-supply-chain-visibility-control%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-studies-classic%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-studies-classic%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-studies-grid%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-studies-grid%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fdocuments-electronic-data%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fdocuments-electronic-data%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Ffloride-chemicals-factory%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Ffloride-chemicals-factory%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Ffloride-chemicals-factory-2%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Ffloride-chemicals-factory-2%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fhighway-energy-station%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fhighway-energy-station%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fregulatory-compliance-seminar%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fregulatory-compliance-seminar%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Frole-of-the-importer%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Frole-of-the-importer%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fvilly-manufacturing-inc%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcase-study%2Fvilly-manufacturing-inc%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fchanges-to-our-trade-credit-policy-and-procedures%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fchanges-to-our-trade-credit-policy-and-procedures%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcontact-us%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fcontact-us%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fhelp-faqs%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fhelp-faqs%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fhome-2%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fhome-2%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fimportance-of-specialized-focus-in-projects-oil-gas-logistics%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fimportance-of-specialized-focus-in-projects-oil-gas-logistics%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fimporters-achieve-cost-savings-through-the-first-sale-rule%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fimporters-achieve-cost-savings-through-the-first-sale-rule%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fimporters-achieve-cost-savings-through-the-first-sale-rule-2%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fimporters-achieve-cost-savings-through-the-first-sale-rule-2%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Findustries-served%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Findustries-served%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Findustry-sectors%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Findustry-sectors%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fleadership-team%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fleadership-team%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fnew-additions-to-our-great-metro-trucks-fleet%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fnew-additions-to-our-great-metro-trucks-fleet%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Four-news%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Four-news%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fpricing-plans%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fpricing-plans%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Frequest-quote%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Frequest-quote%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fautomotive-manufacturing%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fautomotive-manufacturing%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fbasic-industrial-chemicals%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fbasic-industrial-chemicals%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fbridge-construction%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fbridge-construction%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fconstruction-engineering%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fconstruction-engineering%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Ffood-beverage%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Ffood-beverage%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Findustrial-chemical%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Findustrial-chemical%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fmechanical-engineering%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fmechanical-engineering%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Foil-gas%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Foil-gas%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fpetroleum-gas-energy%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fpetroleum-gas-energy%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fpower-generation%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fpower-generation%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fretail-consumer%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fretail-consumer%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fsciences-healthcare%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fservice%2Fsciences-healthcare%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fthe-new-driver-training-recruitment-program%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fthe-new-driver-training-recruitment-program%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fwhy-choose-us%2F
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/oembed/1.0/embed?url=https:%2F%2F7oroof.com%2Ftfdemos%2Faxima%2Fwhy-choose-us%2F&format=xml
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/case-study-category/35
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\case-study-category\35
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/case-study-category/36
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\case-study-category\36
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/case-study-category/37
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\case-study-category\37
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/case-study-category/38
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\case-study-category\38
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/case-study-category/39
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\case-study-category\39
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/21
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\21
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/22
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\22
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/23
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\23
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/24
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\24
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/25
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\25
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/26
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\26
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/categories/27
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\categories\27
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/10
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/12
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/14
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/24
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\24
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/269
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\269
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/28
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\28
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/30
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\30
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/32
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\32
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/34
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\34
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/36
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\36
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/38
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\38
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/40
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\40
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/479
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\479
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/481
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\481
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/62
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\62
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/90
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\90
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/pages/988
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\pages\988
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/posts/129
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\posts\129
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/posts/71
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\posts\71
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/posts/73
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\posts\73
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/posts/75
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\posts\75
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/posts/77
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\posts\77
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/posts/79
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\posts\79
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/posts/81
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\posts\81
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/tags/29
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\tags\29
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/tags/30
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\tags\30
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/tags/31
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\tags\31
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/tags/32
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\tags\32
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/tags/33
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\tags\33
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/tags/34
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\tags\34
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/wp-json/wp/v2/users/1
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://7oroof.com/tfdemos/axima/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\7oroof.com\tfdemos\axima\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Heebo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Rajdhani:400%2C500%2C600%2C700|Heebo:300%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i&subset=latin%2Clatin-ext&ver=5.8.4
+File Name: D:\cyotek-webcopy\7oroof.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400|Heebo:700|Rajdhani:700&display=swap
+File Name: D:\cyotek-webcopy\7oroof.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400|Rajdhani:700|Heebo:700%2C400&display=swap
+File Name: D:\cyotek-webcopy\7oroof.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v18/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmj.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\heebo\v18\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDI2apCSOBg7S-QT7pa8FvOreeI.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\rajdhani\v14\LDI2apCSOBg7S-QT7pa8FvOreeI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDI2apCSOBg7S-QT7pb0EPOreeI.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\rajdhani\v14\LDI2apCSOBg7S-QT7pb0EPOreeI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDI2apCSOBg7S-QT7pbYF_OreeI.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\rajdhani\v14\LDI2apCSOBg7S-QT7pbYF_OreeI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rajdhani/v14/LDIxapCSOBg7S-QT7p4HM-M.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\rajdhani\v14\LDIxapCSOBg7S-QT7p4HM-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\cyotek-webcopy\7oroof.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252F7oroof.com%252Ftfdemos%252Faxima%252Fcargo-flow-through-better-supply-chain-visibility-control%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\7oroof.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252F7oroof.com%252Ftfdemos%252Faxima%252Fchanges-to-our-trade-credit-policy-and-procedures%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\7oroof.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252F7oroof.com%252Ftfdemos%252Faxima%252Fimportance-of-specialized-focus-in-projects-oil-gas-logistics%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\7oroof.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252F7oroof.com%252Ftfdemos%252Faxima%252Fimporters-achieve-cost-savings-through-the-first-sale-rule%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\7oroof.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252F7oroof.com%252Ftfdemos%252Faxima%252Fimporters-achieve-cost-savings-through-the-first-sale-rule-2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\7oroof.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252F7oroof.com%252Ftfdemos%252Faxima%252Fnew-additions-to-our-great-metro-trucks-fleet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\7oroof.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer%2Fsharer.php%3Fu%3Dhttps%253A%252F%252F7oroof.com%252Ftfdemos%252Faxima%252Fthe-new-driver-training-recruitment-program%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\7oroof.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyDP8vfj0x6ho6EzaCEcv2srz16FVgDwIXg&ver=20220326
+File Name: D:\cyotek-webcopy\7oroof.com\maps\api\js
+Content Type: text/javascript
+

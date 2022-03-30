@@ -1,0 +1,522 @@
+/*
+Theme Name: Mypage Child
+Theme URI: https://www.mypage.vn/
+Author: MYPAGE
+Author URI: https://www.mypage.vn/
+Description: Mypage Theme.
+Version: 1.1
+Template: mypage
+License: Commercial
+License URI: http://themeforest.net/licenses/regular_extended
+Tags: woocommerce, corporate, ecommerce, responsive, blue, black, green, white, light, dark, red, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: mypage-child
+*/
+@import url("../mypage/style-1.css");
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+body {font-weight: 300;}
+#main-menu .mega-menu > li.menu-item > a {font-weight: 500;padding-left: 25px;padding-right: 25px;}
+.fixed-header #header .header-main {background-color: transparent;}
+.fixed-header #header:not(.sticky-header) #main-menu .mega-menu > li.menu-item > a, 
+.fixed-header #header:not(.sticky-header) .searchform-popup .search-toggle,
+.fixed-header #header:not(.sticky-header) .top-links > li.menu-item > a {color: #fff;}
+.fixed-header #header:not(.sticky-header) #main-menu .mega-menu > li.menu-item.active > a, 
+.fixed-header #header:not(.sticky-header) #main-menu .mega-menu > li.menu-item:hover > a, 
+.fixed-header #header:not(.sticky-header) .searchform-popup .search-toggle:hover,
+.fixed-header #header:not(.sticky-header) .top-links > li.menu-item > a:hover{color: #ff8455;}
+.fixed-header #header.logo-overlay-header:not(.sticky-header) .overlay-logo {position: relative;}
+.fixed-header #header.logo-overlay-header:not(.sticky-header) .logo-transition {display: none;}
+body:not(.home) #header.logo-overlay-header .overlay-logo {display: none;}
+body:not(.home) #header.logo-overlay-header .logo-transition {opacity: 1; transform:none;}
+#header.search-sm .search-popup .searchform {left: auto;right: 0;}
+#header .search-popup .searchform:before {left: auto;right: 10px;}
+#header.header-corporate .searchform input {width: 300px;}
+#header .mobile-toggle {font-size: 20px;}
+#main-menu .mega-menu > li.menu-item > a:before{content: '';position: absolute;left: 50%;right: 50%;bottom: 0;height: 3px;background-color: #ff8455;transition:0.2s ease-in-out;display: block;}
+#main-menu .mega-menu > li.menu-item.active > a:before, #main-menu .mega-menu > li.menu-item:hover > a:before{left: 25px;right: 25px;}
+.fixed-header #header:not(.sticky-header) .top-links > li.menu-item.active > a, #header .top-links>li.menu-item.active a {color: #ff8455;}
+body #banner-wrapper .porto-carousel-wrapper ul.slick-dots {position: absolute;bottom: 20px;}
+.porto-carousel-wrapper .slick-dots li i {opacity: 1;}
+#banner-wrapper .porto-block  > p {display: none;}
+#banner-wrapper .wpb_single_image {margin-bottom: 0;}
+#banner-wrapper .wpb_single_image .wpb_wrapper {position: relative;}
+#banner-wrapper .wpb_single_image .wpb_wrapper h2 {margin: 0;color: #fff;position: absolute;top: 50%;left: 10%;width: 60%;text-align: left;transform:translateY(-50%);z-index: 3;text-shadow:0 0 4px #000;font-weight: 600;line-height: 46px;font-size: 36px;border-left: 4px solid #ff8455;padding-left: 20px;}
+#banner-wrapper .wpb_single_image .wpb_wrapper h2 strong {display: block;}
+@media(min-width: 1599px){
+    #banner-wrapper .wpb_single_image .wpb_wrapper h2 {font-size: 44px;line-height: 54px;}
+}
+#banner-wrapper .wpb_single_image .vc_single_image-wrapper, #banner-wrapper .wpb_single_image .vc_single_image-wrapper img {width: 100%;}
+.no-breadcrumbs .main-content {padding-top: 0;padding-bottom: 0;}
+.line_bottom:after{content: '';width: 50px;height: 3px;background-color: #ff8455;display: block;margin: 8px auto 0;}
+.line_bottom.line_left:after{margin: 8px 0 0;}
+.wrap_services  {background-color: #eeefef;background-position: right top;background-repeat: no-repeat;padding-top: 60px;padding-bottom: 70px;}
+.wrap_services:before{content: '';position: absolute;top: 0;left: 0;width: 100%;height: 100%;display: block;background-image: url(images/service-bg.png);background-position: center center;background-repeat: no-repeat;z-index: 1;}
+.wrap_services > .vc_column_container {z-index: 3;}
+.wrap_services .wpb_text_column  {text-align: center;margin: 0 300px 70px;}
+.wrap_services .vc_inner > .vc_column_container > .wpb_wrapper {position: relative;}
+.wrap_services .top-icon .porto-sicon-img {position: relative;padding: 6px;margin-top: -50px;}
+.wrap_services .top-icon .porto-sicon-img img {position: relative;z-index: 4;}
+.wrap_services .top-icon .porto-sicon-img:before {content: '';position: absolute;top: 0;left: 0;width: 100%;height: 100%; background-color: #ff8455;;border-radius: 50%;border: 2px solid #fff;z-index: 3;}
+.wrap_services .top-icon .porto-sicon-img:after{content: '';position: absolute;top: 0;left: -8px;width: 100%;height: 100%;background-color: #fff;z-index: 1;border-radius: 50%;border: 2px solid #ff8455; }
+.wrap_services .wpb_wrapper .top-icon .porto-sicon-header h3.porto-sicon-title {text-transform: uppercase;font-size: 17px;}
+.wrap_services .wpb_wrapper .service_item .top-icon .porto-sicon-header h3.porto-sicon-title:after{content: '';width: 79px;height: 2px;background-image: url(images/line_title.png);background-position: center;display: block;margin: 12px auto 0;}
+.wrap_services .wpb_wrapper .service_item_back .top-icon .porto-sicon-header h3.porto-sicon-title {color: #fff;position: relative;}
+.wrap_services .wpb_wrapper .service_item_back .top-icon .porto-sicon-header h3.porto-sicon-title:after{width: 50px;height: 50px;border-radius: 50%;content: '+'; color: #fff;background-color: #ff8455;margin: 20px auto;display: block;box-shadow: 0 0 0 10px rgba(255, 132, 85, 0.3);transition:0.3s ease-in-out;font-size: 22px;line-height: 50px;}
+.wrap_services .wpb_wrapper .service_item_back a:hover .top-icon .porto-sicon-header h3.porto-sicon-title:after{box-shadow: 0 0 0 10px rgba(255, 132, 85, 0.6);}
+.wrap_services .top-icon .porto-sicon-description {text-align: left;}
+.wrap_services .top-icon .porto-sicon-description ul {margin: 0 0 20px;padding-left: 20px; }
+.wrap_services .vc_inner .wpb_single_image{position: relative;margin-bottom: 0;border-radius: 5px;overflow: hidden;}
+.wrap_services .porto-sicon-wrapper.service_item  {
+	-webkit-transition-delay: .3s;
+    -moz-transition-delay: .3s;
+    transition-delay: .3s;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    background-color: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-bottom: 3px solid #ff8455;
+    border-radius: 5px;
+    padding: 0px 20px 20px;
+    -webkit-transform-origin: 50% 0%;
+    transform-origin: 50% 0%;
+    -webkit-transition: all .3s linear .1s;
+    -khtml-transition: all .3s linear .1s;
+    -moz-transition: all .3s linear .1s;
+    -ms-transition: all .3s linear .1s;
+    -o-transition: all .3s linear .1s;
+    transition: all .3s linear .1s;
+    -webkit-transform: perspective(500px) rotateX(0deg);
+    -khtml-transform: perspective(500px) rotateX(0deg);
+    -moz-transform: perspective(500px) rotateX(0deg);
+    -ms-transform: perspective(500px) rotateX(0deg);
+    -o-transform: perspective(500px) rotateX(0deg);
+    transform: perspective(500px) rotateX(0deg);
+}
+.wrap_services .vc_inner > .vc_column_container > .wpb_wrapper:hover .porto-sicon-wrapper.service_item{
+	opacity: 0;
+    -webkit-transform: perspective(500px) rotateX(-90deg);
+    -khtml-transform: perspective(500px) rotateX(-90deg);
+    -moz-transform: perspective(500px) rotateX(-90deg);
+    -ms-transform: perspective(500px) rotateX(-90deg);
+    -o-transform: perspective(500px) rotateX(-90deg);
+    transform: perspective(500px) rotateX(-90deg);
+    -webkit-transition-delay: 0s;
+    -moz-transition-delay: 0s;
+    transition-delay: 0s;
+    -webkit-transition: all .3s linear 0ms;
+    -khtml-transition: all .3s linear 0ms;
+    -moz-transition: all .3s linear 0ms;
+    -ms-transition: all .3s linear 0ms;
+    -o-transition: all .3s linear 0ms;
+    transition: all .3s linear 0ms;
+}
+.wrap_services .porto-sicon-wrapper.service_item_back {
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.85);
+    padding: 20px 20px 10px;
+    border-top: 3px solid #ff8455;
+    border-radius: 5px 5px 0 0;    
+    -webkit-transform-origin: 50% 0%;
+    transform-origin: 50% 0%;
+    -webkit-transition: all .3s linear 0ms;
+    -khtml-transition: all .3s linear 0ms;
+    -moz-transition: all .3s linear 0ms;
+    -ms-transition: all .3s linear 0ms;
+    -o-transition: all .3s linear 0ms;
+    transition: all .3s linear 0ms;
+    opacity: 0;
+    -webkit-transform: perspective(500px) rotateX(-90deg);
+    -khtml-transform: perspective(500px) rotateX(-90deg);
+    -moz-transform: perspective(500px) rotateX(-90deg);
+    -ms-transform: perspective(500px) rotateX(-90deg);
+    -o-transform: perspective(500px) rotateX(-90deg);
+    transform: perspective(500px) rotateX(-90deg);
+}
+.wrap_services .vc_inner > .vc_column_container > .wpb_wrapper:hover .porto-sicon-wrapper.service_item_back {
+	opacity: 1;
+    -webkit-transform: perspective(500px) rotateX(0deg);
+    -khtml-transform: perspective(500px) rotateX(0deg);
+    -moz-transform: perspective(500px) rotateX(0deg);
+    -ms-transform: perspective(500px) rotateX(0deg);
+    -o-transform: perspective(500px) rotateX(0deg);
+    transform: perspective(500px) rotateX(0deg);
+    -webkit-transition-delay: .2s;
+    -moz-transition-delay: .2s;
+    transition-delay: .2s;
+}
+.wrap_about {padding-top: 60px;padding-bottom: 40px;background-repeat: no-repeat;background-position: top 60px right 0;}
+.wrap_about .wpb_text_column  h4 {font-size: 18px;line-height: 24px;}
+.wrap_about .wpb_single_image .vc_single_image-wrapper {position: relative;margin-left: 20px;}
+.wrap_about .wpb_single_image .vc_single_image-wrapper img {position: relative;z-index: 3;border-radius: 50%;}
+.wrap_about .wpb_single_image .vc_single_image-wrapper:before{content: '';position: absolute;top: 0;left: -20px;width: 100%;height: 100%;background-color: #fff;border: 3px solid #ff8455;z-index: 1;border-radius: 50%;}
+.wrap_why, .wrap_customer   {padding-top: 50px;padding-bottom: 50px;}
+.wrap_why:before, .wrap_customer:before{content: '';position: absolute;top: 0;left: 0;width: 100%;height: 100%;display: block;background-color: rgba(0,0,0,0.8);z-index: 1;}
+.wrap_why > .vc_column_container,  .wrap_customer > .vc_column_container {z-index: 3;}
+.wrap_why .vc_custom_heading, .wrap_customer .vc_custom_heading {color: #fff;}
+.wrap_why .line_bottom:after, .wrap_customer .line_bottom:after{background-color: #fff;}
+.wrap_why .wpb_text_column {text-align: center;color: #fff;margin: 0 200px 70px;}
+.wrap_why .porto-sicon-box {width: 260px;height: 260px;margin: 0 auto;border: 1px dashed #ff8455;border-radius: 50%;}
+.wrap_why .porto-sicon-top {margin-top: -40px;}
+.wrap_why .top-icon .porto-sicon-header {margin-bottom: 5px;}
+.wrap_why .top-icon .porto-sicon-img {background-color: #ff8455;border-radius: 50%;padding: 5px;}
+.wrap_why .wpb_wrapper .top-icon .porto-sicon-header h3.porto-sicon-title {color: #fff;font-size: 20px;margin-bottom: 6px;}
+.wrap_why .top-icon .porto-sicon-description {color: #fff;font-size: 14px;line-height: 22px;padding: 0 8px;}
+.wrap_blog {padding-top: 50px;padding-bottom: 30px;}
+.wrap_blog .thumb-info .thumb-info-wrapper {border-radius: 5px}
+.wrap_blog .post-recent-main {background-color: #fff;box-shadow: 0 13px 29px rgba(0,0,0,.1);padding: 20px 15px 22px 15px;border-radius: 5px;margin: -70px 20px 50px;z-index: 3;position: relative;height: 115px;overflow: hidden;}
+.wrap_blog .post-recent-main h5 {font-size: 17px;line-height: 24px;margin-bottom: 15px;height: 48px;overflow: hidden;}
+.wrap_blog .post-recent-main h5 a {color: #000;}
+.wrap_blog .post-recent-main h5 a:hover{color: #ff8455;text-decoration: none;}
+.wrap_blog .post-recent-main .post-meta {position: relative;z-index: 1;}
+.wrap_blog .post-recent-content {position: relative;z-index: 3;background-color: #fff;margin: -5px 0;transition:all .3s linear 0ms;}
+.wrap_blog .post-item:hover .post-recent-content {margin-top: -35px;}
+.wrap_customer .wpb_text_column {margin: 0 200px 30px;color: #fff;text-align: center;}
+.wrap_customer .testimonial.testimonial-with-quotes img {width: 110px;}
+.wrap_customer .testimonial.testimonial-with-quotes blockquote:after, .wrap_customer .testimonial.testimonial-with-quotes blockquote:before, .wrap_customer .testimonial.testimonial-with-quotes blockquote p {color: #fff;}
+.wrap_customer .testimonial .testimonial-author strong {color: #fff;font-weight: 500;text-transform: uppercase;}
+.wrap_customer .testimonial .testimonial-author span {color: #fff;margin-top: 5px;font-style: italic;}
+#footer .share-links {text-align: center;}
+#footer .widget_media_image{text-align: center;}
+#footer .widget.follow-us .share-links a {width: 40px;height: 40px;font-size: 22px;}
+#footer .widget.follow-us .share-links a.share-line:hover {background-color: #3ace00;}
+#footer .widget.follow-us .share-links a.share-line:before {content: '';width: 32px;height: 31px;background-image: url(images/icon_line.png);background-position: center;background-repeat: no-repeat;}
+#footer .widget.follow-us .share-links a.share-line:hover:before {background-image: url(images/icon_line_hover.png);}
+#footer .widget-title {font-weight: 400;font-size: 20px;}
+#footer .widget-title:after{content: '';width: 35px;height: 2px;background-color: #fff;margin: 3px 0 0;display: block;}
+#footer .textwidget p i {width: 20px;margin-right: 10px;}
+#footer .textwidget p strong {display: inline-block;border-bottom: 1px solid #fff;}
+#footer .textwidget ul {padding-left: 30px;margin-bottom: 20px;}
+#footer .widget_nav_menu ul.menu li:before{border-left-color: #fff;}
+#footer .widget_nav_menu ul.menu .sub-menu{display: none;}
+#footer .wpcf7 input[type="text"], #footer .wpcf7 input[type="email"], #footer .wpcf7 textarea {border: 1px solid #fff;border-radius: 4px;color: #fff;background-color: transparent;padding: 7px 12px;font-weight: 300;}
+#footer .wpcf7 input[type="text"]::-webkit-input-placeholder, #footer .wpcf7 input[type="email"]::-webkit-input-placeholder, #footer .wpcf7 textarea::-webkit-input-placeholder {color: #fff;}
+#footer .wpcf7 input[type="text"]::-moz-placeholder, #footer .wpcf7 input[type="email"]::-moz-placeholder, #footer .wpcf7 textarea::-moz-placeholder {color: #fff;}
+#footer .wpcf7 input[type="text"]:-ms-input-placeholder, #footer .wpcf7 input[type="email"]:-ms-input-placeholder, #footer .wpcf7 textarea:-ms-input-placeholder {color: #fff;}
+#footer .wpcf7 input[type="text"]:-moz-placeholder, #footer .wpcf7 input[type="email"]:-moz-placeholder, #footer .wpcf7 textarea:-moz-placeholder {color: #fff;}
+#footer .wpcf7 textarea {height: 90px;}
+#footer .wpcf7 input[type="submit"] {width: 100%;background-color: #fff;color: #ff8455;padding: 9px 12px 7px;border-radius: 4px;text-transform: uppercase;}
+#footer .wpcf7 input[type="submit"]:hover{color: #000;background-color: #cecbcb;}
+#footer .footer-bottom {padding: 0;}
+.page-top {padding-top: 140px;padding-bottom: 140px;}
+.page-top:before{content: '';position: absolute;top: 0;left: 0;width: 100%;height: 100%;display: block;background-color: rgba(0,0,0,0.6);z-index: 1;}
+.page-top > .container {position: relative;z-index: 3;}
+.page-top .page-title {font-family: Montserrat;font-weight: normal;letter-spacing: 0;}
+.page-top .page-title:after{content: '';display: block;margin: 5px auto 0;width: 70px;height: 3px;background-color: #ff8455;}
+.journey_heading_text.vc_row.wpb_row {margin-top: 40px;padding-bottom: 40px;}
+.jouney_heading .vc_custom_heading {color: #333;font-size: 22px;background-position: left center;padding: 16px 20px 16px 70px;background-repeat: no-repeat;}
+.jouney_heading .vc_column_container:last-child .vc_custom_heading {padding: 16px 100px 16px 30px;background-position: right center;}
+.jouney_heading .col-md-5 .wpb_single_image, .jouney_heading .col-md-5 .vc_custom_heading  {margin-bottom: 0;margin-top: 75px;}
+.box_timeline {position: relative;padding-top: 30px;}
+.box_timeline .porto-sicon-wrapper {background-color: #f2f2f2;margin-bottom: 20px;border-radius: 40px;position: relative;cursor: pointer;transition:0.3s ease-in-out;}
+.box_timeline .porto-sicon-wrapper:hover{background-color: #1b84bc;}
+.box_timeline .porto-sicon-box.right-icon, .box_timeline .porto-sicon-box.left-icon {margin-bottom: 0;display: block;}
+.box_timeline .wpb_wrapper .porto-sicon-header h3.porto-sicon-title {line-height: 24px;font-size: 16px;transition:0.3s ease-in-out;}
+.box_timeline .wpb_wrapper .porto-sicon-wrapper:hover .porto-sicon-header h3.porto-sicon-title {color: #fff;}
+.box_timeline .porto-sicon-wrapper .porto-icon, .box_timeline .porto-sicon-wrapper .porto-sicon-img {}
+.box_timeline .porto-sicon-wrapper .porto-sicon-img {display: block !important;}
+.box_timeline .porto-sicon-wrapper .porto-sicon-img img {}
+.box_timeline .porto-sicon-wrapper .right-icon:before{content: '';width: 24px;height: 24px;border-radius: 50%;background-color: #f2f2f2;position: absolute;top: 50%;right: -48px;transform:translateY(-50%);z-index: 3;}
+.box_timeline .porto-sicon-wrapper .right-icon:after { width: 0;
+      height: 0;
+      border-top: 15px solid transparent;
+      border-left: 16px solid #e8e8e8;
+      border-bottom: 15px solid transparent;
+      position: absolute;right: -16px;top: 50%;transform:translateY(-50%);
+      content: '';
+      opacity: 0;
+}
+.box_timeline .porto-sicon-wrapper .left-icon:after { width: 0;
+      height: 0;
+      border-top: 15px solid transparent;
+      border-right: 16px solid #e8e8e8;
+      border-bottom: 15px solid transparent;
+      position: absolute;left: -16px;top: 50%;transform:translateY(-50%);
+      content: '';
+      opacity: 0;
+}
+.box_timeline > .vc_column_container {z-index: 5;}
+.box_timeline > .vc_column_container:first-child .porto-sicon-wrapper {margin-right: 20px;}
+.box_timeline > .vc_column_container:last-child .porto-sicon-wrapper {margin-left: 20px;}
+.box_timeline:before{content: '';width: 7px;background-color: #f2f2f2;height: 100%;position: absolute;top: 0;left: 50%;transform:translateX(-50%);z-index: 1;display: block;}
+.blog_menu ul.mega-menu {text-align: center;margin-bottom: 25px;}
+.blog_menu ul.mega-menu > li.menu-item{float: none;display: inline-block;margin: 0 3px 10px;}
+.blog_menu ul.mega-menu > li.menu-item a {color: #fff; transition:0.2s ease-in-out; font-size: 14px;border-radius: 20px;
+    padding: 10px 15px 9px;
+    border: 1px solid #333;    
+    background-color: #333;
+    display: block;
+    font-weight: 400;}
+.blog_menu ul.mega-menu > li.menu-item a:hover, .blog_menu ul.mega-menu > li.active a{background-color: #ff8455;border-color: #ff8455;}
+.blog-posts article.post-grid .post-meta{display: none;}
+.blog-posts article.post-grid .entry-title {font-size: 16px;line-height: 24px;height: 48px;overflow: hidden;margin-bottom: 5px;}
+.blog-posts article.post-grid .entry-title a{color: #333;}
+.blog-posts article.post-grid .entry-title a:hover{color: #ff8455;}
+.blog-posts article.post-grid .post-excerpt {text-align: justify;height: 120px;overflow: hidden;}
+.blog-posts article.post-grid .readmore {font-weight: 400;color: #333;}
+.blog-posts article.post-grid .readmore:hover{text-decoration: none;color: #ff8455;}
+.blog-posts article.post-grid .readmore:after{font-family: 'FontAwesome';content: "\f061";margin-left: 5px;}
+.job_heading {text-transform: uppercase;font-weight: 500;border-bottom: 2px solid #ff8455;font-family: Roboto;padding-bottom: 5px;margin-bottom: 15px;}
+.get_post_cat_career .career_item {padding: 10px 15px;border-bottom: 1px solid #ddd;position: relative;}
+.get_post_cat_career .career_item:before{content: '';width: 3px;top: 0;left: 0;position: absolute;transition:0.2s ease-in-out;display: block;height: 0;background-color: #ff8455;}
+.get_post_cat_career .career_item:hover{background-color: #efefef;}
+.get_post_cat_career .career_item:hover:before{height: 100%;}
+.get_post_cat_career .career_item > .row > div {margin: auto;}
+.get_post_cat_career  h4 {font-weight: normal;font-size: 16px;line-height: 24px;margin-bottom: 0;}
+.get_post_cat_career .ungtuyen {display: block;background-color: #ff8455;color: #fff;text-align: center;padding: 7px 20px 6px;border-radius: 20px;transition:0.2s;}
+.get_post_cat_career .ungtuyen:hover{background-color: #d6430b;text-decoration: none;}
+.job_info ul {margin: 0 0 20px;padding:0;list-style: none;}
+.job_info ul li {margin-bottom: 5px;}
+.job_info ul li i {color: #ff8455;font-size: 18px;width: 20px;margin-right: 5px;}
+.job_info img {margin-bottom: 20px;}
+.portfolio-medium .entry-title  {font-size: 22px;line-height: 28px;margin-bottom: 15px;}
+.single-portfolio .modal .wpcf7 textarea{height: 90px;}
+.banner_services {padding-top: 150px;background-position: center bottom;background-size: 100% auto;background-repeat: no-repeat;}
+.banner_services .vc_custom_heading {color: #fff;margin-bottom: 150px;}
+.banner_services .line_bottom:after {background-color: #fff;width: 120px;}
+.banner_services .wpb_text_column, .service_text .wpb_text_column{text-align: center;margin: 0 200px 0;}
+.service_text.vc_row.wpb_row > .vc_column_container > .vc_column-inner{padding-top: 0;padding-bottom: 30px;}
+.azpackage  {background-position: center top;background-repeat: no-repeat;padding-top: 35px;}
+.img_shadow {box-shadow: 0 0 30px #666;}
+.service_content .vc_column_container:last-child .wpb_text_column {margin:50px 0 30px -60px;padding: 60px 0px 60px 40px;background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 20%, rgba(255,255,255,0.9304096638655462) 30%, rgba(255,255,255,0) 100%);}
+.service_content .wpb_text_column h2{color: #333;text-transform: uppercase;font-family: Montserrat;margin-bottom: 15px;position: relative;font-size: 22px;line-height: 28px;}
+.service_content .vc_column_container:last-child .wpb_text_column h2:before{content: '';display: block;position: absolute;top: 50%;left: -15px;width: 100px;height: 2px;background-color: #ff8455;transform:translate(-100%,-50%);}
+.howwork {padding-top: 30px;padding-bottom: 50px;}
+.howwork .vc_inner {margin-top: 40px;}
+.howwork .top-icon .porto-sicon-img {width: 90px;height: 90px;background-color: #f15546;border-radius: 50%;border: 3px solid #fff;text-align: center;line-height: 72px;box-shadow:  0 0 5px #ccc;}
+.howwork .vc_inner .vc_column_container:nth-child(2) .top-icon .porto-sicon-img {background-color: #70aadc;}
+.howwork .vc_inner .vc_column_container:nth-child(3) .top-icon .porto-sicon-img {background-color: #9a7bb7;}
+.howwork .top-icon .porto-sicon-img img {display: inline-block;}
+.howwork  .wpb_wrapper .top-icon .porto-sicon-header h3.porto-sicon-title {font-size: 18px;}
+.howwork  .top-icon .porto-sicon-header p {font-family: Roboto;}
+.service_content .col-md-5  {z-index: 3;}
+.service_content .vc_column_container:first-child .wpb_text_column {margin:50px -60px 30px 0px;padding: 60px 40px 60px 0; text-align: right;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 70%, rgba(255,255,255,1) 80%, rgba(255,255,255,1) 100%);}
+.service_content .vc_column_container:first-child .wpb_text_column h2:before{content: '';display: block;position: absolute;top: 50%;right: -15px;width: 100px;height: 2px;background-color: #ff8455;transform:translate(100%,-50%);}
+.other_services {padding-top: 20px;padding-bottom: 40px;}
+.other_services .porto-sicon-wrapper {border-radius: 5px;padding: 20px 10px;position: relative;background: #e6eefa;}
+.other_services .porto-sicon-wrapper:before{content: '';position: absolute;top: 0;left: 0;width: 100%;height: 100%;display: block;z-index: 1;background-color: rgba(0,0,0,0.2);opacity: 0;visibility: hidden;transition:0.3s ease-in-out;border-radius: 5px;}
+.other_services .porto-sicon-wrapper:hover:before {opacity: 1;visibility: visible;}
+.other_services .porto-sicon-wrapper .porto-sicon-box-link {position: relative;z-index: 3;}
+.other_services .wpb_wrapper .top-icon .porto-sicon-header h3.porto-sicon-title {font-size: 16px;text-transform: uppercase;font-weight: normal;color: #333;}
+.other_services .porto-sicon-box, .other_services .top-icon .porto-sicon-header {margin-bottom: 0;}
+.other_services .vc_inner > .vc_column_container  {    -webkit-flex: 0 0 20%;
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    max-width: 20%;}
+@media(min-width: 992px){
+    #accommodation .accommodation {display: none;}
+    #money-transfer .money-transfer {display: none;}
+    #arrival-pack .arrival-pack {display: none;}
+    #schengen-visa .schengen-visa{display: none;}
+    #private-tour .private-tour{display: none;}
+    #ubuddy .ubuddy {display: none;}
+}
+.left_heading, .right_heading {position: relative;}
+.right_heading {margin-top: 30px;}
+.left_heading:before{content: '';position: absolute;top: 0;left: 0;height: 100%;width: 400px;transform:translateX(-100%);background-color: #ff8455;}
+.right_heading:before{content: '';position: absolute;top: 0;right: 0;height: 100%;width: 400px;transform:translateX(100%);background-color: #ff8455;}
+.left_heading strong, .right_heading strong {display: inline-block;color: #fff;background-color: #ff8455;padding: 7px 30px 5px;position: relative;font-weight: normal;font-size: 17px;    font-family: Montserrat;}
+.left_heading strong:before{content: '';position: absolute;top: 5px;bottom: 5px;left: 0;width: 2px;background-color: #fff;display: block;}
+.right_heading strong:before {content: '';position: absolute;top: 5px;bottom: 5px;right: 0;width: 2px;background-color: #fff;display: block;}
+.service_content .wpb_text_column ul, .ubuddy_content .wpb_text_column ul {margin: 0;padding: 0;list-style: none;}
+.service_content .wpb_text_column ul li, .ubuddy_content .wpb_text_column ul li {margin-bottom: 5px;position: relative;}
+.service_content .vc_column_container:last-child .wpb_text_column ul li, .ubuddy_content .wpb_text_column ul li {padding-left: 15px;}
+.service_content .vc_column_container:first-child .wpb_text_column ul li {padding-right: 15px;}
+.service_content .vc_column_container:last-child .wpb_text_column ul li:before, .ubuddy_content .wpb_text_column ul li:before{ width: 6px;height: 6px;border-radius: 50%;background-color: #ff8455;content: '';display: block;position: absolute;left: 0;top: 10px;}
+.service_content .vc_column_container:first-child .wpb_text_column ul li:before{ width: 6px;height: 6px;border-radius: 50%;background-color: #ff8455;content: '';display: block;position: absolute;right: 0;top: 10px;}
+.ubuddy_content .wpb_text_column {margin: 0 200px 30px;}
+.ubuddy_content .wpb_text_column ul {margin-bottom: 20px;}
+.single-post article .entry-title {font-size: 22px;margin-bottom: 10px;}
+.single-post article .entry-content h2, .single-portfolio .portfolio-medium .post-content h2{font-size: 22px;line-height: 28px;margin-bottom: 15px;}
+.single-post article .entry-content h3, .single-portfolio .portfolio-medium .post-content h3 {font-size: 20px;line-height: 26px;margin-bottom: 15px;}
+.single-post  article .entry-content h4, .single-portfolio .portfolio-medium .post-content h4 {font-size: 18px;line-height: 24px;margin-bottom: 15px;}
+/* ====== font Thai ======*/
+html[lang="th"] .wrap_services .wpb_text_column, html[lang="th"] .wrap_about .vc_custom_heading,
+html[lang="th"] .wrap_services .top-icon .porto-sicon-description,
+html[lang="th"] #banner-wrapper .wpb_single_image .wpb_wrapper h2,
+html[lang="th"] .wrap_why .vc_custom_heading, html[lang="th"] .wrap_why .wpb_text_column, html[lang="th"] .wrap_why .top-icon .porto-sicon-description, html[lang="th"] .howwork .top-icon .porto-sicon-header p, html[lang="th"] .journey_heading_text.vc_row.wpb_row .vc_custom_heading, 
+html[lang="th"] .box_timeline .wpb_wrapper .porto-sicon-header h3.porto-sicon-title,
+html[lang="th"] .jouney_heading .col-md-5 .vc_custom_heading{font-family: 'Mitr', sans-serif;}
+html[lang="th"] .wrap_why .top-icon .porto-sicon-description {font-size: 16px;line-height: 1.6;}
+
+html[lang="th"] .wrap_about .wpb_text_column, html[lang="th"] .wrap_about .wpb_text_column h4,
+html[lang="th"] .service_text .wpb_text_column, 
+html[lang="th"] .service_content .vc_column_container:last-child .wpb_text_column,
+html[lang="th"] .service_content .vc_column_container:first-child .wpb_text_column,
+html[lang="th"] .wrap_customer .testimonial.testimonial-with-quotes blockquote p {font-family: 'Sarabun', sans-serif;}
+html[lang="th"] .jouney_heading .col-md-5 .vc_custom_heading {padding-left: 120px;font-size: 26px;}
+html[lang="th"] .jouney_heading .vc_column_container:last-child .vc_custom_heading {padding-right: 80px;}
+html[lang="th"] #banner-wrapper .wpb_single_image .wpb_wrapper h2, html[lang="th"] #banner-wrapper .wpb_single_image .wpb_wrapper h2 strong {font-weight: 500;}
+html[lang="th"] .box_timeline .wpb_wrapper .porto-sicon-header h3.porto-sicon-title {font-weight: 300;font-size: 22px;}
+html[lang="th"] .wrap_why .wpb_wrapper .top-icon .porto-sicon-header h3.porto-sicon-title {margin-bottom: 10px;}
+@media(max-width: 1199px){
+    #header.header-corporate .header-main .header-right {padding-left: 10px;}
+    #header.header-corporate .searchform input {width: 240px;}
+    #main-menu .mega-menu > li.menu-item > a {padding-left: 13px;padding-right: 13px;}
+    #main-menu .mega-menu > li.menu-item.active > a:before, #main-menu .mega-menu > li.menu-item:hover > a:before {left: 13px;right: 13px;}
+    #banner-wrapper .wpb_single_image .wpb_wrapper h2 {font-size: 32px;line-height: 42px;} 
+    .wrap_services .wpb_text_column {margin-left: 200px;margin-right: 200px;}
+    .wrap_services .porto-sicon-wrapper.service_item {padding: 0 10px 20px;}
+    .wrap_services .top-icon .porto-sicon-header {margin-bottom: 5px;}
+    .wrap_services .top-icon .porto-sicon-description ul {padding-left: 15px;}
+    .wrap_services .top-icon .porto-sicon-description ul li {line-height: 22px;}
+    .wrap_why {padding-bottom: 0;}
+    .wrap_why .wpb_text_column {margin-left: 150px;margin-right: 150px;}
+    .wrap_why .vc_inner > .vc_column_container {-webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;}
+    .wrap_why .porto-sicon-wrapper {margin-bottom: 80px;}
+    .wrap_services .top-icon .porto-sicon-img {margin-top: -30px;}
+    #footer .widget-title {font-size: 16px;}
+    #footer .textwidget p i {width: 15px;margin-right: 5px;}
+    #footer .textwidget ul {padding-left: 20px;}
+    .banner_services .wpb_text_column, .service_text .wpb_text_column {margin-left: 100px;margin-right: 100px;}
+    .other_services .porto-sicon-wrapper {padding-left: 0;padding-right: 0;}
+    .single-post .page-top .page-title {font-size: 20px;}
+}
+@media(max-width: 991px){
+    #banner-wrapper .wpb_single_image .wpb_wrapper h2 {font-size: 30px;line-height: 40px;} 
+    .wrap_services .wpb_text_column, .wrap_why .wpb_text_column, .wrap_customer .wpb_text_column, .ubuddy_content .wpb_text_column {margin-left: 50px;margin-right: 50px;}
+    .wrap_services .vc_inner > .vc_column_container, #footer .footer-main .container > .row > div {-webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 30px;
+    }
+    #footer .footer-main .container > .row > div {margin-bottom: 0;}
+    .banner_services {padding-top: 80px;background-size: auto;}
+    .banner_services .vc_custom_heading {margin-bottom: 80px;}
+    .jouney_heading .col-md-5 .vc_custom_heading {background-size: 100%;font-size: 18px;padding: 10px 10px 10px 50px;margin-top: 25px;}
+    .jouney_heading .vc_column_container:last-child .vc_custom_heading {padding: 10px 80px 10px 10px;}
+    .service_content .vc_column_container:last-child .wpb_text_column {margin: 10px 0 30px -90px;padding: 20px 0px 10px 30px;}
+    .service_content .vc_column_container:first-child .wpb_text_column {margin: 10px -90px 30px 0px;padding: 20px 30px 10px 0;}
+    .other_services .vc_inner > .vc_column_container {    -webkit-flex: 0 0 33.3333333333%;
+    -ms-flex: 0 0 33.3333333333%;
+    flex: 0 0 33.3333333333%;
+    max-width: 33.3333333333%;
+    margin-bottom: 30px;
+    }
+    #accommodation .accommodation .porto-sicon-wrapper:before,
+    #money-transfer .money-transfer .porto-sicon-wrapper:before,
+    #arrival-pack .arrival-pack .porto-sicon-wrapper:before,
+    #schengen-visa .schengen-visa .porto-sicon-wrapper:before,
+    #private-tour .private-tour .porto-sicon-wrapper:before,
+    #ubuddy .ubuddy .porto-sicon-wrapper:before{opacity: 1;visibility: visible;}
+    #accommodation .accommodation .porto-sicon-wrapper .porto-sicon-box-link,
+    #money-transfer .money-transfer .porto-sicon-wrapper .porto-sicon-box-link,
+    #arrival-pack .arrival-pack .porto-sicon-wrapper .porto-sicon-box-link,
+    #schengen-visa .schengen-visa .porto-sicon-wrapper .porto-sicon-box-link,
+    #private-tour .private-tour .porto-sicon-wrapper .porto-sicon-box-link,
+    #ubuddy .ubuddy .porto-sicon-wrapper .porto-sicon-box-link  {pointer-events: none;}
+    .entry-content {text-align: justify;}
+    .get_post_cat_career .ungtuyen {padding-left: 0;padding-right: 0;margin: 0 -10px;}
+    .box_timeline .porto-sicon-wrapper {}
+    .box_timeline .porto-sicon-box.right-icon .porto-icon {margin-left: 10px;}
+    .box_timeline .porto-sicon-box.left-icon .porto-icon {margin-right: 10px;}
+    .box_timeline .wpb_wrapper .porto-sicon-header h3.porto-sicon-title {font-size: 16px;line-height: 22px;}
+    html[lang="th"] .jouney_heading .col-md-5 .vc_custom_heading {padding-left: 90px;}
+    html[lang="th"] .jouney_heading .vc_column_container:last-child .vc_custom_heading {padding-right: 40px;padding-left: 0;}
+    html[lang="th"] .box_timeline .wpb_wrapper .porto-sicon-header h3.porto-sicon-title {font-size: 20px;}
+}
+@media(min-width: 768px){
+    .career_item i {display: none;}
+}
+@media(max-width: 767px){
+    #banner-wrapper .wpb_single_image .wpb_wrapper h2 {font-size: 28px;line-height: 38px;width: auto;} 
+    .wrap_services .wpb_text_column, .wrap_why .wpb_text_column, .wrap_customer .wpb_text_column, .ubuddy_content .wpb_text_column, .banner_services .wpb_text_column, .service_text .wpb_text_column {margin-left: 0;margin-right: 0;}
+    .wrap_services .top-icon .porto-sicon-img {margin-top: -50px;}
+    .wrap_services .vc_inner > .vc_column_container {margin-bottom: 60px;}
+    .wrap_about {background-position: center bottom;background-repeat: repeat-x;}
+    .wrap_blog .post-recent-main {margin:-40px 5px 50px;padding: 10px 8px 15px 8px;height: 100px;}
+    .testimonial blockquote {padding-left: 0px;padding-right: 0px;}
+    .jouney_heading .col-md-5 .vc_custom_heading {background-size: auto;background-position: right center;text-align: right;padding: 10px 100px 10px 20px;}
+    .jouney_heading .vc_column_container:last-child .vc_custom_heading {background-position: left center;text-align: left;padding: 10px 20px 10px 130px;margin-bottom: 50px;}
+    .service_content .vc_column_container:last-child .wpb_text_column,
+    .service_content .vc_column_container:first-child .wpb_text_column {margin: 0 0 30px;padding: 0;}
+    .service_content .vc_column_container:last-child .wpb_text_column h2:before,
+    .service_content .vc_column_container:first-child .wpb_text_column h2:before {display: none;}
+    .other_services .vc_inner > .vc_column_container {-webkit-flex: 0 0 50%;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;}
+    .blog-posts article.post-grid .entry-title, .blog-posts article.post-grid .post-excerpt {height: auto;}
+    .job_heading {display: none;}
+    .job_info img {margin-right: 20px;}
+    .jouney_heading .col-md-5 .wpb_single_image {margin-top: 0;margin-bottom: 30px;}
+    .jouney_heading .col-md-5 .wpb_single_image.vc_align_right {text-align: left;}
+    .jouney_heading .col-md-5 .wpb_single_image.vc_align_left {text-align: right;}
+    .jouney_heading .vc_column_container:nth-child(1) {order:2;}
+    .jouney_heading .vc_column_container:nth-child(2) {order:1;}
+    .jouney_heading .vc_column_container:nth-child(3) {order:3;}
+    .box_timeline {padding-top: 0;}
+    .box_timeline:before {left: 100%;}
+    .box_timeline:after{    content: '';
+        width: 7px;
+        background-color: #f2f2f2;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0%;
+        transform: translateX(-50%);
+        z-index: 1;
+        display: block;
+        }
+    .box_timeline .porto-sicon-wrapper .left-icon:before {
+        content: '';
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        background-color: #f2f2f2;
+        position: absolute;
+        top: 50%;
+        left: -48px;
+        transform: translateY(-50%);
+        z-index: 3;
+    }
+    .box_timeline .porto-sicon-wrapper {margin-bottom: 40px;}
+    html #topcontrol {display: block;}
+    html[lang="th"] .jouney_heading .col-md-5 .vc_custom_heading {padding-left: 0;padding-right: 140px;}
+    html[lang="th"] .jouney_heading .vc_column_container:last-child .vc_custom_heading {padding-right: 0;padding-left: 120px;}
+}
+@media(max-width: 576px){
+    .fixed-header #header.sticky-header, #header.sticky-header .header-main, .fixed-header #header.sticky-header .header-main {position: relative;}
+    #banner-wrapper .wpb_single_image .wpb_wrapper h2 {font-size: 24px;line-height: 34px;left: 6%;padding-left: 10px;}
+    .wrap_why .porto-sicon-box {width: 100%;}
+    .career_item i {width: 20px;margin-right: 5px;}
+    .get_post_cat_career .career_item > .row > div {margin-bottom: 4px;}
+    .get_post_cat_career .career_item > .row > div img {max-width: 80px;}
+    .box_timeline:before {left: auto;right: 10px;transform:none;}
+    .box_timeline:after { left: 10px;transform: none;}
+    .box_timeline > .vc_column_container:first-child .porto-sicon-wrapper {margin-right: 25px;margin-left: 20px;}
+    .box_timeline > .vc_column_container:last-child .porto-sicon-wrapper {margin-left: 25px;margin-right: 20px;}
+    .box_timeline .porto-sicon-wrapper .right-icon:before {right: -40px;}
+    .box_timeline .porto-sicon-wrapper .left-icon:before {left: -40px;}
+    
+    .banner_services.vc_row.wpb_row {margin-bottom: 50px;overflow: visible;}
+    .banner_services .wpb_text_column {margin-bottom: -50px;}
+}
+@media(max-width: 481px) {
+    #banner-wrapper .wpb_single_image .wpb_wrapper h2 {font-size: 22px;line-height: 32px;}
+    .wrap_services .vc_inner > .vc_column_container, .wrap_why .vc_inner > .vc_column_container, #footer .footer-main .container > .row > div {-webkit-flex: 0 0 100%;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;}
+    .wrap_why .porto-sicon-box {height: 250px;}
+    #footer .widget-title {font-size: 20px;}
+    .other_services .wpb_wrapper .top-icon .porto-sicon-header h3.porto-sicon-title {font-size: 14px;}
+    .banner_services.vc_row.wpb_row {margin-bottom: 100px;}
+    .banner_services .wpb_text_column {margin-bottom: -100px;}
+    .jouney_heading .col-md-5 .wpb_single_image img {width: 80%;}
+    html[lang="th"] .box_timeline .wpb_wrapper .porto-sicon-header h3.porto-sicon-title {font-size: 16px;}
+}

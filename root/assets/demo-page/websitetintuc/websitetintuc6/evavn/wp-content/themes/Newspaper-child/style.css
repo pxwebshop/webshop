@@ -1,0 +1,59 @@
+/*
+Theme Name:     Newspaper 7 Child theme
+Theme URI: 		http://themeforest.net/user/tagDiv/portfolio
+Description:    Child theme made by tagDiv
+Author:         tagDiv
+Author URI: 	http://themeforest.net/user/tagDiv/portfolio
+Template:       Newspaper
+Version:        7.7c
+*/
+
+
+/*  ----------------------------------------------------------------------------
+    This file will load automatically when the child theme is active. You can use it
+    for custom CSS.
+*/
+
+
+/*----------style header----------*/
+/*--------end style header--------*/
+
+
+/*----------style content----------*/
+/*-----style contact form-----*/
+.form-ct {
+    width: 780px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+.form-ct .form-row {
+    padding: 5px;
+    float: left;
+    width: 100%;
+    margin-bottom: 0;
+}
+.form-ct .form-row.w50 {
+    width: 50%;
+}
+.form-ct input,
+.form-ct textarea{
+    margin-bottom: 0;
+	box-shadow: inset 0 1px 2px rgba(0,0,0,0);
+}
+.form-ct .center-txt {
+    text-align: center;
+}
+.form-ct .center-txt input{
+    min-width: 50%;
+}
+.form-ct .wpcf7-form-control:focus {
+    border-color: #f8b742;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(248, 183, 66, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(248, 183, 66, 0.6);
+}
+/*---end style contact form---*/
+/*--------end style content--------*/
+
+
+/*----------style footer----------*/
+/*--------end style footer--------*/

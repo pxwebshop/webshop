@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Core Icon';
+  src:url('../font/coreicon/coreicon.eot?d7yf1v');
+  src:url('../font/coreicon/coreicon.eot?#iefixd7yf1v') format('embedded-opentype'),
+    url('../font/coreicon/coreicon.woff?d7yf1v') format('woff'),
+    url('../font/coreicon/coreicon.ttf?d7yf1v') format('truetype'),
+    url('../font/coreicon/coreicon.svg?d7yf1v#coreicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="core-icon-"], [class*=" core-icon-"] {
+  display: inline-block;
+  font-family: 'Core Icon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.core-icon-back:before {
+  content: "\e900";
+}
+.core-icon-search:before {
+  content: "\e901";
+}
+.core-icon-message:before {
+  content: "\e902";
+}
+.core-icon-next:before {
+  content: "\e903";
+}
+.core-icon-phone:before {
+  content: "\e904";
+}
+.core-icon-placeholder:before {
+  content: "\e905";
+}
+.core-icon-cart:before {
+  content: "\e906";
+}
+.core-icon-watch:before {
+  content: "\e907";
+}
+.core-icon-quote:before {
+  content: "\e908";
+}

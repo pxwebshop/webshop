@@ -1,0 +1,908 @@
+Uri: http://fonts.googleapis.com/css?family=Lato:300,400,700
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\lato\v22\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://chuongvang.webtravel.vn/
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\index.htm
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Areas/Administrator/Content/img/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Areas\Administrator\Content\img\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://chuongvang.webtravel.vn/bac-a
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\bac-a.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1023/tour-thai-lan-bangkok-pattaya-5n4d
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1023\tour-thai-lan-bangkok-pattaya-5n4d.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1024/du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1024\du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1025/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1025\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1026/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1026\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1027/5n4d-du-lich-thai-lan-gia-re
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1027\5n4d-du-lich-thai-lan-gia-re.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1029/4n3d-du-lich-phu-quoc
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1029\4n3d-du-lich-phu-quoc.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1030/tour-du-lich-phu-quoc-thang-5-6-7-8-2018
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1030\tour-du-lich-phu-quoc-thang-5-6-7-8-2018.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1031/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1031\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Booktour/1032/4n3d-du-lich-phu-quoc-thang-8-gia-re
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Booktour\1032\4n3d-du-lich-phu-quoc-thang-8-gia-re.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/chau-au
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\chau-au.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/chau-phi
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\chau-phi.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/chau-uc
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\chau-uc.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Content/components/flexslider/flexslider.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\components\flexslider\flexslider.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/components/flexslider/jquery.flexslider-min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\components\flexslider\jquery.flexslider-min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/components/jquery.bxslider/jquery.bxslider.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\components\jquery.bxslider\jquery.bxslider.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/components/jquery.bxslider/jquery.bxslider.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\components\jquery.bxslider\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/components/revolution_slider/css/settings.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\components\revolution_slider\css\settings.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/components/revolution_slider/css/style.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\components\revolution_slider\css\style.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/css/animate.min.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\css\animate.min.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/css/custom.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\css\custom.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/css/responsive.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\css\responsive.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/css/style.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\css\style.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/css/updates.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\css\updates.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Content/images/couple.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\images\couple.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/Content/images/global-map.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\images\global-map.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Content/images/icon/hover-effect.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\images\icon\hover-effect.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/Content/images/icon/icon-check.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\images\icon\icon-check.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/Content/images/icon/mobile-menu.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\images\icon\mobile-menu.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/Content/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/jquery-1.11.1.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\jquery-1.11.1.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/jquery-migrate-1.2.1.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/jquery-ui.1.10.4.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\jquery-ui.1.10.4.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/jquery.noconflict.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\jquery.noconflict.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/jquery.placeholder.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\jquery.placeholder.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/modernizr.2.7.1.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\modernizr.2.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/pace.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\pace.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/page-loading.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\page-loading.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/scripts.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/theme-scripts.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\theme-scripts.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Content/js/waypoints.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Content\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/dong-nam-a
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\dong-nam-a.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/favicon.ico
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://chuongvang.webtravel.vn/files/files/logo (1).png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\files\logo (1).png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/files/logo-Satek.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\files\logo-Satek.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/images/banner/18815347_682907445247515_2771069044964528907_o(2).jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\banner\18815347_682907445247515_2771069044964528907_o(2).jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/banner/nhung-hinh-anh-dep-ve-thien-nhien-hung-vi-nhat-the-gioi-10.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\banner\nhung-hinh-anh-dep-ve-thien-nhien-hung-vi-nhat-the-gioi-10.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/dat-ve-may-bay-theo-doan/A321_cabin.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\dat-ve-may-bay-theo-doan\A321_cabin.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/dat-ve-may-bay-theo-doan/IMG_20171023_152621-copy.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\dat-ve-may-bay-theo-doan\IMG_20171023_152621-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/dat-ve-may-bay-theo-doan/ve_may_bay_doan.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\dat-ve-may-bay-theo-doan\ve_may_bay_doan.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/IMG_8395.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\IMG_8395.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi/anh-1-3-1511258168431.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi\anh-1-3-1511258168431.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi/lam-gi-de-co-uu-dai-khi-di-may-bay-1.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi\lam-gi-de-co-uu-dai-khi-di-may-bay-1.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi/lam-gi-de-co-uu-dai-khi-di-may-bay-2.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi\lam-gi-de-co-uu-dai-khi-di-may-bay-2.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi/lam-gi-de-co-uu-dai-khi-di-may-bay-3.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi\lam-gi-de-co-uu-dai-khi-di-may-bay-3.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi/lam-gi-de-co-uu-dai-khi-di-may-bay-4.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi\lam-gi-de-co-uu-dai-khi-di-may-bay-4.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi/lam-gi-de-co-uu-dai-khi-di-may-bay-5.png
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi\lam-gi-de-co-uu-dai-khi-di-may-bay-5.png
+Content Type: image/png
+
+Uri: https://chuongvang.webtravel.vn/files/images/cau-hoi/nhung-dieu-can-biet-khi-mua-ve-may-bay/4148867_cover_du_lich_ve_may_bay_mang_xa_hoi.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\cau-hoi\nhung-dieu-can-biet-khi-mua-ve-may-bay\4148867_cover_du_lich_ve_may_bay_mang_xa_hoi.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/5-dia-danh-du-lich-hap-dan-nhat-o-ao/Innsbruck.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\5-dia-danh-du-lich-hap-dan-nhat-o-ao\Innsbruck.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/5-dia-danh-du-lich-hap-dan-nhat-o-ao/Salzburg.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\5-dia-danh-du-lich-hap-dan-nhat-o-ao\Salzburg.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/5-dia-danh-du-lich-hap-dan-nhat-o-ao/Salzkammergut.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\5-dia-danh-du-lich-hap-dan-nhat-o-ao\Salzkammergut.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/5-dia-danh-du-lich-hap-dan-nhat-o-ao/Vienna(1).jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\5-dia-danh-du-lich-hap-dan-nhat-o-ao\Vienna(1).jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/5-dia-danh-du-lich-hap-dan-nhat-o-ao/Vienna.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\5-dia-danh-du-lich-hap-dan-nhat-o-ao\Vienna.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/5-dia-danh-du-lich-hap-dan-nhat-o-ao/Zell-am-See.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\5-dia-danh-du-lich-hap-dan-nhat-o-ao\Zell-am-See.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia/khu-bao-ton-Sepilok(1).jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia\khu-bao-ton-Sepilok(1).jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia/khu-bao-ton-Sepilok.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia\khu-bao-ton-Sepilok.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia/nui-Kinabalu-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia\nui-Kinabalu-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia/văn-hóa-Malaysia.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia\văn-hóa-Malaysia.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/ArtScience(1).jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\ArtScience(1).jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/ArtScience.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\ArtScience.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/Casino-Marina-Bay-Sands.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\Casino-Marina-Bay-Sands.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/CE-LA-VI.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\CE-LA-VI.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/Esplanade.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\Esplanade.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/gardens-by-the-bay-191448-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\gardens-by-the-bay-191448-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/Marina-Bay-sân-gôn.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\Marina-Bay-sân-gôn.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/Marina-Bay-Sands-SkyPark.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\Marina-Bay-Sands-SkyPark.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/merlion-park-singapore.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\merlion-park-singapore.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/Singapore-Flyer.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\Singapore-Flyer.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/news/kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina/Wonder-Full.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\news\kham-pha-10-diem-vui-choi-giai-tri-tuyet-voi-nhat-o-vinh-marina\Wonder-Full.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan/bien-phu-quoc1-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan\bien-phu-quoc1-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan/lang-chai-ham-ninh-phu-quoc-720x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan\lang-chai-ham-ninh-phu-quoc-720x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan/tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan\tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/bai-ong-lang-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\bai-ong-lang-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/bai-truong-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\bai-truong-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/dao-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\dao-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/du-lich-dao-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\du-lich-dao-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/hung-long-tu-ngoi-chua-co-tai-phu-quoc.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\hung-long-tu-ngoi-chua-co-tai-phu-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/lang-chai-ham-ninh-phu-quoc-720x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\lang-chai-ham-ninh-phu-quoc-720x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/bai-truong-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\bai-truong-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/bien-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\bien-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/dinh_cau_x1-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\dinh_cau_x1-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/du-lich-dao-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\du-lich-dao-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/19665615_231306757390048_1851785051839683450_n.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\19665615_231306757390048_1851785051839683450_n.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/19756532_231306670723390_5568007789090468577_n_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\19756532_231306670723390_5568007789090468577_n_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/4wat-tit-mit.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\4wat-tit-mit.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/bangkok-thai-lan12-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\bangkok-thai-lan12-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/chua-phat-vang-thai-lan-Wat-Traimit1-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\chua-phat-vang-thai-lan-Wat-Traimit1-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/chua-thuyen-thai-lan12-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\chua-thuyen-thai-lan12-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/coral-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\coral-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/ve-dep-sao-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\ve-dep-sao-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610/10-hon-dao-dep-nhat-o-thai-lan-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610\10-hon-dao-dep-nhat-o-thai-lan-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610/1360137105-nhung-hoat-dong-o-thai-lan-1-_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610\1360137105-nhung-hoat-dong-o-thai-lan-1-_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610/art_in_paradise01-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610\art_in_paradise01-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/ấ.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\ấ.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/2World-Gems-Gallery-thai-lan-azbooking.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\2World-Gems-Gallery-thai-lan-azbooking.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/3saithip-garden_1.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\3saithip-garden_1.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/5ananta-samakhom_jpg_0.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\5ananta-samakhom_jpg_0.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/chua-wat-yanawa.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\chua-wat-yanawa.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/làng-voi-thái-lan_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\làng-voi-thái-lan_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/Pattaya-2.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\Pattaya-2.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/van-hoa-thai-lan3_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\van-hoa-thai-lan3_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/10-hon-dao-dep-nhat-o-thai-lan-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\10-hon-dao-dep-nhat-o-thai-lan-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/1360137105-nhung-hoat-dong-o-thai-lan-1-_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\1360137105-nhung-hoat-dong-o-thai-lan-1-_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/art_in_paradise01-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\art_in_paradise01-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/chua-thuyen-thai-lan12-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\chua-thuyen-thai-lan12-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/van-hoa-thai-lan3_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\van-hoa-thai-lan3_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/chua-thuyen-thai-lan2-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\chua-thuyen-thai-lan2-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/Erawan-bangkok3-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\Erawan-bangkok3-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/lang-voi-pattaya-thai-lan2-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\lang-voi-pattaya-thai-lan2-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/pattaya2-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\pattaya2-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/Shibuya-19-in-bangkok-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\Shibuya-19-in-bangkok-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/show-chuyen-gioi-bede-show-pattaya-thailan1-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\show-chuyen-gioi-bede-show-pattaya-thailan1-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/song-Chao-Phraya-bangkok-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\song-Chao-Phraya-bangkok-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/Underwater-World-Pattaya-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\Underwater-World-Pattaya-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/ve-may-bay/1184541_original.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\ve-may-bay\1184541_original.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/ve-may-bay/check-code-ve-may-bay-Vietnam-Airlines.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\ve-may-bay\check-code-ve-may-bay-Vietnam-Airlines.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/ve-may-bay/Emirates-1.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\ve-may-bay\Emirates-1.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/files/images/ve-may-bay/Thai-Airways.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\files\images\ve-may-bay\Thai-Airways.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan/tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\4n3d-du-lich-phu-quoc-khoi-hanh-thu-4-hang-tuan\tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/bai-ong-lang-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\bai-ong-lang-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/bai-truong-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\bai-truong-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/dao-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\dao-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi/du-lich-dao-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi\du-lich-dao-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/bai-truong-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\bai-truong-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/bien-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\bien-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/dinh_cau_x1-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\dinh_cau_x1-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/phu-quoc/tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi/tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\phu-quoc\tour-du-lich-phu-quoc-thang-5-6-7-8-2018-khoi-hanh-thu-6-hang-tuan-tu-ha-noi\tour-phu-quoc-1-ngay-ivivu-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/19756532_231306670723390_5568007789090468577_n_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\19756532_231306670723390_5568007789090468577_n_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/bangkok-thai-lan12-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\bangkok-thai-lan12-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/chua-phat-vang-thai-lan-Wat-Traimit1-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\chua-phat-vang-thai-lan-Wat-Traimit1-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/chua-thuyen-thai-lan12-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\chua-thuyen-thai-lan12-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/coral-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\coral-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines/ve-dep-sao-phu-quoc-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\5n4d-du-lich-thai-lan-gia-re-thang-03-2018-vietnam-airlines\ve-dep-sao-phu-quoc-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/ấ.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\ấ.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia/làng-voi-thái-lan_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia\làng-voi-thái-lan_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/1360137105-nhung-hoat-dong-o-thai-lan-1-_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\1360137105-nhung-hoat-dong-o-thai-lan-1-_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/art_in_paradise01-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\art_in_paradise01-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/chua-thuyen-thai-lan12-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\chua-thuyen-thai-lan12-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611/van-hoa-thai-lan3_0-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611\van-hoa-thai-lan3_0-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/chua-thuyen-thai-lan2-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\chua-thuyen-thai-lan2-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/Erawan-bangkok3-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\Erawan-bangkok3-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/lang-voi-pattaya-thai-lan2-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\lang-voi-pattaya-thai-lan2-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/pattaya2-750x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\pattaya2-750x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/Shibuya-19-in-bangkok-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\Shibuya-19-in-bangkok-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/show-chuyen-gioi-bede-show-pattaya-thailan1-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\show-chuyen-gioi-bede-show-pattaya-thailan1-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/song-Chao-Phraya-bangkok-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\song-Chao-Phraya-bangkok-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/Files/_thumbs/images/tours/thai-lan/tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612/Underwater-World-Pattaya-700x350.jpg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Files\_thumbs\images\tours\thai-lan\tour-thai-lan-bangkok-pattaya-5n4d-thang-6-2018-bay-vn611-612\Underwater-World-Pattaya-700x350.jpg
+Content Type: image/jpeg
+
+Uri: https://chuongvang.webtravel.vn/lien-he
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\lien-he.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/Plugins/slider-nivo/jquery.nivo.slider.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Plugins\slider-nivo\jquery.nivo.slider.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Plugins/slider-nivo/nivo-slider.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Plugins\slider-nivo\nivo-slider.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Plugins/Validate/jquery-validation-1.13.1/additional-methods.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Plugins\Validate\jquery-validation-1.13.1\additional-methods.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/Plugins/Validate/jquery-validation-1.13.1/jquery-validation.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Plugins\Validate\jquery-validation-1.13.1\jquery-validation.css
+Content Type: text/css
+
+Uri: https://chuongvang.webtravel.vn/Plugins/Validate/jquery-validation-1.13.1/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\Plugins\Validate\jquery-validation-1.13.1\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://chuongvang.webtravel.vn/tay-a
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tay-a.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tay-au
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tay-au.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/thong-tin-du-lich
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\thong-tin-du-lich.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/thong-tin-du-lich/1146/giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\thong-tin-du-lich\1146\giai-dap-ly-do-tai-sao-ban-nen-ghe-tham-malaysia.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/thong-tin-du-lich/1147/10-diem-vui-choi-tuyet-voi-nhat-o-vinh-marina
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\thong-tin-du-lich\1147\10-diem-vui-choi-tuyet-voi-nhat-o-vinh-marina.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/thong-tin-du-lich/1148/5-dia-danh-du-lich-hap-dan-nhat-o-ao
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\thong-tin-du-lich\1148\5-dia-danh-du-lich-hap-dan-nhat-o-ao.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-nuoc-ngoai
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-nuoc-ngoai.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-nuoc-ngoai/1023/tour-thai-lan-bangkok-pattaya-5n4d
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-nuoc-ngoai\1023\tour-thai-lan-bangkok-pattaya-5n4d.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-nuoc-ngoai/1024/du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-nuoc-ngoai\1024\du-lich-thai-lan-bangkok-pattaya-5n4d-thang-7-2018-bay-vn611-610.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-nuoc-ngoai/1025/thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-nuoc-ngoai\1025\thang-05-2018-bangkok-pattaya-5n4d-bay-air-asia.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-nuoc-ngoai/1026/thang-05-2018-bangkok-pattaya-5n4d-bay-vn611
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-nuoc-ngoai\1026\thang-05-2018-bangkok-pattaya-5n4d-bay-vn611.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-nuoc-ngoai/1027/5n4d-du-lich-thai-lan-gia-re
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-nuoc-ngoai\1027\5n4d-du-lich-thai-lan-gia-re.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-trong-nuoc
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-trong-nuoc.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-trong-nuoc/1029/4n3d-du-lich-phu-quoc
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-trong-nuoc\1029\4n3d-du-lich-phu-quoc.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-trong-nuoc/1030/tour-du-lich-phu-quoc-thang-5-6-7-8-2018
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-trong-nuoc\1030\tour-du-lich-phu-quoc-thang-5-6-7-8-2018.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-trong-nuoc/1031/tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-trong-nuoc\1031\tour-du-lich-phu-quoc-4n3d-dip-30-4-27-va-28-4-2018-tu-ha-noi.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/tour-trong-nuoc/1032/4n3d-du-lich-phu-quoc-thang-8-gia-re
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\tour-trong-nuoc\1032\4n3d-du-lich-phu-quoc-thang-8-gia-re.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/ve-may-bay
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\ve-may-bay.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/ve-may-bay/1002/dat-ve-may-bay-emirates-airlines
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\ve-may-bay\1002\dat-ve-may-bay-emirates-airlines.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/ve-may-bay/1003/dat-ve-may-bay-thai-airways
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\ve-may-bay\1003\dat-ve-may-bay-thai-airways.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/ve-may-bay/1004/dat-ve-may-bay-hang-nok-air
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\ve-may-bay\1004\dat-ve-may-bay-hang-nok-air.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/ve-may-bay/3/dat-ve-may-bay-vietnam-airlines
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\ve-may-bay\3\dat-ve-may-bay-vietnam-airlines.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/visa/2148/muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\visa\2148\muon-co-uu-dai-khi-mua-ve-may-bay-ban-can-lam-gi.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/visa/2149/nhung-dieu-can-biet-khi-mua-ve-may-bay
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\visa\2149\nhung-dieu-can-biet-khi-mua-ve-may-bay.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/visa/2150/dat-ve-may-bay-theo-doan
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\visa\2150\dat-ve-may-bay-theo-doan.html
+Content Type: text/html
+
+Uri: https://chuongvang.webtravel.vn/visa/2151/​mua-ve-roi-neu-khong-di-thi-co-duoc-doi-ten-cho-nguoi-khac-di-khong
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\visa\2151\​mua-ve-roi-neu-khong-di-thi-co-duoc-doi-ten-cho-nguoi-khac-di-khong.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Lato:300,400,700|Roboto:300,400,700&subset=vietnamese
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\lato\v22\S6u9w4BMUTPHh7USSwiPHA-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\lato\v22\S6uyw4BMUTPHjx4wWw-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/materialicons/v126/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\materialicons\v126\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBkKxeP9U3h8QzyGoPPUuL7prK8pbC8ovg&callback=initMap
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\maps\api\js
+Content Type: text/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/css/all.css
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.0.13/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\chuongvang.webtravel.vn\releases\v5.0.13\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+

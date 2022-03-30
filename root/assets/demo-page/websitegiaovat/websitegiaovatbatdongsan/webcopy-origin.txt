@@ -1,0 +1,104 @@
+Uri: https://citweb.net/comments/feed
+File Name: D:\cyotek-webcopy\citweb.net\comments\feed
+Content Type: application/rss+xml
+
+Uri: https://citweb.net/demo-2
+File Name: D:\cyotek-webcopy\citweb.net\demo-2-1.html
+Content Type: text/html
+
+Uri: https://citweb.net/demo-2?id=20404
+File Name: D:\cyotek-webcopy\citweb.net\demo-2.html
+Content Type: text/html
+
+Uri: https://citweb.net/feed
+File Name: D:\cyotek-webcopy\citweb.net\feed
+Content Type: application/rss+xml
+
+Uri: https://citweb.net/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://citweb.net/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/css/font-awesome.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/css/index-home.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\css\index-home.min.css
+Content Type: text/css
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/css/view-demo.min.css?v=1.316
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\css\view-demo.min.css
+Content Type: text/css
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/js/bootstrap.min.js
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/js/defaultV2.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\js\defaultV2.min.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/js/jquery.fancybox.js
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\js\jquery.fancybox.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/js/tom-select.complete.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\js\tom-select.complete.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-content/themes/CITWeb/style.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\citweb.net\wp-content\themes\CITWeb\style.css
+Content Type: text/css
+
+Uri: https://citweb.net/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\citweb.net\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://citweb.net/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: D:\cyotek-webcopy\citweb.net\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\cyotek-webcopy\citweb.net\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\citweb.net\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\citweb.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-includes/js/wp-embed.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\citweb.net\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://citweb.net/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\citweb.net\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://citweb.net/wp-json/
+File Name: D:\cyotek-webcopy\citweb.net\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://citweb.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcitweb.net%2Fdemo-2
+File Name: D:\cyotek-webcopy\citweb.net\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://citweb.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fcitweb.net%2Fdemo-2&format=xml
+File Name: D:\cyotek-webcopy\citweb.net\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://citweb.net/wp-json/wp/v2/pages/20428
+File Name: D:\cyotek-webcopy\citweb.net\wp-json\wp\v2\pages\20428
+Content Type: application/json
+
+Uri: https://citweb.net/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\citweb.net\xmlrpc.php
+Content Type: text/xml
+

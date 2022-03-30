@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/organic-chicken.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-11-21T07:24:07-05:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391872987221</id>
+    <published>2019-11-21T07:24:07-05:00</published>
+    <updated>2019-11-21T07:24:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/sugarcane"/>
+    <title>Sugarcane</title>
+    <s:type>Fruits</s:type>
+    <s:vendor>Anatomicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod12_bd64a7d0-978b-43ef-8762-656de07c35ef.jpg?v=1574933210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anatomicals<br>
+        <strong>Type: </strong>Fruits<br>
+        <strong>Price: </strong>
+            229.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Anatomicals</s:tag>
+    <s:tag>Fruits</s:tag>
+    <s:tag>Green</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391872987221</id>
+      <title>1 kg / Green</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391871545429</id>
+    <published>2019-11-21T07:23:47-05:00</published>
+    <updated>2019-11-21T07:23:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/asparagus"/>
+    <title>Asparagus</title>
+    <s:type>Vegetable</s:type>
+    <s:vendor>Vegetal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod3.jpg?v=1574930843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegetal<br>
+        <strong>Type: </strong>Vegetable<br>
+        <strong>Price: </strong>
+            229.00 - 299.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/asparagus">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Vegetable</s:tag>
+    <s:tag>Vegetal</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391871545429</id>
+      <title>1 kg / Green</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391871545429</id>
+      <title>2 kg / Yellow</title>
+      <s:price currency="USD">289.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391871545429</id>
+      <title>3 kg / White</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391870791765</id>
+    <published>2019-11-21T07:23:37-05:00</published>
+    <updated>2019-11-21T07:23:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/rice"/>
+    <title>Rice</title>
+    <s:type>Groceries</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod7.jpg?v=1574935840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Groceries<br>
+        <strong>Price: </strong>
+            523.00 - 699.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/rice">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:tag>Groceries</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870791765</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">523.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870791765</id>
+      <title>2 kg / Brown</title>
+      <s:price currency="USD">658.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870791765</id>
+      <title>1 kg / Brown</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391870496853</id>
+    <published>2019-11-21T07:23:33-05:00</published>
+    <updated>2019-11-21T07:23:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/chicken-breast"/>
+    <title>Chicken Breast</title>
+    <s:type>Fresh Meat</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod5_e22127d8-d37c-4db9-b436-a6a640b0f728.jpg?v=1574932881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Fresh Meat<br>
+        <strong>Price: </strong>
+            229.00 - 279.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/chicken-breast">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fresh Meat</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870496853</id>
+      <title>2 kg / Brown</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870496853</id>
+      <title>1 kg / Brown</title>
+      <s:price currency="USD">254.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870496853</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391870169173</id>
+    <published>2019-11-21T07:23:28-05:00</published>
+    <updated>2019-11-21T07:23:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/cookies"/>
+    <title>Cookies</title>
+    <s:type>Snackes</s:type>
+    <s:vendor>Stas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod6_c3b1fd42-2eae-48c3-987f-239db57d9209.jpg?v=1574932447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stas<br>
+        <strong>Type: </strong>Snackes<br>
+        <strong>Price: </strong>
+            319.00 - 392.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/cookies">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Snackes</s:tag>
+    <s:tag>Stas</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870169173</id>
+      <title>2 kg / Gold</title>
+      <s:price currency="USD">379.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870169173</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">392.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391870169173</id>
+      <title>1 kg / Green</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391866892373</id>
+    <published>2019-11-21T07:22:43-05:00</published>
+    <updated>2019-11-21T07:22:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/cut-mushroom"/>
+    <title>Cut Mushroom</title>
+    <s:type>vegetables</s:type>
+    <s:vendor>Koka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod8_c58f0d6f-a682-49c3-8433-4416d80402a5.jpg?v=1574935723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koka<br>
+        <strong>Type: </strong>vegetables<br>
+        <strong>Price: </strong>
+            129.00 - 188.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/cut-mushroom">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Koka</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>vegetables</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391866892373</id>
+      <title>2 kg / Sandal</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391866892373</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">176.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391866892373</id>
+      <title>1 kg / White</title>
+      <s:price currency="USD">188.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391866138709</id>
+    <published>2019-11-21T07:22:35-05:00</published>
+    <updated>2019-11-21T07:22:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/chicken-boneless"/>
+    <title>Chicken Boneless</title>
+    <s:type>Fresh Meat</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod5.jpg?v=1574932332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Fresh Meat<br>
+        <strong>Price: </strong>
+            229.00 - 279.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/chicken-boneless">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>2 kg</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Fresh Meat</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391866138709</id>
+      <title>2 kg / Brown</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391866138709</id>
+      <title>1 kg / Brown</title>
+      <s:price currency="USD">254.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391866138709</id>
+      <title>3 kg / Brown</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391865843797</id>
+    <published>2019-11-21T07:22:29-05:00</published>
+    <updated>2019-11-21T07:22:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/cauliflower"/>
+    <title>Cauliflower</title>
+    <s:type>Vegetable</s:type>
+    <s:vendor>Vegetal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod3_77f5bc15-9d7d-48b8-92d3-135001a7cc3c.jpg?v=1574932802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vegetal<br>
+        <strong>Type: </strong>Vegetable<br>
+        <strong>Price: </strong>
+            329.00 - 399.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/cauliflower">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Vegetable</s:tag>
+    <s:tag>Vegetal</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391865843797</id>
+      <title>1 kg / Red</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391865843797</id>
+      <title>2 kg / Red</title>
+      <s:price currency="USD">378.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391865843797</id>
+      <title>3 kg / Red</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391864631381</id>
+    <published>2019-11-21T07:22:08-05:00</published>
+    <updated>2019-11-21T07:22:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/chicken-eggs"/>
+    <title>Chicken Eggs</title>
+    <s:type>Eggs</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod4.jpg?v=1574932200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Eggs<br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Eggs</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391864631381</id>
+      <title>3 kg / White</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391864631381</id>
+      <title>2 kg / Brown</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391864631381</id>
+      <title>1 kg / Red</title>
+      <s:price currency="USD">219.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391862239317</id>
+    <published>2019-11-21T07:21:33-05:00</published>
+    <updated>2019-11-21T07:21:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/organic-watermelon"/>
+    <title>Organic Watermelon</title>
+    <s:type>Fruits</s:type>
+    <s:vendor>Anatomicals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod1_2e0d7dbc-b34b-45f3-802c-77be2dfa25ef.jpg?v=1613638614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Anatomicals<br>
+        <strong>Type: </strong>Fruits<br>
+        <strong>Price: </strong>
+            229.00 - 279.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/organic-watermelon">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>3 kg</s:tag>
+    <s:tag>Anatomicals</s:tag>
+    <s:tag>Fruits</s:tag>
+    <s:tag>Green</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391862239317</id>
+      <title>3 kg / Red</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391862239317</id>
+      <title>2 kg / Yellow</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391862239317</id>
+      <title>1 kg / Green</title>
+      <s:price currency="USD">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
