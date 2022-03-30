@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>webshop</title>
+	<title>WebShop</title>
 	<link rel="stylesheet" href="/assets/css/style.css">
 	<script src="/assets/js/fontawesome.js" crossorigin="anonymous"></script>
 
@@ -24,7 +24,7 @@
 	<header class="c-header">
 		<div class="c-header__top pc-only">
 			<div class="l-container">
-				<p class="c-header__nameCompany">Công ty TNHH Pxwebshop</p>
+				<p class="c-header__nameCompany">ບໍລີສັດ PX WebShop</p>
 				<ul class="c-header__address">
 					<li class="c-header__address__item">
 						<span><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</span>
@@ -42,43 +42,43 @@
 				</a>
 				<ul class="c-header__menu">
 					<li class="c-header__item">
-						<a class="c-header__link" href="/">Trang chủ</a>
+						<a class="c-header__link" href="/">ໜ້າຫຼັກ</a>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/kho-giao-dien">Kho giao diện</a>
+						<a class="c-header__link" href="/kho-giao-dien">ຄັງເວັບໄຊ</a>
 					</li>
 					<li class="c-header__item c-header__item__services">
-						<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
+						<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
-								<a href="#">Thiết kế website</a>
+								<a href="#">ອອກແບບເວັບໄຊ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#">Viết phần mềm theo yêu cầu</a>
+								<a href="#"> ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#">Thiết kế banner</a>
+								<a href="#"> ອອກແບບໂລໂກ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#">Lập trình web App</a>
+								<a href="#">ຂຽນ Web App </a>
 							</li>
 						</ul>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/tin-tuc">Tin tức</a>
+						<a class="c-header__link" href="/tin-tuc">ຂ່າວສານ</a>
 					</li>
 					<li class="c-header__item c-header__item__abouts">
-						<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
+						<span>ກຽ່ວກັບເຮົາ<i class="fa-solid fa-caret-down"></i></span>
 
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
-								<a href="/gioi-thieu">Giới thiệu</a>
+								<a href="/gioi-thieu">ແນະນຳ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/thanh-toan">Thanh toán</a>
+								<a href="/thanh-toan">ຊຳລະເງິນ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/lien-he">Liên Hệ</a>
+								<a href="/lien-he">ຕິດຕໍ່</a>
 							</li>
 						</ul>
 					</li>
@@ -86,7 +86,7 @@
 						<i class="fa-solid fa-magnifying-glass is-searchMenu"></i>
 						<div class="c-header__search">
 							<form action="" class="c-header__form">
-								<input type="text" placeholder="Nhập thông tin cần tìm">
+								<input type="text" placeholder="ໃສ່ຂໍ້ມູນທີ່ຕ້ອງການຄົ້ນຫາ">
 								<button class="c-header__btnSearch" type="submit">
 									<i class="fa-solid fa-magnifying-glass"></i>
 								</button>
@@ -119,59 +119,59 @@
 		<nav class="c-header__gnav__child sp-only" id="gnav">
 			<ul class="c-header__gnav__menu">
 				<li class="c-header__gnav__item">
-					<a href="/"><span>Trang chủ</span></a>
+					<a href="/"><span>ໜ້າຫຼັກ</span></a>
 				</li>
 				<li class="c-header__gnav__item">
-					<a href="/kho-giao-dien"><span>Kho giao diện</span></a>
+					<a href="/kho-giao-dien"><span>ຄັງເວັບໄຊ</span></a>
 				</li>
 				<li class="c-header__gnav__item">
 					<a class="c-header__gnav__parent" href="#">
-						<span>Dịch vụ</span>
+						<span>ບໍລິການ</span>
 						<i class="fa-solid fa-plus"></i>
 						<i class="fa-solid fa-minus"></i>
 					</a>
 					<ul class="c-header__gnav__menu__sub">
 						<li class="c-header__gnav__item">
-							<a href="#"><span>Thiết kế website</span></a>
+							<a href="#"><span>ອອກແບບເວັບໄຊ</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="#"><span>Viết phần mềm theo yêu cầu</span></a>
+							<a href="#"><span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="#"><span>Thiết kế banner</span></a>
+							<a href="#"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="#">Lập trình web App</a>
+							<a href="#">ຂຽນ Web App</a>
 						</li>
 					</ul>
 				</li>
 				<li class="c-header__gnav__item">
 					<a href="#">
-						<span>Tin tức</span>
+						<span>ຂ່າວສານ</span>
 					</a>
 				</li>
 				<li class="c-header__gnav__item">
 					<a class="c-header__gnav__parent" href="#">
-						<span>Về chúng tôi</span>
+						<span>ກຽ່ວກັບເຮົາ</span>
 						<i class="fa-solid fa-plus"></i>
 						<i class="fa-solid fa-minus"></i>
 					</a>
 					<ul class="c-header__gnav__menu__sub">
 						<li class="c-header__gnav__item">
-							<a href="/gioi-thieu"><span>Giới thiệu</span></a>
+							<a href="/gioi-thieu"><span>ແນະນຳ</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="/thanh-toan"><span>Thanh toán</span></a>
+							<a href="/thanh-toan"><span>ຊຳລະເງິນ</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="/lien-he"><span>Liên hệ</span></a>
+							<a href="/lien-he"><span>ຕິດຕໍ່</span></a>
 						</li>
 					</ul>
 				</li>
 				<li class="c-header__itemSeach">
 					<div class="c-header__search">
 						<form action="" class="c-header__form">
-							<input type="text" placeholder="Nhập thông tin cần tìm">
+							<input type="text" placeholder="ໃສ່ຂໍ້ມູນທີ່ຕ້ອງການຄົ້ນຫາ">
 							<button class="c-header__btnSearch" type="submit">
 								<i class="fa-solid fa-magnifying-glass"></i>
 							</button>
