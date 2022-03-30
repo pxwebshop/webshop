@@ -1,0 +1,276 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://tsoft.netlify.app/
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://tsoft.netlify.app/css/animate.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\css\animate.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/css/bootstrap.min.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/css/fontawesome.min.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/css/owl.carousel.min.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/css/responsive.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\css\responsive.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/css/slicknav.min.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/font/flaticon.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\font\flaticon.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/font/Flaticon.eot
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\font\Flaticon.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/font/Flaticon.eot?
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\font\Flaticon-1.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/font/Flaticon.svg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://tsoft.netlify.app/font/Flaticon.ttf
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\font\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://tsoft.netlify.app/font/Flaticon.woff
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\font\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://tsoft.netlify.app/font/Flaticon.woff2
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\font\Flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://tsoft.netlify.app/img/1.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/blog-img1.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\blog-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/blog-img2.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\blog-img2.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/blog-img3.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\blog-img3.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/client-2.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\client-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/client-3.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\client-3.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/client-4.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\client-4.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/client-6.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\client-6.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/footer-img.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\footer-img.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/logo.png
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\logo.png
+Content Type: image/png
+
+Uri: https://tsoft.netlify.app/img/review1.png
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\review1.png
+Content Type: image/png
+
+Uri: https://tsoft.netlify.app/img/review2.png
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\review2.png
+Content Type: image/png
+
+Uri: https://tsoft.netlify.app/img/screenshot2.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\screenshot2.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/screenshot3.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\screenshot3.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/screenshot4.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\screenshot4.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/screenshot5.jpg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\screenshot5.jpg
+Content Type: image/jpeg
+
+Uri: https://tsoft.netlify.app/img/slider-img-1.png
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\slider-img-1.png
+Content Type: image/png
+
+Uri: https://tsoft.netlify.app/img/slider-img.png
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\slider-img.png
+Content Type: image/png
+
+Uri: https://tsoft.netlify.app/img/subscribe.png
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\img\subscribe.png
+Content Type: image/png
+
+Uri: https://tsoft.netlify.app/js/bootstrap.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/custom.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\custom.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/isotope.pkgd.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/jquery-1.12.4.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/jquery.counterup.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/jquery.nav.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\jquery.nav.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/jquery.slicknav.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\jquery.slicknav.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/jquery.sticky.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/owl.carousel.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/popper.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/typed.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\typed.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/waypoints.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/js/wow.min.js
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://tsoft.netlify.app/style.css
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\style.css
+Content Type: text/css
+
+Uri: https://tsoft.netlify.app/webfonts/fa-brands-400.eot
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/webfonts/fa-brands-400.eot?
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/webfonts/fa-brands-400.svg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://tsoft.netlify.app/webfonts/fa-brands-400.ttf
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://tsoft.netlify.app/webfonts/fa-brands-400.woff
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://tsoft.netlify.app/webfonts/fa-brands-400.woff2
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://tsoft.netlify.app/webfonts/fa-regular-400.eot
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/webfonts/fa-regular-400.eot?
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/webfonts/fa-regular-400.svg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://tsoft.netlify.app/webfonts/fa-regular-400.ttf
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://tsoft.netlify.app/webfonts/fa-regular-400.woff
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://tsoft.netlify.app/webfonts/fa-regular-400.woff2
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://tsoft.netlify.app/webfonts/fa-solid-900.eot
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/webfonts/fa-solid-900.eot?
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://tsoft.netlify.app/webfonts/fa-solid-900.svg
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://tsoft.netlify.app/webfonts/fa-solid-900.ttf
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://tsoft.netlify.app/webfonts/fa-solid-900.woff
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://tsoft.netlify.app/webfonts/fa-solid-900.woff2
+File Name: D:\cyotek-webcopy\tsoft.netlify.app\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+

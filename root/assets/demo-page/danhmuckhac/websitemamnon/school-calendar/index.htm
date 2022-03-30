@@ -1,0 +1,1458 @@
+﻿<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"9700abca30",applicationID:"9339867"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return r}({1:[function(t,e,n){function r(){}function i(t,e,n,r){return function(){return s.recordSupportability("API/"+e+"/called"),o(t+e,[u.now()].concat(c(arguments)),n?null:this,r),n?void 0:this}}var o=t("handle"),a=t(10),c=t(11),f=t("ee").get("tracer"),u=t("loader"),s=t(4),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",v=l+"ixn-";a(p,function(t,e){d[e]=i(l,e,!0,"api")}),d.addPageAction=i(l,"addPageAction",!0),d.setCurrentRouteName=i(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,i="function"==typeof e;return o(v+"tracer",[u.now(),t,n],r),function(){if(f.emit((i?"":"no-")+"fn-start",[u.now(),r,i],n),i)try{return e.apply(this,arguments)}catch(t){throw f.emit("fn-err",[arguments,this,t],n),t}finally{f.emit("fn-end",[u.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=i(v,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),s.recordSupportability("API/noticeError/called"),o("err",[t,u.now(),!1,e])}},{}],2:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],3:[function(t,e,n){var r=!1;try{var i=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,i),window.removeEventListener("testPassive",null,i)}catch(o){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],4:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return o("storeMetric",n,null,"api"),n}function i(t,e){var n=[c,t,{name:t},e];return o("storeEventMetrics",n,null,"api"),n}var o=t("handle"),a="sm",c="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:c},recordSupportability:r,recordCustom:i}},{}],5:[function(t,e,n){function r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=t(12);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],6:[function(t,e,n){function r(t){return!(!t||!t.protocol||"file:"===t.protocol)}e.exports=r},{}],7:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function i(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(u&&u<r.startTime)return;var i=[r],o=a({});o&&i.push(o),l("lcp",i)}}function o(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function c(t){if(t instanceof y&&!w){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=v.now()?n.fid=v.now()-e:e>v.offset&&e<=Date.now()?(e-=v.offset,n.fid=v.now()-e):e=v.now(),w=!0,l("timing",["fi",e,n])}}function f(t){"hidden"===t&&(u=v.now(),l("pageHide",[u]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var u,s,d,p,l=t("handle"),v=t("loader"),m=t(9),g=t(3),y=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){s=new PerformanceObserver(r);try{s.observe({entryTypes:["paint"]})}catch(h){}d=new PerformanceObserver(i);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(h){}p=new PerformanceObserver(o);try{p.observe({type:"layout-shift",buffered:!0})}catch(h){}}if("addEventListener"in document){var w=!1,b=["click","keydown","mousedown","pointerdown","touchstart"];b.forEach(function(t){document.addEventListener(t,c,g(!1))})}m(f)}},{}],8:[function(t,e,n){function r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var n=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf("Chrome")===-1&&c.indexOf("Chromium")===-1&&(i="Safari",o=f[1])}e.exports={agent:i,version:o,match:r}},{}],9:[function(t,e,n){function r(t){function e(){t(c&&document[c]?document[c]:document[o]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,i(!1))}var i=t(3);e.exports=r;var o,a,c;"undefined"!=typeof document.hidden?(o="hidden",a="visibilitychange",c="visibilityState"):"undefined"!=typeof document.msHidden?(o="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(o="webkitHidden",a="webkitvisibilitychange",c="webkitVisibilityState")},{}],10:[function(t,e,n){function r(t,e){var n=[],r="",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],11:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return o}e.exports=r},{}],12:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function i(t){function e(t){return t&&t instanceof r?t:t?u(t,f,a):a()}function n(n,r,i,o,a){if(a!==!1&&(a=!0),!l.aborted||o){t&&a&&t(n,r,i);for(var c=e(i),f=m(n),u=f.length,s=0;s<u;s++)f[s].apply(c,r);var p=d[w[n]];return p&&p.push([b,n,r,c]),c}}function o(t,e){h[t]=m(t).concat(e)}function v(t,e){var n=h[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return h[t]||[]}function g(t){return p[t]=p[t]||i(n)}function y(t,e){l.aborted||s(t,function(t,n){e=e||"feature",w[n]=e,e in d||(d[e]=[])})}var h={},w={},b={on:o,addEventListener:o,removeEventListener:v,emit:n,get:g,listeners:m,context:e,buffer:y,abort:c,aborted:!1};return b}function o(t){return u(t,f,a)}function a(){return new r}function c(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var f="nr@context",u=t("gos"),s=t(10),d={},p={},l=e.exports=i();e.exports.getOrSetContext=o,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,o,function(){return i++})}var i=1,o="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!P++){var t=M.info=NREUM.info,e=g.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(O,function(e,n){t[e]||(t[e]=n)});var n=a();c("mark",["onload",n+M.offset],null,"api"),c("timing",["load",n]);var r=g.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=v+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function i(){"complete"===g.readyState&&o()}function o(){c("mark",["domContent",a()+M.offset],null,"api")}var a=t(5),c=t("handle"),f=t(10),u=t("ee"),s=t(8),d=t(6),p=t(2),l=t(3),v=p.getConfiguration("ssl")===!1?"http":"https",m=window,g=m.document,y="addEventListener",h="attachEvent",w=m.XMLHttpRequest,b=w&&w.prototype,E=!d(m.location);NREUM.o={ST:setTimeout,SI:m.setImmediate,CT:clearTimeout,XHR:w,REQ:m.Request,EV:m.Event,PR:m.Promise,MO:m.MutationObserver};var x=""+location,O={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1215.min.js"},T=w&&b&&b[y]&&!/CriOS/.test(navigator.userAgent),M=e.exports={offset:a.getLastTimestamp(),now:a,origin:x,features:{},xhrWrappable:T,userAgent:s,disabled:E};if(!E){t(1),t(7),g[y]?(g[y]("DOMContentLoaded",o,l(!1)),m[y]("load",r,l(!1))):(g[h]("onreadystatechange",i),m[h]("onload",r)),c("mark",["firstbyte",a.getLastTimestamp()],null,"api");var P=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,f,u){function nrWrapper(){var o,a,s,p;try{a=this,o=d(arguments),s="function"==typeof r?r(o,a):r||{}}catch(l){i([l,"",[o,a,f],s],t)}c(n+"start",[o,a,f],s,u);try{return p=e.apply(a,o)}catch(v){throw c(n+"err",[o,a,v],s,u),v}finally{c(n+"end",[o,a,p],s,u)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r="");var c,f,u,s="-"===r.charAt(0);for(u=0;u<e.length;u++)f=e[u],c=t[f],a(c)||(t[f]=n(c,s?f+r:r,i,f,o))}function c(n,r,o,a){if(!v||e){var c=v;v=!0;try{t.emit(n,r,o,e,a)}catch(f){i([f,n,r,o],t)}v=c}}return t||(t=s),n.inPlace=r,n.flag=p,n}function i(t,e){e||(e=s);try{e.emit("internal-error",t)}catch(n){}}function o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function c(t,e){var n=e(t);return n[p]=t,o(t,n,s),n}function f(t,e,n){var r=t[e];t[e]=c(r,n)}function u(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var s=t("ee"),d=t(11),p="nr@original",l=Object.prototype.hasOwnProperty,v=!1;e.exports=r,e.exports.wrapFunction=c,e.exports.wrapInPlace=f,e.exports.argsToArray=u},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>School Calendar &#8211; Skole</title><link rel="stylesheet" href="../wp-content/cache/min/1/534872622691094ff5f827f1ba4541ba.css" media="all" data-minify="1">
+<style id="vamtam-theme-options">:root {--vamtam-default-bg-color:#fff;
+--vamtam-default-line-color:rgba( var( --vamtam-accent-color-7-rgb ), 1 );
+--vamtam-small-padding:20px;
+--vamtam-horizontal-padding:50px;
+--vamtam-vertical-padding:30px;
+--vamtam-horizontal-padding-large:60px;
+--vamtam-vertical-padding-large:60px;
+--vamtam-no-border-link:none;
+--vamtam-border-radius:0px;
+--vamtam-border-radius-oval:0px;
+--vamtam-border-radius-small:0px;
+--vamtam-overlay-color:#ffffff;
+--vamtam-overlay-color-hc:#000000;
+--vamtam-box-outer-padding:60px;
+--vamtam-body-link-regular:#E74C25;
+--vamtam-body-link-visited:#E74C25;
+--vamtam-body-link-hover:#020D26;
+--vamtam-body-link-active:#020D26;
+--vamtam-body-background-color:var(--vamtam-accent-color-5);
+--vamtam-input-border-radius:4px 4px 4px 4px;
+--vamtam-btn-text-color:#FFFFFF;
+--vamtam-btn-hover-text-color:#FFFFFF;
+--vamtam-btn-bg-color:var(--vamtam-accent-color-1);
+--vamtam-btn-hover-bg-color:#0A303A;
+--vamtam-site-max-width:1260px;
+--vamtam-primary-font-color:#333333;
+--vamtam-h1-color:#0A303A;
+--vamtam-h2-color:#0A303A;
+--vamtam-h3-color:#0A303A;
+--vamtam-h4-color:#0A303A;
+--vamtam-h5-color:#0A303A;
+--vamtam-h6-color:#0A303A;
+--vamtam-accent-color-1:#E74C25;
+--vamtam-accent-color-1-hc:#FFFFFF;
+--vamtam-accent-color-1-rgb:231,76,37;
+--vamtam-accent-color-2:#167287;
+--vamtam-accent-color-2-hc:#FFFFFF;
+--vamtam-accent-color-2-rgb:22,114,135;
+--vamtam-accent-color-3:#0A303A;
+--vamtam-accent-color-3-hc:#FFFFFF;
+--vamtam-accent-color-3-rgb:10,48,58;
+--vamtam-accent-color-4:#D8D8D8;
+--vamtam-accent-color-4-hc:#000000;
+--vamtam-accent-color-4-rgb:216,216,216;
+--vamtam-accent-color-5:#FFFFFF;
+--vamtam-accent-color-5-hc:#000000;
+--vamtam-accent-color-5-rgb:255,255,255;
+--vamtam-accent-color-6:#000000;
+--vamtam-accent-color-6-hc:#FFFFFF;
+--vamtam-accent-color-6-rgb:0,0,0;
+--vamtam-accent-color-7:#EDEDED;
+--vamtam-accent-color-7-hc:#000000;
+--vamtam-accent-color-7-rgb:237,237,237;
+--vamtam-accent-color-8:#F4F1EA;
+--vamtam-accent-color-8-hc:#000000;
+--vamtam-accent-color-8-rgb:244,241,234;
+--vamtam-sticky-header-bg-color:#FFFFFF;
+--vamtam-primary-font-font-family:'Catamaran';
+--vamtam-primary-font-font-weight:normal;
+--vamtam-primary-font-font-style:normal;
+--vamtam-primary-font-transform:none;
+--vamtam-primary-font-decoration:none;
+--vamtam-primary-font-font-size-desktop:18px;
+--vamtam-primary-font-font-size-tablet:16px;
+--vamtam-primary-font-font-size-phone:16px;
+--vamtam-primary-font-line-height-desktop:1.5em;
+--vamtam-primary-font-line-height-tablet:1.5em;
+--vamtam-primary-font-line-height-phone:1.5em;
+--vamtam-h1-font-family:'Catamaran';
+--vamtam-h1-font-weight:900;
+--vamtam-h1-font-style:normal;
+--vamtam-h1-transform:none;
+--vamtam-h1-decoration:none;
+--vamtam-h1-font-size-desktop:60px;
+--vamtam-h1-font-size-tablet:50px;
+--vamtam-h1-font-size-phone:44px;
+--vamtam-h1-line-height-desktop:1.1em;
+--vamtam-h1-line-height-tablet:1.1em;
+--vamtam-h1-line-height-phone:1.1em;
+--vamtam-h2-font-family:'Catamaran';
+--vamtam-h2-font-weight:800;
+--vamtam-h2-font-style:normal;
+--vamtam-h2-transform:none;
+--vamtam-h2-decoration:none;
+--vamtam-h2-font-size-desktop:48px;
+--vamtam-h2-font-size-tablet:30px;
+--vamtam-h2-font-size-phone:26px;
+--vamtam-h2-line-height-desktop:1.1em;
+--vamtam-h2-line-height-tablet:1.2em;
+--vamtam-h2-line-height-phone:1.2em;
+--vamtam-h3-font-family:'Catamaran';
+--vamtam-h3-font-weight:900;
+--vamtam-h3-font-style:normal;
+--vamtam-h3-transform:none;
+--vamtam-h3-decoration:none;
+--vamtam-h3-font-size-desktop:26px;
+--vamtam-h3-font-size-tablet:26px;
+--vamtam-h3-font-size-phone:24px;
+--vamtam-h3-line-height-desktop:1.21em;
+--vamtam-h3-line-height-tablet:1.21em;
+--vamtam-h3-line-height-phone:1.21em;
+--vamtam-h4-font-family:'Catamaran';
+--vamtam-h4-font-weight:800;
+--vamtam-h4-font-style:normal;
+--vamtam-h4-transform:none;
+--vamtam-h4-decoration:none;
+--vamtam-h4-font-size-desktop:20px;
+--vamtam-h4-font-size-tablet:18px;
+--vamtam-h4-font-size-phone:16px;
+--vamtam-h4-line-height-desktop:1.27em;
+--vamtam-h4-line-height-tablet:1.27em;
+--vamtam-h4-line-height-phone:1.27em;
+--vamtam-h5-font-family:'Catamaran';
+--vamtam-h5-font-weight:800;
+--vamtam-h5-font-style:normal;
+--vamtam-h5-transform:none;
+--vamtam-h5-decoration:none;
+--vamtam-h5-font-size-desktop:16px;
+--vamtam-h5-font-size-tablet:16px;
+--vamtam-h5-font-size-phone:14px;
+--vamtam-h5-line-height-desktop:1.5em;
+--vamtam-h5-line-height-tablet:1.5em;
+--vamtam-h5-line-height-phone:1.5em;
+--vamtam-h6-font-family:'Catamaran';
+--vamtam-h6-font-weight:600;
+--vamtam-h6-font-style:normal;
+--vamtam-h6-transform:none;
+--vamtam-h6-decoration:none;
+--vamtam-h6-font-size-desktop:14px;
+--vamtam-h6-font-size-tablet:12px;
+--vamtam-h6-font-size-phone:12px;
+--vamtam-h6-line-height-desktop:1.5em;
+--vamtam-h6-line-height-tablet:1.17em;
+--vamtam-h6-line-height-phone:1.17em;
+--vamtam-loading-animation:url('../wp-content/themes/skole/vamtam/assets/images/loader-ring.gif');
+}</style><meta name='robots' content='noindex, nofollow'>
+<link rel="alternate" type="application/rss+xml" title="Skole &raquo; Feed" href="../feed/index.htm">
+<link rel="alternate" type="application/rss+xml" title="Skole &raquo; Comments Feed" href="../comments/feed/index.htm">
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='elementor-pro-css' href='../wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.5.2' type='text/css' media='all'>
+<style id='vamtam-front-all-inline-css' type='text/css'>
+
+			@font-face {
+				font-family: 'icomoon';
+				src: url(../wp-content/themes/skole/vamtam/assets/fonts/icons/icomoon.woff2) format('woff2'),
+					 url( ../wp-content/themes/skole/vamtam/assets/fonts/icons/icomoon.woff) format('woff'),
+					 url(../wp-content/themes/skole/vamtam/assets/fonts/icons/icomoon.ttf) format('ttf');
+				font-weight: normal;
+				font-style: normal;
+				font-display: swap;
+			}
+		
+				@font-face {
+					font-family: 'vamtam-theme';
+					src: url(../wp-content/themes/skole/vamtam/assets/fonts/theme-icons/theme-icons.woff2) format('woff2'),
+						url(../wp-content/themes/skole/vamtam/assets/fonts/theme-icons/theme-icons.woff) format('woff');
+					font-weight: normal;
+					font-style: normal;
+					font-display: swap;
+				}
+			
+@font-face {
+	font-family: 'Sensei';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../wp-content/uploads/2019/11/Sensei-Medium.woff') format('woff'),
+		url('../wp-content/uploads/2019/11/Sensei-Medium.ttf') format('truetype'),
+		url('../wp-content/uploads/2019/11/Sensei-Medium.svg') format('svg');
+}
+
+
+.vamtam-box-outer-padding,
+.limit-wrapper,
+.header-padding {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.vamtam-box-outer-padding .vamtam-box-outer-padding,
+.limit-wrapper .limit-wrapper,
+.elementor .limit-wrapper {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+@media ( min-width: 1026px ) and ( max-width: 1260px ) {
+	.vamtam-box-outer-padding,
+	.limit-wrapper,
+	.header-padding {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+}
+
+@media ( max-width: 1025px ) {
+	.vamtam-box-outer-padding,
+	.limit-wrapper,
+	.header-padding {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+}
+
+@media ( max-width: 768px ) {
+	.vamtam-box-outer-padding,
+	.limit-wrapper,
+	.header-padding {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+
+</style>
+<link rel='stylesheet' id='vamtam-theme-layout-max-low-css' href='../wp-content/themes/skole/vamtam/assets/css/dist/responsive/layout-max-low.css?ver=1647880910' type='text/css' media='(min-width: 1025px) and (max-width: 1260px)'>
+<link rel='stylesheet' id='vamtam-theme-layout-max-css' href='../wp-content/themes/skole/vamtam/assets/css/dist/responsive/layout-max.css?ver=1647880910' type='text/css' media='(min-width: 1025px)'>
+<link rel='stylesheet' id='vamtam-theme-layout-below-max-css' href='../wp-content/themes/skole/vamtam/assets/css/dist/responsive/layout-below-max.css?ver=1647880910' type='text/css' media='(max-width: 1024px)'>
+<link rel='stylesheet' id='vamtam-theme-layout-small-css' href='../wp-content/themes/skole/vamtam/assets/css/dist/responsive/layout-small.css?ver=1647880910' type='text/css' media='(max-width: 767px)'>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.5.4' id='font-awesome-4-shim-js' defer=""></script>
+<link rel="https://api.w.org/" href="../wp-json/index.htm"><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/1095"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 5.9.2">
+<link rel="canonical" href="index.htm">
+<link rel='shortlink' href='index.htm?p=1095'>
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed-48?url=https%3A%2F%2Fskole.vamtam.com%2Fschool-calendar%2F">
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed-49?url=https%3A%2F%2Fskole.vamtam.com%2Fschool-calendar%2F&#038;format=xml">
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+<body class="page-template-default page page-id-1095 wp-custom-logo wp-embed-responsive full header-layout-logo-menu has-page-header no-middle-header responsive-layout vamtam-is-elementor elementor-active elementor-pro-active layout-full elementor-default elementor-kit-1675 elementor-page elementor-page-1095">
+<div id="top"></div>
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>
+<div data-elementor-type="header" data-elementor-id="67" class="elementor elementor-67 elementor-location-header" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6b5521e elementor-section-full_width vamtam-sticky-header  elementor-hidden-phone elementor-section-height-default elementor-section-height-default" data-id="6b5521e" data-element_type="section" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ed43ee9" data-id="ed43ee9" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-eff5dcd elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="eff5dcd" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-77bb08e" data-id="77bb08e" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-eea7b01 elementor-widget__width-auto elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="eea7b01" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="theme-site-logo.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<a href="../index.htm">
+<img width="116" height="41" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%2041'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/10/Logo-skole.svg"><noscript><img width="116" height="41" src="../wp-content/uploads/2019/10/Logo-skole.svg" class="attachment-full size-full" alt=""></noscript> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1c836f5" data-id="1c836f5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-2e2c99c elementor-nav-menu__align-justify elementor-nav-menu--stretch elementor-widget__width-auto elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2e2c99c" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-overline e--animation-bounce">
+<ul id="menu-1-2e2c99c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-6378"><a href="../index.htm" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1107"><a href="../index.htm" class="elementor-sub-item">Home 1</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="../home-2/index.htm" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4803"><a href="#" class="elementor-item elementor-item-anchor">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href="../about/index.htm" class="elementor-sub-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="../gallery/index.htm" class="elementor-sub-item">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045"><a href="../our-teachers/index.htm" class="elementor-sub-item">Teachers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1052"><a href="../careers/index.htm" class="elementor-sub-item">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051"><a href="../daily-schedule/index.htm" class="elementor-sub-item">Daily Schedule</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4800"><a href="#" class="elementor-item elementor-item-anchor">Programs</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="../programs/index.htm" class="elementor-sub-item">All Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1076"><a href="../infants/index.htm" class="elementor-sub-item">Infants</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="../toddlers/index.htm" class="elementor-sub-item">Toddlers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="../preschool/index.htm" class="elementor-sub-item">Preschool</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="../kindergarten/index.htm" class="elementor-sub-item">Kindergarten</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="../flex-care/index.htm" class="elementor-sub-item">Flex Care</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1077"><a href="../art-program/index.htm" class="elementor-sub-item">Art Program</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4801"><a href="#" class="elementor-item elementor-item-anchor">Admission</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2463"><a href="../admissions/index.htm" class="elementor-sub-item">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="../tuition/index.htm" class="elementor-sub-item">Tuition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="../how-to-apply/index.htm" class="elementor-sub-item">How to Apply</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="../faq/index.htm" class="elementor-sub-item">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="../schedule-a-tour/index.htm" class="elementor-sub-item">Schedule a Tour</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952"><a href="../coming-soon/index.htm" class="elementor-sub-item">Coming Soon</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4802"><a href="#" class="elementor-item elementor-item-anchor">Parents</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3218"><a href="../for-our-parents/index.htm" class="elementor-sub-item">For Our Parents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1100"><a href="../attendance-policy/index.htm" class="elementor-sub-item">Attendance Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="../make-a-payment/index.htm" class="elementor-sub-item">Make a Payment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="../student-handbook/index.htm" class="elementor-sub-item">Student Handbook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-1097"><a href="index.htm" aria-current="page" class="elementor-sub-item elementor-item-active">School Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="../blog/index.htm" class="elementor-sub-item">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"><a href="../location/index.htm" class="elementor-item">Location</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-2e2c99c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-6378"><a href="../index.htm" class="elementor-item" tabindex="-1">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1107"><a href="../index.htm" class="elementor-sub-item" tabindex="-1">Home 1</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="../home-2/index.htm" class="elementor-sub-item" tabindex="-1">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4803"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href="../about/index.htm" class="elementor-sub-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="../gallery/index.htm" class="elementor-sub-item" tabindex="-1">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045"><a href="../our-teachers/index.htm" class="elementor-sub-item" tabindex="-1">Teachers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1052"><a href="../careers/index.htm" class="elementor-sub-item" tabindex="-1">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051"><a href="../daily-schedule/index.htm" class="elementor-sub-item" tabindex="-1">Daily Schedule</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4800"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Programs</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="../programs/index.htm" class="elementor-sub-item" tabindex="-1">All Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1076"><a href="../infants/index.htm" class="elementor-sub-item" tabindex="-1">Infants</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="../toddlers/index.htm" class="elementor-sub-item" tabindex="-1">Toddlers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="../preschool/index.htm" class="elementor-sub-item" tabindex="-1">Preschool</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="../kindergarten/index.htm" class="elementor-sub-item" tabindex="-1">Kindergarten</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="../flex-care/index.htm" class="elementor-sub-item" tabindex="-1">Flex Care</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1077"><a href="../art-program/index.htm" class="elementor-sub-item" tabindex="-1">Art Program</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4801"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Admission</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2463"><a href="../admissions/index.htm" class="elementor-sub-item" tabindex="-1">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="../tuition/index.htm" class="elementor-sub-item" tabindex="-1">Tuition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="../how-to-apply/index.htm" class="elementor-sub-item" tabindex="-1">How to Apply</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="../faq/index.htm" class="elementor-sub-item" tabindex="-1">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="../schedule-a-tour/index.htm" class="elementor-sub-item" tabindex="-1">Schedule a Tour</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952"><a href="../coming-soon/index.htm" class="elementor-sub-item" tabindex="-1">Coming Soon</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4802"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Parents</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3218"><a href="../for-our-parents/index.htm" class="elementor-sub-item" tabindex="-1">For Our Parents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1100"><a href="../attendance-policy/index.htm" class="elementor-sub-item" tabindex="-1">Attendance Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="../make-a-payment/index.htm" class="elementor-sub-item" tabindex="-1">Make a Payment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="../student-handbook/index.htm" class="elementor-sub-item" tabindex="-1">Student Handbook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-1097"><a href="index.htm" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">School Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="../blog/index.htm" class="elementor-sub-item" tabindex="-1">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"><a href="../location/index.htm" class="elementor-item" tabindex="-1">Location</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d00ed29" data-id="d00ed29" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5f358bd elementor-align-right elementor-mobile-align-left elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="5f358bd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<a href="tel:%20+1%20541-754-3010​">
+<span class="elementor-icon-list-icon">
+<i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
+<span class="elementor-icon-list-text">+1 541-754-3010​</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-7b5701f elementor-widget__width-auto elementor-mobile-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="7b5701f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;pulse&quot;}" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="../schedule-a-tour/index.htm" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Book a Visit</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-e541762 elementor-section-full_width elementor-section-height-min-height elementor-hidden-tablet elementor-hidden-phone elementor-section-height-default" data-id="e541762" data-element_type="section" data-settings="{&quot;shape_divider_top&quot;:&quot;vamtam-waves&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-shape elementor-shape-top" data-negative="false">
+<svg preserveaspectratio="xMidYMin slice" viewbox="0 0 1056 4" xmlns="http://www.w3.org/2000/svg">
+<path class="elementor-shape-fill" d="M1035.025 1.916c-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1027.889 3.249 1025.893 4 1024 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1011.889 3.249 1009.893 4 1008 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C995.889 3.249 993.893 4 992 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C979.889 3.249 977.893 4 976 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C963.889 3.249 961.893 4 960 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C947.889 3.249 945.893 4 944 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C931.889 3.249 929.893 4 928 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C915.889 3.249 913.893 4 912 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C899.889 3.249 897.893 4 896 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C883.889 3.249 881.893 4 880 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C867.889 3.249 865.893 4 864 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C851.889 3.249 849.893 4 848 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C835.889 3.249 833.893 4 832 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C819.889 3.249 817.893 4 816 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C803.889 3.249 801.893 4 800 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C787.889 3.249 785.893 4 784 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C771.889 3.249 769.893 4 768 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C755.889 3.249 753.893 4 752 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C739.889 3.249 737.893 4 736 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C723.889 3.249 721.893 4 720 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C707.889 3.249 705.893 4 704 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C691.889 3.249 689.893 4 688 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C675.889 3.249 673.893 4 672 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C659.889 3.249 657.893 4 656 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C643.889 3.249 641.893 4 640 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C627.889 3.249 625.893 4 624 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C611.889 3.249 609.893 4 608 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C595.889 3.249 593.893 4 592 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C579.889 3.249 577.893 4 576 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C563.889 3.249 561.893 4 560 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C547.889 3.249 545.893 4 544 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C531.889 3.249 529.893 4 528 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C515.889 3.249 513.893 4 512 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C499.889 3.249 497.893 4 496 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C483.889 3.249 481.893 4 480 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C467.889 3.249 465.893 4 464 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C451.889 3.249 449.893 4 448 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C435.889 3.249 433.893 4 432 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C419.889 3.249 417.893 4 416 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C403.889 3.249 401.893 4 400 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C387.889 3.249 385.893 4 384 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C371.889 3.249 369.893 4 368 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C355.889 3.249 353.893 4 352 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C339.889 3.249 337.893 4 336 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C323.889 3.249 321.893 4 320 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C307.889 3.249 305.893 4 304 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C291.889 3.249 289.893 4 288 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C275.889 3.249 273.893 4 272 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C259.889 3.249 257.893 4 256 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C243.889 3.249 241.893 4 240 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C227.889 3.249 225.893 4 224 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C211.889 3.249 209.893 4 208 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C195.889 3.249 193.893 4 192 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C179.889 3.249 177.893 4 176 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C163.889 3.249 161.893 4 160 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C147.889 3.249 145.893 4 144 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C131.889 3.249 129.893 4 128 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C115.889 3.249 113.893 4 112 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C99.889 3.249 97.893 4 96 4c-1.896.008-3.642-.745-4.975-2.084C90.304 1.106 89.16.64 88.07.64a3.807 3.807 0 0 0-2.846 1.275C83.889 3.249 81.893 4 80 4c-1.896.008-3.642-.745-4.975-2.084C74.304 1.106 73.16.64 72.07.64a3.807 3.807 0 0 0-2.846 1.275C67.889 3.249 65.893 4 64 4c-1.896.008-3.642-.745-4.975-2.084C58.304 1.106 57.16.64 56.07.64a3.807 3.807 0 0 0-2.846 1.275C51.889 3.249 49.893 4 48 4c-1.896.008-3.642-.745-4.975-2.084C42.304 1.106 41.16.64 40.07.64a3.807 3.807 0 0 0-2.846 1.275C35.889 3.249 33.893 4 32 4c-1.896.008-3.642-.745-4.975-2.084C26.304 1.106 25.16.64 24.07.64a3.807 3.807 0 0 0-2.846 1.275C19.889 3.249 17.893 4 16 4c-1.896.008-3.642-.745-4.975-2.084C10.304 1.106 9.16.64 8.07.64a3.807 3.807 0 0 0-2.846 1.275C3.889 3.249 1.893 4 0 4V0h1056v4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1043.889 3.249 1041.893 4 1040 4c-1.896.008-3.642-.745-4.975-2.084z"></path>
+</svg>
+</div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5cbe18a" data-id="5cbe18a" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9355605" data-id="9355605" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-23a6bdd" data-id="23a6bdd" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-68905b4 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="68905b4" data-element_type="section" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky_on&quot;:[&quot;mobile&quot;],&quot;sticky_offset&quot;:1,&quot;sticky_effects_offset&quot;:0}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-acdae18" data-id="acdae18" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-96c5edd elementor-widget__width-auto elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="96c5edd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="theme-site-logo.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<a href="../index.htm">
+<img width="116" height="41" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%2041'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/10/Logo-skole.svg"><noscript><img width="116" height="41" src="../wp-content/uploads/2019/10/Logo-skole.svg" class="attachment-full size-full" alt=""></noscript> </a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-2282538 elementor-nav-menu__align-justify elementor-nav-menu--stretch elementor-widget__width-auto elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="2282538" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-overline e--animation-bounce">
+<ul id="menu-1-2282538" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-6378"><a href="../index.htm" class="elementor-item">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1107"><a href="../index.htm" class="elementor-sub-item">Home 1</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="../home-2/index.htm" class="elementor-sub-item">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4803"><a href="#" class="elementor-item elementor-item-anchor">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href="../about/index.htm" class="elementor-sub-item">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="../gallery/index.htm" class="elementor-sub-item">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045"><a href="../our-teachers/index.htm" class="elementor-sub-item">Teachers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1052"><a href="../careers/index.htm" class="elementor-sub-item">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051"><a href="../daily-schedule/index.htm" class="elementor-sub-item">Daily Schedule</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4800"><a href="#" class="elementor-item elementor-item-anchor">Programs</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="../programs/index.htm" class="elementor-sub-item">All Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1076"><a href="../infants/index.htm" class="elementor-sub-item">Infants</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="../toddlers/index.htm" class="elementor-sub-item">Toddlers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="../preschool/index.htm" class="elementor-sub-item">Preschool</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="../kindergarten/index.htm" class="elementor-sub-item">Kindergarten</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="../flex-care/index.htm" class="elementor-sub-item">Flex Care</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1077"><a href="../art-program/index.htm" class="elementor-sub-item">Art Program</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4801"><a href="#" class="elementor-item elementor-item-anchor">Admission</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2463"><a href="../admissions/index.htm" class="elementor-sub-item">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="../tuition/index.htm" class="elementor-sub-item">Tuition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="../how-to-apply/index.htm" class="elementor-sub-item">How to Apply</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="../faq/index.htm" class="elementor-sub-item">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="../schedule-a-tour/index.htm" class="elementor-sub-item">Schedule a Tour</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952"><a href="../coming-soon/index.htm" class="elementor-sub-item">Coming Soon</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4802"><a href="#" class="elementor-item elementor-item-anchor">Parents</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3218"><a href="../for-our-parents/index.htm" class="elementor-sub-item">For Our Parents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1100"><a href="../attendance-policy/index.htm" class="elementor-sub-item">Attendance Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="../make-a-payment/index.htm" class="elementor-sub-item">Make a Payment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="../student-handbook/index.htm" class="elementor-sub-item">Student Handbook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-1097"><a href="index.htm" aria-current="page" class="elementor-sub-item elementor-item-active">School Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="../blog/index.htm" class="elementor-sub-item">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"><a href="../location/index.htm" class="elementor-item">Location</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-2282538" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-6378"><a href="../index.htm" class="elementor-item" tabindex="-1">Home</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1107"><a href="../index.htm" class="elementor-sub-item" tabindex="-1">Home 1</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1106"><a href="../home-2/index.htm" class="elementor-sub-item" tabindex="-1">Home 2</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4803"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">About</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href="../about/index.htm" class="elementor-sub-item" tabindex="-1">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1046"><a href="../gallery/index.htm" class="elementor-sub-item" tabindex="-1">Gallery</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045"><a href="../our-teachers/index.htm" class="elementor-sub-item" tabindex="-1">Teachers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1052"><a href="../careers/index.htm" class="elementor-sub-item" tabindex="-1">Careers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051"><a href="../daily-schedule/index.htm" class="elementor-sub-item" tabindex="-1">Daily Schedule</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4800"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Programs</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="../programs/index.htm" class="elementor-sub-item" tabindex="-1">All Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1076"><a href="../infants/index.htm" class="elementor-sub-item" tabindex="-1">Infants</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="../toddlers/index.htm" class="elementor-sub-item" tabindex="-1">Toddlers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1080"><a href="../preschool/index.htm" class="elementor-sub-item" tabindex="-1">Preschool</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1079"><a href="../kindergarten/index.htm" class="elementor-sub-item" tabindex="-1">Kindergarten</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="../flex-care/index.htm" class="elementor-sub-item" tabindex="-1">Flex Care</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1077"><a href="../art-program/index.htm" class="elementor-sub-item" tabindex="-1">Art Program</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4801"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Admission</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2463"><a href="../admissions/index.htm" class="elementor-sub-item" tabindex="-1">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1085"><a href="../tuition/index.htm" class="elementor-sub-item" tabindex="-1">Tuition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1086"><a href="../how-to-apply/index.htm" class="elementor-sub-item" tabindex="-1">How to Apply</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="../faq/index.htm" class="elementor-sub-item" tabindex="-1">FAQ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1083"><a href="../schedule-a-tour/index.htm" class="elementor-sub-item" tabindex="-1">Schedule a Tour</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1952"><a href="../coming-soon/index.htm" class="elementor-sub-item" tabindex="-1">Coming Soon</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4802"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Parents</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3218"><a href="../for-our-parents/index.htm" class="elementor-sub-item" tabindex="-1">For Our Parents</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1100"><a href="../attendance-policy/index.htm" class="elementor-sub-item" tabindex="-1">Attendance Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1099"><a href="../make-a-payment/index.htm" class="elementor-sub-item" tabindex="-1">Make a Payment</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1098"><a href="../student-handbook/index.htm" class="elementor-sub-item" tabindex="-1">Student Handbook</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-1097"><a href="index.htm" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">School Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="../blog/index.htm" class="elementor-sub-item" tabindex="-1">Blog</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1102"><a href="../location/index.htm" class="elementor-item" tabindex="-1">Location</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-449b9c2" data-id="449b9c2" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-374a4aa elementor-align-right elementor-mobile-align-left elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="374a4aa" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="icon-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-icon-list-items">
+<li class="elementor-icon-list-item">
+<a href="tel:%20+1%20541-754-3010​">
+<span class="elementor-icon-list-icon">
+ <i aria-hidden="true" class="fas fa-phone-alt"></i> </span>
+<span class="elementor-icon-list-text">+1 541-754-3010​</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-2b7d68b elementor-widget__width-auto elementor-mobile-align-right elementor-invisible elementor-widget elementor-widget-button" data-id="2b7d68b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;pulse&quot;}" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="../schedule-a-tour/index.htm" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Book a Visit</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+<div id="page" class="main-container">
+<div id="main-content">
+<div id="main" role="main" class="vamtam-main layout-full">
+<div class="page-wrapper">
+<article id="post-1095" class="full post-1095 page type-page status-publish hentry">
+<div class="page-content clearfix the-content-parent">
+<div data-elementor-type="wp-page" data-elementor-id="1095" class="elementor elementor-1095" data-elementor-settings="[]">
+<div class="elementor-inner">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-0e83956 elementor-section-content-bottom elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="0e83956" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;none&quot;,&quot;shape_divider_bottom&quot;:&quot;vamtam-waves&quot;,&quot;shape_divider_top&quot;:&quot;vamtam-waves&quot;}">
+<div class="elementor-background-overlay"></div>
+<div class="elementor-shape elementor-shape-top" data-negative="false">
+<svg preserveaspectratio="xMidYMin slice" viewbox="0 0 1056 4" xmlns="http://www.w3.org/2000/svg">
+<path class="elementor-shape-fill" d="M1035.025 1.916c-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1027.889 3.249 1025.893 4 1024 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1011.889 3.249 1009.893 4 1008 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C995.889 3.249 993.893 4 992 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C979.889 3.249 977.893 4 976 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C963.889 3.249 961.893 4 960 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C947.889 3.249 945.893 4 944 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C931.889 3.249 929.893 4 928 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C915.889 3.249 913.893 4 912 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C899.889 3.249 897.893 4 896 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C883.889 3.249 881.893 4 880 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C867.889 3.249 865.893 4 864 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C851.889 3.249 849.893 4 848 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C835.889 3.249 833.893 4 832 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C819.889 3.249 817.893 4 816 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C803.889 3.249 801.893 4 800 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C787.889 3.249 785.893 4 784 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C771.889 3.249 769.893 4 768 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C755.889 3.249 753.893 4 752 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C739.889 3.249 737.893 4 736 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C723.889 3.249 721.893 4 720 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C707.889 3.249 705.893 4 704 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C691.889 3.249 689.893 4 688 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C675.889 3.249 673.893 4 672 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C659.889 3.249 657.893 4 656 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C643.889 3.249 641.893 4 640 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C627.889 3.249 625.893 4 624 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C611.889 3.249 609.893 4 608 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C595.889 3.249 593.893 4 592 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C579.889 3.249 577.893 4 576 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C563.889 3.249 561.893 4 560 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C547.889 3.249 545.893 4 544 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C531.889 3.249 529.893 4 528 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C515.889 3.249 513.893 4 512 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C499.889 3.249 497.893 4 496 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C483.889 3.249 481.893 4 480 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C467.889 3.249 465.893 4 464 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C451.889 3.249 449.893 4 448 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C435.889 3.249 433.893 4 432 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C419.889 3.249 417.893 4 416 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C403.889 3.249 401.893 4 400 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C387.889 3.249 385.893 4 384 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C371.889 3.249 369.893 4 368 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C355.889 3.249 353.893 4 352 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C339.889 3.249 337.893 4 336 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C323.889 3.249 321.893 4 320 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C307.889 3.249 305.893 4 304 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C291.889 3.249 289.893 4 288 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C275.889 3.249 273.893 4 272 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C259.889 3.249 257.893 4 256 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C243.889 3.249 241.893 4 240 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C227.889 3.249 225.893 4 224 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C211.889 3.249 209.893 4 208 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C195.889 3.249 193.893 4 192 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C179.889 3.249 177.893 4 176 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C163.889 3.249 161.893 4 160 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C147.889 3.249 145.893 4 144 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C131.889 3.249 129.893 4 128 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C115.889 3.249 113.893 4 112 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C99.889 3.249 97.893 4 96 4c-1.896.008-3.642-.745-4.975-2.084C90.304 1.106 89.16.64 88.07.64a3.807 3.807 0 0 0-2.846 1.275C83.889 3.249 81.893 4 80 4c-1.896.008-3.642-.745-4.975-2.084C74.304 1.106 73.16.64 72.07.64a3.807 3.807 0 0 0-2.846 1.275C67.889 3.249 65.893 4 64 4c-1.896.008-3.642-.745-4.975-2.084C58.304 1.106 57.16.64 56.07.64a3.807 3.807 0 0 0-2.846 1.275C51.889 3.249 49.893 4 48 4c-1.896.008-3.642-.745-4.975-2.084C42.304 1.106 41.16.64 40.07.64a3.807 3.807 0 0 0-2.846 1.275C35.889 3.249 33.893 4 32 4c-1.896.008-3.642-.745-4.975-2.084C26.304 1.106 25.16.64 24.07.64a3.807 3.807 0 0 0-2.846 1.275C19.889 3.249 17.893 4 16 4c-1.896.008-3.642-.745-4.975-2.084C10.304 1.106 9.16.64 8.07.64a3.807 3.807 0 0 0-2.846 1.275C3.889 3.249 1.893 4 0 4V0h1056v4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1043.889 3.249 1041.893 4 1040 4c-1.896.008-3.642-.745-4.975-2.084z"></path>
+</svg>
+</div>
+<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+<svg preserveaspectratio="xMidYMin slice" viewbox="0 0 1056 4" xmlns="http://www.w3.org/2000/svg">
+<path class="elementor-shape-fill" d="M1035.025 1.916c-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1027.889 3.249 1025.893 4 1024 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1011.889 3.249 1009.893 4 1008 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C995.889 3.249 993.893 4 992 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C979.889 3.249 977.893 4 976 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C963.889 3.249 961.893 4 960 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C947.889 3.249 945.893 4 944 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C931.889 3.249 929.893 4 928 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C915.889 3.249 913.893 4 912 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C899.889 3.249 897.893 4 896 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C883.889 3.249 881.893 4 880 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C867.889 3.249 865.893 4 864 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C851.889 3.249 849.893 4 848 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C835.889 3.249 833.893 4 832 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C819.889 3.249 817.893 4 816 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C803.889 3.249 801.893 4 800 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C787.889 3.249 785.893 4 784 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C771.889 3.249 769.893 4 768 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C755.889 3.249 753.893 4 752 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C739.889 3.249 737.893 4 736 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C723.889 3.249 721.893 4 720 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C707.889 3.249 705.893 4 704 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C691.889 3.249 689.893 4 688 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C675.889 3.249 673.893 4 672 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C659.889 3.249 657.893 4 656 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C643.889 3.249 641.893 4 640 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C627.889 3.249 625.893 4 624 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C611.889 3.249 609.893 4 608 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C595.889 3.249 593.893 4 592 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C579.889 3.249 577.893 4 576 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C563.889 3.249 561.893 4 560 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C547.889 3.249 545.893 4 544 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C531.889 3.249 529.893 4 528 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C515.889 3.249 513.893 4 512 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C499.889 3.249 497.893 4 496 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C483.889 3.249 481.893 4 480 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C467.889 3.249 465.893 4 464 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C451.889 3.249 449.893 4 448 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C435.889 3.249 433.893 4 432 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C419.889 3.249 417.893 4 416 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C403.889 3.249 401.893 4 400 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C387.889 3.249 385.893 4 384 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C371.889 3.249 369.893 4 368 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C355.889 3.249 353.893 4 352 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C339.889 3.249 337.893 4 336 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C323.889 3.249 321.893 4 320 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C307.889 3.249 305.893 4 304 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C291.889 3.249 289.893 4 288 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C275.889 3.249 273.893 4 272 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C259.889 3.249 257.893 4 256 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C243.889 3.249 241.893 4 240 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C227.889 3.249 225.893 4 224 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C211.889 3.249 209.893 4 208 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C195.889 3.249 193.893 4 192 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C179.889 3.249 177.893 4 176 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C163.889 3.249 161.893 4 160 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C147.889 3.249 145.893 4 144 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C131.889 3.249 129.893 4 128 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C115.889 3.249 113.893 4 112 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C99.889 3.249 97.893 4 96 4c-1.896.008-3.642-.745-4.975-2.084C90.304 1.106 89.16.64 88.07.64a3.807 3.807 0 0 0-2.846 1.275C83.889 3.249 81.893 4 80 4c-1.896.008-3.642-.745-4.975-2.084C74.304 1.106 73.16.64 72.07.64a3.807 3.807 0 0 0-2.846 1.275C67.889 3.249 65.893 4 64 4c-1.896.008-3.642-.745-4.975-2.084C58.304 1.106 57.16.64 56.07.64a3.807 3.807 0 0 0-2.846 1.275C51.889 3.249 49.893 4 48 4c-1.896.008-3.642-.745-4.975-2.084C42.304 1.106 41.16.64 40.07.64a3.807 3.807 0 0 0-2.846 1.275C35.889 3.249 33.893 4 32 4c-1.896.008-3.642-.745-4.975-2.084C26.304 1.106 25.16.64 24.07.64a3.807 3.807 0 0 0-2.846 1.275C19.889 3.249 17.893 4 16 4c-1.896.008-3.642-.745-4.975-2.084C10.304 1.106 9.16.64 8.07.64a3.807 3.807 0 0 0-2.846 1.275C3.889 3.249 1.893 4 0 4V0h1056v4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1043.889 3.249 1041.893 4 1040 4c-1.896.008-3.642-.745-4.975-2.084z"></path>
+</svg>
+</div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-980e013" data-id="980e013" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-73d791c animated-fast elementor-invisible elementor-widget elementor-widget-theme-page-title elementor-page-title elementor-widget-heading" data-id="73d791c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="theme-page-title.default">
+<div class="elementor-widget-container">
+<h1 class="elementor-heading-title elementor-size-default">School Calendar</h1> </div>
+</div>
+<div class="elementor-element elementor-element-eda2380 animated-fast elementor-invisible elementor-widget elementor-widget-text-editor" data-id="eda2380" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+The school calendar tells you when terms start and finish during the school year including half terms and bank holidays. </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7efa03c elementor-hidden-phone" data-id="7efa03c" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-5ad8d59 elementor-invisible elementor-widget elementor-widget-image" data-id="5ad8d59" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInUp&quot;,&quot;motion_fx_scale_effect&quot;:&quot;yes&quot;,&quot;motion_fx_scale_direction&quot;:&quot;in-out&quot;,&quot;motion_fx_scale_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:50,&quot;end&quot;:100}},&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_scale_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:6,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;]}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="982" height="800" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20982%20800'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-srcset="https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5.png 982w, https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5-300x244.png 300w, https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5-768x626.png 768w, https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5-630x513.png 630w, https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5-420x342.png 420w, https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5-840x684.png 840w, https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5-315x257.png 315w" data-lazy-sizes="(max-width: 982px) 100vw, 982px" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2020/05/illustration-people-5.png"><noscript><img width="982" height="800" src="../wp-content/uploads/2020/05/illustration-people-5.png" class="attachment-full size-full" alt="" srcset="../wp-content/uploads/2020/05/illustration-people-5.png 982w, ../wp-content/uploads/2020/05/illustration-people-5-300x244.png 300w, ../wp-content/uploads/2020/05/illustration-people-5-768x626.png 768w, ../wp-content/uploads/2020/05/illustration-people-5-630x513.png 630w, ../wp-content/uploads/2020/05/illustration-people-5-420x342.png 420w, ../wp-content/uploads/2020/05/illustration-people-5-840x684.png 840w, ../wp-content/uploads/2020/05/illustration-people-5-315x257.png 315w" sizes="(max-width: 982px) 100vw, 982px"></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-bb43474 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bb43474" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cd7a986" data-id="cd7a986" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-100f15d elementor-widget elementor-widget-heading" data-id="100f15d" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">September</h2> </div>
+</div>
+<div class="elementor-element elementor-element-e52443b elementor-widget elementor-widget-price-list" data-id="e52443b" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+First day of school for grades </span>
+<span class="elementor-price-list-price">04.09</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+Family Connections Conferences for incoming kindergarten and preschool families </span>
+<span class="elementor-price-list-price">04-06.09</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+First day of school for kindergarten, preschool, and Head Start </span>
+<span class="elementor-price-list-price">09.09</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f5958b0" data-id="f5958b0" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-9c7e7a7 elementor-widget elementor-widget-heading" data-id="9c7e7a7" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">October</h2> </div>
+</div>
+<div class="elementor-element elementor-element-feb98cf elementor-widget elementor-widget-price-list" data-id="feb98cf" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: state in-service day </span>
+<span class="elementor-price-list-price">11.10</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+School-day PSAT for grades 11-12 </span>
+<span class="elementor-price-list-price">16.10</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-64f449e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="64f449e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-9bc8a45" data-id="9bc8a45" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-32240f9 elementor-widget elementor-widget-heading" data-id="32240f9" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">November</h2> </div>
+</div>
+<div class="elementor-element elementor-element-de1a4fc elementor-widget elementor-widget-price-list" data-id="de1a4fc" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: Veterans Day </span>
+<span class="elementor-price-list-price">11.11</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: elementary conference days (elementary and K-8 students; varies by school) </span>
+<span class="elementor-price-list-price">25-27.11</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: Thanksgiving and Native American Heritage Day </span>
+<span class="elementor-price-list-price">28-29.11</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-14c9c2d" data-id="14c9c2d" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cd7fc92 elementor-widget elementor-widget-heading" data-id="cd7fc92" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">December</h2> </div>
+</div>
+<div class="elementor-element elementor-element-f5b34e5 elementor-widget elementor-widget-price-list" data-id="f5b34e5" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+1-hour early dismissal </span>
+<span class="elementor-price-list-price">20.12</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: winter break </span>
+<span class="elementor-price-list-price">23.12-03.01.2020</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1453d0e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1453d0e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-92b2561" data-id="92b2561" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-a159024 elementor-widget elementor-widget-heading" data-id="a159024" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">January</h2> </div>
+</div>
+<div class="elementor-element elementor-element-3354040 elementor-widget elementor-widget-price-list" data-id="3354040" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: winter break </span>
+<span class="elementor-price-list-price">23.12.19 - 03.02.2020</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: Martin Luther King, Jr. Day </span>
+<span class="elementor-price-list-price">20.01</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: day between semesters (possible snow make-up day, 1 of 3) </span>
+<span class="elementor-price-list-price">29.01</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ce5390b" data-id="ce5390b" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-f98b0c0 elementor-widget elementor-widget-heading" data-id="f98b0c0" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">February</h2> </div>
+</div>
+<div class="elementor-element elementor-element-c81607f elementor-widget elementor-widget-price-list" data-id="c81607f" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: mid-winter break, including Presidents Day </span>
+<span class="elementor-price-list-price">17-21</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-2e6fc0b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e6fc0b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4f2a4e4" data-id="4f2a4e4" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-49c5a65 elementor-widget elementor-widget-heading" data-id="49c5a65" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">March</h2> </div>
+</div>
+<div class="elementor-element elementor-element-013ae20 elementor-widget elementor-widget-price-list" data-id="013ae20" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+School-day SAT for grade 12 </span>
+<span class="elementor-price-list-price">04.03</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e0de655" data-id="e0de655" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cf49925 elementor-widget elementor-widget-heading" data-id="cf49925" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">April</h2> </div>
+</div>
+<div class="elementor-element elementor-element-8b70cf4 elementor-widget elementor-widget-price-list" data-id="8b70cf4" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: spring break </span>
+<span class="elementor-price-list-price">13-17</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-27bcef0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27bcef0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_scale_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_scale_direction&quot;:&quot;in-out&quot;,&quot;background_motion_fx_scale_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:40}},&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;shape_divider_bottom&quot;:&quot;vamtam-waves&quot;,&quot;background_motion_fx_scale_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]}}">
+<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+<svg preserveaspectratio="xMidYMin slice" viewbox="0 0 1056 4" xmlns="http://www.w3.org/2000/svg">
+<path class="elementor-shape-fill" d="M1035.025 1.916c-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1027.889 3.249 1025.893 4 1024 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1011.889 3.249 1009.893 4 1008 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C995.889 3.249 993.893 4 992 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C979.889 3.249 977.893 4 976 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C963.889 3.249 961.893 4 960 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C947.889 3.249 945.893 4 944 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C931.889 3.249 929.893 4 928 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C915.889 3.249 913.893 4 912 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C899.889 3.249 897.893 4 896 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C883.889 3.249 881.893 4 880 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C867.889 3.249 865.893 4 864 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C851.889 3.249 849.893 4 848 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C835.889 3.249 833.893 4 832 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C819.889 3.249 817.893 4 816 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C803.889 3.249 801.893 4 800 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C787.889 3.249 785.893 4 784 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C771.889 3.249 769.893 4 768 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C755.889 3.249 753.893 4 752 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C739.889 3.249 737.893 4 736 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C723.889 3.249 721.893 4 720 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C707.889 3.249 705.893 4 704 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C691.889 3.249 689.893 4 688 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C675.889 3.249 673.893 4 672 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C659.889 3.249 657.893 4 656 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C643.889 3.249 641.893 4 640 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C627.889 3.249 625.893 4 624 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C611.889 3.249 609.893 4 608 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C595.889 3.249 593.893 4 592 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C579.889 3.249 577.893 4 576 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C563.889 3.249 561.893 4 560 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C547.889 3.249 545.893 4 544 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C531.889 3.249 529.893 4 528 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C515.889 3.249 513.893 4 512 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C499.889 3.249 497.893 4 496 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C483.889 3.249 481.893 4 480 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C467.889 3.249 465.893 4 464 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C451.889 3.249 449.893 4 448 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C435.889 3.249 433.893 4 432 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C419.889 3.249 417.893 4 416 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C403.889 3.249 401.893 4 400 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C387.889 3.249 385.893 4 384 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C371.889 3.249 369.893 4 368 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C355.889 3.249 353.893 4 352 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C339.889 3.249 337.893 4 336 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C323.889 3.249 321.893 4 320 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C307.889 3.249 305.893 4 304 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C291.889 3.249 289.893 4 288 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C275.889 3.249 273.893 4 272 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C259.889 3.249 257.893 4 256 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C243.889 3.249 241.893 4 240 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C227.889 3.249 225.893 4 224 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C211.889 3.249 209.893 4 208 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C195.889 3.249 193.893 4 192 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C179.889 3.249 177.893 4 176 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C163.889 3.249 161.893 4 160 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C147.889 3.249 145.893 4 144 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C131.889 3.249 129.893 4 128 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C115.889 3.249 113.893 4 112 4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C99.889 3.249 97.893 4 96 4c-1.896.008-3.642-.745-4.975-2.084C90.304 1.106 89.16.64 88.07.64a3.807 3.807 0 0 0-2.846 1.275C83.889 3.249 81.893 4 80 4c-1.896.008-3.642-.745-4.975-2.084C74.304 1.106 73.16.64 72.07.64a3.807 3.807 0 0 0-2.846 1.275C67.889 3.249 65.893 4 64 4c-1.896.008-3.642-.745-4.975-2.084C58.304 1.106 57.16.64 56.07.64a3.807 3.807 0 0 0-2.846 1.275C51.889 3.249 49.893 4 48 4c-1.896.008-3.642-.745-4.975-2.084C42.304 1.106 41.16.64 40.07.64a3.807 3.807 0 0 0-2.846 1.275C35.889 3.249 33.893 4 32 4c-1.896.008-3.642-.745-4.975-2.084C26.304 1.106 25.16.64 24.07.64a3.807 3.807 0 0 0-2.846 1.275C19.889 3.249 17.893 4 16 4c-1.896.008-3.642-.745-4.975-2.084C10.304 1.106 9.16.64 8.07.64a3.807 3.807 0 0 0-2.846 1.275C3.889 3.249 1.893 4 0 4V0h1056v4c-1.896.008-3.642-.745-4.975-2.084-.721-.81-1.865-1.275-2.954-1.275a3.807 3.807 0 0 0-2.846 1.275C1043.889 3.249 1041.893 4 1040 4c-1.896.008-3.642-.745-4.975-2.084z"></path>
+</svg>
+</div>
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8fb8e40" data-id="8fb8e40" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-f981861 elementor-widget elementor-widget-heading" data-id="f981861" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">May</h2> </div>
+</div>
+<div class="elementor-element elementor-element-70e79cd elementor-widget elementor-widget-price-list" data-id="70e79cd" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+No school: Memorial Day </span>
+<span class="elementor-price-list-price">25.05</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-01035c6" data-id="01035c6" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-757f082 elementor-widget elementor-widget-heading" data-id="757f082" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">June</h2> </div>
+</div>
+<div class="elementor-element elementor-element-85655bf elementor-widget elementor-widget-price-list" data-id="85655bf" data-element_type="widget" data-widget_type="price-list.default">
+<div class="elementor-widget-container">
+<ul class="elementor-price-list">
+<li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+1-hour early dismissal, last day of school </span>
+<span class="elementor-price-list-price">18.06</span>
+</div>
+</div>
+</li> <li class="elementor-price-list-item">
+<div class="elementor-price-list-text">
+<div class="elementor-price-list-header">
+<span class="elementor-price-list-title">
+Possible snow make-up days </span>
+<span class="elementor-price-list-price">19-22</span>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-3b6a1e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3b6a1e2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f8889e1" data-id="f8889e1" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-52a6ef2 elementor-widget elementor-widget-heading" data-id="52a6ef2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_scale_effect&quot;:&quot;yes&quot;,&quot;motion_fx_scale_direction&quot;:&quot;in-out&quot;,&quot;motion_fx_scale_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:2,&quot;sizes&quot;:[]},&quot;motion_fx_scale_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:40}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;]}" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<div class="elementor-heading-title elementor-size-default">Come</div> </div>
+</div>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-ef9b108 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ef9b108" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9803fa4 elementor-hidden-phone" data-id="9803fa4" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-d604cb4 elementor-hidden-phone elementor-widget elementor-widget-image" data-id="d604cb4" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:54}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="227" height="400" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20227%20400'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/illustration-people-2.svg"><noscript><img width="227" height="400" src="../wp-content/uploads/2019/11/illustration-people-2.svg" class="attachment-full size-full" alt=""></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9b3101a" data-id="9b3101a" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-2e5814c elementor-widget elementor-widget-heading" data-id="2e5814c" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h2 class="elementor-heading-title elementor-size-default">over and look around.</h2> </div>
+</div>
+<div class="elementor-element elementor-element-e34a16a elementor-widget elementor-widget-text-editor" data-id="e34a16a" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>We will explain everything you are intereste. Join our new session. If you have any questions or enquiries please feel free to contact us on the following details provided below or alternatively you can complete our online enquiry form also located below and we will get back to you as soon as possible&#8230;</p> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-53e7313 elementor-align-left elementor-widget__width-auto elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="53e7313" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="../schedule-a-tour/index.htm" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Schedule a tour</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-7b6aa19 elementor-widget__width-auto elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="7b6aa19" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>or</p> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-d60a27f elementor-align-left elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="d60a27f" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="../how-to-apply/index.htm" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Join our new session</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-574b62d elementor-hidden-phone elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="574b62d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f9708a8" data-id="f9708a8" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-ec551c8 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ec551c8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ed1e11f" data-id="ed1e11f" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-f784dbe elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-image" data-id="f784dbe" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;rotateInDownLeft&quot;}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="25" height="42" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2042'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/leaf-2.svg"><noscript><img width="25" height="42" src="../wp-content/uploads/2019/11/leaf-2.svg" class="attachment-full size-full" alt=""></noscript> </div>
+</div>
+</div>
+<div class="elementor-element elementor-element-11079c1 elementor-widget__width-auto elementor-invisible elementor-widget elementor-widget-image" data-id="11079c1" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;rotateInDownRight&quot;}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="46" height="111" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2046%20111'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/leaf-1.svg"><noscript><img width="46" height="111" src="../wp-content/uploads/2019/11/leaf-1.svg" class="attachment-full size-full" alt=""></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2949a59" data-id="2949a59" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-23f8b23 elementor-invisible elementor-widget elementor-widget-image" data-id="23f8b23" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;rotateInDownRight&quot;}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" title="illustration-tree-2" alt="illustration-tree-2" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/illustration-tree-2.svg"><noscript><img src="../wp-content/uploads/2019/11/illustration-tree-2.svg" title="illustration-tree-2" alt="illustration-tree-2"></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-7d669c8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d669c8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;background_motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:31,&quot;end&quot;:100}},&quot;background_motion_fx_devices&quot;:[&quot;desktop&quot;]}">
+<div class="elementor-container elementor-column-gap-no">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0a2f4ad" data-id="0a2f4ad" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-4095ae6 elementor-widget elementor-widget-heading" data-id="4095ae6" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">London, <br>
+United Kingdom</h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-7ff9506" data-id="7ff9506" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-7aa6328 elementor-widget elementor-widget-heading" data-id="7aa6328" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">20 Manchester Square <br>
+London W1U 360</h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-593e30b" data-id="593e30b" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1945ec7 elementor-widget elementor-widget-heading" data-id="1945ec7" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Phone: <br>
+<a href="tel: +1 541754-3010"> (+1) 541-754-3010</a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-9cb113b" data-id="9cb113b" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-74aa8be elementor-widget elementor-widget-heading" data-id="74aa8be" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h4 class="elementor-heading-title elementor-size-default">Email: <br>
+<a href="../cdn-cgi/l/email-protection.html#167e7f567d7f787273647177646273783875797b"><span class="__cf_email__" data-cfemail="bfd7d6ffd4d6d1dbdacdd8decdcbdad191dcd0d2">[email&#160;protected]</span></a></h4> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div> 
+</div>
+</div>
+<div class="footer-wrapper" style="">
+<footer id="main-footer" class="main-footer">
+<div data-elementor-type="footer" data-elementor-id="381" class="elementor elementor-381 elementor-location-footer" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-dde161d elementor-section-full_width elementor-section-content-bottom elementor-section-height-default elementor-section-height-default" data-id="dde161d" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f69f521" data-id="f69f521" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-1ee119a elementor-invisible elementor-widget elementor-widget-image" data-id="1ee119a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;rotateInUpRight&quot;}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="60" height="83" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2083'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/tree-1.svg"><noscript><img width="60" height="83" src="../wp-content/uploads/2019/11/tree-1.svg" class="attachment-full size-full" alt=""></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-0fee368" data-id="0fee368" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-931f669 elementor-invisible elementor-widget elementor-widget-image" data-id="931f669" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInDown&quot;,&quot;_animation_mobile&quot;:&quot;pulse&quot;,&quot;motion_fx_motion_fx_mouse&quot;:&quot;yes&quot;,&quot;motion_fx_tilt_effect&quot;:&quot;yes&quot;,&quot;motion_fx_tilt_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]}}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="157" height="145" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20157%20145'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/fox-color.svg"><noscript><img width="157" height="145" src="../wp-content/uploads/2019/11/fox-color.svg" class="attachment-full size-full" alt=""></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-dca5415 elementor-hidden-phone" data-id="dca5415" data-element_type="column">
+<div class="elementor-column-wrap">
+<div class="elementor-widget-wrap">
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-bdcb507" data-id="bdcb507" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-a36f354 elementor-invisible elementor-widget elementor-widget-image" data-id="a36f354" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;rotateInUpLeft&quot;}" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="56" height="70" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2056%2070'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/tree-2.svg"><noscript><img width="56" height="70" src="../wp-content/uploads/2019/11/tree-2.svg" class="attachment-full size-full" alt=""></noscript> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-top-section elementor-element elementor-element-ba478c0 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ba478c0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c9a327b" data-id="c9a327b" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-cf943fa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cf943fa" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-10eccb4" data-id="10eccb4" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-aee7933 elementor-nav-menu__align-left elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="aee7933" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+<ul id="menu-1-aee7933" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3522"><a href="../admissions/index.htm" class="elementor-item">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="../programs/index.htm" class="elementor-item">Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-3523"><a href="index.htm" aria-current="page" class="elementor-item elementor-item-active">School Calendar</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-aee7933" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3522"><a href="../admissions/index.htm" class="elementor-item" tabindex="-1">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="../programs/index.htm" class="elementor-item" tabindex="-1">Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-3523"><a href="index.htm" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">School Calendar</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-06eec79" data-id="06eec79" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-00e8b6b elementor-nav-menu__align-left elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="00e8b6b" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-none">
+<ul id="menu-1-00e8b6b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-607"><a href="../blog/index.htm" class="elementor-item">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-608"><a href="../about/index.htm" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3524"><a href="../location/index.htm" class="elementor-item">Location</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-00e8b6b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-607"><a href="../blog/index.htm" class="elementor-item" tabindex="-1">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-608"><a href="../about/index.htm" class="elementor-item" tabindex="-1">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3524"><a href="../location/index.htm" class="elementor-item" tabindex="-1">Location</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e67cb09" data-id="e67cb09" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-e07f9d9 elementor-widget elementor-widget-image" data-id="e07f9d9" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<a href="../index.htm">
+<img width="116" height="41" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%2041'%3E%3C/svg%3E" class="attachment-full size-full" alt="" data-lazy-src="https://skole.vamtam.com/wp-content/uploads/2019/11/Logo-dark.svg"><noscript><img width="116" height="41" src="../wp-content/uploads/2019/11/Logo-dark.svg" class="attachment-full size-full" alt=""></noscript> </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-413d46a elementor-hidden-phone" data-id="413d46a" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-24026b6 elementor-widget elementor-widget-text-editor" data-id="24026b6" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>London<br>United Kingdom<br><a href="../location/index.htm">Google map</a></p><p>Phone:<a href="tel: +1 541754-3010"> (+1) 541-754-3010</a><br><a href="../cdn-cgi/l/email-protection.html#224a4b62494b4c46475045435056474c0c414d4f"><span class="__cf_email__" data-cfemail="9df5f4ddf6f4f3f9f8effafcefe9f8f3b3fef2f0">[email&#160;protected]</span></a></p> </div>
+</div>
+</div>
+</div>
+ </div>
+</div>
+<div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-90324ed" data-id="90324ed" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-47278a2 elementor-align-right elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="47278a2" data-element_type="widget" data-widget_type="button.default">
+<div class="elementor-widget-container">
+<div class="elementor-button-wrapper">
+<a href="../schedule-a-tour/index.htm" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+<span class="elementor-button-content-wrapper">
+<span class="elementor-button-text">Book a Visit</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-31c4b6b elementor-shape-circle e-grid-align-right e-grid-align-right e-grid-align-center vamtam-layout-horizontal elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="31c4b6b" data-element_type="widget" data-widget_type="social-icons.default">
+<div class="elementor-widget-container">
+<div class="elementor-social-icons-wrapper elementor-grid">
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-pop elementor-repeater-item-4f05f88" href="https://www.facebook.com/" target="_blank">
+<span class="elementor-screen-only">Facebook</span>
+<i class="fab fa-facebook"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-pop elementor-repeater-item-844878e" href="https://www.youtube.com/" target="_blank">
+<span class="elementor-screen-only">Youtube</span>
+<i class="fab fa-youtube"></i> </a>
+</span>
+<span class="elementor-grid-item">
+<a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-animation-pop elementor-repeater-item-dbf9ac4" href="https://www.instagram.com/" target="_blank">
+<span class="elementor-screen-only">Instagram</span>
+<i class="fab fa-instagram"></i> </a>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-5ce233b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5ce233b" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4d122dd" data-id="4d122dd" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-0bf8597 elementor-widget elementor-widget-text-editor" data-id="0bf8597" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix">
+<p>© 2022 Kindergarten Theme by <a href="https://vamtam.com">VamTam</a> | <a href="http://www.freepik.com">Icons by Freepik</a></p> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-23e36ea" data-id="23e36ea" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-b988b7c elementor-nav-menu--dropdown-none elementor-widget__width-auto elementor-nav-menu__align-justify elementor-widget-mobile__width-auto elementor-widget elementor-widget-nav-menu" data-id="b988b7c" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+<div class="elementor-widget-container">
+<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+<ul id="menu-1-b988b7c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3522"><a href="../admissions/index.htm" class="elementor-item">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="../programs/index.htm" class="elementor-item">Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-3523"><a href="index.htm" aria-current="page" class="elementor-item elementor-item-active">School Calendar</a></li>
+</ul> </nav>
+<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i> <span class="elementor-screen-only">Menu</span>
+</div>
+<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
+<ul id="menu-2-b988b7c" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3522"><a href="../admissions/index.htm" class="elementor-item" tabindex="-1">Admissions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-604"><a href="../programs/index.htm" class="elementor-item" tabindex="-1">Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1095 current_page_item menu-item-3523"><a href="index.htm" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">School Calendar</a></li>
+</ul> </nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<div id="scroll-to-top" class="vamtam-scroll-to-top icon"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewbox="0 0 32 32"><path d="M15.098 8.344L.678 21.164C.081 21.694 0 22.645.5 23.279c.499.638 1.385.725 1.983.193l13.518-12.018 13.516 12.02c.6.53 1.486.445 1.985-.193s.419-1.585-.178-2.115L16.906 8.345c-.263-.234-.584-.351-.905-.351s-.641.118-.902.35z"></path></svg></div>
+<script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' id='vamtam-all-js-extra'>
+/* <![CDATA[ */
+var VAMTAM_FRONT = {"ajaxurl":"https:\/\/skole.vamtam.com\/wp-admin\/admin-ajax.php","jspath":"https:\/\/skole.vamtam.com\/wp-content\/themes\/skole\/vamtam\/assets\/js\/","max_breakpoint":"1025","beaver_responsive":"1025","beaver_small":"768","content_width":"1260","enable_ajax_add_to_cart":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/themes/skole/vamtam/assets/js/all.min.js?ver=1647880910' id='vamtam-all-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.4' id='elementor-webpack-runtime-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.4' id='elementor-frontend-modules-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js' defer=""></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.5.4' id='share-link-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js' defer=""></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.4","is_static":false,"experimentalFeatures":{"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/skole.vamtam.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","viewport_mobile":767,"viewport_tablet":1024,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1095,"title":"School%20Calendar%20%E2%80%93%20Skole","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.4' id='elementor-frontend-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/vamtam-elementor-integration/assets/js/widgets/text-editor/vamtam-text-editor.min.js?ver=1.0.23' id='vamtam-text-editor-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.5.2' id='elementor-pro-webpack-runtime-js' defer=""></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/skole.vamtam.com\/wp-admin\/admin-ajax.php","nonce":"79e13330aa","urls":{"assets":"https:\/\/skole.vamtam.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/skole.vamtam.com\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/skole.vamtam.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.5.2' id='elementor-pro-frontend-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.5.2' id='pro-preloaded-elements-handlers-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/vamtam-elementor-integration/assets/js/vamtam-elementor-frontend.min.js?ver=1.0.23' id='vamtam-elementor-frontend-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.5.4' id='preloaded-modules-js' defer=""></script>
+<script type='text/javascript' src='../wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.5.2' id='e-sticky-js' defer=""></script>
+<script>window.lazyLoadOptions={elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async="" src="../wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9700abca30","applicationID":"9339867","transactionName":"YFUHbUVUDBZZAkZZXFkfMEteGgsLXARKHkNfQA==","queueTime":0,"applicationTime":12,"atts":"TBIEGw1OHxg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
