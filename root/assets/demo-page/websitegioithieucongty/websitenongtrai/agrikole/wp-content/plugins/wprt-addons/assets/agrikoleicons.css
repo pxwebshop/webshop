@@ -1,0 +1,542 @@
+@font-face {
+	font-family: 'AgrikoleIcons';
+	src:url('agrikoleicons/AgrikoleIcons.eot');
+	src:url('agrikoleicons/AgrikoleIcons.eot?#iefix') format('embedded-opentype'),
+		url('agrikoleicons/AgrikoleIcons.woff') format('woff'),
+		url('agrikoleicons/AgrikoleIcons.ttf') format('truetype'),
+		url('agrikoleicons/AgrikoleIcons.svg#AgrikoleIcons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="agri-"],
+[class*=" agri-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'AgrikoleIcons' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.agri-agreement:before {
+  content: "\e932";
+}
+.agri-calendar1:before {
+  content: "\e933";
+}
+.agri-customer-review:before {
+  content: "\e934";
+}
+.agri-customer-service:before {
+  content: "\e935";
+}
+.agri-meeting:before {
+  content: "\e936";
+}
+.agri-watering-can:before {
+  content: "\e937";
+}
+.agri-sprout:before {
+  content: "\e938";
+}
+.agri-planting:before {
+  content: "\e939";
+}
+.agri-sprout1:before {
+  content: "\e93a";
+}
+.agri-fertilizer:before {
+  content: "\e93b";
+}
+.agri-flower:before {
+  content: "\e93c";
+}
+.agri-scissors:before {
+  content: "\e93d";
+}
+.agri-spray:before {
+  content: "\e93e";
+}
+.agri-sprout2:before {
+  content: "\e93f";
+}
+.agri-trowel:before {
+  content: "\e940";
+}
+.agri-wheelbarrow:before {
+  content: "\e941";
+}
+.agri-boots:before {
+  content: "\e942";
+}
+.agri-broom:before {
+  content: "\e943";
+}
+.agri-hose:before {
+  content: "\e944";
+}
+.agri-lawn-mower:before {
+  content: "\e945";
+}
+.agri-pitchfork:before {
+  content: "\e946";
+}
+.agri-shovel:before {
+  content: "\e947";
+}
+.agri-street-light:before {
+  content: "\e948";
+}
+.agri-trees:before {
+  content: "\e949";
+}
+.agri-glove:before {
+  content: "\e94a";
+}
+.agri-water:before {
+  content: "\e94b";
+}
+.agri-fountain:before {
+  content: "\e94c";
+}
+.agri-bucket:before {
+  content: "\e94d";
+}
+.agri-calendar:before {
+  content: "\e94e";
+}
+.agri-flower-seed:before {
+  content: "\e94f";
+}
+.agri-flower1:before {
+  content: "\e950";
+}
+.agri-bench:before {
+  content: "\e951";
+}
+.agri-flower2:before {
+  content: "\e952";
+}
+.agri-fertilizer1:before {
+  content: "\e953";
+}
+.agri-pesticide:before {
+  content: "\e954";
+}
+.agri-flower-shop:before {
+  content: "\e955";
+}
+.agri-tulip:before {
+  content: "\e956";
+}
+.agri-seed:before {
+  content: "\e957";
+}
+.agri-watering:before {
+  content: "\e958";
+}
+.agri-male:before {
+  content: "\e959";
+}
+.agri-cactus:before {
+  content: "\e95a";
+}
+.agri-planting1:before {
+  content: "\e95b";
+}
+.agri-fertilizer2:before {
+  content: "\e95c";
+}
+.agri-wooden:before {
+  content: "\e95d";
+}
+.agri-blueberry:before {
+  content: "\e95e";
+}
+.agri-green-house:before {
+  content: "\e95f";
+}
+.agri-window:before {
+  content: "\e960";
+}
+.agri-house:before {
+  content: "\e961";
+}
+.agri-check-list:before {
+  content: "\e962";
+}
+.agri-butterfly:before {
+  content: "\e963";
+}
+.agri-bonsai:before {
+  content: "\e964";
+}
+.agri-female:before {
+  content: "\e965";
+}
+.agri-wood:before {
+  content: "\e966";
+}
+.agri-book:before {
+  content: "\e967";
+}
+.agri-axe:before {
+  content: "\e968";
+}
+.agri-barn:before {
+  content: "\e969";
+}
+.agri-bridge:before {
+  content: "\e96a";
+}
+.agri-building:before {
+  content: "\e96b";
+}
+.agri-bus-stop:before {
+  content: "\e96c";
+}
+.agri-cart:before {
+  content: "\e96d";
+}
+.agri-cementery:before {
+  content: "\e96e";
+}
+.agri-church:before {
+  content: "\e96f";
+}
+.agri-cottage:before {
+  content: "\e970";
+}
+.agri-farmer:before {
+  content: "\e971";
+}
+.agri-food-stand:before {
+  content: "\e972";
+}
+.agri-forest:before {
+  content: "\e973";
+}
+.agri-fountain1:before {
+  content: "\e974";
+}
+.agri-house1:before {
+  content: "\e975";
+}
+.agri-hydrant:before {
+  content: "\e976";
+}
+.agri-street-lamps:before {
+  content: "\e977";
+}
+.agri-lighthouse:before {
+  content: "\e978";
+}
+.agri-log:before {
+  content: "\e979";
+}
+.agri-milk-tank:before {
+  content: "\e97a";
+}
+.agri-mountain:before {
+  content: "\e97b";
+}
+.agri-park:before {
+  content: "\e97c";
+}
+.agri-phone-cabin:before {
+  content: "\e97d";
+}
+.agri-plant:before {
+  content: "\e97e";
+}
+.agri-scarecrow:before {
+  content: "\e97f";
+}
+.agri-shopper:before {
+  content: "\e980";
+}
+.agri-swing:before {
+  content: "\e981";
+}
+.agri-electric-tower:before {
+  content: "\e982";
+}
+.agri-church1:before {
+  content: "\e983";
+}
+.agri-tractor:before {
+  content: "\e984";
+}
+.agri-trash:before {
+  content: "\e985";
+}
+.agri-village:before {
+  content: "\e986";
+}
+.agri-watering-can1:before {
+  content: "\e987";
+}
+.agri-weathercock:before {
+  content: "\e988";
+}
+.agri-well:before {
+  content: "\e989";
+}
+.agri-wheat:before {
+  content: "\e98a";
+}
+.agri-windmill:before {
+  content: "\e98b";
+}
+.agri-saw:before {
+  content: "\e98c";
+}
+.agri-farmer1:before {
+  content: "\e98d";
+}
+.agri-drone:before {
+  content: "\e98e";
+}
+.agri-electronics1:before {
+  content: "\e98f";
+}
+.agri-product:before {
+  content: "\e990";
+}
+.agri-clouds:before {
+  content: "\e991";
+}
+.agri-agriculture3:before {
+  content: "\e992";
+}
+.agri-cloning:before {
+  content: "\e993";
+}
+.agri-smart-farm:before {
+  content: "\e994";
+}
+.agri-plant1:before {
+  content: "\e995";
+}
+.agri-drone-1:before {
+  content: "\e996";
+}
+.agri-area:before {
+  content: "\e997";
+}
+.agri-farm3:before {
+  content: "\e998";
+}
+.agri-farmer2:before {
+  content: "\e999";
+}
+.agri-fruit:before {
+  content: "\e99a";
+}
+.agri-harvest:before {
+  content: "\e99b";
+}
+.agri-gps:before {
+  content: "\e99c";
+}
+.agri-logistics:before {
+  content: "\e99d";
+}
+.agri-plant-1:before {
+  content: "\e99e";
+}
+.agri-location-pin:before {
+  content: "\e99f";
+}
+.agri-growth:before {
+  content: "\e9a0";
+}
+.agri-analysis:before {
+  content: "\e9a1";
+}
+.agri-seeds:before {
+  content: "\e9a2";
+}
+.agri-solar-panel:before {
+  content: "\e9a3";
+}
+.agri-solar-panel-1:before {
+  content: "\e9a4";
+}
+.agri-sprinkler:before {
+  content: "\e9a5";
+}
+.agri-chicken:before {
+  content: "\e9a6";
+}
+.agri-focus:before {
+  content: "\e9a7";
+}
+.agri-temperature:before {
+  content: "\e9a8";
+}
+.agri-vehicle:before {
+  content: "\e9a9";
+}
+.agri-warehouse:before {
+  content: "\e9aa";
+}
+.agri-windmill1:before {
+  content: "\e9ab";
+}
+.agri-architectureandcity:before {
+  content: "\e900";
+}
+.agri-bee:before {
+  content: "\e901";
+}
+.agri-ecologyandenvironment:before {
+  content: "\e902";
+}
+.agri-ecologism:before {
+  content: "\e903";
+}
+.agri-farmingandgardening:before {
+  content: "\e904";
+}
+.agri-ecofriendly:before {
+  content: "\e905";
+}
+.agri-agriculture:before {
+  content: "\e906";
+}
+.agri-farm:before {
+  content: "\e907";
+}
+.agri-agriculture1:before {
+  content: "\e908";
+}
+.agri-constructionandtools:before {
+  content: "\e909";
+}
+.agri-architectureandcity1:before {
+  content: "\e90a";
+}
+.agri-architectureandcity2:before {
+  content: "\e90b";
+}
+.agri-bag:before {
+  content: "\e90c";
+}
+.agri-buildings:before {
+  content: "\e90d";
+}
+.agri-cereal:before {
+  content: "\e90e";
+}
+.agri-constructionandtools1:before {
+  content: "\e90f";
+}
+.agri-ecologyandenvironment1:before {
+  content: "\e910";
+}
+.agri-avatar:before {
+  content: "\e911";
+}
+.agri-animals:before {
+  content: "\e912";
+}
+.agri-ecologic:before {
+  content: "\e913";
+}
+.agri-animal:before {
+  content: "\e914";
+}
+.agri-ecologic1:before {
+  content: "\e915";
+}
+.agri-farmingandgardening1:before {
+  content: "\e916";
+}
+.agri-electronics:before {
+  content: "\e917";
+}
+.agri-farm1:before {
+  content: "\e918";
+}
+.agri-ecologyandenvironment2:before {
+  content: "\e919";
+}
+.agri-animals1:before {
+  content: "\e91a";
+}
+.agri-architectureandcity3:before {
+  content: "\e91b";
+}
+.agri-barley:before {
+  content: "\e91c";
+}
+.agri-animal1:before {
+  content: "\e91d";
+}
+.agri-box:before {
+  content: "\e91e";
+}
+.agri-ceiling:before {
+  content: "\e91f";
+}
+.agri-arrows:before {
+  content: "\e920";
+}
+.agri-botanical:before {
+  content: "\e921";
+}
+.agri-automobile:before {
+  content: "\e922";
+}
+.agri-agriculture2:before {
+  content: "\e923";
+}
+.agri-ecologyandenvironment3:before {
+  content: "\e924";
+}
+.agri-animal2:before {
+  content: "\e925";
+}
+.agri-cheese:before {
+  content: "\e926";
+}
+.agri-animal3:before {
+  content: "\e927";
+}
+.agri-barbecue:before {
+  content: "\e928";
+}
+.agri-avatar1:before {
+  content: "\e929";
+}
+.agri-carrots:before {
+  content: "\e92a";
+}
+.agri-boot:before {
+  content: "\e92b";
+}
+.agri-farm2:before {
+  content: "\e92c";
+}
+.agri-apples:before {
+  content: "\e92d";
+}
+.agri-animals2:before {
+  content: "\e92e";
+}
+.agri-constructionandtools2:before {
+  content: "\e92f";
+}
+.agri-cloud:before {
+  content: "\e930";
+}
+.agri-architectureandcity4:before {
+  content: "\e931";
+}

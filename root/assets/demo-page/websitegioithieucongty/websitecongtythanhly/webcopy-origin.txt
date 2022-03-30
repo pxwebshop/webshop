@@ -1,0 +1,192 @@
+Uri: http://thanhly2.ninhbinhweb.biz/
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\index.htm
+Content Type: text/html
+
+Uri: http://thanhly2.ninhbinhweb.biz/comments/feed/
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thanhly2.ninhbinhweb.biz/feed/
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thanhly2.ninhbinhweb.biz/trang-chu/feed/
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/cache/min/1/22d5ca9ddcd1f89b62415f0db017b95c.css
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\cache\min\1\22d5ca9ddcd1f89b62415f0db017b95c.css
+Content Type: text/css
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/cache/min/1/7f8cd0f2236565a3f73bb9fa679e2dff.js
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\cache\min\1\7f8cd0f2236565a3f73bb9fa679e2dff.js
+Content Type: application/x-javascript
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/cache/min/1/f0af3525029a987f433db5ae8cf62531.js
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\cache\min\1\f0af3525029a987f433db5ae8cf62531.js
+Content Type: application/x-javascript
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/1.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\1.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/3.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\3.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/4.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\4.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/5.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\5.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/6.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\6.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/background-footer.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\background-footer.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/banenr-header.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\banenr-header.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/banner-1.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/bg1.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\bg1.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/chuyen-thu-mua.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\chuyen-thu-mua.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/cropped-logo-180x180.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\cropped-logo-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/cropped-logo-192x192.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\cropped-logo-192x192.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/cropped-logo-32x32.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\cropped-logo-32x32.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/FANPAGE-300x136.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\FANPAGE-300x136.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/FANPAGE.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\FANPAGE.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/icon-check.png
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\icon-check.png
+Content Type: image/png
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/image_url-1523520603.crop-730x436-1.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\image_url-1523520603.crop-730x436-1.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/img4.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\img4.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/logo-1.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\logo-1.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/logo.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/phuong-cham-hoat-dong.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\phuong-cham-hoat-dong.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-content/uploads/2020/05/van-phong-thanh-ly-do-cu.jpg
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\05\van-phong-thanh-ly-do-cu.jpg
+Content Type: image/jpeg
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-json/
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://thanhly2.ninhbinhweb.biz/wp-json/wp/v2/pages/2
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://thanhly2.ninhbinhweb.biz/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Condensed:regular%2C700%2Cregular|Roboto:regular%2Cregular|Dancing+Script:regular%2C400
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\s\dancingscript\v22\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\s\robotocondensed\v24\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v24/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\s\robotocondensed\v24\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://giuseart.com/wp-content/uploads/2020/03/fb.png
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\03\fb.png
+Content Type: image/png
+
+Uri: https://giuseart.com/wp-content/uploads/2020/03/p2.gif
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\03\p2.gif
+Content Type: image/gif
+
+Uri: https://giuseart.com/wp-content/uploads/2020/03/zl.png
+File Name: D:\cyotek-webcopy\thanhly2.ninhbinhweb.biz\wp-content\uploads\2020\03\zl.png
+Content Type: image/png
+

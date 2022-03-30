@@ -1,0 +1,956 @@
+Uri: https://giuseart.com/wp-content/uploads/2020/03/fb.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\03\fb.png
+Content Type: image/png
+
+Uri: https://giuseart.com/wp-content/uploads/2020/03/p2.gif
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\03\p2.gif
+Content Type: image/gif
+
+Uri: https://giuseart.com/wp-content/uploads/2020/03/zl.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\03\zl.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252F10-mau-ban-an-go-oc-cho-dep-duoc-yeu-thich-nhat-2020%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fbiet-thu-cao-cap-tai-starlake-tay-ho-tay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fbiet-thu-hoa-sua-hs-08-15-vinhomes-riverside%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fbiet-thu-hoang-lan-hl-06-vinhomes-green-bay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fbiet-thu-hoang-lan-hl-18-vinhomes-green-bay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fbiet-thu-thach-thao-tt-04-06-vinhomes-green-bay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fbiet-thu-thach-thao-tt-04-17-vinhomes-green-bay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fbo-suu-tap-nhung-mau-sofa-go-oc-cho-hien-dai-dep-nam-2020%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fco-nen-thi-cong-noi-that-nha-o-vao-thoi-diem-giap-tet%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fnoi-that-dong-gia%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fthiet-ke-biet-thu-park-city%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithatnbs.websiteviet.vn%252Fthiet-ke-noi-that-shophouse-ecopark%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://noithatnbs.websiteviet.vn/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/10-mau-ban-an-go-oc-cho-dep-duoc-yeu-thich-nhat-2020/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\10-mau-ban-an-go-oc-cho-dep-duoc-yeu-thich-nhat-2020\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/10-mau-ban-an-go-oc-cho-dep-duoc-yeu-thich-nhat-2020/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\10-mau-ban-an-go-oc-cho-dep-duoc-yeu-thich-nhat-2020\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-cao-cap-tai-starlake-tay-ho-tay/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-cao-cap-tai-starlake-tay-ho-tay\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-cao-cap-tai-starlake-tay-ho-tay/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-cao-cap-tai-starlake-tay-ho-tay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-hoang-lan-hl-06-vinhomes-green-bay/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-hoang-lan-hl-06-vinhomes-green-bay\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-hoang-lan-hl-06-vinhomes-green-bay/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-hoang-lan-hl-06-vinhomes-green-bay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-hoang-lan-hl-18-vinhomes-green-bay/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-hoang-lan-hl-18-vinhomes-green-bay\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-hoang-lan-hl-18-vinhomes-green-bay/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-hoang-lan-hl-18-vinhomes-green-bay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-thach-thao-tt-04-06-vinhomes-green-bay/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-thach-thao-tt-04-06-vinhomes-green-bay\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-thach-thao-tt-04-06-vinhomes-green-bay/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-thach-thao-tt-04-06-vinhomes-green-bay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-thach-thao-tt-04-17-vinhomes-green-bay/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-thach-thao-tt-04-17-vinhomes-green-bay\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/biet-thu-thach-thao-tt-04-17-vinhomes-green-bay/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\biet-thu-thach-thao-tt-04-17-vinhomes-green-bay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/bo-suu-tap-nhung-mau-sofa-go-oc-cho-hien-dai-dep-nam-2020/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\bo-suu-tap-nhung-mau-sofa-go-oc-cho-hien-dai-dep-nam-2020\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/bo-suu-tap-nhung-mau-sofa-go-oc-cho-hien-dai-dep-nam-2020/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\bo-suu-tap-nhung-mau-sofa-go-oc-cho-hien-dai-dep-nam-2020\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/co-nen-thi-cong-noi-that-nha-o-vao-thoi-diem-giap-tet/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\co-nen-thi-cong-noi-that-nha-o-vao-thoi-diem-giap-tet\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/co-nen-thi-cong-noi-that-nha-o-vao-thoi-diem-giap-tet/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\co-nen-thi-cong-noi-that-nha-o-vao-thoi-diem-giap-tet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/comments/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thi-cong/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thi-cong\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thi-cong/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thi-cong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thi-cong/thi-cong-biet-thu/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thi-cong\thi-cong-biet-thu\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thi-cong/thi-cong-biet-thu/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thi-cong\thi-cong-biet-thu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thi-cong/thi-cong-chung-cu/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thi-cong\thi-cong-chung-cu\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thi-cong/thi-cong-chung-cu/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thi-cong\thi-cong-chung-cu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/biet-thu/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\biet-thu\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/biet-thu/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\biet-thu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/chung-cu/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\chung-cu\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/chung-cu/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\chung-cu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/nha-pho/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\nha-pho\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/du-an-thiet-ke/nha-pho/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\du-an-thiet-ke\nha-pho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/gioi-thieu/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/go-oc-cho/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\go-oc-cho\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/kien-truc-su/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\kien-truc-su\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/lien-he/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/noi-that-dong-gia/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\noi-that-dong-gia\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/noi-that-dong-gia/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\noi-that-dong-gia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/thi-cong-noi-that/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\thi-cong-noi-that\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/thiet-ke-biet-thu-park-city/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\thiet-ke-biet-thu-park-city\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/thiet-ke-biet-thu-park-city/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\thiet-ke-biet-thu-park-city\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/thiet-ke-noi-that-shophouse-ecopark/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\thiet-ke-noi-that-shophouse-ecopark\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/thiet-ke-noi-that-shophouse-ecopark/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\thiet-ke-noi-that-shophouse-ecopark\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/thiet-ke-noi-that/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\thiet-ke-noi-that\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/tin-tuc/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/trang-mau/feed/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\trang-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithatnbs.websiteviet.vn/video/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\video\index.htm
+Content Type: text/html
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/frontend-gallery-slider-for-advanced-custom-field/assets/css/arrow-left.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\frontend-gallery-slider-for-advanced-custom-field\assets\css\arrow-left.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/frontend-gallery-slider-for-advanced-custom-field/assets/css/arrow-right.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\frontend-gallery-slider-for-advanced-custom-field\assets\css\arrow-right.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/frontend-gallery-slider-for-advanced-custom-field/assets/css/fagsfacf-public-css.css?ver=1.4
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\frontend-gallery-slider-for-advanced-custom-field\assets\css\fagsfacf-public-css.css
+Content Type: text/css
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/frontend-gallery-slider-for-advanced-custom-field/assets/css/slick.css?ver=1.4
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\frontend-gallery-slider-for-advanced-custom-field\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/frontend-gallery-slider-for-advanced-custom-field/assets/js/fagsfacf-public.js?ver=1.4
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\frontend-gallery-slider-for-advanced-custom-field\assets\js\fagsfacf-public.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/plugins/frontend-gallery-slider-for-advanced-custom-field/assets/js/slick.min.js?ver=1.4
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\plugins\frontend-gallery-slider-for-advanced-custom-field\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.11
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: font/woff
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-instant-page/flatsome-instant-page.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-instant-page\flatsome-instant-page.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.11.3
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/themes/noi-that/style.css?ver=3.0
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\themes\noi-that\style.css
+Content Type: text/css
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/banner-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/banner-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/banner-3.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/banner.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-3.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-3.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-4.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-4.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-5.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-5.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-6.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-6.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-7.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-7.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-8.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside-8.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/biet-thu-hoa-sua-hs-08-15-vinhomes-riverside.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\biet-thu-hoa-sua-hs-08-15-vinhomes-riverside.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/bt-thach-thao-04-17-vinhomes-green-bay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\bt-thach-thao-04-17-vinhomes-green-bay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/dang-ky-bo-cong-thuong.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\dang-ky-bo-cong-thuong.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/doi-ngu-kts-dong-gia-cap-nhat-moi-nhat-2020.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\doi-ngu-kts-dong-gia-cap-nhat-moi-nhat-2020.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/hand-icon.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\hand-icon.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/hand-o-right-icon.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\hand-o-right-icon.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/khong-gian-phong-bep-vip-dg-2020.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\khong-gian-phong-bep-vip-dg-2020.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/logo-donggia.png
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\logo-donggia.png
+Content Type: image/png
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-an-biet-thu-starlake-tay-ho-tay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-an-biet-thu-starlake-tay-ho-tay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-bep-biet-thu-starlake-tay-ho-tay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-bep-biet-thu-starlake-tay-ho-tay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-bep-hl-06-vinhomes-green-bay-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-bep-hl-06-vinhomes-green-bay-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-khach-bep-biet-thu-starlake-tay-ho-tay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-khach-bep-biet-thu-starlake-tay-ho-tay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-khach-bep-hl-06-vinhomes-green-bay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-khach-bep-hl-06-vinhomes-green-bay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-khach-biet-thu-starlake-tay-ho-tay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-khach-biet-thu-starlake-tay-ho-tay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-khach-hl-06-vinhomes-green-bay-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-khach-hl-06-vinhomes-green-bay-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-khach-hl-06-vinhomes-green-bay-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-khach-hl-06-vinhomes-green-bay-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-khach-tt-04-15-vinhomes-green-bay-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-khach-tt-04-15-vinhomes-green-bay-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-khach-tt-04-15-vinhomes-green-bay-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-khach-tt-04-15-vinhomes-green-bay-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-lam-viec-bt-thach-thao-04-15-vinhomes-green-bay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-lam-viec-bt-thach-thao-04-15-vinhomes-green-bay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-ngu-biet-thu-starlake-tay-ho-tay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-ngu-biet-thu-starlake-tay-ho-tay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-ngu-biet-thu-starlake-tay-ho-tay1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-ngu-biet-thu-starlake-tay-ho-tay1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-ngu-bt-thach-thao-04-15-vinhomes-green-bay-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-ngu-bt-thach-thao-04-15-vinhomes-green-bay-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-ngu-bt-thach-thao-04-15-vinhomes-green-bay-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-ngu-bt-thach-thao-04-15-vinhomes-green-bay-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-ngu-hl-06-vinhomes-green-bay-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-ngu-hl-06-vinhomes-green-bay-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-ngu-hl-06-vinhomes-green-bay-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-ngu-hl-06-vinhomes-green-bay-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/phong-thay-do-hl-06-vinhomes-green-bay.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\phong-thay-do-hl-06-vinhomes-green-bay.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-3.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-3.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-4.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-4.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-5.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-5.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-7.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-hoang-lan-18-vinhomes-green-bay-2020-7.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-3.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-3.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-4.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-4.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-5.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-biet-thu-thach-thao-tt-04-06-vinhomes-green-bay-5.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-shophouse-ecopark-1.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-shophouse-ecopark-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-shophouse-ecopark-2.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-shophouse-ecopark-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-shophouse-ecopark-3.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-shophouse-ecopark-3.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-shophouse-ecopark-4.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-shophouse-ecopark-4.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-shophouse-ecopark-6.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-shophouse-ecopark-6.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/thiet-ke-noi-that-tai-quang-ninh.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\thiet-ke-noi-that-tai-quang-ninh.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/2020/06/tim-hieu-go-oc-cho-dong-gia.jpg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\2020\06\tim-hieu-go-oc-cho-dong-gia.jpg
+Content Type: image/jpeg
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/useanyfont/3924Futura.woff
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\useanyfont\3924Futura.woff
+Content Type: font/woff
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/useanyfont/3924Futura.woff2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\useanyfont\3924Futura.woff2
+Content Type: font/woff2
+
+Uri: https://noithatnbs.websiteviet.vn/wp-content/uploads/useanyfont/uaf.css?ver=1592547566
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
+
+Uri: https://noithatnbs.websiteviet.vn/wp-includes/js/comment-reply.min.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://noithatnbs.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2F10-mau-ban-an-go-oc-cho-dep-duoc-yeu-thich-nhat-2020%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2F10-mau-ban-an-go-oc-cho-dep-duoc-yeu-thich-nhat-2020%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-cao-cap-tai-starlake-tay-ho-tay%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-cao-cap-tai-starlake-tay-ho-tay%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-hoa-sua-hs-08-15-vinhomes-riverside%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-hoa-sua-hs-08-15-vinhomes-riverside%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-hoang-lan-hl-06-vinhomes-green-bay%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-hoang-lan-hl-06-vinhomes-green-bay%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-hoang-lan-hl-18-vinhomes-green-bay%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-hoang-lan-hl-18-vinhomes-green-bay%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-thach-thao-tt-04-06-vinhomes-green-bay%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-thach-thao-tt-04-06-vinhomes-green-bay%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-thach-thao-tt-04-17-vinhomes-green-bay%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbiet-thu-thach-thao-tt-04-17-vinhomes-green-bay%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbo-suu-tap-nhung-mau-sofa-go-oc-cho-hien-dai-dep-nam-2020%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fbo-suu-tap-nhung-mau-sofa-go-oc-cho-hien-dai-dep-nam-2020%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fco-nen-thi-cong-noi-that-nha-o-vao-thoi-diem-giap-tet%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fco-nen-thi-cong-noi-that-nha-o-vao-thoi-diem-giap-tet%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fgo-oc-cho%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fgo-oc-cho%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fkien-truc-su%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fkien-truc-su%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fnoi-that-dong-gia%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fnoi-that-dong-gia%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthi-cong-noi-that%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthi-cong-noi-that%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthiet-ke-biet-thu-park-city%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthiet-ke-biet-thu-park-city%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthiet-ke-noi-that%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthiet-ke-noi-that%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthiet-ke-noi-that-shophouse-ecopark%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fthiet-ke-noi-that-shophouse-ecopark%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fvideo%2F
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithatnbs.websiteviet.vn%2Fvideo%2F&format=xml
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/10
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/11
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\11
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/12
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\12
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/categories/9
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/21
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\21
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/23
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/25
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\25
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/27
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\27
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/29
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\29
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/pages/31
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\pages\31
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/12
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\12
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/184
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\184
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/187
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\187
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/191
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\191
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/311
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\311
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/335
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\335
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/345
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\345
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/354
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\354
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/363
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\363
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/370
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\370
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/377
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\377
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/wp-json/wp/v2/posts/383
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\wp-json\wp\v2\posts\383
+Content Type: application/json
+
+Uri: https://noithatnbs.websiteviet.vn/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/css/all.css
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://use.fontawesome.com/releases/v5.3.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\noithatnbs.websiteviet.vn\releases\v5.3.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+

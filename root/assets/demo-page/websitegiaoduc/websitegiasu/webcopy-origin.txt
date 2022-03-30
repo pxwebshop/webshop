@@ -1,0 +1,1572 @@
+Uri: http://dev3.mypagevn.com/giasusomot/
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\index.htm
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/author/adminmp
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\author\adminmp.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/author/adminmp/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\author\adminmp\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/author/mypage
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\author\mypage.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/author/mypage/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\author\mypage\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/category/tin-tuc
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\category\tin-tuc.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/category/tin-tuc/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\category\tin-tuc\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/category/tin-tuc/su-kien
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\category\tin-tuc\su-kien.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/category/tin-tuc/su-kien/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\category\tin-tuc\su-kien\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/category/tin-tuc/tin-tuc-gss1
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\category\tin-tuc\tin-tuc-gss1.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/category/tin-tuc/tin-tuc-gss1/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\category\tin-tuc\tin-tuc-gss1\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/comments/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\comments\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/day-kem-tai-nha-lop-1-12
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\day-kem-tai-nha-lop-1-12.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/diem-chuan-xet-tuyen-dai-hoc-co-the-tang.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\diem-chuan-xet-tuyen-dai-hoc-co-the-tang.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/diem-chuan-xet-tuyen-dai-hoc-co-the-tang.html/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\diem-chuan-xet-tuyen-dai-hoc-co-the-tang.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/du-hoc
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\du-hoc.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/giao-su-my-goc-viet-tham-gia-chuong-trinh-kien-tao-the-he-viet-nam-uu-viet.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\giao-su-my-goc-viet-tham-gia-chuong-trinh-kien-tao-the-he-viet-nam-uu-viet.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/giao-su-my-goc-viet-tham-gia-chuong-trinh-kien-tao-the-he-viet-nam-uu-viet.html/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\giao-su-my-goc-viet-tham-gia-chuong-trinh-kien-tao-the-he-viet-nam-uu-viet.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/gioi-thieu
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\gioi-thieu.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/gioi-thieu/ban-co-van
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\gioi-thieu\ban-co-van.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/gioi-thieu/nhung-con-so
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\gioi-thieu\nhung-con-so.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/gioi-thieu/ve-chung-toi
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\gioi-thieu\ve-chung-toi.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/hoc-online
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\hoc-online.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/hoc-tieng-anh-qua-cuoc-dua-ky-thu-tai-tp-hcm.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\hoc-tieng-anh-qua-cuoc-dua-ky-thu-tai-tp-hcm.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/hoc-tieng-anh-qua-cuoc-dua-ky-thu-tai-tp-hcm.html/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\hoc-tieng-anh-qua-cuoc-dua-ky-thu-tai-tp-hcm.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/khong-phai-tieng-anh-day-moi-la-ngoai-ngu-nen-hoc-khi-con-tre-de-co-cuoc-doi-thanh-cong.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\khong-phai-tieng-anh-day-moi-la-ngoai-ngu-nen-hoc-khi-con-tre-de-co-cuoc-doi-thanh-cong.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/khong-phai-tieng-anh-day-moi-la-ngoai-ngu-nen-hoc-khi-con-tre-de-co-cuoc-doi-thanh-cong.html/feed
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\khong-phai-tieng-anh-day-moi-la-ngoai-ngu-nen-hoc-khi-con-tre-de-co-cuoc-doi-thanh-cong.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/lien-he
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\lien-he.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/luyen-thi-dh-cd
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\luyen-thi-dh-cd.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/ngoai-ngu
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\ngoai-ngu.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/tin-hoc
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\tin-hoc.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/tu-van-dh-cd
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\tu-van-dh-cd.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/vi-sao-chon-gss1-hoc-sinh
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\vi-sao-chon-gss1-hoc-sinh.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/vi-sao-chon-gss1-phu-huynh
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\vi-sao-chon-gss1-phu-huynh.html
+Content Type: text/html
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\contact-form-7\includes\js\jquery.form.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/foobox-image-lightbox/free/css/font/foobox.eot
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\foobox-image-lightbox\free\css\font\foobox.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/foobox-image-lightbox/free/css/font/foobox.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\foobox-image-lightbox\free\css\font\foobox-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/foobox-image-lightbox/free/css/font/foobox.svg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\foobox-image-lightbox\free\css\font\foobox.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/foobox-image-lightbox/free/css/font/foobox.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\foobox-image-lightbox\free\css\font\foobox.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/foobox-image-lightbox/free/css/font/foobox.woff
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\foobox-image-lightbox\free\css\font\foobox.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/foobox-image-lightbox/free/css/foobox.free.min.css?ver=1.1.10
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\foobox-image-lightbox\free\css\foobox.free.min.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/foobox-image-lightbox/free/js/foobox.free.min.js?ver=1.1.10
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\foobox-image-lightbox\free\js\foobox.free.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?i5rhx5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?i5rhx5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?i5rhx5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=5.4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=5.4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\css\prettyPhoto.min.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnNext.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/sprite.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/default_thumb.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\default_thumb.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_next.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_next.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_prev.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_prev.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_x.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_x.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_y.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\default\sprite_y.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnNext.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\default_thumbnail.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/sprite.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/sprite.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnNext.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnNext.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\btnPrevious.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/sprite.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=5.4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\prettyphoto\js\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/admin/assets/images/dummy.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\admin\assets\images\dummy.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: application/x-gzip
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: application/x-gzip
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.1.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.eot
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.svg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/css/fonts/ult-silk.woff
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\css\fonts\ult-silk.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/css/icons.css?ver=3.16.7
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\css\icons.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/images/cover.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\images\cover.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/images/fabric.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\images\fabric.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/img/cross.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\img\cross.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/img/ov-plus.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\img\ov-plus.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ajax-loader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.eot
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.svg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/slick.woff
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\slick.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.eot
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.svg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/fonts/ult-silk.woff
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\fonts\ult-silk.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.16.7
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-css\ultimate.min.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.16.7
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\plugins\Ultimate_VC_Addons\assets\min-js\ultimate.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage-child/img/bg-header-left.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage-child\img\bg-header-left.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage-child/img/bg-header-right.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage-child\img\bg-header-right.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage-child/js/jquery_custom.js
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage-child\js\jquery_custom.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage-child/style.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage-child\style.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/bootstrap_1.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\bootstrap_1.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/dynamic_style_1.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\dynamic_style_1.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/images/blank.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\images\blank.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/images/fancybox_loading.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\images\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/images/fancybox_loading@2x.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\images\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/images/fancybox_sprite.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\images\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/images/fancybox_sprite@2x.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\images\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/plugins.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\plugins.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/skin_1.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\skin_1.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/css/theme.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\css\theme.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/bootstrap/glyphicons-halflings-regular.eot
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\bootstrap\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/bootstrap/glyphicons-halflings-regular.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\bootstrap\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/bootstrap/glyphicons-halflings-regular.svg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\bootstrap\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/bootstrap/glyphicons-halflings-regular.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\bootstrap\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/bootstrap/glyphicons-halflings-regular.woff
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\bootstrap\glyphicons-halflings-regular.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/bootstrap/glyphicons-halflings-regular.woff2
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\bootstrap\glyphicons-halflings-regular.woff2
+Content Type: application/x-gzip
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.eot?v=2.0.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.svg?v=2.0.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.ttf?v=2.0.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.woff?v=2.0.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.eot?v=4.6.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.svg?v=4.6.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: application/x-gzip
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/minicart-font/minicart-font.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\minicart-font\minicart-font-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/minicart-font/minicart-font.eot?v=1.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\minicart-font\minicart-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/minicart-font/minicart-font.svg?v=1.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\minicart-font\minicart-font.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/minicart-font/minicart-font.ttf?v=1.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\minicart-font\minicart-font.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/minicart-font/minicart-font.woff?v=1.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\minicart-font\minicart-font.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/porto-font/porto.eot?23364375
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\porto-font\porto.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/porto-font/porto.svg?23364375
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\porto-font\porto.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/porto-font/porto.ttf?23364375
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\porto-font\porto.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/porto-font/porto.woff2?23364375
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\porto-font\porto.woff2
+Content Type: application/x-gzip
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/porto-font/porto.woff?23364375
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\porto-font\porto.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.eot?nuc4d1
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.svg?nuc4d1
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.ttf?nuc4d1
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.woff?nuc4d1
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/ajax-loader@2x.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\ajax-loader@2x.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/AjaxLoader.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/arrows-dark.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\arrows-dark.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/arrows.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\arrows.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/concept-icons.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\concept-icons.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/concept-item.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\concept-item.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/concept.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\concept.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/flags.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\flags.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/history-thumb.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\history-thumb.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/map.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\map.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/owl.video.play.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\owl.video.play.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/patterns/az_subtle.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\patterns\az_subtle.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/patterns/stripes.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\patterns\stripes.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/patterns/worn_dots.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\patterns\worn_dots.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/images/video-overlay.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\images\video-overlay.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/js/bootstrap.min.js?ver=4.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/js/plugins.min.js?ver=4.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/js/popper.min.js?ver=4.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/js/theme.min.js?ver=4.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\js\theme.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/style.css
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\style-1.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/themes/mypage/style.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\themes\mypage\style.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/d036859cb4c5-1491588312018-450x231.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\d036859cb4c5-1491588312018-450x231.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/d036859cb4c5-1491588312018.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\d036859cb4c5-1491588312018.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc1-300x164.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc1-300x164.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc1.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc1.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc2-300x164.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc2-300x164.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc2.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc2.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc3-300x164.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc3-300x164.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc3.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc3.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc4-300x164.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc4-300x164.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/danhmuc4.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\danhmuc4.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/hinhanh-hocvien.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\hinhanh-hocvien.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/Image-250262129-ExtractWord-0-9389-1119-1493084108.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\Image-250262129-ExtractWord-0-9389-1119-1493084108.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/Image-451715749-ExtractWord-3-9213-3760-1493084109-450x231.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\Image-451715749-ExtractWord-3-9213-3760-1493084109-450x231.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/Image-451715749-ExtractWord-3-9213-3760-1493084109.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\Image-451715749-ExtractWord-3-9213-3760-1493084109.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/Image-ExtractWord-1-Out-6653-1493084108.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\Image-ExtractWord-1-Out-6653-1493084108.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/jftyoikg-anigif-enhanced-buzz-26499-1404935628-23-1491588407264.gif
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\jftyoikg-anigif-enhanced-buzz-26499-1404935628-23-1491588407264.gif
+Content Type: image/gif
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/johnvu_ugjv-450x231.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\johnvu_ugjv-450x231.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2017/05/johnvu_ugjv.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2017\05\johnvu_ugjv.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/bg_login.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\bg_login.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/favicon-giasu.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\favicon-giasu.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/Logo1.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\Logo1.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/logo_admin_mp.png
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\logo_admin_mp.png
+Content Type: image/png
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-01-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-01-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-01-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-01-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-01-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-01-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-01-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-01-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-01.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-01.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-02-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-02-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-02-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-02-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-02-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-02-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-02-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-02-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-02.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-02.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-03-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-03-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-03-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-03-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-03-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-03-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-03-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-03-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-03.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-03.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-04-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-04-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-04-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-04-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-04-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-04-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-04-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-04-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-04.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-04.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-05-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-05-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-05-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-05-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-05-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-05-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-05-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-05-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-05.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-05.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-06-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-06-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-06-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-06-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-06-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-06-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-06-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-06-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-06.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-06.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-01-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-01-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-01-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-01-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-01-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-01-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-01-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-01-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-01.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-01.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-02-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-02-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-02-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-02-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-02-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-02-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-02-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-02-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-02.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-02.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-03-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-03-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-03-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-03-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-03-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-03-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-03-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-03-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-03.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-03.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-04-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-04-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-04-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-04-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-04-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-04-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-04-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-04-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-04.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-04.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-05-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-05-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-05-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-05-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-05-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-05-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-05-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-05-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-05.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-05.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-06-1024x1024.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-06-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-06-150x150.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-06-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-06-300x300.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-06-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-06-768x768.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-06-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/2019/07/lydo_giasu-hocsinh-06.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\2019\07\lydo_giasu-hocsinh-06.jpg
+Content Type: image/jpeg
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\smile_fonts\Defaults\Defaults.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/smile_fonts/Defaults/Defaults.eot?
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\smile_fonts\Defaults\Defaults-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/smile_fonts/Defaults/Defaults.eot?rfa9z8
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\smile_fonts\Defaults\Defaults.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/smile_fonts/Defaults/Defaults.svg?rfa9z8
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\smile_fonts\Defaults\Defaults.svg
+Content Type: image/svg+xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/smile_fonts/Defaults/Defaults.ttf?rfa9z8
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\smile_fonts\Defaults\Defaults.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/smile_fonts/Defaults/Defaults.woff?rfa9z8
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\smile_fonts\Defaults\Defaults.woff
+Content Type: application/x-font-woff
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-content/uploads/titan-framework-wpshapere-css.css?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-content\uploads\titan-framework-wpshapere-css.css
+Content Type: text/css
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-includes/js/comment-reply.min.js?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-includes/js/jquery/jquery.js?ver=1.12.3
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-includes/js/wp-embed.min.js?ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2F
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2F&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fday-kem-tai-nha-lop-1-12
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fday-kem-tai-nha-lop-1-12&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fdiem-chuan-xet-tuyen-dai-hoc-co-the-tang.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fdiem-chuan-xet-tuyen-dai-hoc-co-the-tang.html&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fdu-hoc
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fdu-hoc&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgiao-su-my-goc-viet-tham-gia-chuong-trinh-kien-tao-the-he-viet-nam-uu-viet.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgiao-su-my-goc-viet-tham-gia-chuong-trinh-kien-tao-the-he-viet-nam-uu-viet.html&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu%2Fban-co-van
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu%2Fban-co-van&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu%2Fnhung-con-so
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu%2Fnhung-con-so&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu%2Fve-chung-toi
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu%2Fve-chung-toi&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fgioi-thieu&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fhoc-online
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fhoc-online&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fhoc-tieng-anh-qua-cuoc-dua-ky-thu-tai-tp-hcm.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fhoc-tieng-anh-qua-cuoc-dua-ky-thu-tai-tp-hcm.html&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fkhong-phai-tieng-anh-day-moi-la-ngoai-ngu-nen-hoc-khi-con-tre-de-co-cuoc-doi-thanh-cong.html
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fkhong-phai-tieng-anh-day-moi-la-ngoai-ngu-nen-hoc-khi-con-tre-de-co-cuoc-doi-thanh-cong.html&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Flien-he
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Flien-he&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fluyen-thi-dh-cd
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fluyen-thi-dh-cd&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fngoai-ngu
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fngoai-ngu&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Ftin-hoc
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Ftin-hoc&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Ftu-van-dh-cd
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Ftu-van-dh-cd&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fvi-sao-chon-gss1-hoc-sinh
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fvi-sao-chon-gss1-hoc-sinh&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fvi-sao-chon-gss1-phu-huynh
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://dev3.mypagevn.com/giasusomot/wp-json/oembed/1.0/embed?url=http:%2F%2Fdev3.mypagevn.com%2Fgiasusomot%2Fvi-sao-chon-gss1-phu-huynh&format=xml
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/giasusomot/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\giasusomot\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://dev3.mypagevn.com/_private/static/script.min.js
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\_private\static\script.min.js
+Content Type: application/javascript
+
+Uri: http://fonts.googleapis.com/css?family=Abril+Fatface:regular&ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:200%2C300%2C400%2C700%2C800%2C600|Shadows+Into+Light:200%2C300%2C400%2C700%2C800%2C600|&subset=cyrillic%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Ckhmer%2Clatin%2Clatin-ext%2Cvietnamese&ver=4.5
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/abrilfatface/v18/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\s\abrilfatface\v18\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4n.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1y4n.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0C4n.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/shadowsintolight/v14/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\s\shadowsintolight\v14\UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf
+Content Type: font/ttf
+
+Uri: http://kenh14cdn.com/2017/d036859cb4c5-1491588312018.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\2017\d036859cb4c5-1491588312018.jpg
+Content Type: image/jpeg
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\ajax\libs\simple-line-icons\2.4.1\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.woff
+Content Type: application/octet-stream
+
+Uri: https://connect.facebook.net/vi_VN/sdk.js
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\vi_VN\sdk.js
+Content Type: application/x-javascript
+
+Uri: https://i-vnexpress.vnecdn.net/2019/07/15/cac-moc-thoi-gian-tuyen-sinh-d-6729-5036-1563125563.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\2019\07\15\cac-moc-thoi-gian-tuyen-sinh-d-6729-5036-1563125563.jpg
+Content Type: image/jpeg
+
+Uri: https://i-vnexpress.vnecdn.net/2019/07/15/Screen-Shot-2019-07-14-at-9-6550-1563125249.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\2019\07\15\Screen-Shot-2019-07-14-at-9-6550-1563125249.jpg
+Content Type: image/jpeg
+
+Uri: https://i-vnexpress.vnecdn.net/2019/07/15/Thanh-Nguyen55a-5306-1563166001.jpg
+File Name: D:\cyotek-webcopy\dev3.mypagevn.com\2019\07\15\Thanh-Nguyen55a-5306-1563166001.jpg
+Content Type: image/jpeg
+

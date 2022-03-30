@@ -1,0 +1,352 @@
+Uri: http://ihtkkresource.gdt.gov.vn/etax_resource/resources/TaiLieu/ETAX_Huong_dan_su_dung_danh_cho_NNT_V4.rar
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\etax_resource\resources\TaiLieu\ETAX_Huong_dan_su_dung_danh_cho_NNT_V4.rar
+Content Type: application/rar
+
+Uri: http://vienthong.ninhbinhweb.biz/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/author/ninhbinhweb-biz/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\author\ninhbinhweb-biz\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/author/ninhbinhweb-biz/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\author\ninhbinhweb-biz\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/canh-bao-lua-dao-gia-han-chung-thu-so-viettel-ca/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\canh-bao-lua-dao-gia-han-chung-thu-so-viettel-ca\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/canh-bao-lua-dao-gia-han-chung-thu-so-viettel-ca/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\canh-bao-lua-dao-gia-han-chung-thu-so-viettel-ca\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/comments/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/giai-phap/hotline-ho-tro-24-7/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\giai-phap\hotline-ho-tro-24-7\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/giai-phap/sip-trunking/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\giai-phap\sip-trunking\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/giai-phap/smsbrandname/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\giai-phap\smsbrandname\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/giai-phap/voffice-van-phong-dien-tu/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\giai-phap\voffice-van-phong-dien-tu\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/ho-tro/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\ho-tro\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/ho-tro/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\ho-tro\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/huong-dan-tra-cuu-thoi-han-cts-tren-website-dich-vu-viettel-ca/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\huong-dan-tra-cuu-thoi-han-cts-tren-website-dich-vu-viettel-ca\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/huong-dan-tra-cuu-thoi-han-cts-tren-website-dich-vu-viettel-ca/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\huong-dan-tra-cuu-thoi-han-cts-tren-website-dich-vu-viettel-ca\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/kenh-truyen/internet-cap-quang/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\kenh-truyen\internet-cap-quang\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/kenh-truyen/internet-leased-line/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\kenh-truyen\internet-leased-line\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/kenh-truyen/metro-wan/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\kenh-truyen\metro-wan\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/kenh-truyen/office-wan/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\kenh-truyen\office-wan\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/lien-he/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/san-pham/chu-ky-so-viettel/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\san-pham\chu-ky-so-viettel\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/san-pham/sinvoice-hoa-don-dien-tu/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\san-pham\sinvoice-hoa-don-dien-tu\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/san-pham/smartmoto-giam-sat-xe-may/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\san-pham\smartmoto-giam-sat-xe-may\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/san-pham/vtracking-dinh-vi-o-to/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\san-pham\vtracking-dinh-vi-o-to\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/thoi-han-nop-to-ke-khai-thue-quy-iv-2019-va-nop-le-phi-mon-bai-nam-2020/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\thoi-han-nop-to-ke-khai-thue-quy-iv-2019-va-nop-le-phi-mon-bai-nam-2020\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/thoi-han-nop-to-ke-khai-thue-quy-iv-2019-va-nop-le-phi-mon-bai-nam-2020/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\thoi-han-nop-to-ke-khai-thue-quy-iv-2019-va-nop-le-phi-mon-bai-nam-2020\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/thong-bao-trien-khai-mo-rong-dich-vu-thue-dien-tu-etax-service/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\thong-bao-trien-khai-mo-rong-dich-vu-thue-dien-tu-etax-service\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/thong-bao-trien-khai-mo-rong-dich-vu-thue-dien-tu-etax-service/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\thong-bao-trien-khai-mo-rong-dich-vu-thue-dien-tu-etax-service\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/thong-bao-ve-viec-trien-khai-dich-vu-thue-dien-tu-etax-services-cho-tp-ho-chi-minh/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\thong-bao-ve-viec-trien-khai-dich-vu-thue-dien-tu-etax-services-cho-tp-ho-chi-minh\index.htm
+Content Type: text/html
+
+Uri: http://vienthong.ninhbinhweb.biz/thong-bao-ve-viec-trien-khai-dich-vu-thue-dien-tu-etax-services-cho-tp-ho-chi-minh/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\thong-bao-ve-viec-trien-khai-dich-vu-thue-dien-tu-etax-services-cho-tp-ho-chi-minh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/trang-chu/feed/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/cache/min/1/0b9f31b6daf94e944b20940ae3852b28.js
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\cache\min\1\0b9f31b6daf94e944b20940ae3852b28.js
+Content Type: application/x-javascript
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/cache/min/1/1bade6763e203bdf261078ba6d6a82fc.js
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\cache\min\1\1bade6763e203bdf261078ba6d6a82fc.js
+Content Type: application/x-javascript
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/cache/min/1/a45578c7cca886c8d641d09b6ab804c2.css
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\cache\min\1\a45578c7cca886c8d641d09b6ab804c2.css
+Content Type: text/css
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/cache/min/1/b31708c97102995a6b4df6f3ed7ccdcd.js
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\cache\min\1\b31708c97102995a6b4df6f3ed7ccdcd.js
+Content Type: application/x-javascript
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/cache/min/1/fb67066a957bac47cf6346e41c56ff5b.js
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\cache\min\1\fb67066a957bac47cf6346e41c56ff5b.js
+Content Type: application/x-javascript
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/background_dich-vu-web.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\background_dich-vu-web.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/bg-gioi-thieu.jpg
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\bg-gioi-thieu.jpg
+Content Type: image/jpeg
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/cropped-300x60-VTS-White-300x60-1.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\cropped-300x60-VTS-White-300x60-1.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/cropped-logo_vts-180x180.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\cropped-logo_vts-180x180.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/cropped-logo_vts-192x192.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\cropped-logo_vts-192x192.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/cropped-logo_vts-32x32.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\cropped-logo_vts-32x32.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/etax-300x157-1.jpg
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\etax-300x157-1.jpg
+Content Type: image/jpeg
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/line.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\line.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-content/uploads/2020/02/logo_vts.png
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-content\uploads\2020\02\logo_vts.png
+Content Type: image/png
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/categories/3
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/116
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\116
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/17
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/19
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/2
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/21
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\21
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/23
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\23
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/25
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\25
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/27
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\27
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/29
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\29
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/31
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\31
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/33
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\33
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/35
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\35
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/37
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\37
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/pages/396
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\pages\396
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/posts/149
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\posts\149
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/posts/152
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\posts\152
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/posts/157
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\posts\157
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/posts/160
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\posts\160
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/posts/163
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\posts\163
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/wp-json/wp/v2/users/1
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://vienthong.ninhbinhweb.biz/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C500|Dancing+Script:regular%2C400
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\s\dancingscript\v22\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fvienthong.ninhbinhweb.biz%252Fcanh-bao-lua-dao-gia-han-chung-thu-so-viettel-ca%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fvienthong.ninhbinhweb.biz%252Fhuong-dan-tra-cuu-thoi-han-cts-tren-website-dich-vu-viettel-ca%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fvienthong.ninhbinhweb.biz%252Fthoi-han-nop-to-ke-khai-thue-quy-iv-2019-va-nop-le-phi-mon-bai-nam-2020%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fvienthong.ninhbinhweb.biz%252Fthong-bao-trien-khai-mo-rong-dich-vu-thue-dien-tu-etax-service%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fvienthong.ninhbinhweb.biz%252Fthong-bao-ve-viec-trien-khai-dich-vu-thue-dien-tu-etax-services-cho-tp-ho-chi-minh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://thuedientu.gdt.gov.vn/etaxnnt/EstablishSession?&fromOpName=corpJumpProc&fromStateName=initial&fromEventName=start&toOpName=corpIndexProc
+File Name: D:\cyotek-webcopy\vienthong.ninhbinhweb.biz\etaxnnt\EstablishSession
+Content Type: 
+
