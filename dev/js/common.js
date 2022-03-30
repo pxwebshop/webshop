@@ -118,6 +118,8 @@ $(document).ready(function () {
 		slidesToShow: 8,
 		dots: true,
 		slidesToScroll: 8,
+		autoplay: true,
+		autoplaySpeed: 2000,
 		responsive: [
 			{
 				breakpoint: 1024,
