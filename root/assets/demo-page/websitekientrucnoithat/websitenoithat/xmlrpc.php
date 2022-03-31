@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://noithat.websiteviet.vn</homePageLink>
+		<homePageLink>https://pregmom.websiteviet.vn</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://noithat.websiteviet.vn/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://noithat.websiteviet.vn/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://noithat.websiteviet.vn/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://noithat.websiteviet.vn/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://noithat.websiteviet.vn/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://pregmom.websiteviet.vn/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://pregmom.websiteviet.vn/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://pregmom.websiteviet.vn/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://pregmom.websiteviet.vn/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://pregmom.websiteviet.vn/wp-json/" />
 			</apis>
 	</service>
 </rsd>

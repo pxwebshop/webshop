@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>http://art.websiteviet.vn</homePageLink>
+		<homePageLink>https://skole.vamtam.com</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="http://art.websiteviet.vn/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="http://art.websiteviet.vn/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://art.websiteviet.vn/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="http://art.websiteviet.vn/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="http://art.websiteviet.vn/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://skole.vamtam.com/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://skole.vamtam.com/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://skole.vamtam.com/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://skole.vamtam.com/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://skole.vamtam.com/wp-json/" />
 			</apis>
 	</service>
 </rsd>

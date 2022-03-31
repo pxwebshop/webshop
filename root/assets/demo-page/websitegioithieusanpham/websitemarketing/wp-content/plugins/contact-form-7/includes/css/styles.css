@@ -3,6 +3,14 @@ div.wpcf7 {
 	padding: 0;
 }
 
+<<<<<<< HEAD
+=======
+div.wpcf7-response-output {
+	margin: 2em 0.5em 1em;
+	padding: 0.2em 1em;
+}
+
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 div.wpcf7 .screen-reader-response {
 	position: absolute;
 	overflow: hidden;
@@ -14,18 +22,25 @@ div.wpcf7 .screen-reader-response {
 	border: 0;
 }
 
+<<<<<<< HEAD
 div.wpcf7-response-output {
 	margin: 2em 0.5em 1em;
 	padding: 0.2em 1em;
 	border: 2px solid #ff0000;
 }
 
+=======
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 div.wpcf7-mail-sent-ok {
 	border: 2px solid #398f14;
 }
 
+<<<<<<< HEAD
 div.wpcf7-mail-sent-ng,
 div.wpcf7-aborted {
+=======
+div.wpcf7-mail-sent-ng {
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 	border: 2px solid #ff0000;
 }
 
@@ -33,8 +48,12 @@ div.wpcf7-spam-blocked {
 	border: 2px solid #ffa500;
 }
 
+<<<<<<< HEAD
 div.wpcf7-validation-errors,
 div.wpcf7-acceptance-missing {
+=======
+div.wpcf7-validation-errors {
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 	border: 2px solid #f7e700;
 }
 
