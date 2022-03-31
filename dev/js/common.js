@@ -84,20 +84,20 @@ $(document).ready(function () {
 			$(".c-header__search").hide();
 		}
 
-		if($(this).hasClass("is-click")) {
-			$(this).children().next().slideToggle();
-			$(this).removeClass("is-click");
-		} else {
-			$(".c-header__item").each(function() {
-				if($(this).hasClass("is-click")) {
-					$(this).children().next().hide();
-					$(this).removeClass("is-click");	
-				}
-			});
+		// if($(this).hasClass("is-click")) {
+		// 	$(this).children().next().slideToggle();
+		// 	$(this).removeClass("is-click");
+		// } else {
+		// 	$(".c-header__item").each(function() {
+		// 		if($(this).hasClass("is-click")) {
+		// 			$(this).children().next().hide();
+		// 			$(this).removeClass("is-click");	
+		// 		}
+		// 	});
 
-			$(this).children().next().slideToggle();
-			$(this).addClass("is-click");
-		}
+		// 	$(this).children().next().slideToggle();
+		// 	$(this).addClass("is-click");
+		// }
 	});
 
 	$(".is-searchMenu").click(function() {
