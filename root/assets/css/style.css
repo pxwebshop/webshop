@@ -1776,7 +1776,8 @@ other
 
 .c-block1__title {
   font-size: 1.4rem;
-  font-weight: 600; }
+  font-weight: 600;
+  cursor: pointer; }
 
 .c-block1__info {
   padding-top: 5px;
