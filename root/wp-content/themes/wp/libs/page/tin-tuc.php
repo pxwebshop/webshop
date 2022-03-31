@@ -34,7 +34,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                             </p>
                         </div>
                     </div>
@@ -55,7 +55,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                             </p>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                             </p>
                         </div>
                     </div>
@@ -97,49 +97,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="c-list2__item">
-                        <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
-                        </figure>
-                        <div class="c-list2__info">
-                            <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
-                            </h3>
-                            <div class="c-list2__time">
-                                <i class="fa-solid fa-calendar-days"></i>
-                                <span>14 Tháng Ba, 2022</span>
-                            </div>
-                            <div class="c-list2__author">
-                                <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span> <br>
-                            </div>
-                            <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="c-list2__item">
-                        <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
-                        </figure>
-                        <div class="c-list2__info">
-                            <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
-                            </h3>
-                            <div class="c-list2__time">
-                                <i class="fa-solid fa-calendar-days"></i>
-                                <span>14 Tháng Ba, 2022</span>
-                            </div>
-                            <div class="c-list2__author">
-                                <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span> <br>
-                            </div>
-                            <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                             </p>
                         </div>
                     </div>
