@@ -863,15 +863,6 @@
                                 <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
                             </div>
                         </div>
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
