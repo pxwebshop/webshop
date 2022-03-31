@@ -13,6 +13,126 @@
             </div>
         </div>
     </div>
+    <section class="p-index__team">
+        <div class="l-container">
+            <h2 class="c-title1 wow slideInLeft" data-wow-duration="0.5" data-wow-delay="0.5s">Thành Viên</h2>
+            <div class="c-list8">
+                <div class="c-list8__wrap wow slideInLeft" data-wow-duration="0.5" data-wow-delay="0.5s">
+                    <div class="c-list8__item">
+                        <figure class="c-list8__img">
+                            <img src="/assets/img/team/phonexay.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Phonexay Namsavanh</span> <br>
+                            <span class="c-list8__position">Network Designer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>Cisco</span></li>
+                                <li><span>...</span></li>
+                            </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list8__wrap wow slideInLeft" data-wow-duration="0.5" data-wow-delay="0.5s">
+                    <div class="c-list8__item">
+                        <figure class="c-list8__img">
+                            <img src="/assets/img/team/dangquy.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
+                            <span class="c-list8__position">Developer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>Docker</span></li>
+                                <li><span>Aws</span></li>
+                                <li><span>Laravel</span></li>
+                                <li><span>IOS</span></li>
+                                <li><span>Server</span></li>
+                                <li><span>Database</span></li>
+                                <li><span>HTML</span></li>
+                                <li><span>CSS</span></li>
+                                <li><span>Javascript</span></li>
+                                <li><span>PHP</span></li>
+                                <li><span>NodeJs</span></li>
+                                <li><span>Vuejs</span></li>
+                                <li><span>...</span></li>
+                            </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list8__wrap wow slideInRight" data-wow-duration="0.5" data-wow-delay="0.5s">
+                    <div class="c-list8__item">
+                        <figure class="c-list8__img">
+                            <img src="/assets/img/team/minchong.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">Nguyễn Minh Công</span> <br>
+                            <span class="c-list8__position">Developer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>Laravel</span></li>
+                                <li><span>HTML</span></li>
+                                <li><span>CSS</span></li>
+                                <li><span>Javascript</span></li>
+                                <li><span>.NET</span></li>
+                                <li><span>Android</span></li>
+                                <li><span>Database</span></li>
+                                <li><span>Bootstrap</span></li>
+                                <li><span>Reactjs</span></li>
+                                <li><span>...</span></li>
+                            </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-list8__wrap wow slideInRight" data-wow-duration="0.5" data-wow-delay="0.5s">
+                    <div class="c-list8__item">
+                        <figure class="c-list8__img">
+                            <img src="/assets/img/team/viananh.jpg" alt="">
+                        </figure>
+                        <div class="c-list8__content">
+                            <span class="c-list8__name">To Viananh</span> <br>
+                            <span class="c-list8__position">Designer</span>
+                            <ul class="c-list8__skill">
+                                <li><span>UI-UX</span></li>
+                                <li><span>Figma</span></li>
+                                <li><span>Adobe XD</span></li>
+                                <li><span>Illustrator</span></li>
+                                <li><span>Sketch</span></li>
+                                <li><span>Photoshop</span></li>
+                                <li><span>Ai</span></li>
+                                <li><span>...</span></li>
+                            </ul>
+                            <div class="c-list8__social">
+                                <ul>
+                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
+                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
+                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="p-intro__sc1">
         <div class="c-list9">
             <div class="c-list9__item c-list9__item1">
