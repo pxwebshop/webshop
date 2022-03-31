@@ -77,42 +77,6 @@ $(document).ready(function () {
 
 		$(this).next().slideToggle();
 	});
-	// menu
-	$(".c-header__item").click(function() {
-		if($(".is-searchMenu").hasClass("is-search")) {
-			$(".is-searchMenu").removeClass("is-search");
-			$(".c-header__search").hide();
-		}
-
-		// if($(this).hasClass("is-click")) {
-		// 	$(this).children().next().slideToggle();
-		// 	$(this).removeClass("is-click");
-		// } else {
-		// 	$(".c-header__item").each(function() {
-		// 		if($(this).hasClass("is-click")) {
-		// 			$(this).children().next().hide();
-		// 			$(this).removeClass("is-click");	
-		// 		}
-		// 	});
-
-		// 	$(this).children().next().slideToggle();
-		// 	$(this).addClass("is-click");
-		// }
-	});
-
-	$(".is-searchMenu").click(function() {
-		$(".c-header__item").each(function() {
-			$(this).children().next().hide();
-			$(this).removeClass("is-click");
-		});
-
-		$(this).next().slideToggle();
-		if ($(this).hasClass("is-search")) {
-			$(this).removeClass("is-search");
-		} else {
-			$(this).addClass("is-search");
-		}
-	});
 
 	$(".c-list6").slick({
 		slidesToShow: 8,

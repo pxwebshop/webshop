@@ -525,7 +525,18 @@ header
     padding: 0 10px;
     text-transform: capitalize;
     position: relative;
-    cursor: pointer; }
+    cursor: pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    .c-header__itemSeach:hover .c-header__search {
+      display: block; }
     @media screen and (max-width: 767px) {
       .c-header__itemSeach {
         font-size: 1.8rem;
@@ -609,7 +620,7 @@ header
   .c-header__search {
     display: none;
     position: absolute;
-    top: 40px;
+    top: 45px;
     right: 7px;
     z-index: 999; }
     @media screen and (max-width: 767px) {

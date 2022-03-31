@@ -70,6 +70,14 @@ header
         text-transform: capitalize;
         position: relative;
         cursor: pointer;
+        display: flex;
+        height: 100%;
+        align-items: center;
+        &:hover {
+            .c-header__search {
+                display: block;
+            }
+        }
         @include sp() {
             font-size: 1.8rem;
             font-weight: 600;
@@ -151,7 +159,7 @@ header
     &__search {
         display: none;
         position: absolute;
-        top: 40px;
+        top: 45px;
         right: 7px;
         z-index: 999;
         @include sp() {
