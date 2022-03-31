@@ -1,0 +1,948 @@
+Uri: http://1.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=140&d=mm&r=g
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
+Uri: http://1.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=70&d=mm&r=g
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/06/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\06\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/06/chao-moi-nguoi/?replytocom=1
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\06\chao-moi-nguoi\index-1.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/06/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\06\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/4-thac-mac-sieu-nho-nhung-quan-trong-khi-tao-ma-lum/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\4-thac-mac-sieu-nho-nhung-quan-trong-khi-tao-ma-lum\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/4-thac-mac-sieu-nho-nhung-quan-trong-khi-tao-ma-lum/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\4-thac-mac-sieu-nho-nhung-quan-trong-khi-tao-ma-lum\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/cach-lam-trang-da-toan-than-tai-nha-sieu-hieu-qua/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\cach-lam-trang-da-toan-than-tai-nha-sieu-hieu-qua\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/cach-lam-trang-da-toan-than-tai-nha-sieu-hieu-qua/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\cach-lam-trang-da-toan-than-tai-nha-sieu-hieu-qua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/dia-diem-bam-mi-han-quoc-o-dau-an-toan-hieu-qua-nhat/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\dia-diem-bam-mi-han-quoc-o-dau-an-toan-hieu-qua-nhat\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/dia-diem-bam-mi-han-quoc-o-dau-an-toan-hieu-qua-nhat/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\dia-diem-bam-mi-han-quoc-o-dau-an-toan-hieu-qua-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/nhung-doi-moi-dep-goi-cam-nhat-lịch-sủ-lang-giai-tri-the-gioi/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\nhung-doi-moi-dep-goi-cam-nhat-lịch-sủ-lang-giai-tri-the-gioi\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/nhung-doi-moi-dep-goi-cam-nhat-lịch-sủ-lang-giai-tri-the-gioi/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\nhung-doi-moi-dep-goi-cam-nhat-lịch-sủ-lang-giai-tri-the-gioi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/nhung-sao-nu-chau-a-so-huu-chiec-mui-dep-dat-chuan/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\nhung-sao-nu-chau-a-so-huu-chiec-mui-dep-dat-chuan\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/nhung-sao-nu-chau-a-so-huu-chiec-mui-dep-dat-chuan/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\nhung-sao-nu-chau-a-so-huu-chiec-mui-dep-dat-chuan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/trai-nghiem-cong-nghe-tam-trang-toan-than-2-trong-1-hieu-qua/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\trai-nghiem-cong-nghe-tam-trang-toan-than-2-trong-1-hieu-qua\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/trai-nghiem-cong-nghe-tam-trang-toan-than-2-trong-1-hieu-qua/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\trai-nghiem-cong-nghe-tam-trang-toan-than-2-trong-1-hieu-qua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/trị-sẹo-tham-bang-nguyen-liẹu-tụ-nhien-hiẹu-quả-nhat/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\trị-sẹo-tham-bang-nguyen-liẹu-tụ-nhien-hiẹu-quả-nhat\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/trị-sẹo-tham-bang-nguyen-liẹu-tụ-nhien-hiẹu-quả-nhat/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\trị-sẹo-tham-bang-nguyen-liẹu-tụ-nhien-hiẹu-quả-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/vi-sao-nang-mui-s-line-rat-duoc-ua-chuong-tai-viet-nam/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\vi-sao-nang-mui-s-line-rat-duoc-ua-chuong-tai-viet-nam\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/2017/07/09/vi-sao-nang-mui-s-line-rat-duoc-ua-chuong-tai-viet-nam/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\2017\07\09\vi-sao-nang-mui-s-line-rat-duoc-ua-chuong-tai-viet-nam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/author/giuselethien/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\author\giuselethien\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/author/giuselethien/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\author\giuselethien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/cang-da-2/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\cang-da-2\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/cat-mat/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\cat-mat\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/category/bi-quyet-lam-dep/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\category\bi-quyet-lam-dep\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/category/bi-quyet-lam-dep/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\category\bi-quyet-lam-dep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/category/phau-thuat-tham-my/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\category\phau-thuat-tham-my\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/category/phau-thuat-tham-my/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\category\phau-thuat-tham-my\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/comments/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/don-cam-2/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\don-cam-2\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/feed/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://clinic.ninhbinhweb.com/hut-mo-bung/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\hut-mo-bung\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/lien-he/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/nang-mui-boc-sun/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\nang-mui-boc-sun\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/nang-nguc/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\nang-nguc\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/phau-thuat-tham-my/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\phau-thuat-tham-my\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/ve-chung-toi/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\ve-chung-toi\index.htm
+Content Type: text/html
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/plugins/contentprotector/js/jquery.watermark.js?ver=5.7.6
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\plugins\contentprotector\js\jquery.watermark.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM Avo.eot
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM Avo.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM Avo.svg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM Avo.svg
+Content Type: image/svg+xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM Avo.ttf
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM Avo.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM Avo.woff
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM Avo.woff
+Content Type: application/font-woff
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM AvoBold.eot
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM AvoBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM AvoBold.svg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM AvoBold.svg
+Content Type: image/svg+xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM AvoBold.ttf
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM AvoBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/font/UTM AvoBold.woff
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\font\UTM AvoBold.woff
+Content Type: application/font-woff
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/themes/thammyvientsnhan/style.css?ver=3.0
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\themes\thammyvientsnhan\style.css
+Content Type: text/css
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/2015-1-16-225x300.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\2015-1-16-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/2015-1-16.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\2015-1-16.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/453436-1-1024x439.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\453436-1-1024x439.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/453436-1-300x129.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\453436-1-300x129.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/453436-1-768x330.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\453436-1-768x330.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/453436-1.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\453436-1.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/AN-TOAN-CHO-BAN.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\AN-TOAN-CHO-BAN.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/bam-mi-mat-dove-eye-ap-dung-cho-doi-tuong-nao-300x300-150x150.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\bam-mi-mat-dove-eye-ap-dung-cho-doi-tuong-nao-300x300-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/bam-mi-mat-dove-eye-ap-dung-cho-doi-tuong-nao-300x300.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\bam-mi-mat-dove-eye-ap-dung-cho-doi-tuong-nao-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Bam-mi5-300x59.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Bam-mi5-300x59.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Bam-mi5.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Bam-mi5.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner1-1024x366.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner1-1024x366.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner1-300x107.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner1-300x107.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner1-768x275.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner1-768x275.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner1.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner1.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner10-1024x170.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner10-1024x170.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner10-300x50.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner10-300x50.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner10-768x128.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner10-768x128.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner10.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner10.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-1-300x104.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-1-300x104.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-1-768x265.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-1-768x265.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-1.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-1.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-3-300x104.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-3-300x104.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-3-768x265.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-3-768x265.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-3.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-3.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-300x104.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-300x104.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11-768x265.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11-768x265.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner11.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner11.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/BANNER12-300x221.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\BANNER12-300x221.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/BANNER12.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\BANNER12.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner2-1024x213.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner2-1024x213.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner3.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner3.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/BANNER45-300x104.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\BANNER45-300x104.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/BANNER45-768x265.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\BANNER45-768x265.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/BANNER45.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\BANNER45.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/banner6.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\banner6.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/bat-mi-cach-giam-mo-bung-nhanh-cho-nu-150x150.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\bat-mi-cach-giam-mo-bung-nhanh-cho-nu-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/bat-mi-cach-giam-mo-bung-nhanh-cho-nu-300x300.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\bat-mi-cach-giam-mo-bung-nhanh-cho-nu-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/bat-mi-cach-giam-mo-bung-nhanh-cho-nu.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\bat-mi-cach-giam-mo-bung-nhanh-cho-nu.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/cach-giam-mo-bung-1024x682.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\cach-giam-mo-bung-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/cach-giam-mo-bung-300x200.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\cach-giam-mo-bung-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/cach-giam-mo-bung-768x512.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\cach-giam-mo-bung-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/cach-giam-mo-bung.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\cach-giam-mo-bung.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/cang-da-150x150.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\cang-da-150x150.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/cang-da-300x300.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\cang-da-300x300.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/cang-da.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\cang-da.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/CAT-MI-MAT-150x150.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\CAT-MI-MAT-150x150.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/CAT-MI-MAT-300x300.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\CAT-MI-MAT-300x300.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Cat-mi-mat-Plasma6-300x54.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Cat-mi-mat-Plasma6-300x54.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Cat-mi-mat-Plasma6-768x139.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Cat-mi-mat-Plasma6-768x139.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Cat-mi-mat-Plasma6.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Cat-mi-mat-Plasma6.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/CAT-MI-MAT.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\CAT-MI-MAT.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/dich-vu-tam-trang-1-300x156.jpeg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\dich-vu-tam-trang-1-300x156.jpeg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/dich-vu-tam-trang-1.jpeg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\dich-vu-tam-trang-1.jpeg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/DON-CAM-150x150.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\DON-CAM-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/DON-CAM-300x300.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\DON-CAM-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/DON-CAM.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\DON-CAM.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/got-cam-3d-1-300x234.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\got-cam-3d-1-300x234.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/got-cam-3d-1.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\got-cam-3d-1.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/hạ-gò-má-3-300x229.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\hạ-gò-má-3-300x229.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/hạ-gò-má-3.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\hạ-gò-má-3.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/HOA-HAU-THU-THAO-150x150.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\HOA-HAU-THU-THAO-150x150.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/HOA-HAU-THU-THAO-300x300.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\HOA-HAU-THU-THAO-300x300.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/HOA-HAU-THU-THAO.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\HOA-HAU-THU-THAO.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/HUT-MO-VUNG-150x150.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\HUT-MO-VUNG-150x150.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/HUT-MO-VUNG-300x300.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\HUT-MO-VUNG-300x300.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/HUT-MO-VUNG.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\HUT-MO-VUNG.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Làn-da-đẹp-trong-12-ngày-300x230.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Làn-da-đẹp-trong-12-ngày-300x230.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Làn-da-đẹp-trong-12-ngày.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Làn-da-đẹp-trong-12-ngày.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/NANG-MUI-BOC-SUN-150x150.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\NANG-MUI-BOC-SUN-150x150.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/NANG-MUI-BOC-SUN-300x300.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\NANG-MUI-BOC-SUN-300x300.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/NANG-MUI-BOC-SUN.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\NANG-MUI-BOC-SUN.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/NANG-NGUC-150x150.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\NANG-NGUC-150x150.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/NANG-NGUC-300x300.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\NANG-NGUC-300x300.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/NANG-NGUC.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\NANG-NGUC.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/phun-moi-bong-pha-le-5-300x205.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\phun-moi-bong-pha-le-5-300x205.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/phun-moi-bong-pha-le-5.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\phun-moi-bong-pha-le-5.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/SHARP.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\SHARP.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Slide-banner-2911-1024x360.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Slide-banner-2911-1024x360.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Slide-banner-2911-300x105.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Slide-banner-2911-300x105.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Slide-banner-2911-768x270.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Slide-banner-2911-768x270.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/Slide-banner-2911.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\Slide-banner-2911.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/tải-xuống-150x150.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\tải-xuống-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/tải-xuống.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\tải-xuống.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/tao-ma-lum-dong-tien-co-anh-huong-den-khoang-mieng-khong-300x244.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\tao-ma-lum-dong-tien-co-anh-huong-den-khoang-mieng-khong-300x244.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/tao-ma-lum-dong-tien-co-anh-huong-den-khoang-mieng-khong.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\tao-ma-lum-dong-tien-co-anh-huong-den-khoang-mieng-khong.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/tri-seo-mun-hieu-qua-bang-cac-than-duoc-tu-thien-nhien-2-300x251.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\tri-seo-mun-hieu-qua-bang-cac-than-duoc-tu-thien-nhien-2-300x251.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/tri-seo-mun-hieu-qua-bang-cac-than-duoc-tu-thien-nhien-2.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\tri-seo-mun-hieu-qua-bang-cac-than-duoc-tu-thien-nhien-2.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/UU-DAI-HAP-DAN-1.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\UU-DAI-HAP-DAN-1.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/vi-sao-chon-chung-toi.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\vi-sao-chon-chung-toi.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/zoom-can-canh-mui-dep-cua-sao-1-300x213.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\zoom-can-canh-mui-dep-cua-sao-1-300x213.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/07/zoom-can-canh-mui-dep-cua-sao-1.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\07\zoom-can-canh-mui-dep-cua-sao-1.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2017/09/bg.jpg
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2017\09\bg.jpg
+Content Type: image/jpeg
+
+Uri: http://clinic.ninhbinhweb.com/wp-content/uploads/2021/07/logo-giuse-1-01-01.png
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-content\uploads\2021\07\logo-giuse-1-01-01.png
+Content Type: image/png
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.6
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/js/comment-reply.min.js?ver=5.7.6
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/js/wp-embed.min.js?ver=5.7.6
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://clinic.ninhbinhweb.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F06%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F06%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2F4-thac-mac-sieu-nho-nhung-quan-trong-khi-tao-ma-lum%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2F4-thac-mac-sieu-nho-nhung-quan-trong-khi-tao-ma-lum%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fcach-lam-trang-da-toan-than-tai-nha-sieu-hieu-qua%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fcach-lam-trang-da-toan-than-tai-nha-sieu-hieu-qua%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fdia-diem-bam-mi-han-quoc-o-dau-an-toan-hieu-qua-nhat%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fdia-diem-bam-mi-han-quoc-o-dau-an-toan-hieu-qua-nhat%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fnhung-doi-moi-dep-goi-cam-nhat-li%25cc%25a3ch-su%25cc%2589-lang-giai-tri-the-gioi%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fnhung-doi-moi-dep-goi-cam-nhat-li%25cc%25a3ch-su%25cc%2589-lang-giai-tri-the-gioi%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fnhung-sao-nu-chau-a-so-huu-chiec-mui-dep-dat-chuan%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fnhung-sao-nu-chau-a-so-huu-chiec-mui-dep-dat-chuan%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Ftrai-nghiem-cong-nghe-tam-trang-toan-than-2-trong-1-hieu-qua%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Ftrai-nghiem-cong-nghe-tam-trang-toan-than-2-trong-1-hieu-qua%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Ftri%25cc%25a3-se%25cc%25a3o-tham-bang-nguyen-lie%25cc%25a3u-tu%25cc%25a3-nhien-hie%25cc%25a3u-qua%25cc%2589-nhat%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Ftri%25cc%25a3-se%25cc%25a3o-tham-bang-nguyen-lie%25cc%25a3u-tu%25cc%25a3-nhien-hie%25cc%25a3u-qua%25cc%2589-nhat%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fvi-sao-nang-mui-s-line-rat-duoc-ua-chuong-tai-viet-nam%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2F2017%2F07%2F09%2Fvi-sao-nang-mui-s-line-rat-duoc-ua-chuong-tai-viet-nam%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fcang-da-2%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fcang-da-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fcat-mat%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fcat-mat%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fdon-cam-2%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fdon-cam-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fhut-mo-bung%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fhut-mo-bung%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fnang-mui-boc-sun%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fnang-mui-boc-sun%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fnang-nguc%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fnang-nguc%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fphau-thuat-tham-my%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fphau-thuat-tham-my%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fve-chung-toi%2F
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/oembed/1.0/embed?url=http:%2F%2Fclinic.ninhbinhweb.com%2Fve-chung-toi%2F&format=xml
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/15
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\15
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/4
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\4
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/672
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\672
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/694
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\694
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/707
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\707
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/263
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\263
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/266
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\266
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/269
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\269
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/324
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\324
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/327
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\327
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/330
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\330
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/333
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\333
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/posts/335
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\posts\335
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://clinic.ninhbinhweb.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F06%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252F4-thac-mac-sieu-nho-nhung-quan-trong-khi-tao-ma-lum%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252Fcach-lam-trang-da-toan-than-tai-nha-sieu-hieu-qua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252Fdia-diem-bam-mi-han-quoc-o-dau-an-toan-hieu-qua-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252Fnhung-doi-moi-dep-goi-cam-nhat-li%25CC%25A3ch-su%25CC%2589-lang-giai-tri-the-gioi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252Fnhung-sao-nu-chau-a-so-huu-chiec-mui-dep-dat-chuan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252Ftrai-nghiem-cong-nghe-tam-trang-toan-than-2-trong-1-hieu-qua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252Ftri%25CC%25A3-se%25CC%25A3o-tham-bang-nguyen-lie%25CC%25A3u-tu%25CC%25A3-nhien-hie%25CC%25A3u-qua%25CC%2589-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252F2017%252F07%252F09%252Fvi-sao-nang-mui-s-line-rat-duoc-ua-chuong-tai-viet-nam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fclinic.ninhbinhweb.com%252Flien-he%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\clinic.ninhbinhweb.com\login.php
+Content Type: application/xhtml+xml
+

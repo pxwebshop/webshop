@@ -188,6 +188,7 @@ list
     display: flex;
     flex-wrap: wrap;
     margin-left: -10px;
+    margin-top: 13px;
     
     &__item {
         width: 25%;
@@ -221,16 +222,20 @@ list
             padding: 30px 15px;
         }
         &--background1 {
-            background-color: $colorBlue1;
+            // background-color: $colorBlue3;
+            background-color: $color1;
         }
         &--background2 {
-            background-color: $colorBlue2;
+            // background-color: $colorBlue2;
+            background-color: $color2;
         }
         &--background3 {
-            background-color: $colorRed1;
+            // background-color: $colorBlue5;
+            background-color: $color3;
         }
         &--background4 {
-            background-color: $colorRed;
+            // background-color: $colorBlue6;
+            background-color: $color4;
         }
     }
     &__title {
@@ -269,7 +274,8 @@ list
         padding: 20px;
         font-size: 1.6rem;
         text-transform: uppercase;
-        background-color: $colorBlue2;
+        background-color: $colorBlue5;
+        color: $colorWhite;
         font-weight: 600;
         transition: all 0.5s;
         border: 1px solid $colorLightGrey;
@@ -285,7 +291,6 @@ list
             border: 1px solid $colorRed;
             box-shadow: 0 0 5px $colorLightGrey;
             background-color: $colorRed;
-            color: $colorWhite;
         }
     }
 }
@@ -351,6 +356,7 @@ list
 
 .c-list6 {
     $root: &;
+    margin-top: 30px;
     width: 100%;
     text-align: center;
 
@@ -371,7 +377,7 @@ list
         }
     }
     &__img {
-        width:100%;
+        width: 90%;
         border: 1px solid #fff;
         img {
             border-radius: 10%;
@@ -523,10 +529,10 @@ list
             
             span {
                 font-size: 1.3rem;
-                padding: 5px;
+                padding: 3px;
                 border-radius: 5px;
                 background-color: $colorGrey3;
-                line-height: 2.3;
+                line-height: 2.5;
                 color: $colorWhite;
                 border: 1px solid $colorGrey;
             }
@@ -577,7 +583,7 @@ list
         padding: 30px 0;
     }
     &__item1, &__item3, &__item5 {
-        background: $colorBlue5;
+        background: $colorBlue3;
     }
     &__content {
         display: flex;
@@ -634,7 +640,7 @@ list
         line-height: 1.5;
         margin-bottom: 30px;
         text-transform: uppercase;
-        background-color: $colorBlue2;
+        background-color: $colorBlue5;
         color: $colorWhite;
         font-weight: bold;
         border: transparent;

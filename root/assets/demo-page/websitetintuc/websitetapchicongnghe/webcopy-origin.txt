@@ -1,0 +1,892 @@
+Uri: https://fonts.googleapis.com/css?family=Comfortaa:regular%2C700%2Cregular%2C700|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v37/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\s\comfortaa\v37\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v37/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\s\comfortaa\v37\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4Y_LDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\s\dancingscript\v22\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fcong-nghe%252Floi-ich-cua-viec-tham-gia-hackathon-danh-cho-tre-em-la-gi.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fcong-nghe%252Fmining-coin-voi-card-do-hoa-cao.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fcong-nghe%252Fsinh-vien-ky-thuat-lam-viec-trong-phong-thi-nghiem.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fcong-nghe%252Fsinh-vien-tien-hanh-du-an-robotics.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fdi-dong%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-5.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fdi-dong%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-6.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fdi-dong%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-8.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fdien-tu%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-4.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fdien-tu%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-7.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Fgame-play%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-3.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Finternet%252Fgioi-thieu-card-do-hoa-gigabyte.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Ftien-ich%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-2.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Ftapchicongnghe.shostweb.com%252Ftien-ich%252Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://resources.shost.vn/images/logo-shostvn-light.svg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\images\logo-shostvn-light.svg
+Content Type: image/svg+xml
+
+Uri: https://tapchicongnghe.shostweb.com/
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\index.htm
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/animation
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\animation.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/animation/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\animation\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/comments/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\comments\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/loi-ich-cua-viec-tham-gia-hackathon-danh-cho-tre-em-la-gi.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\loi-ich-cua-viec-tham-gia-hackathon-danh-cho-tre-em-la-gi.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/loi-ich-cua-viec-tham-gia-hackathon-danh-cho-tre-em-la-gi.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\loi-ich-cua-viec-tham-gia-hackathon-danh-cho-tre-em-la-gi.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/mining-coin-voi-card-do-hoa-cao.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\mining-coin-voi-card-do-hoa-cao.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/mining-coin-voi-card-do-hoa-cao.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\mining-coin-voi-card-do-hoa-cao.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/sinh-vien-ky-thuat-lam-viec-trong-phong-thi-nghiem.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\sinh-vien-ky-thuat-lam-viec-trong-phong-thi-nghiem.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/sinh-vien-ky-thuat-lam-viec-trong-phong-thi-nghiem.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\sinh-vien-ky-thuat-lam-viec-trong-phong-thi-nghiem.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/sinh-vien-tien-hanh-du-an-robotics.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\sinh-vien-tien-hanh-du-an-robotics.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/cong-nghe/sinh-vien-tien-hanh-du-an-robotics.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\cong-nghe\sinh-vien-tien-hanh-du-an-robotics.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-5.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-5.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-5.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-5.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-6.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-6.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-6.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-6.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-8.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-8.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/di-dong/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-8.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\di-dong\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-8.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/dien-tu
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\dien-tu.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/dien-tu/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\dien-tu\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/dien-tu/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-4.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\dien-tu\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-4.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/dien-tu/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-4.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\dien-tu\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-4.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/dien-tu/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-7.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\dien-tu\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-7.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/dien-tu/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-7.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\dien-tu\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-7.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/game-play
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\game-play.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/game-play/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\game-play\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/game-play/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-3.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\game-play\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-3.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/game-play/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-3.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\game-play\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-3.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/internet
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\internet.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/internet/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\internet\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/internet/gioi-thieu-card-do-hoa-gigabyte.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\internet\gioi-thieu-card-do-hoa-gigabyte.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/internet/gioi-thieu-card-do-hoa-gigabyte.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\internet\gioi-thieu-card-do-hoa-gigabyte.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/o-to
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\o-to.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/o-to/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\o-to\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/tien-ich
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\tien-ich.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/tien-ich/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\tien-ich\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/tien-ich/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-2.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\tien-ich\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-2.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/tien-ich/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-2.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\tien-ich\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-2.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/tien-ich/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\tien-ich\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri.html
+Content Type: text/html
+
+Uri: https://tapchicongnghe.shostweb.com/tien-ich/trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri.html/feed
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\tien-ich\trinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/css/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\css\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/css/apps.css?ver=5.8.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\css\apps.css
+Content Type: text/css
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\css\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\css\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\css\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\css\fonts\slick.ttf
+Content Type: application/font-sfnt
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/css/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\css\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/js/apps.js?ver=5.8.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\js\apps.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome-child/assets/js/slick.min.js?ver=5.8.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome-child\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.14.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.14.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.14.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.14.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/font-sfnt
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.14.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.14.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=295a0d1d1e8168b25a51f884bffa7b33
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.14.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/949284-1-150x150.png
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\949284-1-150x150.png
+Content Type: image/png
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/949284-1-300x300.png
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\949284-1-300x300.png
+Content Type: image/png
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/949284-1.png
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\949284-1.png
+Content Type: image/png
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/adult-blur-close-up-267394-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\adult-blur-close-up-267394-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/adult-blur-close-up-267394-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\adult-blur-close-up-267394-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/adult-blur-close-up-267394-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\adult-blur-close-up-267394-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/adult-blur-close-up-267394-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\adult-blur-close-up-267394-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/alex-knight-199368-unsplash-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\alex-knight-199368-unsplash-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/alex-knight-199368-unsplash-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\alex-knight-199368-unsplash-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/alex-knight-199368-unsplash-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\alex-knight-199368-unsplash-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/alex-knight-199368-unsplash-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\alex-knight-199368-unsplash-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/apple-device-computer-dark-986812-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\apple-device-computer-dark-986812-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/apple-device-computer-dark-986812-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\apple-device-computer-dark-986812-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/apple-device-computer-dark-986812-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\apple-device-computer-dark-986812-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/apple-device-computer-dark-986812-1024x788-2.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\apple-device-computer-dark-986812-1024x788-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/blue-child-glass-wall-1181347-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\blue-child-glass-wall-1181347-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/blue-child-glass-wall-1181347-1300x731-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\blue-child-glass-wall-1181347-1300x731-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/blue-child-glass-wall-1181347-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\blue-child-glass-wall-1181347-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/blue-child-glass-wall-1181347-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\blue-child-glass-wall-1181347-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/blue-child-glass-wall-1181347-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\blue-child-glass-wall-1181347-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/camera-drone-fly-109003-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\camera-drone-fly-109003-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/camera-drone-fly-109003-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\camera-drone-fly-109003-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/camera-drone-fly-109003-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\camera-drone-fly-109003-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/camera-drone-fly-109003-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\camera-drone-fly-109003-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/corinne-kutz-211254-unsplash-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\corinne-kutz-211254-unsplash-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/corinne-kutz-211254-unsplash-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\corinne-kutz-211254-unsplash-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/corinne-kutz-211254-unsplash-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\corinne-kutz-211254-unsplash-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/corinne-kutz-211254-unsplash-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\corinne-kutz-211254-unsplash-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\cryptocurrency-mining-rig-technological-details-P4D7PWV-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1074289-unsplash-768x768-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1074289-unsplash-768x768-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1074289-unsplash-768x768-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1074289-unsplash-768x768-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1074289-unsplash-768x768-2.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1074289-unsplash-768x768-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1156463-unsplash-501x287-1-300x172.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1156463-unsplash-501x287-1-300x172.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1156463-unsplash-501x287-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1156463-unsplash-501x287-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1156463-unsplash-768x768-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1156463-unsplash-768x768-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1156463-unsplash-768x768-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1156463-unsplash-768x768-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1156463-unsplash-768x768-2.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1156463-unsplash-768x768-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1318728-unsplash-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1318728-unsplash-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1318728-unsplash-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1318728-unsplash-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1318728-unsplash-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1318728-unsplash-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/daniel-korpai-1318728-unsplash-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\daniel-korpai-1318728-unsplash-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/dark-electronic-electronics-424436-768x768-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\dark-electronic-electronics-424436-768x768-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/dark-electronic-electronics-424436-768x768-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\dark-electronic-electronics-424436-768x768-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/dark-electronic-electronics-424436-768x768-2.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\dark-electronic-electronics-424436-768x768-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/engineering-students-working-in-the-lab-PESV4KM-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\engineering-students-working-in-the-lab-PESV4KM-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/engineering-students-working-in-the-lab-PESV4KM-1300x731-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\engineering-students-working-in-the-lab-PESV4KM-1300x731-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/engineering-students-working-in-the-lab-PESV4KM-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\engineering-students-working-in-the-lab-PESV4KM-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/engineering-students-working-in-the-lab-PESV4KM-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\engineering-students-working-in-the-lab-PESV4KM-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/engineering-students-working-in-the-lab-PESV4KM-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\engineering-students-working-in-the-lab-PESV4KM-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/evgen-kuhto-1304030-unsplash-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\evgen-kuhto-1304030-unsplash-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/evgen-kuhto-1304030-unsplash-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\evgen-kuhto-1304030-unsplash-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/evgen-kuhto-1304030-unsplash-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\evgen-kuhto-1304030-unsplash-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/evgen-kuhto-1304030-unsplash-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\evgen-kuhto-1304030-unsplash-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/favicon-150x150.png
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\favicon-150x150.png
+Content Type: image/png
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/favicon.png
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\favicon.png
+Content Type: image/png
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/logo-demo-technews-light.svg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\logo-demo-technews-light.svg
+Content Type: image/svg+xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/logo-demo-technews.svg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\logo-demo-technews.svg
+Content Type: image/svg+xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/malte-wingen-381991-unsplash-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\malte-wingen-381991-unsplash-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/malte-wingen-381991-unsplash-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\malte-wingen-381991-unsplash-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/malte-wingen-381991-unsplash-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\malte-wingen-381991-unsplash-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/malte-wingen-381991-unsplash-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\malte-wingen-381991-unsplash-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/rafael-pol-474017-unsplash-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\rafael-pol-474017-unsplash-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/rafael-pol-474017-unsplash-1300x731-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\rafael-pol-474017-unsplash-1300x731-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/rafael-pol-474017-unsplash-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\rafael-pol-474017-unsplash-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/rafael-pol-474017-unsplash-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\rafael-pol-474017-unsplash-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/rafael-pol-474017-unsplash-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\rafael-pol-474017-unsplash-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\robotic-arm-modern-industrial-technology-DUCYZJ7-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-300x169.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-768x432.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\young-student-of-robotics-working-on-project-S32GWUC-1300x731-1-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-content/uploads/2021/09/young-student-of-robotics-working-on-project-S32GWUC-1300x731-1.jpg
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\09\young-student-of-robotics-working-on-project-S32GWUC-1300x731-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tapchicongnghe.shostweb.com/wp-includes/js/comment-reply.min.js?ver=5.8.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-includes/js/hoverIntent.min.js?ver=1.10.1
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-includes/js/wp-embed.min.js?ver=5.8.3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://tapchicongnghe.shostweb.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2F
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Floi-ich-cua-viec-tham-gia-hackathon-danh-cho-tre-em-la-gi.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Floi-ich-cua-viec-tham-gia-hackathon-danh-cho-tre-em-la-gi.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Fmining-coin-voi-card-do-hoa-cao.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Fmining-coin-voi-card-do-hoa-cao.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Fsinh-vien-ky-thuat-lam-viec-trong-phong-thi-nghiem.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Fsinh-vien-ky-thuat-lam-viec-trong-phong-thi-nghiem.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Fsinh-vien-tien-hanh-du-an-robotics.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fcong-nghe%2Fsinh-vien-tien-hanh-du-an-robotics.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdi-dong%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-5.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdi-dong%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-5.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdi-dong%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-6.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdi-dong%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-6.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdi-dong%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-8.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdi-dong%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-8.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdien-tu%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-4.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdien-tu%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-4.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdien-tu%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-7.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fdien-tu%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-7.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fgame-play%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-3.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Fgame-play%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-3.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Finternet%2Fgioi-thieu-card-do-hoa-gigabyte.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Finternet%2Fgioi-thieu-card-do-hoa-gigabyte.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Ftien-ich%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-2.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Ftien-ich%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri-2.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Ftien-ich%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri.html
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftapchicongnghe.shostweb.com%2Ftien-ich%2Ftrinh-duyet-edge-moi-cua-microsoft-trong-rat-giong-chrome-trong-ban-ro-ri.html&format=xml
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/10
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\10
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/categories/9
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\categories\9
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/pages/148
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\pages\148
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/102
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\102
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/15
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\15
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/252
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\252
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/256
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\256
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/262
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\262
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/35
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\35
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/38
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\38
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/41
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\41
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/58
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\58
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/64
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\64
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/71
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\71
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/76
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\76
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/wp-json/wp/v2/posts/97
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-json\wp\v2\posts\97
+Content Type: application/json
+
+Uri: https://tapchicongnghe.shostweb.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.shost.vn/wp-content/uploads/2021/07/Hosting-wordpress-240-400-x2.gif
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\07\Hosting-wordpress-240-400-x2.gif
+Content Type: image/gif
+
+Uri: https://www.shost.vn/wp-content/uploads/2021/07/website-mien-phi-popup.gif
+File Name: C:\Downloaded Web Sites\tapchicongnghe.shostweb.com\wp-content\uploads\2021\07\website-mien-phi-popup.gif
+Content Type: image/gif
+

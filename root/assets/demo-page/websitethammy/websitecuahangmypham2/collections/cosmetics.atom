@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/cosmetics.atom"/>
+  <title>Beauty Store</title>
+  <updated>2017-05-25T05:30:29-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+    <published>2017-05-25T05:30:29-04:00</published>
+    <updated>2017-05-25T05:30:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/football"/>
+    <title>Football</title>
+    <s:type>Foot Ball</s:type>
+    <s:vendor>Physique</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-6_34bc0a44-eff9-4bc6-9651-f4c2ae61e29a.jpg?v=1575030597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Physique<br>
+        <strong>Type: </strong>Foot Ball<br>
+        <strong>Price: </strong>
+            580.00 - 690.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/football">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Foot Ball</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Physique</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+      <title>M / Black</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387111952</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">690.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+    <published>2017-05-25T05:27:50-04:00</published>
+    <updated>2017-05-25T05:27:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/sports-jacket"/>
+    <title>Sports Jacket</title>
+    <s:type>Clothes</s:type>
+    <s:vendor>Amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-18_45d8fc0d-4940-4c90-9dd3-809e43150015.jpg?v=1575032291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazon<br>
+        <strong>Type: </strong>Clothes<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Hockey Stick Bag</s:tag>
+    <s:tag>Puma</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+      <title>S / Black</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+      <title>M / yellow</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387088080</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+    <published>2017-05-25T05:20:42-04:00</published>
+    <updated>2017-05-25T05:20:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/shuttlecocks"/>
+    <title>Shuttlecocks</title>
+    <s:type>Cork</s:type>
+    <s:vendor>Reebok Sports</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/product17.jpg?v=1575007710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reebok Sports<br>
+        <strong>Type: </strong>Cork<br>
+        <strong>Price: </strong>
+            358.00 - 427.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/shuttlecocks">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Cork</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Reebok Sports</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">372.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">358.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/9387049744</id>
+      <title>L / Red</title>
+      <s:price currency="USD">427.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

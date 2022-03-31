@@ -1,0 +1,412 @@
+Uri: http://utouchdesign.com/themes/envato/altroz_news/404.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\404.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/about.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\about.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/category-style1.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\category-style1.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/category-style2.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\category-style2.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/category-style3.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\category-style3.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/animate.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\animate.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/bootstrap.min.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/colorbox.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\colorbox.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/font-awesome.min.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/owl.carousel.min.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/owl.theme.default.min.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/responsive.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\responsive.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/css/style.css
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\css\style.css
+Content Type: text/css
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/fonts/fontawesome-webfont5b62.eot?v=4.6.3
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\fonts\fontawesome-webfont5b62.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/fonts/fontawesome-webfont5b62.svg?v=4.6.3
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\fonts\fontawesome-webfont5b62.svg
+Content Type: image/svg+xml
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/fonts/fontawesome-webfont5b62.ttf?v=4.6.3
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\fonts\fontawesome-webfont5b62.ttf
+Content Type: font/ttf
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/fonts/fontawesome-webfont5b62.woff2?v=4.6.3
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\fonts\fontawesome-webfont5b62.woff2
+Content Type: font/woff2
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/fonts/fontawesome-webfont5b62.woff?v=4.6.3
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\fonts\fontawesome-webfont5b62.woff
+Content Type: font/woff
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/fonts/fontawesome-webfontd41d.eot?
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/banner-ads/ad-content-one.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\banner-ads\ad-content-one.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/banner-ads/ad-content-two.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\banner-ads\ad-content-two.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/banner-ads/ad-sidebar.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\banner-ads\ad-sidebar.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/banner-ads/ad-top-header.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\banner-ads\ad-top-header.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/controls.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\controls.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/favicon.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\favicon.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/footer_bg.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\footer_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/logo.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\logo.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/nav_btn.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\nav_btn.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/author.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\author.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/architecture1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\architecture1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/architecture2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\architecture2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/architecture3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\architecture3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/architecture4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\architecture4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/food1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\food1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/food2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\food2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/food3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\food3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/food4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\food4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/health1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\health1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/health2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\health2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/health3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\health3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/health4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\health4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/health5.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\health5.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/travel1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\travel1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/travel2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\travel2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/travel3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\travel3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/travel4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\travel4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/lifestyle/travel5.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\lifestyle\travel5.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/news-details1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\news-details1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/review/review1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\review\review1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/review/review2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\review\review2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/review/review3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\review\review3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/review/review4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\review\review4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/gadget1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\gadget1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/gadget2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\gadget2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/gadget3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\gadget3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/gadget4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\gadget4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/gadget5.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\gadget5.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/game1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\game1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/game2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\game2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/game4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\game4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/game5.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\game5.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/robot1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\robot1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/robot2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\robot2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/robot3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\robot3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/robot4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\robot4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/tech/robot5.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\tech\robot5.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/user1.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\user1.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/user2.png
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\user2.png
+Content Type: image/png
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/video/video1.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\video\video1.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/video/video2.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\video\video2.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/video/video3.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\video\video3.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/images/news/video/video4.jpg
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\images\news\video\video4.jpg
+Content Type: image/jpeg
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/index-2.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\index-2.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/index-3.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\index-3.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/index.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\index.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/js/bootstrap.min.js
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/js/custom_script.js
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\js\custom_script.js
+Content Type: application/javascript
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/js/jquery-3.2.1.min.js
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\js\jquery-3.2.1.min.js
+Content Type: application/javascript
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/js/jquery.colorbox.js
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\js\jquery.colorbox.js
+Content Type: application/javascript
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/js/owl.carousel.min.js
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/js/popper.min.js
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/js/smoothscroll.js
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\js\smoothscroll.js
+Content Type: application/javascript
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/left-sidebar.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\left-sidebar.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/login-signup.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\login-signup.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/no-sidebar.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\no-sidebar.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/right-sidebar.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\right-sidebar.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/single-post1.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\single-post1.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/single-post2.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\single-post2.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/single-post3.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\single-post3.html
+Content Type: text/html
+
+Uri: http://utouchdesign.com/themes/envato/altroz_news/single-post4.html
+File Name: D:\cyotek-webcopy\utouchdesign.com\themes\envato\altroz_news\single-post4.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:300,400,500,600,700,800&display=swap
+File Name: D:\cyotek-webcopy\utouchdesign.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,500,600,700,800&display=swap
+File Name: D:\cyotek-webcopy\utouchdesign.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v22/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\nunito\v22\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v22/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\nunito\v22\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v22/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\nunito\v22\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v22/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\nunito\v22\XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v22/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\nunito\v22\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v22/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\nunito\v22\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\cyotek-webcopy\utouchdesign.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+

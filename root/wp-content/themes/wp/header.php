@@ -96,7 +96,6 @@
 				</ul>
 			</div>
 		</div>
-
 		<div class="c-header__gnav sp-only">
 			<div class="c-header__logoSp">
 				<a href="#">
@@ -181,4 +180,68 @@
 			</ul>
 		</nav>
 	</header>
+	<div class="c-header__sticky">
+		<div class="l-container pc-only">
+			<div class="c-header__inner">
+				<a href="/" class="c-header__logo">
+					<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
+				</a>
+				<ul class="c-header__menu">
+					<li class="c-header__item">
+						<a class="c-header__link" href="/">Trang chủ</a>
+					</li>
+					<li class="c-header__item">
+						<a class="c-header__link" href="/kho-giao-dien">Kho giao diện</a>
+					</li>
+					<li class="c-header__item c-header__item__services">
+						<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
+						<ul class="c-header__child">
+							<li class="c-header__child__item">
+								<a href="#">Thiết kế website</a>
+							</li>
+							<li class="c-header__child__item">
+								<a href="#">Viết phần mềm theo yêu cầu</a>
+							</li>
+							<li class="c-header__child__item">
+								<a href="#">Thiết kế banner</a>
+							</li>
+							<li class="c-header__child__item">
+								<a href="#">Lập trình web App</a>
+							</li>
+						</ul>
+					</li>
+					<li class="c-header__item">
+						<a class="c-header__link" href="/tin-tuc">Tin tức</a>
+					</li>
+					<li class="c-header__item c-header__item__abouts">
+						<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
+
+						<ul class="c-header__child">
+							<li class="c-header__child__item">
+								<a href="/gioi-thieu">Giới thiệu</a>
+							</li>
+							<li class="c-header__child__item">
+								<a href="/thanh-toan">Thanh toán</a>
+							</li>
+							<li class="c-header__child__item">
+								<a href="/lien-he">Liên Hệ</a>
+							</li>
+						</ul>
+					</li>
+					<li class="c-header__itemSeach">
+						<i class="fa-solid fa-magnifying-glass is-searchMenu"></i>
+						<div class="c-header__search">
+							<form action="" class="c-header__form">
+								<input type="text" placeholder="Nhập thông tin cần tìm">
+								<button class="c-header__btnSearch" type="submit">
+									<i class="fa-solid fa-magnifying-glass"></i>
+								</button>
+							</form>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
 	<!--▲ Header ▲-->

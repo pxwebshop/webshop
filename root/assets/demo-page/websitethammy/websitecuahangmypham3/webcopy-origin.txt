@@ -1,0 +1,1724 @@
+Uri: http://mypham4.ninhbinhweb.info/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/6-tuyp-kem-nha-nang-nay-chinh-la-sieu-cuu-tinh-cho-lan-da-bi-chay-nang-den-sam/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\6-tuyp-kem-nha-nang-nay-chinh-la-sieu-cuu-tinh-cho-lan-da-bi-chay-nang-den-sam\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/6-tuyp-kem-nha-nang-nay-chinh-la-sieu-cuu-tinh-cho-lan-da-bi-chay-nang-den-sam/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\6-tuyp-kem-nha-nang-nay-chinh-la-sieu-cuu-tinh-cho-lan-da-bi-chay-nang-den-sam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/author/ninhbinhweb-com/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\author\ninhbinhweb-com\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/author/ninhbinhweb-com/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\author\ninhbinhweb-com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/chan-ai-cham-da-cua-phu-nu-phap-chinh-la-su-dung-cang-it-san-pham-cang-tot/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\chan-ai-cham-da-cua-phu-nu-phap-chinh-la-su-dung-cang-it-san-pham-cang-tot\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/chan-ai-cham-da-cua-phu-nu-phap-chinh-la-su-dung-cang-it-san-pham-cang-tot/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\chan-ai-cham-da-cua-phu-nu-phap-chinh-la-su-dung-cang-it-san-pham-cang-tot\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/comments/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/cua-hang/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\cua-hang\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/chong-nang/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\chong-nang\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/chong-nang/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\chong-nang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/duong-the/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\duong-the\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/duong-the/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\duong-the\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/lan-khu-mui/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\lan-khu-mui\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/lan-khu-mui/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\lan-khu-mui\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/sua-tam/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\sua-tam\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-body/sua-tam/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-body\sua-tam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-da-mat/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-da-mat\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-da-mat/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-da-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-da-mat/sua-rua-mat/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-da-mat\sua-rua-mat\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/cham-soc-da-mat/sua-rua-mat/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\cham-soc-da-mat\sua-rua-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-da/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-toc/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-toc\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/cham-soc-toc/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\cham-soc-toc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/makeup/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\makeup\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/makeup/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\makeup\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/thuc-pham/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\thuc-pham\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/thuc-pham/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\thuc-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/tui-xach/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\tui-xach\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/danh-muc/tui-xach/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\danh-muc\tui-xach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/gio-hang/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\gio-hang\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/gioi-thieu/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/lien-he/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/nong-truoc-lanh-sau-bi-kip-rua-mat-chong-lao-hoa-giup-song-hye-kyo-giu-vung-nhan-sac-tuong-thanh/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\nong-truoc-lanh-sau-bi-kip-rua-mat-chong-lao-hoa-giup-song-hye-kyo-giu-vung-nhan-sac-tuong-thanh\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/nong-truoc-lanh-sau-bi-kip-rua-mat-chong-lao-hoa-giup-song-hye-kyo-giu-vung-nhan-sac-tuong-thanh/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\nong-truoc-lanh-sau-bi-kip-rua-mat-chong-lao-hoa-giup-song-hye-kyo-giu-vung-nhan-sac-tuong-thanh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/1181/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\1181\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/1181/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\1181\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/duong-the-trang-da-peiland-whitening-body-lotion-extra-moisturizing/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\duong-the-trang-da-peiland-whitening-body-lotion-extra-moisturizing\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/duong-the-trang-da-peiland-whitening-body-lotion-extra-moisturizing/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\duong-the-trang-da-peiland-whitening-body-lotion-extra-moisturizing\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/kem-chong-nang-neutrogena-beach-defense-spf-70-198ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\kem-chong-nang-neutrogena-beach-defense-spf-70-198ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/kem-chong-nang-neutrogena-beach-defense-spf-70-198ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\kem-chong-nang-neutrogena-beach-defense-spf-70-198ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/kem-duong-am-aveeno-active-naturals-daily-moisturizing-lotion-18oz-532ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\kem-duong-am-aveeno-active-naturals-daily-moisturizing-lotion-18oz-532ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/kem-duong-am-aveeno-active-naturals-daily-moisturizing-lotion-18oz-532ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\kem-duong-am-aveeno-active-naturals-daily-moisturizing-lotion-18oz-532ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/kem-xit-chong-nang-spf50-pa/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\kem-xit-chong-nang-spf50-pa\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/kem-xit-chong-nang-spf50-pa/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\kem-xit-chong-nang-spf50-pa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-dac-tri-hoi-nach-etiaxil-traitement-15ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-dac-tri-hoi-nach-etiaxil-traitement-15ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-dac-tri-hoi-nach-etiaxil-traitement-15ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-dac-tri-hoi-nach-etiaxil-traitement-15ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-giup-kho-thoang-vung-da-duoi-canh-tay-48h/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-giup-kho-thoang-vung-da-duoi-canh-tay-48h\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-giup-kho-thoang-vung-da-duoi-canh-tay-48h/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-giup-kho-thoang-vung-da-duoi-canh-tay-48h\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-nam-gillette-clear-gel-107gr/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-nam-gillette-clear-gel-107gr\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-nam-gillette-clear-gel-107gr/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-nam-gillette-clear-gel-107gr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-old-spice-canh-buom-do-my/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-old-spice-canh-buom-do-my\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-old-spice-canh-buom-do-my/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-old-spice-canh-buom-do-my\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-scion-pure-white-roll-on-nuskin/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-scion-pure-white-roll-on-nuskin\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/lan-khu-mui-scion-pure-white-roll-on-nuskin/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\lan-khu-mui-scion-pure-white-roll-on-nuskin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sap-khu-mui-degree-dry-protection-sheer-lilac/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sap-khu-mui-degree-dry-protection-sheer-lilac\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sap-khu-mui-degree-dry-protection-sheer-lilac/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sap-khu-mui-degree-dry-protection-sheer-lilac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sap-lan-khu-mui-degree-men-dry-protection-76g/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sap-lan-khu-mui-degree-men-dry-protection-76g\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sap-lan-khu-mui-degree-men-dry-protection-76g/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sap-lan-khu-mui-degree-men-dry-protection-76g\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-da-mo-ngua-loshi/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-da-mo-ngua-loshi\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-da-mo-ngua-loshi/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-da-mo-ngua-loshi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-the-jergen-ultra-healing-usa-621ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-the-jergen-ultra-healing-usa-621ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-the-jergen-ultra-healing-usa-621ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-the-jergen-ultra-healing-usa-621ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-the-peiland-trang-da-body-lotion-co-voi-350ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-the-peiland-trang-da-body-lotion-co-voi-350ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-the-peiland-trang-da-body-lotion-co-voi-350ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-the-peiland-trang-da-body-lotion-co-voi-350ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-the-vaseline-intensive-rescue-repairing-moisture-lotion/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-the-vaseline-intensive-rescue-repairing-moisture-lotion\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-the-vaseline-intensive-rescue-repairing-moisture-lotion/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-the-vaseline-intensive-rescue-repairing-moisture-lotion\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-trang-min-da-toan-than-peiland-whitening-body-lotion-250ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-trang-min-da-toan-than-peiland-whitening-body-lotion-250ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-duong-trang-min-da-toan-than-peiland-whitening-body-lotion-250ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-duong-trang-min-da-toan-than-peiland-whitening-body-lotion-250ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-bath-and-body-works-huong-cherry-blosssom/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-bath-and-body-works-huong-cherry-blosssom\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-bath-and-body-works-huong-cherry-blosssom/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-bath-and-body-works-huong-cherry-blosssom\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-caress-endless-kiss-532ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-caress-endless-kiss-532ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-caress-endless-kiss-532ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-caress-endless-kiss-532ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-duong-am-trang-da-hatomugi-600ml-mau-moi/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-duong-am-trang-da-hatomugi-600ml-mau-moi\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-duong-am-trang-da-hatomugi-600ml-mau-moi/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-duong-am-trang-da-hatomugi-600ml-mau-moi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-duong-dove-nhap-khau-my-710ml/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-duong-dove-nhap-khau-my-710ml\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/sua-tam-duong-dove-nhap-khau-my-710ml/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\sua-tam-duong-dove-nhap-khau-my-710ml\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/xit-chong-nang-neutrogena-beach-defense-sunscreen-spray-broad-spectrum-spf-70-184g/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\xit-chong-nang-neutrogena-beach-defense-sunscreen-spray-broad-spectrum-spf-70-184g\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/san-pham/xit-chong-nang-neutrogena-beach-defense-sunscreen-spray-broad-spectrum-spf-70-184g/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\san-pham\xit-chong-nang-neutrogena-beach-defense-sunscreen-spray-broad-spectrum-spf-70-184g\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/tai-khoan/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuc-hien-chuan-chinh-buoc-tay-da-chet-da-ban-se-sang-hong-bong-muot-va-tuoi-tre/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuc-hien-chuan-chinh-buoc-tay-da-chet-da-ban-se-sang-hong-bong-muot-va-tuoi-tre\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuc-hien-chuan-chinh-buoc-tay-da-chet-da-ban-se-sang-hong-bong-muot-va-tuoi-tre/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuc-hien-chuan-chinh-buoc-tay-da-chet-da-ban-se-sang-hong-bong-muot-va-tuoi-tre\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/3w-clinic/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\3w-clinic\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/3w-clinic/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\3w-clinic\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/abtei/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\abtei\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/abtei/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\abtei\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/bioderma/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\bioderma\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/bioderma/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\bioderma\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/biore/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\biore\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/biore/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\biore\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/cetaphil/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\cetaphil\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/cetaphil/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\cetaphil\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/dove/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\dove\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/dove/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\dove\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/gillette/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\gillette\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/gillette/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\gillette\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/jeudemeure/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\jeudemeure\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/jeudemeure/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\jeudemeure\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/locean/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\locean\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/locean/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\locean\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/loshi/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\loshi\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/loshi/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\loshi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/olay/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\olay\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/olay/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\olay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/peiland/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\peiland\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/peiland/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\peiland\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/senka/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\senka\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/senka/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\senka\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/shiseido/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\shiseido\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/shiseido/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\shiseido\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/thayers/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\thayers\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/thayers/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\thayers\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/vacci/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\vacci\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/vacci/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\vacci\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/vaseline/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\vaseline\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/vaseline/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\vaseline\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/vichy/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\vichy\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/thuong-hieu/vichy/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\thuong-hieu\vichy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/tin-tuc/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/trang-mau/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\trang-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mypham4.ninhbinhweb.info/wp-admin/js/password-strength-meter.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/cache/min/1/02adfb7a32d8dd10e69f640c16a04fd5.js
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\cache\min\1\02adfb7a32d8dd10e69f640c16a04fd5.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/cache/min/1/069d1cc27fea695e1ba1b7d420c018bb.css
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\cache\min\1\069d1cc27fea695e1ba1b7d420c018bb.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/cache/min/1/20b4567d9eba3a13544b7d01059196fc.js
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\cache\min\1\20b4567d9eba3a13544b7d01059196fc.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/cache/min/1/35f781179222e25ad079f85b96e3f75d.js
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\cache\min\1\35f781179222e25ad079f85b96e3f75d.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/cache/min/1/c8c8fa78e163f6a6fb03fb9bf7f76e91.js
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\cache\min\1\c8c8fa78e163f6a6fb03fb9bf7f76e91.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=2.1.3
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/perfect-woocommerce-brands/assets/css/styles-frontend.min.css?ver=1.9.4
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\perfect-woocommerce-brands\assets\css\styles-frontend.min.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/perfect-woocommerce-brands/assets/js/functions-frontend.min.js?ver=1.9.4
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\perfect-woocommerce-brands\assets\js\functions-frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=5.8.4
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2106
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\table-of-contents-plus\front.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2106
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\table-of-contents-plus\screen.min.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.5.6.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.5.1
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.5.1
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.8.3
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.8.3
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/lazy.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\lazy.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.8.3
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.8.3
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=1.0
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFutura.eot
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFutura.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFutura.eot?
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFutura-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFutura.ttf
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFutura.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFutura.woff
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFutura.woff
+Content Type: application/font-woff
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFutura.woff2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFutura.woff2
+Content Type: font/woff2
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFuturaBold.eot
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFuturaBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFuturaBold.eot?
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFuturaBold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFuturaBold.ttf
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFuturaBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFuturaBold.woff
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFuturaBold.woff
+Content Type: application/font-woff
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/font/SFUFuturaBold.woff2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\font\SFUFuturaBold.woff2
+Content Type: font/woff2
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/themes/my-pham/style.css?ver=3.0
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\themes\my-pham\style.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2018/05/00_Main_onlyone_BG.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2018\05\00_Main_onlyone_BG.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2018/05/phụ-nữ-pháp-1.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2018\05\phụ-nữ-pháp-1.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2018/05/support-1.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2018\05\support-1.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2018/05/support2.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2018\05\support2.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/1467278639logo_cetaphil_img_120x60_63ea52_fit_center.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\1467278639logo_cetaphil_img_120x60_63ea52_fit_center.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/1495618557Abtei-logo_img_120x60_63ea52_fit_center.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\1495618557Abtei-logo_img_120x60_63ea52_fit_center.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/14963736243w-clinic-logo_img_120x60_63ea52_fit_center-1.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\14963736243w-clinic-logo_img_120x60_63ea52_fit_center-1.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/banner-01.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\banner-01.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/banner-02.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\banner-02.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/banner-03.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\banner-03.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Banner1.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Banner1.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/bioderma.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\bioderma.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/biore.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\biore.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/check@2x.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\check@2x.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Dưỡng-thể-trắng-da-Peiland-Whitening-Body-lotion-Extra-Moisturizing-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Dưỡng-thể-trắng-da-Peiland-Whitening-Body-lotion-Extra-Moisturizing-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Dưỡng-thể-trắng-da-Peiland-Whitening-Body-lotion-Extra-Moisturizing-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Dưỡng-thể-trắng-da-Peiland-Whitening-Body-lotion-Extra-Moisturizing-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Dưỡng-thể-trắng-da-Peiland-Whitening-Body-lotion-Extra-Moisturizing.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Dưỡng-thể-trắng-da-Peiland-Whitening-Body-lotion-Extra-Moisturizing.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/dove.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\dove.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/duong-da-innisfree-greentea-balancing-trang-sang-nhu-yoona-snsd-medium-500x263.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\duong-da-innisfree-greentea-balancing-trang-sang-nhu-yoona-snsd-medium-500x263.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/duong-da-innisfree-greentea-balancing-trang-sang-nhu-yoona-snsd-medium.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\duong-da-innisfree-greentea-balancing-trang-sang-nhu-yoona-snsd-medium.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Fashion-summer-women-and-cosmetics-and-accessories-HD-picture-11.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Fashion-summer-women-and-cosmetics-and-accessories-HD-picture-11.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Gel-Dưỡng-Tạo-Kiểu-Tóc-TRESemme-Extra-Firm-Alcohol-Free.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Gel-Dưỡng-Tạo-Kiểu-Tóc-TRESemme-Extra-Firm-Alcohol-Free.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/gillette.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\gillette.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/GTkb9e_simg_d0daf0_800x1200_max-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\GTkb9e_simg_d0daf0_800x1200_max-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/GTkb9e_simg_d0daf0_800x1200_max-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\GTkb9e_simg_d0daf0_800x1200_max-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/GTkb9e_simg_d0daf0_800x1200_max.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\GTkb9e_simg_d0daf0_800x1200_max.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/hotline-2.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\hotline-2.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/hotline.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\hotline.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/icon-002.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\icon-002.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Jeu’Demeure.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Jeu’Demeure.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Kem-chống-nắng-Neutrogena-Beach-Defense-SPF-70-198ml-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Kem-chống-nắng-Neutrogena-Beach-Defense-SPF-70-198ml-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Kem-chống-nắng-Neutrogena-Beach-Defense-SPF-70-198ml-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Kem-chống-nắng-Neutrogena-Beach-Defense-SPF-70-198ml-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Kem-chống-nắng-Neutrogena-Beach-Defense-SPF-70-198ml.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Kem-chống-nắng-Neutrogena-Beach-Defense-SPF-70-198ml.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Kem-dưỡng-đặc-trị-da-mụn-Fresh-White-Sand-Platinum-Acne-Clarifying-Cream.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Kem-dưỡng-đặc-trị-da-mụn-Fresh-White-Sand-Platinum-Acne-Clarifying-Cream.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Kem-dưỡng-ẩm-Aveeno-Active-Naturals-Daily-Moisturizing-Lotion-18oz-532ml-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Kem-dưỡng-ẩm-Aveeno-Active-Naturals-Daily-Moisturizing-Lotion-18oz-532ml-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Kem-dưỡng-ẩm-Aveeno-Active-Naturals-Daily-Moisturizing-Lotion-18oz-532ml-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Kem-dưỡng-ẩm-Aveeno-Active-Naturals-Daily-Moisturizing-Lotion-18oz-532ml-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Kem-dưỡng-ẩm-Aveeno-Active-Naturals-Daily-Moisturizing-Lotion-18oz-532ml.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Kem-dưỡng-ẩm-Aveeno-Active-Naturals-Daily-Moisturizing-Lotion-18oz-532ml.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/LĂN-KHỬ-MÙI-OLD-SPICE-CÁNH-BUỒM-ĐỎMỸ-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\LĂN-KHỬ-MÙI-OLD-SPICE-CÁNH-BUỒM-ĐỎMỸ-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/LĂN-KHỬ-MÙI-OLD-SPICE-CÁNH-BUỒM-ĐỎMỸ-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\LĂN-KHỬ-MÙI-OLD-SPICE-CÁNH-BUỒM-ĐỎMỸ-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/LĂN-KHỬ-MÙI-OLD-SPICE-CÁNH-BUỒM-ĐỎMỸ.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\LĂN-KHỬ-MÙI-OLD-SPICE-CÁNH-BUỒM-ĐỎMỸ.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-khử-mùi-đặc-trị-hôi-nách-Etiaxil-Traitement-15ml-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-khử-mùi-đặc-trị-hôi-nách-Etiaxil-Traitement-15ml-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-khử-mùi-đặc-trị-hôi-nách-Etiaxil-Traitement-15ml-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-khử-mùi-đặc-trị-hôi-nách-Etiaxil-Traitement-15ml-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-khử-mùi-đặc-trị-hôi-nách-Etiaxil-Traitement-15ml.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-khử-mùi-đặc-trị-hôi-nách-Etiaxil-Traitement-15ml.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-Khử-Mùi-Nam-Gillette-Clear-Gel-107gr-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-Khử-Mùi-Nam-Gillette-Clear-Gel-107gr-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-Khử-Mùi-Nam-Gillette-Clear-Gel-107gr-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-Khử-Mùi-Nam-Gillette-Clear-Gel-107gr-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-Khử-Mùi-Nam-Gillette-Clear-Gel-107gr.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-Khử-Mùi-Nam-Gillette-Clear-Gel-107gr.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-Khử-Mùi-Scion-Pure-White-Roll-On-Nuskin-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-Khử-Mùi-Scion-Pure-White-Roll-On-Nuskin-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-Khử-Mùi-Scion-Pure-White-Roll-On-Nuskin-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-Khử-Mùi-Scion-Pure-White-Roll-On-Nuskin-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Lăn-Khử-Mùi-Scion-Pure-White-Roll-On-Nuskin.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Lăn-Khử-Mùi-Scion-Pure-White-Roll-On-Nuskin.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/locean.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\locean.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/logo-shiedo.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\logo-shiedo.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/loshi.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\loshi.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/NĂN-KHỬ-MÙI-GIÚP-KHÔ-THOÁNG-VÙNG-DA-DƯỚI-CÁNH-TAY-48H-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\NĂN-KHỬ-MÙI-GIÚP-KHÔ-THOÁNG-VÙNG-DA-DƯỚI-CÁNH-TAY-48H-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/NĂN-KHỬ-MÙI-GIÚP-KHÔ-THOÁNG-VÙNG-DA-DƯỚI-CÁNH-TAY-48H-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\NĂN-KHỬ-MÙI-GIÚP-KHÔ-THOÁNG-VÙNG-DA-DƯỚI-CÁNH-TAY-48H-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/NĂN-KHỬ-MÙI-GIÚP-KHÔ-THOÁNG-VÙNG-DA-DƯỚI-CÁNH-TAY-48H.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\NĂN-KHỬ-MÙI-GIÚP-KHÔ-THOÁNG-VÙNG-DA-DƯỚI-CÁNH-TAY-48H.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/olay.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\olay.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/peiland.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\peiland.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/photo-3-15636886154521764137747.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\photo-3-15636886154521764137747.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/photo-3-1563721676254632278558.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\photo-3-1563721676254632278558.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sáp-Khử-Mùi-Degree-Dry-Protection-Sheer-LiLac-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sáp-Khử-Mùi-Degree-Dry-Protection-Sheer-LiLac-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sáp-Khử-Mùi-Degree-Dry-Protection-Sheer-LiLac-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sáp-Khử-Mùi-Degree-Dry-Protection-Sheer-LiLac-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sáp-Khử-Mùi-Degree-Dry-Protection-Sheer-LiLac.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sáp-Khử-Mùi-Degree-Dry-Protection-Sheer-LiLac.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sáp-Lăn-Khử-Mùi-Degree-Men-Dry-Protection-76g-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sáp-Lăn-Khử-Mùi-Degree-Men-Dry-Protection-76g-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sáp-Lăn-Khử-Mùi-Degree-Men-Dry-Protection-76g-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sáp-Lăn-Khử-Mùi-Degree-Men-Dry-Protection-76g-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sáp-Lăn-Khử-Mùi-Degree-Men-Dry-Protection-76g.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sáp-Lăn-Khử-Mùi-Degree-Men-Dry-Protection-76g.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/SỮA-DƯỠNG-THỂ-PEILAND-TRẮNG-DA-BODY-LOTION-CÓ-VÒI-350ML-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\SỮA-DƯỠNG-THỂ-PEILAND-TRẮNG-DA-BODY-LOTION-CÓ-VÒI-350ML-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/SỮA-DƯỠNG-THỂ-PEILAND-TRẮNG-DA-BODY-LOTION-CÓ-VÒI-350ML-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\SỮA-DƯỠNG-THỂ-PEILAND-TRẮNG-DA-BODY-LOTION-CÓ-VÒI-350ML-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/SỮA-DƯỠNG-THỂ-PEILAND-TRẮNG-DA-BODY-LOTION-CÓ-VÒI-350ML.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\SỮA-DƯỠNG-THỂ-PEILAND-TRẮNG-DA-BODY-LOTION-CÓ-VÒI-350ML.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Dưỡng-Da-Mỡ-Ngựa-Loshi-Moist-Aid-Horse-Fat-Natural-Milk-Lotion-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Dưỡng-Da-Mỡ-Ngựa-Loshi-Moist-Aid-Horse-Fat-Natural-Milk-Lotion-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Dưỡng-Da-Mỡ-Ngựa-Loshi-Moist-Aid-Horse-Fat-Natural-Milk-Lotion-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Dưỡng-Da-Mỡ-Ngựa-Loshi-Moist-Aid-Horse-Fat-Natural-Milk-Lotion-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Dưỡng-Da-Mỡ-Ngựa-Loshi-Moist-Aid-Horse-Fat-Natural-Milk-Lotion.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Dưỡng-Da-Mỡ-Ngựa-Loshi-Moist-Aid-Horse-Fat-Natural-Milk-Lotion.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-dưỡng-thể-VASELINE-INTENSIVE-RESCUE-REPAIRING-MOISTURE-Lotion-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-dưỡng-thể-VASELINE-INTENSIVE-RESCUE-REPAIRING-MOISTURE-Lotion-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-dưỡng-thể-VASELINE-INTENSIVE-RESCUE-REPAIRING-MOISTURE-Lotion-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-dưỡng-thể-VASELINE-INTENSIVE-RESCUE-REPAIRING-MOISTURE-Lotion-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-dưỡng-thể-VASELINE-INTENSIVE-RESCUE-REPAIRING-MOISTURE-Lotion.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-dưỡng-thể-VASELINE-INTENSIVE-RESCUE-REPAIRING-MOISTURE-Lotion.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-dưỡng-trắng-mịn-da-toàn-thân-Peiland-Whitening-Body-Lotion-250ml-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-dưỡng-trắng-mịn-da-toàn-thân-Peiland-Whitening-Body-Lotion-250ml-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-dưỡng-trắng-mịn-da-toàn-thân-Peiland-Whitening-Body-Lotion-250ml-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-dưỡng-trắng-mịn-da-toàn-thân-Peiland-Whitening-Body-Lotion-250ml-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-dưỡng-trắng-mịn-da-toàn-thân-Peiland-Whitening-Body-Lotion-250ml.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-dưỡng-trắng-mịn-da-toàn-thân-Peiland-Whitening-Body-Lotion-250ml.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-tắm-Bath-And-Body-Works-hương-Cherry-Blosssom-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-tắm-Bath-And-Body-Works-hương-Cherry-Blosssom-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-tắm-Bath-And-Body-Works-hương-Cherry-Blosssom-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-tắm-Bath-And-Body-Works-hương-Cherry-Blosssom-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-tắm-Bath-And-Body-Works-hương-Cherry-Blosssom.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-tắm-Bath-And-Body-Works-hương-Cherry-Blosssom.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-tắm-Caress-Endless-Kiss-532ml-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-tắm-Caress-Endless-Kiss-532ml-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-tắm-Caress-Endless-Kiss-532ml-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-tắm-Caress-Endless-Kiss-532ml-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-tắm-Caress-Endless-Kiss-532ml.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-tắm-Caress-Endless-Kiss-532ml.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Tắm-Dưỡng-Ẩm-Trắng-Da-Hatomugi-600ml-Mẫu-Mới-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Tắm-Dưỡng-Ẩm-Trắng-Da-Hatomugi-600ml-Mẫu-Mới-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Tắm-Dưỡng-Ẩm-Trắng-Da-Hatomugi-600ml-Mẫu-Mới-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Tắm-Dưỡng-Ẩm-Trắng-Da-Hatomugi-600ml-Mẫu-Mới-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Tắm-Dưỡng-Ẩm-Trắng-Da-Hatomugi-600ml-Mẫu-Mới.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Tắm-Dưỡng-Ẩm-Trắng-Da-Hatomugi-600ml-Mẫu-Mới.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Tắm-Dưỡng-Dove-NHAP-KHAU-MY-710ML-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Tắm-Dưỡng-Dove-NHAP-KHAU-MY-710ML-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Tắm-Dưỡng-Dove-NHAP-KHAU-MY-710ML-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Tắm-Dưỡng-Dove-NHAP-KHAU-MY-710ML-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sữa-Tắm-Dưỡng-Dove-NHAP-KHAU-MY-710ML.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sữa-Tắm-Dưỡng-Dove-NHAP-KHAU-MY-710ML.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/sanka.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\sanka.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-014-500x117.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-014-500x117.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-014-768x180.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-014-768x180.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-014.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-014.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-02-500x117.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-02-500x117.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-02-768x180.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-02-768x180.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-02.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-02.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-3-500x117.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-3-500x117.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-3-768x180.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-3-768x180.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-3.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-3.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider-mobile.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider-mobile.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider1-500x117.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider1-500x117.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider1-768x180.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider1-768x180.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/slider1.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\slider1.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/songhyekyobientuongbaiphongvan1_hszn.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\songhyekyobientuongbaiphongvan1_hszn.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/SPF50-PA-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\SPF50-PA-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/SPF50-PA-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\SPF50-PA-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/SPF50-PA.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\SPF50-PA.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sua-tam-ong-chua-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sua-tam-ong-chua-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sua-tam-ong-chua-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sua-tam-ong-chua-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Sua-tam-ong-chua.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Sua-tam-ong-chua.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/tải-xuống.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\tải-xuống.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/thayers.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\thayers.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/title-divide.png
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\title-divide.png
+Content Type: image/png
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/vacci-logo.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\vacci-logo.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/vaseline.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\vaseline.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/vichy.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\vichy.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Xịt-Chống-Nắng-Neutrogena-Beach-Defense-Sunscreen-Spray-Broad-Spectrum-SPF-70-184g-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Xịt-Chống-Nắng-Neutrogena-Beach-Defense-Sunscreen-Spray-Broad-Spectrum-SPF-70-184g-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Xịt-Chống-Nắng-Neutrogena-Beach-Defense-Sunscreen-Spray-Broad-Spectrum-SPF-70-184g-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Xịt-Chống-Nắng-Neutrogena-Beach-Defense-Sunscreen-Spray-Broad-Spectrum-SPF-70-184g-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/07/Xịt-Chống-Nắng-Neutrogena-Beach-Defense-Sunscreen-Spray-Broad-Spectrum-SPF-70-184g.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\07\Xịt-Chống-Nắng-Neutrogena-Beach-Defense-Sunscreen-Spray-Broad-Spectrum-SPF-70-184g.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuseart-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuseart-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuseart-1-500x500.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuseart-1-500x500.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/08/logo-500x469.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\08\logo-500x469.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/08/logo-giuseart-1.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\08\logo-giuseart-1.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-content/uploads/2019/08/logo.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2019\08\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/hoverIntent.min.js?ver=1.10.1
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/wp-util.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: http://mypham4.ninhbinhweb.info/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/pages/1586
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\pages\1586
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/posts/1638
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\posts\1638
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/posts/1641
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\posts\1641
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/posts/1645
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\posts\1645
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/posts/1648
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\posts\1648
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/posts/780
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\posts\780
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1135
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1135
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1140
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1140
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1142
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1142
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1144
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1144
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1146
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1146
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1148
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1148
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1151
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1151
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1153
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1153
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1155
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1155
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1157
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1157
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1159
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1159
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1161
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1161
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1163
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1163
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1165
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1165
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1167
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1167
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1169
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1169
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1171
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1171
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1173
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1173
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1175
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1175
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1177
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1177
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1179
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1179
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product/1181
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product\1181
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/15
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/20
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/21
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/51
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\51
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/52
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\52
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/53
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\53
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/57
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\57
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/58
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\58
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/59
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\59
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/60
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\60
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/product_cat/65
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\product_cat\65
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://mypham4.ninhbinhweb.info/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://mypham4.ninhbinhweb.info/yoona-gay-tram-tro-voi-nhan-sac-lao-hoa-nguoc-tre-nhu-thoi-moi-debut/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\yoona-gay-tram-tro-voi-nhan-sac-lao-hoa-nguoc-tre-nhu-thoi-moi-debut\index.htm
+Content Type: text/html
+
+Uri: http://mypham4.ninhbinhweb.info/yoona-gay-tram-tro-voi-nhan-sac-lao-hoa-nguoc-tre-nhu-thoi-moi-debut/feed/
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\yoona-gay-tram-tro-voi-nhan-sac-lao-hoa-nguoc-tre-nhu-thoi-moi-debut\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://ikute.vn/wp-content/uploads/2017/08/sản-phẩm-lăn-khử-mùi-Scion-Pure-White-Roll-On-Nuskin.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2017\08\sản-phẩm-lăn-khử-mùi-Scion-Pure-White-Roll-On-Nuskin.jpg
+Content Type: image/jpeg
+
+Uri: https://ikute.vn/wp-content/uploads/2017/08/Scion-Pure-White-Roll-On-Nuskin-ikute.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2017\08\Scion-Pure-White-Roll-On-Nuskin-ikute.jpg
+Content Type: image/jpeg
+
+Uri: https://ikute.vn/wp-content/uploads/2017/08/Scion-Pure-White-Roll-On-Nuskin.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2017\08\Scion-Pure-White-Roll-On-Nuskin.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/18/photo-1-15634437787751364265119.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\18\photo-1-15634437787751364265119.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/18/photo-1-15634437813631330584380.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\18\photo-1-15634437813631330584380.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-1-1563688615445489592001.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-1-1563688615445489592001.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-1-15637216737731167055598.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-1-15637216737731167055598.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-1-15637216762432017077269.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-1-15637216762432017077269.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-11-15636886154721471620971.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-11-15636886154721471620971.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-13-15636886154751819122054.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-13-15636886154751819122054.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-2-1563688615450604325537.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-2-1563688615450604325537.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-2-156372167625121093129.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-2-156372167625121093129.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-3-1563721676254632278558.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-3-1563721676254632278558.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-4-15636886154541992900739.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-4-15636886154541992900739.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-5-15636886154551610573471.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-5-15636886154551610573471.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-7-15636886154632042437697.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-7-15636886154632042437697.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/21/photo-9-15636886154671781060263.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\21\photo-9-15636886154671781060263.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/7/23/0c05d2efe79ada5d12db1d2e7f511368-1563878854411631299550.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\2019\7\23\0c05d2efe79ada5d12db1d2e7f511368-1563878854411631299550.jpg
+Content Type: image/jpeg
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252F6-tuyp-kem-nha-nang-nay-chinh-la-sieu-cuu-tinh-cho-lan-da-bi-chay-nang-den-sam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fchan-ai-cham-da-cua-phu-nu-phap-chinh-la-su-dung-cang-it-san-pham-cang-tot%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fnong-truoc-lanh-sau-bi-kip-rua-mat-chong-lao-hoa-giup-song-hye-kyo-giu-vung-nhan-sac-tuong-thanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252F1181%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fduong-the-trang-da-peiland-whitening-body-lotion-extra-moisturizing%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fkem-chong-nang-neutrogena-beach-defense-spf-70-198ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fkem-duong-am-aveeno-active-naturals-daily-moisturizing-lotion-18oz-532ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fkem-xit-chong-nang-spf50-pa%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Flan-khu-mui-dac-tri-hoi-nach-etiaxil-traitement-15ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Flan-khu-mui-giup-kho-thoang-vung-da-duoi-canh-tay-48h%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Flan-khu-mui-nam-gillette-clear-gel-107gr%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Flan-khu-mui-old-spice-canh-buom-do-my%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Flan-khu-mui-scion-pure-white-roll-on-nuskin%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsap-khu-mui-degree-dry-protection-sheer-lilac%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsap-lan-khu-mui-degree-men-dry-protection-76g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-duong-da-mo-ngua-loshi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-duong-the-jergen-ultra-healing-usa-621ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-duong-the-peiland-trang-da-body-lotion-co-voi-350ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-25.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-duong-the-vaseline-intensive-rescue-repairing-moisture-lotion%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-duong-trang-min-da-toan-than-peiland-whitening-body-lotion-250ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-tam-bath-and-body-works-huong-cherry-blosssom%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-tam-caress-endless-kiss-532ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-tam-duong-am-trang-da-hatomugi-600ml-mau-moi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fsua-tam-duong-dove-nhap-khau-my-710ml%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fsan-pham%252Fxit-chong-nang-neutrogena-beach-defense-sunscreen-spray-broad-spectrum-spf-70-184g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-26.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fthuc-hien-chuan-chinh-buoc-tay-da-chet-da-ban-se-sang-hong-bong-muot-va-tuoi-tre%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmypham4.ninhbinhweb.info%252Fyoona-gay-tram-tro-voi-nhan-sac-lao-hoa-nguoc-tre-nhu-thoi-moi-debut%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://neutroskincare.com/wp-content/uploads/2017/04/17950030_664428463768103_418779090_o.jpg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\wp-content\uploads\2017\04\17950030_664428463768103_418779090_o.jpg
+Content Type: image/jpeg
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/all.css
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\mypham4.ninhbinhweb.info\releases\v5.8.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+

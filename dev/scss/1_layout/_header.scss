@@ -4,11 +4,23 @@ header
 .c-header {
     $root: &;
     box-shadow: 0 0 10px 2px rgba(0,0,0,0.1);
+    &__sticky {
+        position: sticky;
+        width: 100%;
+        background-color: $colorBlue6;
+        height: 100%;
+        top: 0;
+        z-index: 1;
+        color: $colorWhite;
+        @include sp {
+            display: none;
+        }
+    }
     &__inner {
         display: flex;
         justify-content: space-between;
         flex-wrap: wrap;
-        border-bottom: 1px solid $colorBlue5;
+        // border-bottom: 1px solid $colorBlue5;
         @include max-w(1024px) {
             justify-content: space-around;
         }
@@ -44,6 +56,7 @@ header
             color: $colorRed;
             transition: all 0.1s;
             #{$root}__child {
+                display: block;
                 color: black;
             }
         }
@@ -57,6 +70,14 @@ header
         text-transform: capitalize;
         position: relative;
         cursor: pointer;
+        display: flex;
+        height: 100%;
+        align-items: center;
+        &:hover {
+            .c-header__search {
+                display: block;
+            }
+        }
         @include sp() {
             font-size: 1.8rem;
             font-weight: 600;
@@ -82,7 +103,7 @@ header
         z-index: 9;
         right: 0;
         &__item {
-            font-weight: 500;
+            font-weight: 600;
             font-size: 1.5rem;
             padding: 10px 10px 0px 10px;
            &:hover {
@@ -91,8 +112,8 @@ header
         }
     }
     &__top {
-        border-top: 1px solid $colorBlue5;
-        border-bottom: 1px solid $colorBlue5;
+        // border-top: 1px solid $colorBlue5;
+        // border-bottom: 1px solid $colorBlue5;
         .l-container {
             display: flex;
             justify-content: space-between;
@@ -138,7 +159,7 @@ header
     &__search {
         display: none;
         position: absolute;
-        top: 40px;
+        top: 45px;
         right: 7px;
         z-index: 999;
         @include sp() {

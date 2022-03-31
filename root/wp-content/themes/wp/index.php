@@ -528,31 +528,38 @@
                         <figure class="c-list5__img">
                             <img src="/assets/img/process/img01.png" alt="">
                         </figure>
-                        <p class="c-list5__txt">B1. Tiếp nhận yêu cầu và TƯ VẤN</p>
+                        <!-- <p class="c-list5__txt">B1. Tiếp nhận yêu cầu và TƯ VẤN</p> -->
+                        <p class="c-list5__txt">Bước 1: Thu thập thông tin thiết kế website</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="/assets/img/process/img02.png" alt="">
+                            <!-- <img src="/assets/img/process/img02.png" alt=""> -->
+                            <img src="/assets/img/process/img07.png" alt="">
                         </figure>
-                        <p class="c-list5__txt">B2. Phác thảo giao diện và báo giá</p>
+                        <!-- <p class="c-list5__txt">B2. Phác thảo giao diện và báo giá</p> -->
+                        <p class="c-list5__txt">Bước 2: Lên kế hoạch thiết kế website</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="/assets/img/process/img03.png" alt="">
-                        </figure>
-                        <p class="c-list5__txt">B3. Tiến hành ký hợp đồng, thu phí 50% giá trị hợp đồng</p>
-                    </div>
-                </div>
-                <div class="c-list5__item">
-                    <div class="c-list5__wrap">
-                        <figure class="c-list5__img">
+                            <!-- <img src="/assets/img/process/img03.png" alt=""> -->
                             <img src="/assets/img/process/img04.png" alt="">
                         </figure>
-                        <p class="c-list5__txt">B4. Tiến hành thiết kế website và gửi demo tới khách hàng</p>
+                        <!-- <p class="c-list5__txt">B3. Tiến hành ký hợp đồng, thu phí 50% giá trị hợp đồng</p> -->
+                        <p class="c-list5__txt">Bước 3: Thiết kế website</p>
+                    </div>
+                </div>
+                <div class="c-list5__item">
+                    <div class="c-list5__wrap">
+                        <figure class="c-list5__img">
+                            <!-- <img src="/assets/img/process/img04.png" alt=""> -->
+                            <img src="/assets/img/process/img06.png" alt="">
+                        </figure>
+                        <!-- <p class="c-list5__txt">B4. Tiến hành thiết kế website và gửi demo tới khách hàng</p> -->
+                        <p class="c-list5__txt">Bước 4: Phát triển website</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
@@ -560,18 +567,21 @@
                         <figure class="c-list5__img">
                             <img src="/assets/img/process/img05.png" alt="">
                         </figure>
-                        <p class="c-list5__txt">B5. Chốt giao diện website, thu 30% giá trị hợp đồng</p>
+                        <!-- <p class="c-list5__txt">B5. Chốt giao diện website, thu 30% giá trị hợp đồng</p> -->
+                        <p class="c-list5__txt">Bước 5: Kiểm tra và chỉnh sửa website</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
-                            <img src="/assets/img/process/img06.png" alt="">
+                            <!-- <img src="/assets/img/process/img06.png" alt=""> -->
+                            <img src="/assets/img/process/img09.png" alt="">
                         </figure>
-                        <p class="c-list5__txt">B6. Tiến hành code và thiết kế website</p>
+                        <!-- <p class="c-list5__txt">B6. Tiến hành code và thiết kế website</p> -->
+                        <p class="c-list5__txt">Bước 6: Hoàn thiện và bảo trì website</p>
                     </div>
                 </div>
-                <div class="c-list5__item">
+                <!-- <div class="c-list5__item">
                     <div class="c-list5__wrap">
                         <figure class="c-list5__img">
                             <img src="/assets/img/process/img07.png" alt="">
@@ -594,133 +604,10 @@
                         </figure>
                         <p class="c-list5__txt">B9. Bảo hành 12 tháng</p>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
-
-
-    <section class="p-index__team">
-        <div class="l-container">
-            <h2 class="c-title1 wow slideInLeft" data-wow-duration="0.5" data-wow-delay="0.5s">Thành Viên</h2>
-            <div class="c-list8">
-                <div class="c-list8__wrap wow slideInLeft" data-wow-duration="0.5" data-wow-delay="0.5s">
-                    <div class="c-list8__item">
-                        <figure class="c-list8__img">
-                            <img src="./assets/img/team/phonexay.jpg" alt="">
-                        </figure>
-                        <div class="c-list8__content">
-                            <span class="c-list8__name">Phonexay Namsavanh</span> <br>
-                            <span class="c-list8__position">Network Designer</span>
-                            <ul class="c-list8__skill">
-                                <li><span>Cisco</span></li>
-                                <li><span>...</span></li>
-                            </ul>
-                            <div class="c-list8__social">
-                                <ul>
-                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="c-list8__wrap wow slideInLeft" data-wow-duration="0.5" data-wow-delay="0.5s">
-                    <div class="c-list8__item">
-                        <figure class="c-list8__img">
-                            <img src="./assets/img/team/dangquy.jpg" alt="">
-                        </figure>
-                        <div class="c-list8__content">
-                            <span class="c-list8__name">Đặng Ngọc Quý</span> <br>
-                            <span class="c-list8__position">Developer</span>
-                            <ul class="c-list8__skill">
-                                <li><span>Docker</span></li>
-                                <li><span>Aws</span></li>
-                                <li><span>Laravel</span></li>
-                                <li><span>IOS</span></li>
-                                <li><span>Server</span></li>
-                                <li><span>Database</span></li>
-                                <li><span>HTML</span></li>
-                                <li><span>CSS</span></li>
-                                <li><span>Javascript</span></li>
-                                <li><span>PHP</span></li>
-                                <li><span>NodeJs</span></li>
-                                <li><span>Vuejs</span></li>
-                                <li><span>...</span></li>
-                            </ul>
-                            <div class="c-list8__social">
-                                <ul>
-                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="c-list8__wrap wow slideInRight" data-wow-duration="0.5" data-wow-delay="0.5s">
-                    <div class="c-list8__item">
-                        <figure class="c-list8__img">
-                            <img src="./assets/img/team/minchong.jpg" alt="">
-                        </figure>
-                        <div class="c-list8__content">
-                            <span class="c-list8__name">Nguyễn Minh Công</span> <br>
-                            <span class="c-list8__position">Developer</span>
-                            <ul class="c-list8__skill">
-                                <li><span>Laravel</span></li>
-                                <li><span>HTML</span></li>
-                                <li><span>CSS</span></li>
-                                <li><span>Javascript</span></li>
-                                <li><span>.NET</span></li>
-                                <li><span>Android</span></li>
-                                <li><span>Database</span></li>
-                                <li><span>Bootstrap</span></li>
-                                <li><span>Reactjs</span></li>
-                                <li><span>...</span></li>
-                            </ul>
-                            <div class="c-list8__social">
-                                <ul>
-                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="c-list8__wrap wow slideInRight" data-wow-duration="0.5" data-wow-delay="0.5s">
-                    <div class="c-list8__item">
-                        <figure class="c-list8__img">
-                            <img src="./assets/img/team/viananh.jpg" alt="">
-                        </figure>
-                        <div class="c-list8__content">
-                            <span class="c-list8__name">To Viananh</span> <br>
-                            <span class="c-list8__position">Designer</span>
-                            <ul class="c-list8__skill">
-                                <li><span>UI-UX</span></li>
-                                <li><span>Figma</span></li>
-                                <li><span>Adobe XD</span></li>
-                                <li><span>Illustrator</span></li>
-                                <li><span>Sketch</span></li>
-                                <li><span>Photoshop</span></li>
-                                <li><span>Ai</span></li>
-                                <li><span>...</span></li>
-                            </ul>
-                            <div class="c-list8__social">
-                                <ul>
-                                    <li><a href="#" class="c-list8__link1">Twitter</a></li>
-                                    <li><a href="#" class="c-list8__link2">Facebook</a></li>
-                                    <li><a href="#" class="c-list8__link3">Linkedin</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
     <section class="p-index__article">
         <div class="l-container clearfix">
             <h2 class="c-title1">Tin tức</h2>
@@ -743,7 +630,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                             </p>
                         </div>
                     </div>
@@ -764,7 +651,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                             </p>
                         </div>
                     </div>
@@ -785,7 +672,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                             </p>
                         </div>
                     </div>
@@ -806,7 +693,7 @@
                                 <span>Đặng Ngọc Quý</span> <br>
                             </div>
                             <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Phasellus vestibulum lorem sed risus ultricies tristique nulla.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                             </p>
                         </div>
                     </div>
@@ -817,33 +704,6 @@
                 <div class="c-block1">
                     <h3 class="c-block1__heading">Bài viết khác</h3>
                     <div class="c-block1__inner">
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
                         <div class="c-block1__item">
                             <figure class="c-block1__img">
                                 <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/120x100.png" alt=""></a>

@@ -46,12 +46,25 @@
 		var $form = $( form );
 
 		$form.submit( function( event ) {
+<<<<<<< HEAD
 			if ( typeof window.FormData !== 'function' ) {
 				return;
 			}
 
 			wpcf7.submit( $form );
 			event.preventDefault();
+=======
+			if ( ! wpcf7.supportHtml5.placeholder ) {
+				$( '[placeholder].placeheld', $form ).each( function( i, n ) {
+					$( n ).val( '' ).removeClass( 'placeheld' );
+				} );
+			}
+
+			if ( typeof window.FormData === 'function' ) {
+				wpcf7.submit( $form );
+				event.preventDefault();
+			}
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 		} );
 
 		$( '.wpcf7-submit', $form ).after( '<span class="ajax-loader"></span>' );
@@ -193,10 +206,13 @@
 
 		$( '.ajax-loader', $form ).addClass( 'is-active' );
 
+<<<<<<< HEAD
 		$( '[placeholder].placeheld', $form ).each( function( i, n ) {
 			$( n ).val( '' );
 		} );
 
+=======
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 		wpcf7.clearResponse( $form );
 
 		var formData = new FormData( $form.get( 0 ) );
@@ -308,11 +324,23 @@
 				$form.each( function() {
 					this.reset();
 				} );
+<<<<<<< HEAD
 			}
 
 			$form.find( '[placeholder].placeheld' ).each( function( i, n ) {
 				$( n ).val( $( n ).attr( 'placeholder' ) );
 			} );
+=======
+
+				wpcf7.toggleSubmit( $form );
+			}
+
+			if ( ! wpcf7.supportHtml5.placeholder ) {
+				$form.find( '[placeholder].placeheld' ).each( function( i, n ) {
+					$( n ).val( $( n ).attr( 'placeholder' ) );
+				} );
+			}
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 
 			$message.html( '' ).append( data.message ).slideDown( 'fast' );
 			$message.attr( 'role', 'alert' );

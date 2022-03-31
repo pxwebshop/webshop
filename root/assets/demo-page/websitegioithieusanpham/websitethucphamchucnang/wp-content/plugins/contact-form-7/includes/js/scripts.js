@@ -237,7 +237,10 @@
 		var ajaxSuccess = function( data, status, xhr, $form ) {
 			detail.id = $( data.into ).attr( 'id' );
 			detail.status = data.status;
+<<<<<<< HEAD
 			detail.apiResponse = data;
+=======
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 
 			var $message = $( '.wpcf7-response-output', $form );
 
@@ -256,12 +259,15 @@
 
 					wpcf7.triggerEvent( data.into, 'invalid', detail );
 					break;
+<<<<<<< HEAD
 				case 'acceptance_missing':
 					$message.addClass( 'wpcf7-acceptance-missing' );
 					$form.addClass( 'unaccepted' );
 
 					wpcf7.triggerEvent( data.into, 'unaccepted', detail );
 					break;
+=======
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 				case 'spam':
 					$message.addClass( 'wpcf7-spam-blocked' );
 					$form.addClass( 'spam' );
@@ -275,33 +281,58 @@
 
 					wpcf7.triggerEvent( data.into, 'spam', detail );
 					break;
+<<<<<<< HEAD
 				case 'aborted':
 					$message.addClass( 'wpcf7-aborted' );
 					$form.addClass( 'aborted' );
 
 					wpcf7.triggerEvent( data.into, 'aborted', detail );
 					break;
+=======
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 				case 'mail_sent':
 					$message.addClass( 'wpcf7-mail-sent-ok' );
 					$form.addClass( 'sent' );
 
+<<<<<<< HEAD
 					wpcf7.triggerEvent( data.into, 'mailsent', detail );
 					break;
 				case 'mail_failed':
+=======
+					if ( data.onSentOk ) {
+						$.each( data.onSentOk, function( i, n ) { eval( n ) } );
+					}
+
+					wpcf7.triggerEvent( data.into, 'mailsent', detail );
+					break;
+				case 'mail_failed':
+				case 'acceptance_missing':
+				default:
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 					$message.addClass( 'wpcf7-mail-sent-ng' );
 					$form.addClass( 'failed' );
 
 					wpcf7.triggerEvent( data.into, 'mailfailed', detail );
+<<<<<<< HEAD
 					break;
 				default:
 					var customStatusClass = 'custom-'
 						+ data.status.replace( /[^0-9a-z]+/i, '-' );
 					$message.addClass( 'wpcf7-' + customStatusClass );
 					$form.addClass( customStatusClass );
+=======
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 			}
 
 			wpcf7.refill( $form, data );
 
+<<<<<<< HEAD
+=======
+			if ( data.onSubmit ) {
+				$.each( data.onSubmit, function( i, n ) { eval( n ) } );
+			}
+
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 			wpcf7.triggerEvent( data.into, 'submit', detail );
 
 			if ( 'mail_sent' == data.status ) {
@@ -389,6 +420,7 @@
 
 		$submit.prop( 'disabled', false );
 
+<<<<<<< HEAD
 		$( '.wpcf7-acceptance', $form ).each( function() {
 			var $span = $( this );
 			var $input = $( 'input:checkbox', $span );
@@ -399,6 +431,15 @@
 					$submit.prop( 'disabled', true );
 					return false;
 				}
+=======
+		$( 'input:checkbox.wpcf7-acceptance', $form ).each( function() {
+			var $a = $( this );
+
+			if ( $a.hasClass( 'wpcf7-invert' ) && $a.is( ':checked' )
+			|| ! $a.hasClass( 'wpcf7-invert' ) && ! $a.is( ':checked' ) ) {
+				$submit.prop( 'disabled', true );
+				return false;
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 			}
 		} );
 	};
@@ -453,6 +494,7 @@
 				type: 'GET',
 				url: wpcf7.apiSettings.getRoute(
 					'/contact-forms/' + wpcf7.getId( $form ) + '/refill' ),
+<<<<<<< HEAD
 				beforeSend: function( xhr ) {
 					var nonce = $form.find( ':input[name="_wpnonce"]' ).val();
 
@@ -460,6 +502,8 @@
 						xhr.setRequestHeader( 'X-WP-Nonce', nonce );
 					}
 				},
+=======
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
 				dataType: 'json'
 			} ).done( function( data, status, xhr ) {
 				if ( data.captcha ) {

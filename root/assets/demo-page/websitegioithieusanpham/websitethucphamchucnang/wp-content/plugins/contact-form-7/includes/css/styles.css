@@ -108,3 +108,10 @@ div.wpcf7 input[type="file"] {
 div.wpcf7 input[type="file"]:disabled {
 	cursor: default;
 }
+<<<<<<< HEAD
+=======
+
+div.wpcf7 .wpcf7-submit:disabled {
+	cursor: not-allowed;
+}
+>>>>>>> c5d68bb3916e4402beb192b823f62879b7682809

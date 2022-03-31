@@ -296,7 +296,7 @@
                                 <img src="https://websiteviet.vn/wp-content/uploads/2021/10/mypham-scaled.jpg" alt="">
                             </figure>
                             <div class="c-list11__link">
-                                <a href="/assets/demo-page/websitethammy/websitecuahangmypham/index.htm" class="c-list11__demo">Demo</a>
+                                <a href="/assets/demo-page/websitethammy/websitecuahangmypham1/index.htm" class="c-list11__demo">Demo</a>
                                 <a href="#" class="c-list11__detail">Chi tiết</a>
                             </div>
                         </div>

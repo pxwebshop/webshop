@@ -1,0 +1,756 @@
+Uri: https://bbq.websiteviet.vn/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\an-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\ban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/chao-moi-nguoi/?replytocom=1
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\chao-moi-nguoi\index-1.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\khai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/2018/02/06/sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\2018\02\06\sun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/author/admin/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/author/admin/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/comments/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/dat-ban/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\dat-ban\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/feed/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://bbq.websiteviet.vn/gioi-thieu/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/lien-he/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/thuc-don/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\thuc-don\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/tuyen-dung/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: https://bbq.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://bbq.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/bbq/style.css?ver=3.6.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\bbq\style.css
+Content Type: text/css
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.3
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: font/woff
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/01-soda-alternatives-orange-juice-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\01-soda-alternatives-orange-juice-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/01-soda-alternatives-orange-juice.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\01-soda-alternatives-orange-juice.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/0d6208722f020705340d841f32286ef1a01f2c196a291bc368-pimgpsh_fullsize_distr.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\0d6208722f020705340d841f32286ef1a01f2c196a291bc368-pimgpsh_fullsize_distr.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM-1024x680.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM-1024x680.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM-300x199.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM-768x510.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM-768x510.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/1-11-2014-6-05-19-PM.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\1-11-2014-6-05-19-PM.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/1212.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\1212.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-150x150.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-300x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\213854-set-menu-han-quoc-hap-dan-danh-cho-2-nguoi-suon-nuong-han-quoc.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/3cc_color.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\3cc_color.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/4534545345.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\4534545345.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/763sodaglasses-1-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\763sodaglasses-1-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/763sodaglasses-1.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\763sodaglasses-1.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/asm_color-1.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\asm_color-1.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/bang-gia-01-1024x165.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\bang-gia-01-1024x165.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/bang-gia-01-300x48.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\bang-gia-01-300x48.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/bang-gia-01-768x124.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\bang-gia-01-768x124.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/bang-gia-01.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\bang-gia-01.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/banh-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\banh-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/banh.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\banh.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/banner-234-1024x267.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\banner-234-1024x267.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/banner-234-300x78.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\banner-234-300x78.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/banner-234-768x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\banner-234-768x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/banner-234.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\banner-234.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/blackbean-noodles-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\blackbean-noodles-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/blackbean-noodles.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\blackbean-noodles.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/cach-an-thit-nuong-2-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\cach-an-thit-nuong-2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/cach-an-thit-nuong-2.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\cach-an-thit-nuong-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/canh1-259x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\canh1-259x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/canh1.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\canh1.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/cbjc.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\cbjc.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/concept-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\concept-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/concept-1-768x512.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\concept-1-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/concept-1.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\concept-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/cropped-logo-Sunhomes-BBQ-01-180x180.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\cropped-logo-Sunhomes-BBQ-01-180x180.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/cropped-logo-Sunhomes-BBQ-01-192x192.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\cropped-logo-Sunhomes-BBQ-01-192x192.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/cropped-logo-Sunhomes-BBQ-01-32x32.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\cropped-logo-Sunhomes-BBQ-01-32x32.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12-1-1024x681.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12-1-1024x681.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12-1-768x511.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12-1-768x511.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12-1.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12-1024x681.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12-1024x681.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12-768x511.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12-768x511.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0370_ll12.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0370_ll12.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/fzn_0496_ll-900x598-300x199.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\fzn_0496_ll-900x598-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/gogic.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\gogic.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/hutong_color.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\hutong_color.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/icookc.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\icookc.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/images.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\images.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/img20161208034438844-1024x682.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\img20161208034438844-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/img20161208034438844-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\img20161208034438844-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/img20161208034438844-768x512.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\img20161208034438844-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/img20161208034438844.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\img20161208034438844.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/itachocoloe.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\itachocoloe.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/khaitruong-king-bbq-tan-son-nhi3-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\khaitruong-king-bbq-tan-son-nhi3-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/khaitruong-king-bbq-tan-son-nhi3.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\khaitruong-king-bbq-tan-son-nhi3.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/king-300x200.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\king-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/king-768x513.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\king-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/king.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\king.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900-150x150.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900-150x150.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900-300x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900-300x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900-768x768.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900-768x768.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/kingbbq-khaitruongdaotan-900x900.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\kingbbq-khaitruongdaotan-900x900.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/lau2-1.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\lau2-1.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/lau2-259x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\lau2-259x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/lau2.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\lau2.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/logo-cbs-2.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\logo-cbs-2.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/macgicc.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\macgicc.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/menu-1024x566.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\menu-1024x566.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/menu-300x166.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\menu-300x166.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/menu-768x425.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\menu-768x425.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/menu.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\menu.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/menu_trang_chu_xeo_xeo_gogi.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\menu_trang_chu_xeo_xeo_gogi.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/nha-hang-king-bbq-1-1-679x1024-199x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\nha-hang-king-bbq-1-1-679x1024-199x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/nha-hang-king-bbq-1-1-679x1024.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\nha-hang-king-bbq-1-1-679x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/nha-hang-king-bbq-1-2-679x1024-199x300.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\nha-hang-king-bbq-1-2-679x1024-199x300.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/nha-hang-king-bbq-1-2-679x1024.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\nha-hang-king-bbq-1-2-679x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/nuoc-hoa-qua-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\nuoc-hoa-qua-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/nuoc-hoa-qua.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\nuoc-hoa-qua.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/screenshot-www.instagram.com-2017-02-07-15-09-36-300x201.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\screenshot-www.instagram.com-2017-02-07-15-09-36-300x201.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/screenshot-www.instagram.com-2017-02-07-15-09-36.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\screenshot-www.instagram.com-2017-02-07-15-09-36.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/slider01-1024x509.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\slider01-1024x509.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/slider01-300x149.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\slider01-300x149.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/slider01-768x382.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\slider01-768x382.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/slider01.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\slider01.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/SLIDER2-1024x509.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\SLIDER2-1024x509.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/SLIDER2-300x149.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\SLIDER2-300x149.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/SLIDER2-768x382.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\SLIDER2-768x382.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/SLIDER2.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\SLIDER2.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/thit-bo-2-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\thit-bo-2-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/thit-bo-2.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\thit-bo-2.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/thit-heo-2-jpg-259x300.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\thit-heo-2-jpg-259x300.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/thit-heo-2-jpg.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\thit-heo-2-jpg.png
+Content Type: image/png
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/voucher-tng-mon-300x191.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\voucher-tng-mon-300x191.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-content/uploads/2018/02/voucher-tng-mon.jpg
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-content\uploads\2018\02\voucher-tng-mon.jpg
+Content Type: image/jpeg
+
+Uri: https://bbq.websiteviet.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.9.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://bbq.websiteviet.vn/wp-includes/js/comment-reply.min.js?ver=5.9.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://bbq.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fan-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fan-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fkhai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fkhai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fsun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2F2018%2F02%2F06%2Fsun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Fdat-ban%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Fdat-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Fthuc-don%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Fthuc-don%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Ftuyen-dung%2F
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fbbq.websiteviet.vn%2Ftuyen-dung%2F&format=xml
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/pages/4
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\pages\4
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/pages/47
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\pages\47
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/pages/50
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\pages\50
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/pages/6
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/posts/282
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\posts\282
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/posts/285
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\posts\285
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/posts/288
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\posts\288
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/posts/291
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\posts\291
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://bbq.websiteviet.vn/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://bizhostvn.com/w/bbq/wp-content/uploads/2018/02/bct.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\w\bbq\wp-content\uploads\2018\02\bct.png
+Content Type: image/png
+
+Uri: https://bizhostvn.com/w/bbq/wp-content/uploads/2018/02/logo-Sunhomes-BBQ-01.png
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\w\bbq\wp-content\uploads\2018\02\logo-Sunhomes-BBQ-01.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.websiteviet.vn%252F2018%252F02%252F06%252Fan-ngon-qua-gion-voi-voucher-tang-mon-tai-sun-homes-bbq%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.websiteviet.vn%252F2018%252F02%252F06%252Fban-da-san-sang-nhap-tiec-cung-sun-homes-bbq-dip-cuoi-nam-chua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.websiteviet.vn%252F2018%252F02%252F06%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.websiteviet.vn%252F2018%252F02%252F06%252Fkhai-truong-sun-homes-bbq-voi-nhieu-uu-dai-hap-dan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbbq.websiteviet.vn%252F2018%252F02%252F06%252Fsun-homes-bbq-tung-bung-khai-truong-mung-nam-moi-2018%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=140&d=mm&r=g
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=70&d=mm&r=g
+File Name: C:\Downloaded Web Sites\bbq.websiteviet.vn\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+

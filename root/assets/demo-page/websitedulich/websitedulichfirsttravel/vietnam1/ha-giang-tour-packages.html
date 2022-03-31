@@ -1,0 +1,1842 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>	First-Travel</title>
+    <link rel="stylesheet" type="text/css" href="../Content/js/owl-carousel/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/js/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="../ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <link href="../css?family=Josefin+Sans:Regular&display=swap" rel="stylesheet">
+    <link href="../css-1?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../Content/css/style.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/page3.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/responsive/page3_res.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/responsive/style_res.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/page5_res.min.css">
+    
+
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '1044999808883212',
+                xfbml: true,
+                version: 'v2.6'
+            });
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+</head>
+<body>
+<div class="contacthotel"> 
+	<div class="container">
+		<div class="topcontact">
+			<div class="back">
+				 <a href="https://webtravel.vn/"> &#10554; Về trang chủ </a>
+			</div>
+			<div class="order">
+				<a href="https://webtravel.vn/Dang-ki?MaWebSite=M%E1%BA%ABu%2007%20-%20The%20First%20Travel"> 
+					Sử dụng giao diện này
+				</a>
+				<a href="#" class="closetop">
+					&#10005;
+				</a>
+			</div>
+		
+		</div>
+		
+	</div>
+</div>
+  
+<style> 
+.topcontact{
+     display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    align-items: center;
+    font-weight: 600;
+	z-index:1111;
+	transition:all .5s ease-in-out;
+}
+.contacthotel{   
+    background: #0072bd;
+    z-index: 111111;
+    width: 100%;
+	transition:all .5s ease-in-out;
+}
+.order{
+	display:flex;
+	color:#FFf;
+	 align-items: center;
+    font-weight: 600;
+	z-index:111;
+}
+.topcontact a{
+	color: #FFF !important;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.closetop{
+    padding-left: 10px;
+    color: #FFF;
+    z-index: 111;
+    background: transparent!important;
+}
+.topcontact .order a{
+	padding: 3px 15px;
+	border-radius:5px;
+	background: #f8c218;
+}
+body{
+	transition:all .5s ease-in-out;
+}
+@media(max-width:425px){
+	.contacthotel{
+	    position: fixed;
+	    width: 100%;
+	    z-index: 1111;
+	    bottom:0;
+	    left: 0;
+	}
+	.contacthotel.fixedcontact {
+	    position: fixed;
+	    width: 100%;
+	    z-index: 1111;
+	    top: 93%;
+	    left: 0;
+	}
+	.topcontact{
+	    display: flex;
+	    justify-content: space-between;
+	    padding: 5px 0px;
+	    align-items: center;
+	    font-weight: 600;
+	    z-index: 111;
+	    transition: all .5s ease-in-out;
+	    font-size: 13px;
+	}
+	.topcontact .order a {
+	    padding: 5px 5px;
+	    border-radius: 5px;
+	}
+}
+</style>
+    <div class="fabss">
+        <ul>
+            <li>
+                <a href="../inquire.html">
+                    <span>
+                        <img src="../Content/img/index/contact_header/fa1.png" alt="inquire">
+                        <em>plan trip</em>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="#" data-toggle="modal" data-target="#brochure">
+                    <span>
+                        <img src="../Content/img/index/contact_header/fa2.png" alt="brochure">
+                        <em>brochure</em>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="tel: (+84) 242 242 0777">
+                    <span id="callll">
+                        <img src="../Content/img/index/contact_header/fa3.png" alt="Call">
+                        <em>call us</em>
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <section class="contact_header">
+        <div class="container_">
+            <div class="wrapper_contact_header">
+                <ul>
+                    <li>
+                        <span><a href=""><img src="../Content/img/index/contact_header/envelope.png"></a></span>
+                        <span>info@webtravel.vn</span>
+                    </li>
+                    <li class="phone_contac">
+                        <span><a href=""><img src="../Content/img/index/contact_header/phone-call.png"></a></span>
+                        <span>
+                            <span class="toang">
+                                <a href=""> (+84) 242 242 0777</a>
+                                <img src="../Content/img/index/contact_header/part_top.png">
+                            </span>
+                            <div class="list_phone">
+                                <ul>
+                                    <li><a href=""> (+84) 242 242 0777</a></li>
+                                </ul>
+                            </div>
+                        </span>
+                    </li>
+                    <li class="trust">
+                        <a href="../review.html">
+                            <img src="../Content/img/index/contact_header/Repeat.png">
+                            <span>Trustpilot</span>
+                        </a>
+                    </li>
+                </ul>
+                <span class="ique_contact">
+                    <a href="../inquire.html">INQUIRE NOW</a>
+                </span>
+            </div>
+        </div>
+    </section>
+    <header>
+        <div class="container_">
+            <div class="logo"><a title="" href="../index.htm"><img src="../files/files/FileDemo/logo.png"></a></div>
+            
+<div class="menu">
+    <nav class="nav_res">
+        <span class="close_menu"><i class="fa fa-times"></i></span>
+        <ul class="menu_parent">
+
+                        <script>
+                            function openCityy16(evt, cityName) {
+                                var i, tabcontent4, tablinks;
+                                tabcontent4 = document.getElementsByClassName("img_tours_81");
+                                for (i = 0; i < tabcontent4.length; i++) {
+                                    tabcontent4[i].style.display = "none";
+                                }
+                                tablinks4 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks4.length; i++) {
+                                    tablinks4[i].className = tablinks4[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="About us">About us<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu about_us">
+                                <div class="list_tours">
+
+                                    <ul class="wrapper_itemtour">
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_who-we-are')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Who We Are</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_our-people')">
+                                                    <span class="title_tour"><a href="../our-people.html">Our People</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_why-book-with-us')">
+                                                    <span class="title_tour"><a href="../why-book-with-us.html">Why Book With Us</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_what-others-say')">
+                                                    <span class="title_tour"><a href="../what-others-say.html">What Others Say</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                    <script>
+                                        function openCityy31(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_91");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+
+
+                                    <script>
+                                        function openCityy51(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_51");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+                                            <div id="zz_who-we-are" class="img_tours img_tours_81" style="display: block">
+                                                <div class="wrap_in">
+                                                    <div class="list_content_text">
+                                                        <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+
+                                                                <li class="tablinks" onmouseover="openCityy31(event, 'zz_a-bit-about-us')"><a href="../a-bit-about-us.html">A bit about us</a></li>
+                                                                <li class="tablinks" onmouseover="openCityy31(event, 'zz_the-journey')"><a href="../the-journey.html">The journey</a></li>
+                                                                <li class="tablinks" onmouseover="openCityy31(event, 'zz_why-the-name')"><a href="../why-the-name.html">Why the name</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="list_more">
+                                                            <div id="zz_a-bit-about-us" class="show_tour_child img_tours_91" style="display: block">
+                                                                <img src="../files/files/FileDemo/banner1_1.png" alt="A bit about us">
+                                                            </div>
+                                                            <div id="zz_the-journey" class="show_tour_child img_tours_91" style="">
+                                                                <img src="../files/files/FileDemo/q5.png" alt="The journey">
+                                                            </div>
+                                                            <div id="zz_why-the-name" class="show_tour_child img_tours_91" style="">
+                                                                <img src="../files/files/FileDemo/q3.png" alt="Why the name">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_our-people" class="img_tours img_tours_81" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="our-people" class="show_tour_child img_tours_51" style="display: block">
+                                                                <img src="../files/files/FileDemo/q3.png" alt="Our People">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_why-book-with-us" class="img_tours img_tours_81" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="why-book-with-us" class="show_tour_child img_tours_51" style="display: block">
+                                                                <img src="../files/files/FileDemo/q5.png" alt="Why Book With Us">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_what-others-say" class="img_tours img_tours_81" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="what-others-say" class="show_tour_child img_tours_51" style="display: block">
+                                                                <img src="../files/files/FileDemo/q5.png" alt="What Others Say">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCity123241(evt, cityName) {
+                                var i, tabcontent, tablinks;
+                                tabcontent = document.getElementsByClassName("img_tours_260");
+                                for (i = 0; i < tabcontent.length; i++) {
+                                    tabcontent[i].style.display = "none";
+                                }
+                                tablinks = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks.length; i++) {
+                                    tablinks[i].className = tablinks[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="Destination">Destination<i class="fa fa-caret-down"></i></a>
+
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu">
+                                <div class="list_tours">
+                                    <ul class="wrapper_itemtour desti">
+                                                <li class="tablinks active" onmouseover="openCity123241(event, 'vietnam1')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Vietnam</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks " onmouseover="openCity123241(event, 'laos1')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Laos</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks " onmouseover="openCity123241(event, 'myanmar')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Myanmar</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks " onmouseover="openCity123241(event, 'cambodia')">
+                                                    <span class="title_tour"><a href="../cambodia.html">CAMBODIA</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+                                        <div id="vietnam1" class="img_tours img_tours_260" style="display: block;">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                                <li><a href="ha-long-tours-package-tours.html">Ha Long Tours &amp; Package Tours </a></li>
+                                                                <li><a href="ha-giang-tour-packages.html">Ha Giang Tour &amp; Packages</a></li>
+                                                                <li><a href="sapa-vacation-tours.html">Sapa Vacation &amp; Tours</a></li>
+                                                                <li><a href="mai-chau-moc-chau.html">Mai Chau &amp; Moc Chau</a></li>
+                                                                <li><a href="ba-be-lake-ban-gioc-water-fall.html">Ba Be Lake &amp; Ban Gioc Water Fall</a></li>
+                                                                <li><a href="ninh-binh-tours-package-tours.html">Ninh Binh Tours &amp; Package Tours </a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>Vietnam</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/03.jpg" alt="Vietnam">
+                                                    </div>
+                                                    <p>Adventure In Viet Nam</p>
+                                                    <span><span style="font-size:16px">A whirlwind of colorfully pristine nature and magnanimous culture awaits in Vietnam as a country of immense depth opens for your discovery. A proud heritage, welcoming people, and a delectable cuisine beckons to travelers of all kinds</span></span>
+                                                    <p><a href="../vietnam1.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="laos1" class="img_tours img_tours_260" style="display: none">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                                <li><a href="../laos1/vientiane.html">Vientiane </a></li>
+                                                                <li><a href="../laos1/luang-prabang.html">Luang Prabang</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>Laos</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/Laos.jpg" alt="Laos">
+                                                    </div>
+                                                    <p>Laos Hidden Beautifull </p>
+                                                    <span>The Lao originated in southern China and moved southward into present-day Laos, forming a kingdom in the Mekong River valley in the fourteenth century and pushing the earlier inhabitants of the area, the Kammu, into more mountainous areas. After three centuries, however, disputes over succession to the throne and foreign invasions split the country into three rival kingdoms in the north, center, and south.<br>
+<br>
+&nbsp;</span>
+                                                    <p><a href="../laos1.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="myanmar" class="img_tours img_tours_260" style="display: none">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                                <li><a href="../myanmar/yangon.html">Yangon</a></li>
+                                                                <li><a href="../myanmar/mandalay.html">Mandalay</a></li>
+                                                                <li><a href="../myanmar/bagan.html">Bagan</a></li>
+                                                                <li><a href="../myanmar/inle-lake.html">Inle lake</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>Myanmar</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/shutterstock_494101192.jpg" alt="Myanmar">
+                                                    </div>
+                                                    <p>Wonder of Nature</p>
+                                                    <span>Myanmar (the former name was Burma) gets along well with the neighbors as Thailand, Cambodia, Laos, and Vietnam. Just several years ago, Myanmar Holidays sounded bizarre and new to many people. But recently, this Southeast Asian country grows to be the hot spot that attracts many backpackers and tourists worldwide. A good introduction about Myanmar surely helps the newcomers to discover the land&rsquo;s quintessence in the full manner.</span>
+                                                    <p><a href="../myanmar.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="cambodia" class="img_tours img_tours_260" style="display: none">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>CAMBODIA</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/03.jpg" alt="CAMBODIA">
+                                                    </div>
+                                                    <p></p>
+                                                    <span>Beautiful desert-island beaches, jungle trekking in protected reserves, caf&eacute;-culture in a capital city full of complex history&ndash; and, of course, 1000-year old temples from one of the most impressive empires in world history: Cambodia certainly is the Kingdom of Wonder.</span>
+                                                    <p><a href="../cambodia.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCityy17(evt, cityName) {
+                                var i, tabcontent4, tablinks;
+                                tabcontent4 = document.getElementsByClassName("img_tours_82");
+                                for (i = 0; i < tabcontent4.length; i++) {
+                                    tabcontent4[i].style.display = "none";
+                                }
+                                tablinks4 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks4.length; i++) {
+                                    tablinks4[i].className = tablinks4[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="Travel Style">Travel Style<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu about_us">
+                                <div class="list_tours">
+
+                                    <ul class="wrapper_itemtour">
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_adventure')">
+                                                    <span class="title_tour"><a href="../adventure.html">ADVENTURE</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_honeymoon')">
+                                                    <span class="title_tour"><a href="../honeymoon.html">HONEYMOON</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_relaxing')">
+                                                    <span class="title_tour"><a href="../relaxing.html">Relaxing</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_romance')">
+                                                    <span class="title_tour"><a href="../romance.html">ROMANCE</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_family-tour')">
+                                                    <span class="title_tour"><a href="../family-tour.html">Family Tour</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                    <script>
+                                        function openCityy32(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_92");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+
+
+                                    <script>
+                                        function openCityy52(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_52");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+                                            <div id="zz_adventure" class="img_tours img_tours_82" style="display: block">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="adventure" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/74c7f82151b2fbe307f4ef0d583259a3.jpg" alt="ADVENTURE">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_honeymoon" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="honeymoon" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/six-senses-con-dao_84837.jpg" alt="HONEYMOON">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_relaxing" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="relaxing" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/CITS-3.jpg" alt="Relaxing">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_romance" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="romance" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/Resorts%E2%80%99-Executive-Chef-Shares-The-Best-Tips-To-Honeymooners-banner.jpg" alt="ROMANCE">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_family-tour" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="family-tour" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/Family-Tour-Vietnam.jpg" alt="Family Tour">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCityy18(evt, cityName) {
+                                var i, tabcontent4, tablinks;
+                                tabcontent4 = document.getElementsByClassName("img_tours_83");
+                                for (i = 0; i < tabcontent4.length; i++) {
+                                    tabcontent4[i].style.display = "none";
+                                }
+                                tablinks4 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks4.length; i++) {
+                                    tablinks4[i].className = tablinks4[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="Travel Guide">Travel Guide<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu about_us">
+                                <div class="list_tours">
+
+                                    <ul class="wrapper_itemtour">
+                                                <li class="tablinks" onmouseover="openCityy18(event, 'zz_vietnam')">
+                                                    <span class="title_tour"><a href="../vietnam.html">Vietnam</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy18(event, 'zz_cambodia')">
+                                                    <span class="title_tour"><a href="../cambodia.html">Cambodia</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy18(event, 'zz_myanmar1')">
+                                                    <span class="title_tour"><a href="../myanmar1.html">Myanmar</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                    <script>
+                                        function openCityy33(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_93");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+
+
+                                    <script>
+                                        function openCityy53(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_53");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+                                            <div id="zz_vietnam" class="img_tours img_tours_83" style="display: block">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="vietnam" class="show_tour_child img_tours_53" style="display: block">
+                                                                <img src="../files/images/Welcome%20to%20Vietnam.png" alt="Vietnam">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_cambodia" class="img_tours img_tours_83" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="cambodia" class="show_tour_child img_tours_53" style="display: block">
+                                                                <img src="../files/images/Welcome%20to%20Vietnam%20%281%29.png" alt="Cambodia">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_myanmar1" class="img_tours img_tours_83" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="myanmar1" class="show_tour_child img_tours_53" style="display: block">
+                                                                <img src="../files/images/Welcome%20to%20Vietnam%20%283%29.png" alt="Myanmar">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCity220(evt, cityName) {
+                                var i, tabcontent2, tablinks;
+                                tabcontent2 = document.getElementsByClassName("img_tours_220");
+                                for (i = 0; i < tabcontent2.length; i++) {
+                                    tabcontent2[i].style.display = "none";
+                                }
+                                tablinks2 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks2.length; i++) {
+                                    tablinks2[i].className = tablinks2[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" href="" title="Orther Service">Orther Service<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu orther_servi">
+                                <div class="list_tours">
+                                    <ul class="wrapper_itemtour">
+
+                                            <li class="tablinks " onmouseover="openCity220(event, 'visa')">
+                                                <span class="title_tour"><a href="../visa.html">VISA</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'bus')">
+                                                <span class="title_tour"><a href="../bus.html">BUS</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'sim-card')">
+                                                <span class="title_tour"><a href="../sim-card.html">SIM CARD</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'food-beverage')">
+                                                <span class="title_tour"><a href="../food-beverage.html">FOOD &amp; BEVERAGE</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'flight-ticket')">
+                                                <span class="title_tour"><a href="../flight-ticket.html">FLIGHT TICKET</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                        <div id="visa" class="img_tours img_tours_220" style="display: block">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Visa on arrival is a convenient procedure for entry into Vietnam which is also provided by The First Travel</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>VISA</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/Vietnamese%20Visa%20%282%29.png" alt="VISA">
+                                                    </div>
+                                                    <p><a href="visa.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="bus" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">In addition to the shuttle service for each package tour, we also offer a bus rental service on request</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>BUS</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/2.png" alt="BUS">
+                                                    </div>
+                                                    <p><a href="bus.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="sim-card" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Own a sim card with 4G service for contact is very easy with customers of The First Travel
+</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>SIM CARD</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/1.png" alt="SIM CARD">
+                                                    </div>
+                                                    <p><a href="sim-card.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="food-beverage" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Food and beverage are fully served during our trip which is listed in our tour itineraries </p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>FOOD &amp; BEVERAGE</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/Vietnamese%20Visa%20%281%29.png" alt="FOOD &amp; BEVERAGE">
+                                                    </div>
+                                                    <p><a href="food-beverage.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="flight-ticket" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Domestic and oversea flight tickets are always available with best price</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>FLIGHT TICKET</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/Vietnamese%20Visa%20%281%29%281%29.png" alt="FLIGHT TICKET">
+                                                    </div>
+                                                    <p><a href="flight-ticket.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+
+
+            <li class="li_parent special_o index"><a title="" href="inquire.html">inquire now</a></li>
+            <li class="li_parent search_menu_mobi">
+                <span id="search_menu" data-toggle="modal" data-target="#myModal"><img src="../Content/img/icon_search.png"></span>
+            </li>
+            <li class="li_parent travel_view">
+                <a href="travel-view.html">
+                    <img src="../Content/img/index/contact_header/Repeat.png">
+                    <span>Trustpilot</span>
+                </a>
+                <a class="brochu" href="#" data-toggle="modal" data-target="#brochure">
+                    <span>
+                        <img src="../Content/img/index/brochure_.png">
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="menu_toggle"><span></span></div>
+    <span id="icon_mobile" data-toggle="modal" data-target="#myModal"><img src="../Content/img/icon_search.png"></span>
+    <div class="search__">
+    </div>
+    <span class="inquire_mobi"><a title="" href="inquire.html">inquire now</a></span>
+</div>
+
+
+        </div>
+    </header>
+    
+<main>
+    <div class="banner_main_p3">
+        <div class="img_banner_top">
+            <img src="../files/files/Tours/shutterstock_222379111_huge%20-%20Copy.jpg" alt="Ha Giang Tour &amp; Packages">
+        </div>
+        <div class="country_">
+            <div class="container_">    
+                <div class="rutu">
+                    <form action="" class="wow bounceInLeft fadeInLeft" data-wow-delay=".2s">
+                        <i>A 11 day trip to Japan by Travel Agency 2377525</i>
+                        <span class="star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </span>
+                        <span><a href=""><i>40 REVIEWS</i></a></span>
+                    </form>
+                </div>
+                <ul>
+                    <li><a href=""><img src="../Content/img/page3/i1.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i2.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i3.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i4.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i5.png"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="home_pre">
+        <div class="container_">
+            <span><a href="../index.htm">Home</a></span>
+            <span>»</span>
+            <span>Ha Giang Tour &amp; Packages</span>
+        </div>
+    </div>
+    <div class="wrapper_ title_top_header">
+        <div class="container_">
+            <h2 class="text-center">Ha Giang Tour &amp; Packages</h2>
+            <div class="p_text_ninh_binh text-center">
+                Ha Giang is Vietnam&rsquo;s northern-most province where all most 90% of population are ethnic minotities with rich historical experience. The Unique Mysterious place along the Chinese border&ndash; a mythical combination of conical limestone peaks and deep, craterous valleys. Ha Giang considered the last frontier for adventurous travel in Vietnam, with mountain passes hanging onto cliff-faces high above green beautiful rivers, and back-roads threading through forests of limestone pinnacles, it&rsquo;s ideal place for an adventure trip. Coming to Ha Giang, tourists not only have opportunity trekking to explore remote rural village, try unique local food or learn aboriginal art from Ha Giang but also Tourist can enjoy the fair of uplands and excited experiences
+            </div>
+            <span class="heal_plan"><a href="inquire.html#my_trip"><i class="fas fa-angle-right"></i>Help me plan my trip</a></span>
+        </div>
+    </div>
+    <div class="wrapper_ text_feat">
+        <div class="container_">
+            <h2>Feature Tours</h2>
+            <p>
+Get inspired with our sample trips below. You can have any trip tailor made for your private travel. Any number of days.
+Any departure date. Any experience you want.</p>
+        </div>
+    </div>
+    <div class="list_guide">
+        <div class="container_">
+            <div class="list_guide_left">
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="86/ha-giang-2-days-1-nights-trekking-to-explore-tay-village.html">
+                                    <img src="../files/images/Ha%20Giang/shutterstock_695901019_huge%20-%20Copy.png" alt="Ha Giang 2 days 1 nights - Trekking to explore Tay village">
+                                    <span>ADVENTURE</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="86/ha-giang-2-days-1-nights-trekking-to-explore-tay-village.html" title="Ha Giang 2 days 1 nights - Trekking to explore Tay village">Ha Giang 2 days 1 nights - Trekking to explore Tay village</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Ha Giang, Tay Village...</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>2 Days 1 Nights</i>
+                                            <span class="price">$250</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="86/ha-giang-2-days-1-nights-trekking-to-explore-tay-village.html" title="Ha Giang 2 days 1 nights - Trekking to explore Tay village">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="88/ha-giang-3-days-2-nights-adventure-tour-%E2%80%93-motorbike-and-day-bus.html">
+                                    <img src="../files/files/Tours/Ha-Giang/Ha%20Giang%20Mountains-124.png" alt="Ha Giang 3 days 2 nights| Adventure tour – Motorbike and Day bus">
+                                    <span>ADVENTURE</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="88/ha-giang-3-days-2-nights-adventure-tour-%E2%80%93-motorbike-and-day-bus.html" title="Ha Giang 3 days 2 nights| Adventure tour – Motorbike and Day bus">Ha Giang 3 days 2 nights| Adventure tour – Motorbike and Day bus</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Ha Giang</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>3 Days 2 Nights</i>
+                                            <span class="price">$300</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="88/ha-giang-3-days-2-nights-adventure-tour-%E2%80%93-motorbike-and-day-bus.html" title="Ha Giang 3 days 2 nights| Adventure tour – Motorbike and Day bus">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="89/ha-giang-3-days-2-nights-motorbike-and-boating-trip-on-nho-que-river.html">
+                                    <img src="../files/files/Tours/Ha-Giang/Ha%20Giang%20Mountains-127.png" alt="Ha Giang 3 days 2 nights| Motorbike and Boating trip on Nho Que river">
+                                    <span>ADVENTURE</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="89/ha-giang-3-days-2-nights-motorbike-and-boating-trip-on-nho-que-river.html" title="Ha Giang 3 days 2 nights| Motorbike and Boating trip on Nho Que river">Ha Giang 3 days 2 nights| Motorbike and Boating trip on Nho Que river</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Ha Giang, Nho Que River,....</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>3 Days 2 Nights</i>
+                                            <span class="price">$350</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="89/ha-giang-3-days-2-nights-motorbike-and-boating-trip-on-nho-que-river.html" title="Ha Giang 3 days 2 nights| Motorbike and Boating trip on Nho Que river">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="91/explore-ha-giang-3-days-2-nights-van-and-trekking.html">
+                                    <img src="../files/images/Ha%20Giang/unnamed%20%286%29%20-%20Copy.jpg" alt="Explore Ha Giang 3 days 2 nights| Van and Trekking ">
+                                    <span>ADVENTURE</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="91/explore-ha-giang-3-days-2-nights-van-and-trekking.html" title="Explore Ha Giang 3 days 2 nights| Van and Trekking ">Explore Ha Giang 3 days 2 nights| Van and Trekking </a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Ha Giang</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>3 Days 2 Nights</i>
+                                            <span class="price">$270</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="91/explore-ha-giang-3-days-2-nights-van-and-trekking.html" title="Explore Ha Giang 3 days 2 nights| Van and Trekking ">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="92/ha-giang-insight-private-tour-4-days-3-nights.html">
+                                    <img src="../files/files/Tours/Ha-Giang/Ha%20Giang%20Mountains-82.png" alt="Ha Giang Insight  - Private Tour  4 days 3 nights">
+                                    <span>ADVENTURE</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="92/ha-giang-insight-private-tour-4-days-3-nights.html" title="Ha Giang Insight  - Private Tour  4 days 3 nights">Ha Giang Insight  - Private Tour  4 days 3 nights</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Ha Giang, Du Gia, Nho Que River...</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>4 Days 3 Nights</i>
+                                            <span class="price">$2300</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="92/ha-giang-insight-private-tour-4-days-3-nights.html" title="Ha Giang Insight  - Private Tour  4 days 3 nights">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="pagination_1 text-center">
+        <div class="pagination-container"><ul class="pagination"><li class="active"><a>1</a></li></ul></div>
+    </div>
+    <div class="list_nation">
+        ﻿
+<div class="container_">
+    <p class="name_autry">Ha Giang Tour &amp; Packages</p>
+    <div class="tabs_list">
+        <div class="tabbar_control">
+            <ul class="nav nav-tabs">
+                        <li><a data-toggle="tab" href="#intro_0" class="active">HOW TO BOOK A TOUR</a></li>
+                        <li><a data-toggle="tab" href="#intro_1" class="">MUST SEE DESTINATION</a></li>
+                        <li><a data-toggle="tab" href="#intro_2" class="">SPECIAL INTERESTS AND ACTIVITIES</a></li>
+                        <li><a data-toggle="tab" href="#intro_3" class="">BEST TIME TO TRAVEL</a></li>
+                        <li><a data-toggle="tab" href="#intro_4" class="">MODES OF TRANSPORTATION</a></li>
+                        <li><a data-toggle="tab" href="#intro_5" class="">TRAVEL CONSIDERATIONS</a></li>
+                        <li><a data-toggle="tab" href="#intro_6" class="">BEST FLIGHTS &amp; AIRPORTS</a></li>
+                        <li><a data-toggle="tab" href="#intro_7" class="">RECOMMENDATIONS FOR THE RETURN TRAVELER</a></li>
+            </ul>
+        </div>
+        <div class="tab_show">
+            <div class="tab-content">
+                        <div id="intro_0" class="tab-pane fade active show">
+                            <span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">There are three ways to plan and book a trip:</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">1. Get a customized tour planned and booked by a travel professional. Travel independently on your own schedule.<br>
+<br>
+2. Book a group tour. Join an escorted group tour with a fixed departure date.<br>
+<br>
+3. Plan and book a trip yourself.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">The First Travel offers the best solution for a customized tour by matching you with top travel specialists who plan and book the trip for you. Our travel agency division, Marageti, specializes in helping you book an escorted group tour. There is no extra cost to you for either service.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:20px">Custom Tours</span><br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">A customized tour is one that is planned by a travel specialist according to your specific interests, preferences, and schedule. Whether you desire a family-friendly adventure or a romantic getaway, each of the accommodations, activities, and destinations is tailored to your preferences. The knowledge and experience of your travel specialist makes a big difference. Zicasso has spent thousands of hours vetting the best travel partners. We act as a referral service, matching you with specialists that best meet your goals and priorities.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:20px">Escorted Group Tours</span><br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">A group tour offers the advantage of convenience at a great value. The schedule is fixed, the itinerary is pre-planned, and a dedicated tour director travels with the group throughout the trip. A group tour can be 30 - 50% less expensive than an equivalent customized tour. Out of the many hundreds of group tours, how do you select the right one for you? Our travel agency division, Marageti, has sales agents who specialize in helping travelers weigh the pros and cons of each group tour. We give you personalized recommendations to find the best tour for you.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:20px">Goals and Priorities</span><br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">What are your goals and priorities for the trip? These should drive your decision for either a customized tour or a fixed departure group tour. We are here to help you make the right decisions to make your dream trip a reality.</span>
+                        </div>
+                        <div id="intro_1" class="tab-pane fade ">
+                            Ha Giang is Vietnam&rsquo;s northern-most province where all most 90% of population are ethnic minotities with rich historical experience. The Unique Mysterious place along the Chinese border&ndash; a mythical combination of conical limestone peaks and deep, craterous valleys. Ha Giang considered the last frontier for adventurous travel in Vietnam, with mountain passes hanging onto cliff-faces high above green beautiful rivers, and back-roads threading through forests of limestone pinnacles, it&rsquo;s ideal place for an adventure trip<br>
+&nbsp;Coming to Ha Giang, tourists not only have opportunity&nbsp;<em>trekking to explore remote rural village, try unique local food or learn aboriginal art from Ha Giang <strong>but also Tourist can enjoy the fair of uplands</strong></em>&nbsp;and excited experiences
+                        </div>
+                        <div id="intro_2" class="tab-pane fade ">
+                            <div>&bull; Quan Ba Heaven&rsquo;s gate</div>
+
+<div>The gate is located about 50 km north of Ha Giang city and this is the first gateway into Dong Van Plateau. In the past, behind the gate was a kingdom of Hmong people with 4 districts Yen Minh, Quan Ba, Meo Vac, Dong Van and French built a huge wooden door to divide this area from the rest.&nbsp; Nowadays the door is no longer there, only a sign in both English and Vietnamese languages: Quan Ba Heaven&rsquo;s Gate.</div>
+
+<div>Here is an ideal place to see the fullest scenery of Dong Van Plateau and super huge and spectacular valley with rolling fields, with the yellow color of rice, the brown color of the ground and rock, also the roof of the ethnic&rsquo;s village. Standing at heaven gate you will have chance to admire masterpiece of nature - Quan Ba Twin Mountain (also known as &ldquo;Co Tien mountain&rdquo;). The mountains with a strange form. It looks like the peach fruit which are related to a very interesting &ldquo;Co Tien Mountain&rdquo; fairy.</div>
+
+<div>&nbsp;</div>
+
+<div>&bull; Ma Pi Leng</div>
+
+<div>&nbsp;</div>
+
+<div>The Ma Pi Leng Pass is Vietnam&rsquo;s final frontier and is dubbed the Great Wall of Viet Nam, situated between Dong Van and Meo Vac. An area of outstanding nature beauty and geological significant. the 20km long wingding road of happiness has many sharp turn 2000m high mountain and incredible view</div>
+
+<div>Standing on Ma Pi Leng&rsquo;s top point and outstretch your arms, you&#39;ll seem like you&#39;re flying into the skies. Indeed, the harmonious beauty of ground, sky, and mountainous scenes may steal the heart of any tourists.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;Tham Ma Pass</div>
+
+<div>&nbsp;</div>
+
+<div>Tham Ma pass is one of the most beautiful and famous roads in Ha Giang road which connects Yen Minh town to Pho Cao old town. The road snakes up through a narrow pass between two mountains. In the past, Ha Giang ethnic people used this road to assess Horse. The horses can conquer the pass from bottom to the top will be kept to work in farm.</div>
+
+<div>&nbsp;</div>
+
+<div>Pay a visit to Vuong Family&rsquo;s House</div>
+
+<div>About 15 kilometers away from Dong Van town. The palace is the house of Vua Meo where Hmong King was living in last 19th century, a solemn, ornate structure emerging out of the Sa Phin valley that was carefully selected according to Feng Shui. It was put in the heart of nature away from the city, the palace is surrounded by surrounded by fresh air and lush greenery. Nowadays House of Vua meo has become a well-know tourist destination due to itself of unique architecture and value of history.</div>
+
+<div>&nbsp;</div>
+
+<div>Experience local lifestyle of ethnic groups. - Local Market&nbsp;</div>
+
+<div>Ethnic Local markets in Ha Giang always attract tourists because they are not just places for buying and selling, they are also meeting places for local ethnic minority people. Local people wear colorful costumes, all the different ethnic minority groups of the region come to the market to meet their friends, or their ex-lovers. There are many different goods are on sale in the market. In early morning, when it is blanketed with fog People come to the market to sell their farm produce and home-made products and buy clothing, plastic slippers, sandals, sport shoes &hellip;.</div>
+
+<div>Go to ha giang market visitors are impressed by the wine section, where local women stand in a long line selling corn wine, loudly discussing women, laughing and negotiating prices or eating in scatterd group &hellip;.</div>
+
+<div>&nbsp;</div>
+
+<div>Quyet Tien market, Quan Ba (Tam Son) on Saturday&nbsp;</div>
+
+<div>Quan Ba &ndash; Sunday market</div>
+
+<div>Coc Pai &ndash; Sunday market (Xin Man Town)</div>
+
+<div>Lung Phin &ndash; every 6th day</div>
+
+<div>Hoang Su Phi &ndash; Sunday market</div>
+
+<div>Sa Phin &ndash; every 6th day</div>
+
+<div>Pho Cao &ndash; every 6th day</div>
+
+<div>Pho Bang &ndash; every 6th day</div>
+
+<div>Ma Le (Dong Van) &ndash; Saturday market</div>
+
+<div>Dong Van &ndash; Sunday market</div>
+
+<div>Khau Vai Love market (only opened on 26th and 27th of the third month of the lunar calendar)</div>
+
+<div>Meo Vac market &ndash; the largest Sunday market in Ha Giang province</div>
+
+<div>Minh Tan &ndash; Friday market</div>
+
+<div>Lung Tam &ndash; Tuesday Market</div>
+
+<div>Trang Kim &ndash; Thursday and Sunday Market</div>
+
+<div>&nbsp;</div>
+
+<div>&bull; Enjoy beautiful rice terraces in Hoang Su Phi area.</div>
+
+<div>The ideal time to visit Hoang Su Phi is in Summer, time of rice crop. In May and Jun (rainy season), Farmers start their crop, they plow and flood terrace fields with their irrigation systems. During this period, looking from above The fields looks like huge pieces of curved mirror. When rice grows the fields have various green color with different tones. Then September and October are the most beautiful time for photographers in harvest season, Rice terrace fields spreads a yellow color like a vivid picture with farmers in colorful clothing working on fields</div>
+
+<div>&bull; Dong Van old town&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Dong Van old town is in the heart of the rocky plateau. Nestled in the middle of the valley with four Rocky Mountains, the old town is surround by 40 rooftops. These old houses are all over 100-year-old especially some of them are nearly 200 years. With the inherent feature, the beauty in the traditional culture multi-color&nbsp;</div>
+
+                        </div>
+                        <div id="intro_3" class="tab-pane fade ">
+                            When is ideal time to plan your trip to Ha Giang in term of weather and natural beauty?<br>
+As a mountainous province in the northeast of Vietnam, Ha Giang climate is characterized by two main seasons: rainy &amp; dry ones. This is our share on Ha Giang weather &amp; Ha Giang landscapes in different seasons in details.<br>
+<br>
+Ha Giang in Rain season (Late April to early October)<br>
+<br>
+In this season, the weather is normally humid, hot and sudden rains. Sometimes unsafe on the mountain roads of winding, sleepery &amp; narrow passes &ndash; popular with landslides after big rainfalls. However, after the rain, it becomes clearer for beautiful captivation of stunning landscapes, majestic mountains, green valleys &amp; rice terraces on &ldquo;falling-water time&rdquo;- between the late of May &amp; the starting of June. Local ethnic people start getting rainwater from mountain down to their rice terrace for new rice crop. Looking down from above you will see local farming activities on the rice stepped fields with buffalo ploughing, harrowing &amp; planting on the slope terrains of high mountains. The rice terraces filled with water are like a sparkling mirror to reflect the sunset, the sunrise &amp; the blue sky. How beautiful it is to visit rice terraced fields of &ldquo;falling-water&rdquo; &amp; &ldquo;golden ripen- rice&rdquo; periods.<br>
+<br>
+Discovery Ha Giang in dry season October to late April.<br>
+Not as in rain season, it is not big shower like summer rains but a little one. The temperature is cooler down, you may sometimes experience snowing in high mountains in January or February and this is considered as the ideal season to travelling in Ha Giang. From early October, when rice terraces change its natural color from green to yellow one, it is so beautiful to have stunning captures of stepped rice fields in their different golden layers down the valleys<br>
+In October and November, Ha Giang is covered by purple colors of buckwheat flowers which is considered the symbolic flower in Vietnam&rsquo;s northern mountainous regions because its beauty and strong life.<br>
+Period time from Jun to April, Ha Giang is in spring, You can experience the most beautiful time of Ha Giang when peach &amp; plum orchards bloom with pink peach flowers &amp; pure white plum flowers<br>
+
+                        </div>
+                        <div id="intro_4" class="tab-pane fade ">
+                            How to get to Ha giang ?
+<ul>
+	<li>In Hanoi, you can catch a sleeper bus to Ha Giang from Mỹ Đ&igrave;nh bus station. Buses leave almost every hour starting at 4:30 am till 1:30 pm. The night buses leave between 6 pm till 9:30 pm. The ticket should cost 200,000 dongs. The bus takes about 7-8 hours, give or take, with one mid-way stop as there is no toilet in the bus. &nbsp;</li>
+</ul>
+
+                        </div>
+                        <div id="intro_5" class="tab-pane fade ">
+                            What you should bring for your trip in Ha Long Bay<br>
+When you travel on Ha Long bay tours, you must consider travel logistics, safety, and accessibility. The following offers information on important travel considerations during your Ha Long Bay tours or Cat Ba island
+<hr><br>
+Is Ha Long and Cat Ba Island safe for Travel?<br>
+Ha Long and Cat Ba is one of the safest place on Vietnam. Tourists can walk down on the island late at night without fear, and people here are always friendly and eager to welcome tourist.
+<hr><br>
+Travel insurance<br>
+You&rsquo;ve booked your dream vacation, now protect it with travel insurance. A wide range of factors can leave your vacation in limbo. Medical emergencies, inclement weather, and unexpected cancellations can cause turmoil for your trip, so in the unlikely event of a disaster, get the travel insurance coverage that provides peace of mind. When booking with The First Travel, if you unlucky in your trip, we sure that deal with your accident faster and convenient for you soon.
+<hr><br>
+<br>
+For Families<br>
+Ha Long Bay and Cat Ba island are a great destination for families. Your travel will specialist has a knowledge of the different activities that can be adapted for children such as swimming, visit a cave, join cooking class or Tai Chi class
+<hr><br>
+For Seniors<br>
+Seniors who are traveling in Ha Long Bay or Cat Ba island must consider certain weather conditions during the the different seasons, such as the summer&rsquo;s heat or the rain. Summer is very hot but it suitable for more activities on beach.
+<hr><br>
+For Couples<br>
+A Travel specialist who understands the best destination for couple in Ha Long Bay and Cat Ba island will focus on a mix of activities an romance.
+                        </div>
+                        <div id="intro_6" class="tab-pane fade ">
+                            
+                        </div>
+                        <div id="intro_7" class="tab-pane fade ">
+                            
+                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="tabs_list_mobile">
+
+        <div class="tab_show">
+            <div class="tab-content">
+                        <div class="tabb tabb_show">
+                            <a href="#intro_0" class="ka active"><span>HOW TO BOOK A TOUR <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_0" class="tab_shq">
+                                <span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">There are three ways to plan and book a trip:</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">1. Get a customized tour planned and booked by a travel professional. Travel independently on your own schedule.<br>
+<br>
+2. Book a group tour. Join an escorted group tour with a fixed departure date.<br>
+<br>
+3. Plan and book a trip yourself.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">The First Travel offers the best solution for a customized tour by matching you with top travel specialists who plan and book the trip for you. Our travel agency division, Marageti, specializes in helping you book an escorted group tour. There is no extra cost to you for either service.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:20px">Custom Tours</span><br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">A customized tour is one that is planned by a travel specialist according to your specific interests, preferences, and schedule. Whether you desire a family-friendly adventure or a romantic getaway, each of the accommodations, activities, and destinations is tailored to your preferences. The knowledge and experience of your travel specialist makes a big difference. Zicasso has spent thousands of hours vetting the best travel partners. We act as a referral service, matching you with specialists that best meet your goals and priorities.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:20px">Escorted Group Tours</span><br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">A group tour offers the advantage of convenience at a great value. The schedule is fixed, the itinerary is pre-planned, and a dedicated tour director travels with the group throughout the trip. A group tour can be 30 - 50% less expensive than an equivalent customized tour. Out of the many hundreds of group tours, how do you select the right one for you? Our travel agency division, Marageti, has sales agents who specialize in helping travelers weigh the pros and cons of each group tour. We give you personalized recommendations to find the best tour for you.</span><br>
+<br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:20px">Goals and Priorities</span><br>
+<span style="color:rgb(33, 37, 41); font-family:open sans,sans-serif; font-size:16px">What are your goals and priorities for the trip? These should drive your decision for either a customized tour or a fixed departure group tour. We are here to help you make the right decisions to make your dream trip a reality.</span>
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_1" class="ka "><span>MUST SEE DESTINATION <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_1" class="tab_shq">
+                                Ha Giang is Vietnam&rsquo;s northern-most province where all most 90% of population are ethnic minotities with rich historical experience. The Unique Mysterious place along the Chinese border&ndash; a mythical combination of conical limestone peaks and deep, craterous valleys. Ha Giang considered the last frontier for adventurous travel in Vietnam, with mountain passes hanging onto cliff-faces high above green beautiful rivers, and back-roads threading through forests of limestone pinnacles, it&rsquo;s ideal place for an adventure trip<br>
+&nbsp;Coming to Ha Giang, tourists not only have opportunity&nbsp;<em>trekking to explore remote rural village, try unique local food or learn aboriginal art from Ha Giang <strong>but also Tourist can enjoy the fair of uplands</strong></em>&nbsp;and excited experiences
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_2" class="ka "><span>SPECIAL INTERESTS AND ACTIVITIES <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_2" class="tab_shq">
+                                <div>&bull; Quan Ba Heaven&rsquo;s gate</div>
+
+<div>The gate is located about 50 km north of Ha Giang city and this is the first gateway into Dong Van Plateau. In the past, behind the gate was a kingdom of Hmong people with 4 districts Yen Minh, Quan Ba, Meo Vac, Dong Van and French built a huge wooden door to divide this area from the rest.&nbsp; Nowadays the door is no longer there, only a sign in both English and Vietnamese languages: Quan Ba Heaven&rsquo;s Gate.</div>
+
+<div>Here is an ideal place to see the fullest scenery of Dong Van Plateau and super huge and spectacular valley with rolling fields, with the yellow color of rice, the brown color of the ground and rock, also the roof of the ethnic&rsquo;s village. Standing at heaven gate you will have chance to admire masterpiece of nature - Quan Ba Twin Mountain (also known as &ldquo;Co Tien mountain&rdquo;). The mountains with a strange form. It looks like the peach fruit which are related to a very interesting &ldquo;Co Tien Mountain&rdquo; fairy.</div>
+
+<div>&nbsp;</div>
+
+<div>&bull; Ma Pi Leng</div>
+
+<div>&nbsp;</div>
+
+<div>The Ma Pi Leng Pass is Vietnam&rsquo;s final frontier and is dubbed the Great Wall of Viet Nam, situated between Dong Van and Meo Vac. An area of outstanding nature beauty and geological significant. the 20km long wingding road of happiness has many sharp turn 2000m high mountain and incredible view</div>
+
+<div>Standing on Ma Pi Leng&rsquo;s top point and outstretch your arms, you&#39;ll seem like you&#39;re flying into the skies. Indeed, the harmonious beauty of ground, sky, and mountainous scenes may steal the heart of any tourists.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;Tham Ma Pass</div>
+
+<div>&nbsp;</div>
+
+<div>Tham Ma pass is one of the most beautiful and famous roads in Ha Giang road which connects Yen Minh town to Pho Cao old town. The road snakes up through a narrow pass between two mountains. In the past, Ha Giang ethnic people used this road to assess Horse. The horses can conquer the pass from bottom to the top will be kept to work in farm.</div>
+
+<div>&nbsp;</div>
+
+<div>Pay a visit to Vuong Family&rsquo;s House</div>
+
+<div>About 15 kilometers away from Dong Van town. The palace is the house of Vua Meo where Hmong King was living in last 19th century, a solemn, ornate structure emerging out of the Sa Phin valley that was carefully selected according to Feng Shui. It was put in the heart of nature away from the city, the palace is surrounded by surrounded by fresh air and lush greenery. Nowadays House of Vua meo has become a well-know tourist destination due to itself of unique architecture and value of history.</div>
+
+<div>&nbsp;</div>
+
+<div>Experience local lifestyle of ethnic groups. - Local Market&nbsp;</div>
+
+<div>Ethnic Local markets in Ha Giang always attract tourists because they are not just places for buying and selling, they are also meeting places for local ethnic minority people. Local people wear colorful costumes, all the different ethnic minority groups of the region come to the market to meet their friends, or their ex-lovers. There are many different goods are on sale in the market. In early morning, when it is blanketed with fog People come to the market to sell their farm produce and home-made products and buy clothing, plastic slippers, sandals, sport shoes &hellip;.</div>
+
+<div>Go to ha giang market visitors are impressed by the wine section, where local women stand in a long line selling corn wine, loudly discussing women, laughing and negotiating prices or eating in scatterd group &hellip;.</div>
+
+<div>&nbsp;</div>
+
+<div>Quyet Tien market, Quan Ba (Tam Son) on Saturday&nbsp;</div>
+
+<div>Quan Ba &ndash; Sunday market</div>
+
+<div>Coc Pai &ndash; Sunday market (Xin Man Town)</div>
+
+<div>Lung Phin &ndash; every 6th day</div>
+
+<div>Hoang Su Phi &ndash; Sunday market</div>
+
+<div>Sa Phin &ndash; every 6th day</div>
+
+<div>Pho Cao &ndash; every 6th day</div>
+
+<div>Pho Bang &ndash; every 6th day</div>
+
+<div>Ma Le (Dong Van) &ndash; Saturday market</div>
+
+<div>Dong Van &ndash; Sunday market</div>
+
+<div>Khau Vai Love market (only opened on 26th and 27th of the third month of the lunar calendar)</div>
+
+<div>Meo Vac market &ndash; the largest Sunday market in Ha Giang province</div>
+
+<div>Minh Tan &ndash; Friday market</div>
+
+<div>Lung Tam &ndash; Tuesday Market</div>
+
+<div>Trang Kim &ndash; Thursday and Sunday Market</div>
+
+<div>&nbsp;</div>
+
+<div>&bull; Enjoy beautiful rice terraces in Hoang Su Phi area.</div>
+
+<div>The ideal time to visit Hoang Su Phi is in Summer, time of rice crop. In May and Jun (rainy season), Farmers start their crop, they plow and flood terrace fields with their irrigation systems. During this period, looking from above The fields looks like huge pieces of curved mirror. When rice grows the fields have various green color with different tones. Then September and October are the most beautiful time for photographers in harvest season, Rice terrace fields spreads a yellow color like a vivid picture with farmers in colorful clothing working on fields</div>
+
+<div>&bull; Dong Van old town&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Dong Van old town is in the heart of the rocky plateau. Nestled in the middle of the valley with four Rocky Mountains, the old town is surround by 40 rooftops. These old houses are all over 100-year-old especially some of them are nearly 200 years. With the inherent feature, the beauty in the traditional culture multi-color&nbsp;</div>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_3" class="ka "><span>BEST TIME TO TRAVEL <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_3" class="tab_shq">
+                                When is ideal time to plan your trip to Ha Giang in term of weather and natural beauty?<br>
+As a mountainous province in the northeast of Vietnam, Ha Giang climate is characterized by two main seasons: rainy &amp; dry ones. This is our share on Ha Giang weather &amp; Ha Giang landscapes in different seasons in details.<br>
+<br>
+Ha Giang in Rain season (Late April to early October)<br>
+<br>
+In this season, the weather is normally humid, hot and sudden rains. Sometimes unsafe on the mountain roads of winding, sleepery &amp; narrow passes &ndash; popular with landslides after big rainfalls. However, after the rain, it becomes clearer for beautiful captivation of stunning landscapes, majestic mountains, green valleys &amp; rice terraces on &ldquo;falling-water time&rdquo;- between the late of May &amp; the starting of June. Local ethnic people start getting rainwater from mountain down to their rice terrace for new rice crop. Looking down from above you will see local farming activities on the rice stepped fields with buffalo ploughing, harrowing &amp; planting on the slope terrains of high mountains. The rice terraces filled with water are like a sparkling mirror to reflect the sunset, the sunrise &amp; the blue sky. How beautiful it is to visit rice terraced fields of &ldquo;falling-water&rdquo; &amp; &ldquo;golden ripen- rice&rdquo; periods.<br>
+<br>
+Discovery Ha Giang in dry season October to late April.<br>
+Not as in rain season, it is not big shower like summer rains but a little one. The temperature is cooler down, you may sometimes experience snowing in high mountains in January or February and this is considered as the ideal season to travelling in Ha Giang. From early October, when rice terraces change its natural color from green to yellow one, it is so beautiful to have stunning captures of stepped rice fields in their different golden layers down the valleys<br>
+In October and November, Ha Giang is covered by purple colors of buckwheat flowers which is considered the symbolic flower in Vietnam&rsquo;s northern mountainous regions because its beauty and strong life.<br>
+Period time from Jun to April, Ha Giang is in spring, You can experience the most beautiful time of Ha Giang when peach &amp; plum orchards bloom with pink peach flowers &amp; pure white plum flowers<br>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_4" class="ka "><span>MODES OF TRANSPORTATION <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_4" class="tab_shq">
+                                How to get to Ha giang ?
+<ul>
+	<li>In Hanoi, you can catch a sleeper bus to Ha Giang from Mỹ Đ&igrave;nh bus station. Buses leave almost every hour starting at 4:30 am till 1:30 pm. The night buses leave between 6 pm till 9:30 pm. The ticket should cost 200,000 dongs. The bus takes about 7-8 hours, give or take, with one mid-way stop as there is no toilet in the bus. &nbsp;</li>
+</ul>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_5" class="ka "><span>TRAVEL CONSIDERATIONS <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_5" class="tab_shq">
+                                What you should bring for your trip in Ha Long Bay<br>
+When you travel on Ha Long bay tours, you must consider travel logistics, safety, and accessibility. The following offers information on important travel considerations during your Ha Long Bay tours or Cat Ba island
+<hr><br>
+Is Ha Long and Cat Ba Island safe for Travel?<br>
+Ha Long and Cat Ba is one of the safest place on Vietnam. Tourists can walk down on the island late at night without fear, and people here are always friendly and eager to welcome tourist.
+<hr><br>
+Travel insurance<br>
+You&rsquo;ve booked your dream vacation, now protect it with travel insurance. A wide range of factors can leave your vacation in limbo. Medical emergencies, inclement weather, and unexpected cancellations can cause turmoil for your trip, so in the unlikely event of a disaster, get the travel insurance coverage that provides peace of mind. When booking with The First Travel, if you unlucky in your trip, we sure that deal with your accident faster and convenient for you soon.
+<hr><br>
+<br>
+For Families<br>
+Ha Long Bay and Cat Ba island are a great destination for families. Your travel will specialist has a knowledge of the different activities that can be adapted for children such as swimming, visit a cave, join cooking class or Tai Chi class
+<hr><br>
+For Seniors<br>
+Seniors who are traveling in Ha Long Bay or Cat Ba island must consider certain weather conditions during the the different seasons, such as the summer&rsquo;s heat or the rain. Summer is very hot but it suitable for more activities on beach.
+<hr><br>
+For Couples<br>
+A Travel specialist who understands the best destination for couple in Ha Long Bay and Cat Ba island will focus on a mix of activities an romance.
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_6" class="ka "><span>BEST FLIGHTS &amp; AIRPORTS <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_6" class="tab_shq">
+                                
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_7" class="ka "><span>RECOMMENDATIONS FOR THE RETURN TRAVELER <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_7" class="tab_shq">
+                                
+                            </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <div class="banner_2_mamin">
+        <img src="../files/files/Tours/Rice%20Ladder%20Field%20Ha%20Giang.jpg" alt="Ha Giang Tour &amp; Packages">
+    </div>
+    <div class="heal">
+        <span class="heal_plan"><a href="inquire.html#my_trip"><i class="fas fa-angle-right"></i> Heal Me Plan My Trip</a></span>
+    </div>
+    <div class="wrapper_ list_post_3">
+        
+
+<div class="container_">
+    <h2 class="text-center">Reviews of The First Travel's Referral Service</h2>
+    <span class="star_refer text-center">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <span>4.9 star based on 1689 reviews</span>
+    </span>
+    <div class="wrapper_list_post3">
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">T and N Travel</h3>
+                </a>
+                <span class="text-item">
+                   He tour was amazing such great scenario one of the best tours I’ve been on so far in my South East Asian adventure. The tour guide was great very informative and spoke perfect english very recommended! So glad I was able to have a great guide
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY Tuan Anh</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona ...</h3>
+                </a>
+                <span class="text-item">
+                   &quot;Overall our trip was a tremendous experience - all thank to your travel company and Zacasso.&quot;
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY TAMARA M.</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona </h3>
+                </a>
+                <span class="text-item">
+                   &quot;Overall our trip was a tremendous experience - all thank to your travel company and Zacasso.&quot; 
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY TAMARA M.</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona </h3>
+                </a>
+                <span class="text-item">
+                   Overall our trip was a tremendous experience - all thank to your travel company and Zacasso.
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY Hau Nguyen</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona </h3>
+                </a>
+                <span class="text-item">
+                   Overall our trip was a tremendous experience - all thank to your travel company and Zacasso
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY Tuan Anh</p>
+            </div>
+    </div>
+</div>
+    </div>
+    
+<div class="list_menu_">
+    <div class="container_ padding_row">
+            <ul>
+               
+                                                        <li><a title="About Us" href="http://thefirsttravels.com/a-bit-about-us">About Us</a></li>
+                                                        <li><a title="Term &amp; Conditions" href="../term-condition.html">Term &amp; Conditions</a></li>
+                                                        <li><a title="Useful Tips" href="../index.htm">Useful Tips</a></li>
+            </ul>
+            <ul>
+               
+            </ul>
+        <div class="flow_social">
+            <ul class="">
+                <li><a id="floww" href="javascript:void(0)" class="">Follow Us</a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/f1.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/t2.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/g3.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/p4.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/i5.png"></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="company">
+    <div class="container_ padding_row">
+        <div class="row">
+            <div class="col-lg-9 col-md-8">
+                <div class="wrapper_compa">
+                        <ul>
+                            <li><span>COMPANY</span></li>
+                                                        <li><a title="About Us" href="http://thefirsttravels.com/a-bit-about-us">About Us</a></li>
+                                                        <li><a title="The First Travel in the News" href="../the-first-travel-in-the-news.html">The First Travel in the News</a></li>
+                                                        <li><a title="Question ?" href="../index.htm">Question ?</a></li>
+                                                        <li><a title="Careers" href="../index.htm">Careers</a></li>
+                                                        <li><a title="Term &amp; Conditions" href="../term-condition.html">Term &amp; Conditions</a></li>
+                                                        <li><a title="Useful Tips" href="../index.htm">Useful Tips</a></li>
+                        </ul>
+                        <ul>
+                            <li><span>POPULAR VACATIONS </span></li>
+                                                        <li><a title="Private Tours" href="../index.htm">Private Tours</a></li>
+                                                        <li><a title="Luxury Tours" href="../index.htm">Luxury Tours</a></li>
+                                                        <li><a title="Ha Giang Adventure and Motobike " href="../index.htm">Ha Giang Adventure and Motobike </a></li>
+                                                        <li><a title="Explore Cave in Ninh Binh and Boat Trip" href="../index.htm">Explore Cave in Ninh Binh and Boat Trip</a></li>
+                                                        <li><a title="Cruise Tours in Ha Long Bay" href="../index.htm">Cruise Tours in Ha Long Bay</a></li>
+                                                        <li><a title="Mai Chau Adventure and Trekking Tours" href="../index.htm">Mai Chau Adventure and Trekking Tours</a></li>
+                        </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4">
+                <div class="wrapper_form">
+                    <form action="" method="get">
+                        <span>New & update</span>
+                        <p>Sign up to recives news and updates from the first travel</p>
+                        <input type="text" placeholder="Name" name="Name" id="NameMarketing">
+                        <input type="text" placeholder="Email" name="Email" id="EmailMarketing">
+                        <textarea name="Message" placeholder="Message" id="Note"></textarea>
+                        <button id="btn-submit">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+   
+
+
+</main>
+    <footer>
+        <div class="footer_main">
+            <div class="part_top">
+                <div class="container_ padding_row">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="title_pay">PAYMENT</p>
+                            <div class="paypal">
+                                <ul class="list_pay">
+                                    <li><a title="" href=""><img src="../Content/img/index/footer1.png"></a></li>
+                                    <li><a title="" href=""><img src="../Content/img/index/footer2.png"></a></li>
+                                    <li><a title="" href=""><img src="../Content/img/index/footer3.png"></a></li>
+                                    <li><a title="" href=""><img src="../Content/img/index/footer4.png"></a></li>
+                                    <li class="lon"><a title="" href=""><img src="../Content/img/index/footer5.png"></a></li>
+                                </ul>
+                                <div class="list_right">
+                                        <ul>
+                                           
+                                                        <li><a title="About Us" href="http://thefirsttravels.com/a-bit-about-us">About Us</a></li>
+                                                        <li><a title="Term &amp; Conditions" href="../term-condition.html">Term &amp; Conditions</a></li>
+                                                        <li><a title="Useful Tips" href="../index.htm">Useful Tips</a></li>
+                                        </ul>
+                                        <ul>
+                                           
+                                        </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="part_last">
+                <div class="container_ padding_row">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="copy_left">
+                                <p> WEBTRAVEL All rights reserved</p>
+                                <span>Headquarter:  4th floor, 147 Mai Dich, Cau Giay, Hanoi, Vietnam</span>
+                            </div>
+                        </div>
+						 <div class="col-md-4">
+                            <div class="" style="margin-top:20px; font-size: 13px;">
+                            Contact:   info@webtravel.vn
+                            </div>
+                        </div>
+						<div class="col-md-3">
+                            <div class="" style="margin-top:20px; font-size: 13px;">
+                              Tel:  (+84) 242 242 0777
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer_last">
+            <div class="container_ padding_row">
+                <span class="left_text">Take the hassle out of your trip planning. We'll match you with top travel specialists</span>
+                <span class="txt_right"><a title="" href="../inquire.html"><i class="fas fa-angle-right"></i>Help me plan my trip</a></span>
+            </div>
+        </div>
+        <div class="modal search_modal" id="myModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <form action="/search" method="get">
+                        <div class="modal-header" style="border:none">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <input type="text" name="key" placeholder="Search...">
+                        </div>
+                    </form>
+                   
+                </div>
+            </div>
+        </div>
+        <div class="modal" id="brochure">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header" style="border:none">
+                        <h4 class="modal-title">View our 2019 travel brochure</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Well actually, this is not your normal brochure. This is The Agenda. A brochure reimagined with beautiful imagery, need to know about travel in 2019.</p>
+                        <input type="text" name="" placeholder="Your email address">
+                        <div class="checkedd">
+                            <input type="checkbox" name="emailBrochure" id="emailBrochure">
+                            <span>To view The Agenda and join our mailing list simply tick this box. You can unsubscribe at any time.</span>
+                        </div>
+                        <span class="show_agen"><a href="javascript:void(0)" id="submitbrochure">SHOW ME  THE AGENDA</a></span>
+                        <div class="img_bou">
+                            <img src="../Content/img/index/bou.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		<div class="scroll-top">
+			<a href="#scroll-topl" class="text-center" title="Lên Đầu Trang"><i class="fa fa-angle-double-up"></i></a>
+		</div>
+    </footer>
+
+    <script src="../ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
+    <script src="../ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="../Content/js/owl-carousel/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="../Content/js/slide.min.js"></script>
+    <script type="text/javascript" src="../Content/js/effect.min.js"></script>
+    <script type="text/javascript" src="../Content/js/page3.min.js"></script>
+    <script type="text/javascript" src="../Content/js/parallax.min.js"></script>
+    <script type="text/javascript" src="../Content/js/tabs.min.js"></script>
+    <script type="text/javascript" src="../Content/js/tour_de.min.js"></script>
+    <script type="text/javascript" src="../Content/js/geide_detail.min.js"></script>
+    <script type="text/javascript" src="../Content/js/acticle_1.min.js"></script>
+    <script type="text/javascript" src="../Content/js/travel_view.min.js"></script>
+    
+    <script>
+        function isValidEmailAddress(emailAddress) {
+            var pattern = new RegExp(/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
+            return pattern.test(emailAddress);
+        };
+        $(document).ready(function () {
+            $("#btn-submit").click(function () {
+
+                var email = $("#EmailMarketing");
+                //alert(email.val());
+                if (email.val() == "" || isValidEmailAddress(email.val()) == false) {
+                    alert("Please enter email");
+
+                } else {
+                    $.ajax({
+                        url: '/EmailMarketing/SaveEmail',
+                        type: 'Post',
+                        dataType: 'Json',
+                        data: {
+                            emailMarketing: $("#EmailMarketing").val(),
+                            Note: $("#Note").val(),
+                            Name: $("#NameMarketing").val()
+
+                        },
+                        success: function (data) {
+                            if (data.result == "ok") {
+                                alert("Thank for you subscribing to our newsletter");
+                            } else {
+                                alert(data.message);
+                            }
+                        },
+                    });
+                }
+
+            });
+
+
+            $("#submitbrochure").click(function () {
+
+                var email = $("#emailBrochure");
+                //alert(email.val());
+                if (email.val() == "" || isValidEmailAddress(email.val()) == false) {
+                    alert("Please enter email");
+
+                } else {
+                    $.ajax({
+                        url: '/EmailMarketing/Brochure',
+                        type: 'Post',
+                        dataType: 'Json',
+                        data: {
+                            emailBrochure: $("#emailBrochure").val()
+                        },
+                        success: function (data) {
+                            if (data.result == "ok") {
+                                alert("Thank for you subscribing to our newsletter");
+                            } else {
+                                alert(data.message);
+                            }
+                        },
+                    });
+                }
+
+            });
+        });
+    </script>
+	<script>
+	$(".closetop").click(function(){
+		$(".contacthotel").hide();
+		});
+</script>
+
+</body>
+</html>
