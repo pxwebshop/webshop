@@ -2504,7 +2504,8 @@ other
   width: 100%;
   text-align: right;
   font-size: 1.8rem;
-  line-height: 1.5; }
+  line-height: 1.5;
+  margin: 30px 30px 50px; }
   .c-pagenavi .page {
     padding: 8px 16px;
     margin: 0 5px; }
