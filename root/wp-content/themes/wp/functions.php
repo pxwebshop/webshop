@@ -35,6 +35,13 @@ include_once(T_FUNCTIONS . '/other.php');
 
 
 function custom_excerpt_length( $length ) {
-  return 20;
+  return 40;
 } 
 add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );
+
+
+add_action( 'admin_menu', 'remove_default_post_type' );
+
+function remove_default_post_type() {
+    remove_menu_page( 'edit.php' );
+}

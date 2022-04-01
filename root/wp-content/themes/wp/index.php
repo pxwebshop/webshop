@@ -678,7 +678,7 @@
                     </div>
                     <div class="c-list2__item">
                         <figure class="c-list2__img">
-                            <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/220x250.png" alt=""></a>
+                            <a href="/chi-tiet-bai-viet"><img src="https://placehold.jp/220x250.pnghttps://placehold.jp/220x250.png" alt=""></a>
                         </figure>
                         <div class="c-list2__info">
                             <h3 class="c-list2__title">
@@ -698,8 +698,11 @@
                         </div>
                     </div> -->
                     <?php
-                        $args = array('posts_per_page' => 4);
-                        $query = new WP_Query($args);
+                        $query = new WP_Query(array(
+                            'post_type'			=> array('news'),
+                            'posts_per_page'    => 4,
+                            'post_status'		=> 'publish',
+                        ));
                     ?>
                     <?php if ($query->have_posts()) : ?>
                         <?php while ($query->have_posts()) : $query->the_post(); ?>
@@ -773,8 +776,11 @@
                             </div>
                         </div> -->
                         <?php 
-                            $args = array('posts_per_page' => 4);
-                            $query = new WP_Query('offset=4', $args);
+                            $query = new WP_Query(array(
+                                'post_type'			=> array('news'),
+                                'posts_per_page' => 4, 'offset' => 3,
+                                'post_status'		=> 'publish',
+                            ));
                         ?>
                         <?php if ($query->have_posts()) : ?>
                             <?php while ($query->have_posts()) : $query->the_post(); ?>
