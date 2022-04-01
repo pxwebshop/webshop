@@ -2565,36 +2565,36 @@ other
     .p-payment .c-title2 {
       font-size: 2.0rem; } }
 
-.p-index__article .c-title1 {
-  margin-top: 35px;
-  margin-bottom: 5px; }
-  @media screen and (max-width: 767px) {
-    .p-index__article .c-title1 {
-      margin-top: 20px; } }
-
-.p-index__article__content {
-  width: 65%;
-  float: left; }
-  @media screen and (max-width: 870px) {
-    .p-index__article__content {
-      width: 60%; } }
-  @media screen and (max-width: 767px) {
-    .p-index__article__content {
-      width: 100%;
-      margin-top: 0px; } }
-
-.p-index__article__articleOther {
-  width: 35%;
-  padding: 0 0 0 20px;
-  float: right; }
-  @media screen and (max-width: 870px) {
-    .p-index__article__articleOther {
-      width: 40%; } }
-  @media screen and (max-width: 767px) {
-    .p-index__article__articleOther {
-      width: 100%;
-      padding-left: 0;
-      margin-bottom: 30px; } }
+.p-index__article {
+  margin-bottom: 50px; }
+  .p-index__article .c-title1 {
+    margin-top: 35px;
+    margin-bottom: 5px; }
+    @media screen and (max-width: 767px) {
+      .p-index__article .c-title1 {
+        margin-top: 20px; } }
+  .p-index__article__content {
+    width: 65%;
+    float: left; }
+    @media screen and (max-width: 870px) {
+      .p-index__article__content {
+        width: 60%; } }
+    @media screen and (max-width: 767px) {
+      .p-index__article__content {
+        width: 100%;
+        margin-top: 0px; } }
+  .p-index__article__articleOther {
+    width: 35%;
+    padding: 0 0 0 20px;
+    float: right; }
+    @media screen and (max-width: 870px) {
+      .p-index__article__articleOther {
+        width: 40%; } }
+    @media screen and (max-width: 767px) {
+      .p-index__article__articleOther {
+        width: 100%;
+        padding-left: 0;
+        margin-bottom: 30px; } }
 
 .p-index__process {
   margin-top: 30px; }

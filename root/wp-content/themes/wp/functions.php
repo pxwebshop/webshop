@@ -38,3 +38,11 @@ function custom_excerpt_length( $length ) {
   return 20;
 } 
 add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );
+
+add_filter( 'post_thumbnail_html', 'post_thumbnail' );
+function post_thumbnail( $html ) {
+    if ( empty( $html ) )
+        $html = '<img src="' . trailingslashit( get_stylesheet_directory_uri()) . 
+                 '/assets/default-thumbnail.svg' . '" alt="" />';
+    return $html;
+}

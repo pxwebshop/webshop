@@ -698,7 +698,9 @@
                         </div>
                     </div> -->
                     <?php
-                        $args = array('posts_per_page' => 4);
+                        $args = array(
+                            'posts_per_page' => 4,
+                        );
                         $query = new WP_Query($args);
                     ?>
                     <?php if ($query->have_posts()) : ?>
@@ -773,8 +775,11 @@
                             </div>
                         </div> -->
                         <?php 
-                            $args = array('posts_per_page' => 4);
-                            $query = new WP_Query('offset=4', $args);
+                            $args = array(
+                                'posts_per_page' => 4,
+                                'offset' => 4,
+                            );
+                            $query = new WP_Query( $args);
                         ?>
                         <?php if ($query->have_posts()) : ?>
                             <?php while ($query->have_posts()) : $query->the_post(); ?>
