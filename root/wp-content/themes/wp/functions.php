@@ -32,3 +32,9 @@ include_once(T_FUNCTIONS . '/media.php');
 
 /* ----- その他 ----- */
 include_once(T_FUNCTIONS . '/other.php');
+
+
+function custom_excerpt_length( $length ) {
+  return 20;
+} 
+add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );
