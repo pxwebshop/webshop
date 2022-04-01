@@ -21,7 +21,7 @@ if ( CUSTOM_POST_USE ) {
 			array(
 				'post_type' => 'news',
 				'label'     => 'Tin tức',
-				'args'      => array( 'supports' => array( 'title', 'editor', 'revisions' ) ),
+				'args'      => array( 'supports' => array( 'title', 'editor', 'revisions', 'thumbnail') ),
 				'taxonomies' => array(
 					array( 'taxonomy' => 'news_tax', 'label' => 'Danh mục' )
 				),
