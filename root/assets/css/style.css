@@ -2482,6 +2482,15 @@ other
   font-weight: 500;
   letter-spacing: 0.3px; }
 
+#toc_container {
+  margin: 30px;
+  background-color: #cccccc;
+  border-radius: 5px;
+  padding: 30px;
+  font-size: 1.7rem;
+  line-height: 2;
+  font-weight: 600; }
+
 .c-article {
   display: -webkit-box;
   display: -webkit-flex;

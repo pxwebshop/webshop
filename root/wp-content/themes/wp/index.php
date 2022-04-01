@@ -590,11 +590,11 @@
             <div class="p-index__article__content wow bounceInUp">
                 <div class="c-list2">
                     <?php
-                        $query = new WP_Query(array(
-                            'post_type'			=> array('news'),
-                            'posts_per_page'    => 4,
-                            'post_status'		=> 'publish',
-                        ));
+                    $query = new WP_Query(array(
+                        'post_type'            => array('news'),
+                        'posts_per_page'    => 4,
+                        'post_status'        => 'publish',
+                    ));
                     ?>
                     <?php if ($query->have_posts()) : ?>
                         <?php while ($query->have_posts()) : $query->the_post(); ?>
@@ -605,7 +605,7 @@
                                 <div class="c-list2__info">
                                     <h3 class="c-list2__title">
                                         <a href="<?php the_permalink($post->ID); ?>">
-                                            <?php echo substr(get_the_title(), 0,60) . " &hellip;";?>
+                                            <?php echo substr(get_the_title(), 0, 60) . " &hellip;"; ?>
                                         </a>
                                     </h3>
                                     <div class="c-list2__time">
@@ -631,15 +631,15 @@
                 <div class="c-block1">
                     <h3 class="c-block1__heading">Bài viết khác</h3>
                     <div class="c-block1__inner">
-                        <?php 
-                            $args = array('posts_per_page' => 4);
-                            $query = new WP_Query('offset=4', $args);
-                            $query = new WP_Query(array(
-                                'post_type'			=> array('news'),
-                                'posts_per_page'    => 4,
-                                'offset'            => 4,
-                                'post_status'		=> 'publish',
-                            ));
+                        <?php
+                        $args = array('posts_per_page' => 4);
+                        $query = new WP_Query('offset=4', $args);
+                        $query = new WP_Query(array(
+                            'post_type'            => array('news'),
+                            'posts_per_page'    => 4,
+                            'offset'            => 4,
+                            'post_status'        => 'publish',
+                        ));
                         ?>
                         <?php if ($query->have_posts()) : ?>
                             <?php while ($query->have_posts()) : $query->the_post(); ?>
@@ -648,7 +648,7 @@
                                         <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
                                     </figure>
                                     <div class="c-block1__info">
-                                        <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0,42) . " &hellip;" ;?></h5>
+                                        <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0, 42) . " &hellip;"; ?></h5>
                                         <p class="c-block1__txt"><?php the_excerpt(); ?></p>
                                     </div>
                                 </div>
