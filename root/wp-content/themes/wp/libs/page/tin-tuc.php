@@ -56,69 +56,6 @@ $queried = get_queried_object(); ?>
                     <?php endif; ?>
                     <div class="c-pagenavi"><?php wp_pagenavi(array('query' => $query)); ?></div>
                     <?php wp_reset_query(); ?>
-                    <!-- <div class="c-list2__item">
-                        <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
-                        </figure>
-                        <div class="c-list2__info">
-                            <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
-                            </h3>
-                            <div class="c-list2__time">
-                                <i class="fa-solid fa-calendar-days"></i>
-                                <span>14 Tháng Ba, 2022</span>
-                            </div>
-                            <div class="c-list2__author">
-                                <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span> <br>
-                            </div>
-                            <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="c-list2__item">
-                        <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
-                        </figure>
-                        <div class="c-list2__info">
-                            <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
-                            </h3>
-                            <div class="c-list2__time">
-                                <i class="fa-solid fa-calendar-days"></i>
-                                <span>14 Tháng Ba, 2022</span>
-                            </div>
-                            <div class="c-list2__author">
-                                <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span> <br>
-                            </div>
-                            <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            </p>
-                        </div>
-                    </div>
-                    <div class="c-list2__item">
-                        <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
-                        </figure>
-                        <div class="c-list2__info">
-                            <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
-                            </h3>
-                            <div class="c-list2__time">
-                                <i class="fa-solid fa-calendar-days"></i>
-                                <span>14 Tháng Ba, 2022</span>
-                            </div>
-                            <div class="c-list2__author">
-                                <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span> <br>
-                            </div>
-                            <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            </p>
-                        </div>
-                    </div> -->
                 </div>
             </div>
 
