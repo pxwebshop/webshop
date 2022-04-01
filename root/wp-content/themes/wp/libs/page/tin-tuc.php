@@ -17,7 +17,40 @@
         <div class="l-container clearfix">
             <div class="p-news__content">
                 <div class="c-list2">
-                    <div class="c-list2__item">
+                    <?php
+                    $query = new WP_Query(array(
+                        'post_type'            => array('news'),
+                        'posts_per_page'    => 4,
+                        'post_status'        => 'publish',
+                    ));
+                    ?>
+                    <?php if ($query->have_posts()) : ?>
+                        <?php while ($query->have_posts()) : $query->the_post(); ?>
+                            <div class="c-list2__item">
+                                <figure class="c-list2__img">
+                                    <a href="<?php the_permalink($post->ID); ?>"><?php the_post_thumbnail(); ?></a>
+                                </figure>
+                                <div class="c-list2__info">
+                                    <h3 class="c-list2__title">
+                                        <?php echo substr(get_the_title(), 0, 60) . " &hellip;"; ?>
+                                    </h3>
+                                    <div class="c-list2__time">
+                                        <i class="fa-solid fa-calendar-days"></i>
+                                        <span> <?php the_date(); ?></span>
+                                    </div>
+                                    <div class="c-list2__author">
+                                        <i class="fa-solid fa-user"></i>
+                                        <span><?php the_author(); ?></span> <br>
+                                    </div>
+                                    <p class="c-list2__txt">
+                                        <?php the_excerpt(); ?>
+                                    </p>
+                                </div>
+                            </div>
+                        <?php endwhile; ?>
+                    <?php endif; ?>
+                    <?php wp_reset_query(); ?>
+                    <!-- <div class="c-list2__item">
                         <figure class="c-list2__img">
                             <img src="https://placehold.jp/220x250.png" alt="">
                         </figure>
@@ -79,28 +112,7 @@
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                             </p>
                         </div>
-                    </div>
-                    <div class="c-list2__item">
-                        <figure class="c-list2__img">
-                            <img src="https://placehold.jp/220x250.png" alt="">
-                        </figure>
-                        <div class="c-list2__info">
-                            <h3 class="c-list2__title">
-                                <a href="#">arcu dui vivamus arcu felis</a>
-                            </h3>
-                            <div class="c-list2__time">
-                                <i class="fa-solid fa-calendar-days"></i>
-                                <span>14 Tháng Ba, 2022</span>
-                            </div>
-                            <div class="c-list2__author">
-                                <i class="fa-solid fa-user"></i>
-                                <span>Đặng Ngọc Quý</span> <br>
-                            </div>
-                            <p class="c-list2__txt">
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            </p>
-                        </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
@@ -108,7 +120,31 @@
                 <div class="c-block1">
                     <h3 class="c-block1__heading">Bài viết khác</h3>
                     <div class="c-block1__inner">
-                        <div class="c-block1__item">
+                        <?php
+                        $args = array('posts_per_page' => 4);
+                        $query = new WP_Query('offset=4', $args);
+                        $query = new WP_Query(array(
+                            'post_type'            => array('news'),
+                            'posts_per_page'    => 4,
+                            'offset'            => 4,
+                            'post_status'        => 'publish',
+                        ));
+                        ?>
+                        <?php if ($query->have_posts()) : ?>
+                            <?php while ($query->have_posts()) : $query->the_post(); ?>
+                                <div class="c-block1__item">
+                                    <figure class="c-block1__img">
+                                        <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
+                                    </figure>
+                                    <div class="c-block1__info">
+                                        <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0, 42) . " &hellip;"; ?></h5>
+                                        <p class="c-block1__txt"><?php the_excerpt(); ?></p>
+                                    </div>
+                                </div>
+                            <?php endwhile; ?>
+                        <?php endif; ?>
+                        <?php wp_reset_query(); ?>
+                        <!-- <div class="c-block1__item">
                             <figure class="c-block1__img">
                                 <img src="https://placehold.jp/120x100.png" alt="">
                             </figure>
@@ -116,54 +152,7 @@
                                 <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
                                 <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
                             </div>
-                        </div>
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-                        <div class="c-block1__item">
-                            <figure class="c-block1__img">
-                                <img src="https://placehold.jp/120x100.png" alt="">
-                            </figure>
-                            <div class="c-block1__info">
-                                <h5 class="c-block1__title">Tuyển dụng nhân viên kinh doanh</h5>
-                                <p class="c-block1__txt">Nhân viên có kiến thức về sale, và biết về excel. Để hỗ trợ trong công việc</p>
-                            </div>
-                        </div>
-
+                        </div> -->
                     </div>
                 </div>
             </div>
