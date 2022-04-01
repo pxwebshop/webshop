@@ -2486,10 +2486,18 @@ other
   margin: 30px;
   background-color: #cccccc;
   border-radius: 5px;
-  padding: 30px;
+  padding: 30px; }
+
+.toc_title {
   font-size: 1.7rem;
   line-height: 2;
-  font-weight: 600; }
+  font-weight: 700; }
+
+.toc_list {
+  font-size: 1.6rem;
+  font-weight: 500; }
+  .toc_list li > ul {
+    margin-left: 30px; }
 
 .c-article {
   display: -webkit-box;
