@@ -605,7 +605,7 @@
                                 <div class="c-list2__info">
                                     <h3 class="c-list2__title">
                                         <a href="<?php the_permalink($post->ID); ?>">
-                                            <?php the_title(); ?>
+                                            <?php echo substr(get_the_title(), 0,60) . " &hellip;";?>
                                         </a>
                                     </h3>
                                     <div class="c-list2__time">
@@ -648,7 +648,7 @@
                                         <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
                                     </figure>
                                     <div class="c-block1__info">
-                                        <h5 class="c-block1__title"><?php the_title(); ?></h5>
+                                        <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0,42) . " &hellip;" ;?></h5>
                                         <p class="c-block1__txt"><?php the_excerpt(); ?></p>
                                     </div>
                                 </div>

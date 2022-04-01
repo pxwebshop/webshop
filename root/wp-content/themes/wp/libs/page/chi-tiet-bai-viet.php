@@ -1,7 +1,7 @@
 <?php $page_id = 'chi-tiet-bai-viet'; ?>
 <?php get_header(); ?>
 
-<?php while(have_posts()): the_post();?>
+
 <main class="p-detail">
     <div class="c-detail">
         <!-- <div class="c-detail__heading">
@@ -236,6 +236,6 @@
 
 
 </main>
-<?php endwhile;?>
+
 
 <?php get_footer(); ?>
