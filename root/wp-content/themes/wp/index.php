@@ -600,11 +600,11 @@
                         <?php while ($query->have_posts()) : $query->the_post(); ?>
                             <div class="c-list2__item">
                                 <figure class="c-list2__img">
-                                    <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
+                                    <a href="<?php the_permalink($post->ID); ?>"><?php the_post_thumbnail(); ?></a>
                                 </figure>
                                 <div class="c-list2__info">
                                     <h3 class="c-list2__title">
-                                        <a href="/chi-tiet-bai-viet">
+                                        <a href="<?php the_permalink($post->ID); ?>">
                                             <?php the_title(); ?>
                                         </a>
                                     </h3>
