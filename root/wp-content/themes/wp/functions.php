@@ -43,5 +43,14 @@ add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );
 add_action( 'admin_menu', 'remove_default_post_type' );
 
 function remove_default_post_type() {
-    remove_menu_page( 'edit.php' );
+  remove_menu_page( 'edit.php' );
+}
+
+add_filter( 'post_thumbnail_html', 'post_thumbnail' );
+
+function post_thumbnail( $html ) {
+    if ( empty( $html ) )
+        $html = '<img src="' . trailingslashit( get_stylesheet_directory_uri()) . 
+                 '/assets/default-thumbnail.svg' . '" alt="" />';
+    return $html;
 }
