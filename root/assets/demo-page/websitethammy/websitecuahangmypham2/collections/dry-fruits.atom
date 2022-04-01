@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/dry-fruits.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-11-21T07:24:02-05:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4391872856149</id>
+    <published>2019-11-21T07:24:02-05:00</published>
+    <updated>2019-11-21T07:24:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/organic-carrots"/>
+    <title>Organic Carrots</title>
+    <s:type>Vegetable</s:type>
+    <s:vendor>Fresho</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/prod2.jpg?v=1574931025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresho<br>
+        <strong>Type: </strong>Vegetable<br>
+        <strong>Price: </strong>
+            329.00 - 489.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/organic-carrots">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>1 kg</s:tag>
+    <s:tag>Fresho</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Vegetable</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391872856149</id>
+      <title>1 kg / Orange</title>
+      <s:price currency="USD">389.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391872856149</id>
+      <title>2 kg / Brown</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4391872856149</id>
+      <title>3 kg / Yellow</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

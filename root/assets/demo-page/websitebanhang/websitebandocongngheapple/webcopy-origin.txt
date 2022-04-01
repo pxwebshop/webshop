@@ -1,0 +1,1600 @@
+Uri: http://fonts.googleapis.com/css?family=Montserrat:regular%2C700%2Cregular%2C700%2Cregular&display=swap&ver=3.9
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://macshop.ninhbinhsite.com/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/100-qua-tang-giang-sinh-an-lanh-don-chao-nam-moi-2021/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\100-qua-tang-giang-sinh-an-lanh-don-chao-nam-moi-2021\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/100-qua-tang-giang-sinh-an-lanh-don-chao-nam-moi-2021/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\100-qua-tang-giang-sinh-an-lanh-don-chao-nam-moi-2021\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/3-mau-tui-da-nang-hoan-hao-cho-moi-chuyen-du-lich-cong-tac/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\3-mau-tui-da-nang-hoan-hao-cho-moi-chuyen-du-lich-cong-tac\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/3-mau-tui-da-nang-hoan-hao-cho-moi-chuyen-du-lich-cong-tac/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\3-mau-tui-da-nang-hoan-hao-cho-moi-chuyen-du-lich-cong-tac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/apple-tool-box/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\apple-tool-box\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/apple-tool-box/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\apple-tool-box\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/blog
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\blog.html
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/blog/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\blog\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/comments/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/cong-chuyen-cho-macbook-hien-dai-nhung-khong-hai-dien/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\cong-chuyen-cho-macbook-hien-dai-nhung-khong-hai-dien\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/cong-chuyen-cho-macbook-hien-dai-nhung-khong-hai-dien/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\cong-chuyen-cho-macbook-hien-dai-nhung-khong-hai-dien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/airpods-accessories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\airpods-accessories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/airpods-accessories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\airpods-accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/day-apple-watch/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\day-apple-watch\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/day-apple-watch/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\day-apple-watch\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/op-cho-apple-watch/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\op-cho-apple-watch\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/op-cho-apple-watch/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\op-cho-apple-watch\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/phu-kien-apple-watch-khac/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\phu-kien-apple-watch-khac\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/apple-watch-accessories/phu-kien-apple-watch-khac/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\apple-watch-accessories\phu-kien-apple-watch-khac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/balo-tui/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\balo-tui\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/balo-tui/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\balo-tui\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/car-accessories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\car-accessories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/car-accessories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\car-accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/iphone-ipad-accessories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\iphone-ipad-accessories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/iphone-ipad-accessories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\iphone-ipad-accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/mac-accessories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\mac-accessories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/mac-accessories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\mac-accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/other-accessories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\other-accessories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/other-accessories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\other-accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/surface-accessories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\surface-accessories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/surface-accessories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\surface-accessories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/tai-nghe-va-loa/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\tai-nghe-va-loa\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/danh-muc/tai-nghe-va-loa/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\danh-muc\tai-nghe-va-loa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/gia-do-macbook-co-thuc-su-can-thiet-cho-macbook/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\gia-do-macbook-co-thuc-su-can-thiet-cho-macbook\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/gia-do-macbook-co-thuc-su-can-thiet-cho-macbook/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\gia-do-macbook-co-thuc-su-can-thiet-cho-macbook\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/gio-hang/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/lien-he/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/macinsta-chuc-mung-nam-moi-quy-khach-hang/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\macinsta-chuc-mung-nam-moi-quy-khach-hang\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/macinsta-chuc-mung-nam-moi-quy-khach-hang/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\macinsta-chuc-mung-nam-moi-quy-khach-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/marketing-tips/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\marketing-tips\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/marketing-tips/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\marketing-tips\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/office-boostup/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\office-boostup\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/office-boostup/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\office-boostup\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/phan-biet-tai-nghe-treo-va-tai-nghe-nhet-tai-kho-hay-de/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\phan-biet-tai-nghe-treo-va-tai-nghe-nhet-tai-kho-hay-de\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/phan-biet-tai-nghe-treo-va-tai-nghe-nhet-tai-kho-hay-de/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\phan-biet-tai-nghe-treo-va-tai-nghe-nhet-tai-kho-hay-de\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/product-review/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\product-review\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/product-review/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\product-review\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/product-we/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\product-we\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/apple-watch-leather-loop-day-apple-watch-da-sang-trong-va-lich-lam/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\apple-watch-leather-loop-day-apple-watch-da-sang-trong-va-lich-lam\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/apple-watch-leather-loop-day-apple-watch-da-sang-trong-va-lich-lam/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\apple-watch-leather-loop-day-apple-watch-da-sang-trong-va-lich-lam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/apple-watch-modern-buckle-day-da-apple-watch-nam-cham-hien-dai/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\apple-watch-modern-buckle-day-da-apple-watch-nam-cham-hien-dai\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/apple-watch-modern-buckle-day-da-apple-watch-nam-cham-hien-dai/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\apple-watch-modern-buckle-day-da-apple-watch-nam-cham-hien-dai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/apple-watch-sport-band-day-apple-watch-the-thao-nang-dong/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\apple-watch-sport-band-day-apple-watch-the-thao-nang-dong\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/apple-watch-sport-band-day-apple-watch-the-thao-nang-dong/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\apple-watch-sport-band-day-apple-watch-the-thao-nang-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-apple-watch-day-thep-khong-gi-dinh-da/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-apple-watch-day-thep-khong-gi-dinh-da\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-apple-watch-day-thep-khong-gi-dinh-da/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-apple-watch-day-thep-khong-gi-dinh-da\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-apple-watch-thep-khong-gi-hoco-tu-thao-mat/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-apple-watch-thep-khong-gi-hoco-tu-thao-mat\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-apple-watch-thep-khong-gi-hoco-tu-thao-mat/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-apple-watch-thep-khong-gi-hoco-tu-thao-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-da-apple-watch-hermes-double-tour-hang-phu-kien/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-da-apple-watch-hermes-double-tour-hang-phu-kien\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-da-apple-watch-hermes-double-tour-hang-phu-kien/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-da-apple-watch-hermes-double-tour-hang-phu-kien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-da-apple-watch-hermes-single-tour-hang-phu-kien/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-da-apple-watch-hermes-single-tour-hang-phu-kien\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-da-apple-watch-hermes-single-tour-hang-phu-kien/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-da-apple-watch-hermes-single-tour-hang-phu-kien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-thep-khong-gi-hoco-wb07/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-thep-khong-gi-hoco-wb07\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/day-thep-khong-gi-hoco-wb07/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\day-thep-khong-gi-hoco-wb07\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/san-pham/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\san-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/stories/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\stories\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/stories/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\stories\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/tai-khoan/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/tai-khoan/lost-password/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/tech-news/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\tech-news\index.htm
+Content Type: text/html
+
+Uri: http://macshop.ninhbinhsite.com/tech-news/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\tech-news\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/trang-chu/feed/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://macshop.ninhbinhsite.com/wp-admin/js/password-strength-meter.min.js?ver=5.7.6
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/cache/min/1/30375ccbd6af36fe7ec9e151e5271f91.js
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\cache\min\1\30375ccbd6af36fe7ec9e151e5271f91.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/cache/min/1/5e7edf72ba4e8b8c91b75818484a53aa.css
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\cache\min\1\5e7edf72ba4e8b8c91b75818484a53aa.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/cache/min/1/89536749a4337de8ddf43bfaf23107e1.css
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\cache\min\1\89536749a4337de8ddf43bfaf23107e1.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/cache/min/1/9010d04a9a6911da958051f943091cba.js
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\cache\min\1\9010d04a9a6911da958051f943091cba.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/cache/min/1/c1278e672803d54a9df27f0ffe39b37a.js
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\cache\min\1\c1278e672803d54a9df27f0ffe39b37a.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/cache/min/1/f3e55d9d6c7f7fb5cd6f315af22c29c8.js
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\cache\min\1\f3e55d9d6c7f7fb5cd6f315af22c29c8.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend-tooltip.min.css?ver=1.1.19
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woo-variation-swatches\assets\css\frontend-tooltip.min.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1.1.19
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woo-variation-swatches\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woo-variation-swatches/assets/css/wvs-theme-override.min.css?ver=1.1.19
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woo-variation-swatches\assets\css\wvs-theme-override.min.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1.1.19
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woo-variation-swatches\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.6.2.2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.7.3
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.7.3
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/wp-rocket/assets/img/youtube.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\wp-rocket\assets\img\youtube.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/plugins/wp-rocket/assets/js/lazyload/16.1/lazyload.min.js
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\plugins\wp-rocket\assets\js\lazyload\16.1\lazyload.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/themes/flatsome/inc/integrations/wp-rocket/flatsome-wp-rocket.js?ver=3
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\themes\flatsome\inc\integrations\wp-rocket\flatsome-wp-rocket.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-1-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-1-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-1-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-1-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-1.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-1.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/001.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\001.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/002-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\002-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/002-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\002-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/002-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\002-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/002-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\002-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/002-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\002-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/002.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\002.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/003-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\003-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/003-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\003-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/003-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\003-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/003-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\003-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/003-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\003-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/003.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\003.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/004-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\004-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/004-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\004-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/004-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\004-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/004-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\004-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/004-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\004-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/004.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\004.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/005-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\005-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/005-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\005-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/005-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\005-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/005-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\005-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/005-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\005-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/005.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\005.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/006-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\006-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/006-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\006-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/006-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\006-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/006-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\006-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/006-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\006-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/006.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\006.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/007-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\007-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/007-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\007-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/007-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\007-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/007-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\007-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/007-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\007-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/007.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\007.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/008-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\008-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/008-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\008-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/008-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\008-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/008-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\008-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/008-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\008-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/008.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\008.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/009-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\009-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/009-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\009-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/009-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\009-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/009-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\009-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/009-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\009-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/009.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\009.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/010-1024x671.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\010-1024x671.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/010-300x196.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\010-300x196.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/010-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\010-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/010-600x393.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\010-600x393.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/010-768x503.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\010-768x503.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/010.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\010.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/011-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\011-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/011-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\011-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/011-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\011-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/011-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\011-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/011-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\011-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/011.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\011.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/012-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\012-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/012-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\012-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/012-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\012-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/012-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\012-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/012-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\012-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/012.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\012.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/020-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\020-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/020-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\020-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/020-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\020-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/020-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\020-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/020.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\020.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/021-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\021-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/021-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\021-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/021-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\021-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/021.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\021.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/022-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\022-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/022-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\022-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/022-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\022-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/022.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\022.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/023-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\023-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/023-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\023-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/023-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\023-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/023.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\023.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/024-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\024-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/024-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\024-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/024-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\024-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/024-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\024-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/024-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\024-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/024.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\024.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/025-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\025-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/025-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\025-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/025-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\025-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/025-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\025-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/025-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\025-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/025.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\025.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/026-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\026-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/026-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\026-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/026-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\026-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/026-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\026-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/026-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\026-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/026.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\026.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/027-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\027-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/027-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\027-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/027-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\027-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/027-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\027-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/027-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\027-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/027.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\027.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/028-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\028-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/028-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\028-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/028-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\028-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/028-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\028-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/028-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\028-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/028.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\028.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/banner-01-1024x378.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\banner-01-1024x378.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/banner-01-1536x567.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\banner-01-1536x567.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/banner-01-300x111.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\banner-01-300x111.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/banner-01-600x222.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\banner-01-600x222.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/banner-01-768x284.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\banner-01-768x284.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/banner-01.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\banner-01.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/doitra.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\doitra.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/free_deliverd.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\free_deliverd.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim01-300x220.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim01-300x220.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim01-600x441.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim01-600x441.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim01.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim01.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim02-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim02-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim02-1024x1024.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim02-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim02-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim02-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim02-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim02-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim02-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim02-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim02-768x768.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim02-768x768.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim02.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim02.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim03-300x168.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim03-300x168.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim03-600x335.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim03-600x335.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/ghim03.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\ghim03.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/giaohangngaysaukhidat.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\giaohangngaysaukhidat.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh001-300x225.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh001-300x225.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh002-245x300.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh002-245x300.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh003-247x300.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh003-247x300.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh004-231x300.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh004-231x300.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh005-225x300.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh005-225x300.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh006-300x283.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh006-300x283.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh007-169x300.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh007-169x300.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh008-225x300.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh008-225x300.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh009-225x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh009-225x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh009.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh009.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh010-225x300.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh010-225x300.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh011-259x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh011-259x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh011.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh011.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh012-300x169.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh012-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/kh012.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\kh012.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/logo-black.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\logo-black.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/logo-white.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\logo-white.png
+Content Type: image/png
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post1-150x150.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post1-150x150.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post1-300x236.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post1-300x236.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post1-600x471.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post1-600x471.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post1-768x603.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post1-768x603.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post1.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post1.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post2-150x150.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post2-150x150.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post2-300x185.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post2-300x185.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post2-600x370.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post2-600x370.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post2.gif
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post2.gif
+Content Type: image/gif
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post3-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post3-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post3-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post3-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post3-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post3-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post3.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post3.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post4-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post4-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post4-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post4-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post4-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post4-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post4.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post4.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post5-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post5-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post5-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post5-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post5-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post5-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post5-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post5.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post5.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post6-100x100.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post6-100x100.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post6-150x150.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post6-300x300.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post6-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post6-600x600.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post6-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2020/12/post6.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2020\12\post6.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner1-300x45.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner1-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner1-600x90.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner1-600x90.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner1-768x115.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner1-768x115.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner1.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner1.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner2-300x45.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner2-300x45.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner2-600x90.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner2-600x90.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner2-768x115.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner2-768x115.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-content/uploads/2021/05/promo_banner2.jpg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2021\05\promo_banner2.jpg
+Content Type: image/jpeg
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/dist/hooks.min.js?ver=d0188aa6c336f8bb426fe5318b7f5b72
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/dist/i18n.min.js?ver=6ae7d829c963a7d8856558f3f9b32b43
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/wp-util.min.js?ver=5.7.6
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: http://macshop.ninhbinhsite.com/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/categories/32
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\categories\32
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/categories/33
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\categories\33
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/categories/34
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\categories\34
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/categories/35
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\categories\35
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/categories/36
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\categories\36
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/categories/37
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\categories\37
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/pages/11
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/pages/13
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/pages/17
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/pages/19
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/pages/2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/pages/358
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\pages\358
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/posts/121
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\posts\121
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/posts/124
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\posts\124
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/posts/127
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\posts\127
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/posts/130
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\posts\130
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/posts/133
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\posts\133
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/posts/136
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\posts\136
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/101
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\101
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/21
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\21
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/26
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\26
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/30
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\30
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/34
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\34
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/90
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\90
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/95
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\95
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product/99
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product\99
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/15
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/16
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\16
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/17
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\17
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/18
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/19
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\19
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/20
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/21
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/22
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/23
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/24
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/25
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\25
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/wp-json/wp/v2/product_cat/26
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: http://macshop.ninhbinhsite.com/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmacshop.ninhbinhsite.com%252F100-qua-tang-giang-sinh-an-lanh-don-chao-nam-moi-2021%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmacshop.ninhbinhsite.com%252F3-mau-tui-da-nang-hoan-hao-cho-moi-chuyen-du-lich-cong-tac%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmacshop.ninhbinhsite.com%252Fcong-chuyen-cho-macbook-hien-dai-nhung-khong-hai-dien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmacshop.ninhbinhsite.com%252Fgia-do-macbook-co-thuc-su-can-thiet-cho-macbook%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmacshop.ninhbinhsite.com%252Fmacinsta-chuc-mung-nam-moi-quy-khach-hang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmacshop.ninhbinhsite.com%252Fphan-biet-tai-nghe-treo-va-tai-nghe-nhet-tai-kho-hay-de%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://macinsta.vn/wp-content/uploads/2018/09/siteseal.png
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\wp-content\uploads\2018\09\siteseal.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/css/all.css
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\css\v4-shims.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.eot?
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.svg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.ttf
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-brands-400.woff2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.eot?
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.svg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.ttf
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-regular-400.woff2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.eot?
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.svg
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.ttf
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.1/webfonts/fa-solid-900.woff2
+File Name: D:\cyotek-webcopy\ecommerce\macinstashop\macshop.ninhbinhsite.com\releases\v5.15.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+

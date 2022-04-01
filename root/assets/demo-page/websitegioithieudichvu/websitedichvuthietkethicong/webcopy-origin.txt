@@ -1,0 +1,856 @@
+Uri: http://kientruc2.ninhbinhweb.info/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/bo-ban-ghe-an-trevi-tai-nha-anh-minh-biet-thu-pandora/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\bo-ban-ghe-an-trevi-tai-nha-anh-minh-biet-thu-pandora\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/bo-ban-ghe-an-trevi-tai-nha-anh-minh-biet-thu-pandora/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\bo-ban-ghe-an-trevi-tai-nha-anh-minh-biet-thu-pandora\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/chao-moi-nguoi/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/chao-moi-nguoi/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/comments/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/dich-vu-khac/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\dich-vu-khac\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/dich-vu-khac/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\dich-vu-khac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/gioi-thieu-2/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\gioi-thieu-2\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/kham-pha-cho-nghi-chan-cua-obama-khi-den-sai-gon/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\kham-pha-cho-nghi-chan-cua-obama-khi-den-sai-gon\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/kham-pha-cho-nghi-chan-cua-obama-khi-den-sai-gon/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\kham-pha-cho-nghi-chan-cua-obama-khi-den-sai-gon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/lien-he/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/noi-that-go-oc-cho-xuat-khau-dep-cho-gia-dinh-ban/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\noi-that-go-oc-cho-xuat-khau-dep-cho-gia-dinh-ban\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/noi-that-go-oc-cho-xuat-khau-dep-cho-gia-dinh-ban/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\noi-that-go-oc-cho-xuat-khau-dep-cho-gia-dinh-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/noi-that/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\noi-that\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/noi-that/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\noi-that\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-biet-thu/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-biet-thu\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-biet-thu/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-biet-thu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-khach-san/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-khach-san\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-khach-san/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-khach-san\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-nha-hang/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-nha-hang\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-nha-hang/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-nha-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-nha-xuong/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-nha-xuong\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-nha-xuong/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-nha-xuong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-quan-ca-phe/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-quan-ca-phe\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-quan-ca-phe/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-quan-ca-phe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-quan-karaoke/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-quan-karaoke\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-quan-karaoke/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-quan-karaoke\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-shop-quan-ao/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-shop-quan-ao\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua-shop-quan-ao/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua-shop-quan-ao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/sua-chua/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\sua-chua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/tag/quan-ca-phe/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\tag\quan-ca-phe\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/tag/quan-ca-phe/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\tag\quan-ca-phe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/tag/thiet-ke-kien-truc/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\tag\thiet-ke-kien-truc\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/tag/thiet-ke-kien-truc/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\tag\thiet-ke-kien-truc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-biet-thu-dep/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-biet-thu-dep\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-biet-thu-dep/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-biet-thu-dep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-ho-ca-koi-nhat-ban/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-ho-ca-koi-nhat-ban\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-ho-ca-koi-nhat-ban/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-ho-ca-koi-nhat-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-hon-non-bo/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-hon-non-bo\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-hon-non-bo/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-hon-non-bo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-nha-cap-4-dep/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-nha-cap-4-dep\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-nha-cap-4-dep/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-nha-cap-4-dep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-noi-that-cong-trinh-nghi-duong-gan-gui-voi-thien-nhien/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-noi-that-cong-trinh-nghi-duong-gan-gui-voi-thien-nhien\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-noi-that-cong-trinh-nghi-duong-gan-gui-voi-thien-nhien/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-noi-that-cong-trinh-nghi-duong-gan-gui-voi-thien-nhien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-noi-that-gia-dinh-can-ghi-nho-dieu-nay-cho-gia-chu-menh-moc/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-noi-that-gia-dinh-can-ghi-nho-dieu-nay-cho-gia-chu-menh-moc\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-noi-that-gia-dinh-can-ghi-nho-dieu-nay-cho-gia-chu-menh-moc/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-noi-that-gia-dinh-can-ghi-nho-dieu-nay-cho-gia-chu-menh-moc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-noi-that-gia-dinh-hop-phong-thuy/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-noi-that-gia-dinh-hop-phong-thuy\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-noi-that-gia-dinh-hop-phong-thuy/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-noi-that-gia-dinh-hop-phong-thuy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-quan-ca-phe-san-vuon/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-quan-ca-phe-san-vuon\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-quan-ca-phe-san-vuon/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-quan-ca-phe-san-vuon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-quan-ca-phe/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-quan-ca-phe\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke-quan-ca-phe/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke-quan-ca-phe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/thiet-ke/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\thiet-ke\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/tin-tuc/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/tin-tuc/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/css/forms.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/css/l10n.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/css/login.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/images/loading.gif
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/js/password-strength-meter.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-admin/js/user-profile.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-admin\js\user-profile.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/cache/min/1/31799a693fb2d706eff99b5b1add4ee5.js
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\cache\min\1\31799a693fb2d706eff99b5b1add4ee5.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/cache/min/1/69c600fdfac66cb08bdfec3da043bb68.css
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\cache\min\1\69c600fdfac66cb08bdfec3da043bb68.css
+Content Type: text/css
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/cache/min/1/6f055fa4bef801bff2be5d08bca4f5db.js
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\cache\min\1\6f055fa4bef801bff2be5d08bca4f5db.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/cache/min/1/a7b80f1e8d933f86050620e0950ec937.js
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\cache\min\1\a7b80f1e8d933f86050620e0950ec937.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/cache/min/1/db75ac7802ff10c711d17dd44065e95d.js
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\cache\min\1\db75ac7802ff10c711d17dd44065e95d.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/font-woff
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/bg-header-300x88.jpg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\bg-header-300x88.jpg
+Content Type: image/jpeg
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/bg-header.jpg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\bg-header.jpg
+Content Type: image/jpeg
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuse-1-01-01-180x180.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuse-1-01-01-180x180.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuse-1-01-01-192x192.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuse-1-01-01-192x192.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/cropped-logo-giuse-1-01-01-32x32.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\cropped-logo-giuse-1-01-01-32x32.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/dot.jpg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\dot.jpg
+Content Type: image/jpeg
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/fanpage-img-300x174.jpg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\fanpage-img-300x174.jpg
+Content Type: image/jpeg
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/fanpage-img.jpg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\fanpage-img.jpg
+Content Type: image/jpeg
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/line.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\line.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/logo-giuse-1-01-01.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\logo-giuse-1-01-01.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/logo-light-version-300x93.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\logo-light-version-300x93.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/logo-light-version.png
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\logo-light-version.png
+Content Type: image/png
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-content/uploads/2019/08/nha-cap-4-mau-24-300x165-300x165.jpg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\08\nha-cap-4-mau-24-300x165-300x165.jpg
+Content Type: image/jpeg
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/css/buttons.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/css/dashicons.min.css?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/wp-util.min.js?ver=5.8.4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/categories/1
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/categories/2
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\categories\2
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/categories/3
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/categories/4
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/categories/5
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/categories/6
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/pages/38
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\pages\38
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/pages/40
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\pages\40
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/pages/66
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\pages\66
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/1
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/115
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\115
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/118
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\118
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/121
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\121
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/124
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\124
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/127
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\127
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/132
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\132
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/135
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\135
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/138
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\138
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/141
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\141
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/144
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\144
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/147
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\147
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/150
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\150
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/153
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\153
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/156
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\156
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/159
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\159
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/162
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\162
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/165
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\165
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/168
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\168
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/305
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\305
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/308
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\308
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/311
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\311
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/314
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\314
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/317
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\317
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/posts/320
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\posts\320
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/tags/8
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\tags\8
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-json/wp/v2/tags/9
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-json\wp\v2\tags\9
+Content Type: application/json
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-26.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?action=lostpassword
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-25.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fbo-ban-ghe-an-trevi-tai-nha-anh-minh-biet-thu-pandora%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-22.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fchao-moi-nguoi%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-24.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fkham-pha-cho-nghi-chan-cua-obama-khi-den-sai-gon%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-20.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fnoi-that-go-oc-cho-xuat-khau-dep-cho-gia-dinh-ban%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-19.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fsua-chua-biet-thu%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-12.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fsua-chua-khach-san%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-17.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fsua-chua-nha-hang%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-16.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fsua-chua-nha-xuong%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-13.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fsua-chua-quan-ca-phe%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-14.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fsua-chua-quan-karaoke%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-15.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fsua-chua-shop-quan-ao%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-10.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-biet-thu-dep%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-3.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-ho-ca-koi-nhat-ban%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-2.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-hon-non-bo%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-4.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-nha-cap-4-dep%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-1.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-noi-that-cong-trinh-nghi-duong-gan-gui-voi-thien-nhien%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-21.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-noi-that-gia-dinh-can-ghi-nho-dieu-nay-cho-gia-chu-menh-moc%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-23.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-noi-that-gia-dinh-hop-phong-thuy%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-18.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-quan-ca-phe%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fthiet-ke-quan-ca-phe-san-vuon%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-5.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fxay-dung-ho-ca-koi-nhat-ban%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-9.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fxay-dung-hon-non-bo%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-8.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fxay-dung-nha-pho%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-11.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fxay-dung-nha-tron-goi%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-7.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/wp-login.php?redirect_to=http:%2F%2Fkientruc2.ninhbinhweb.info%2Fxay-dung-nha-xuong%2F
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-login.php-6.html
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-ho-ca-koi-nhat-ban/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-ho-ca-koi-nhat-ban\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-ho-ca-koi-nhat-ban/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-ho-ca-koi-nhat-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-hon-non-bo/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-hon-non-bo\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-hon-non-bo/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-hon-non-bo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-nha-pho/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-nha-pho\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-nha-pho/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-nha-pho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-nha-tron-goi/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-nha-tron-goi\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-nha-tron-goi/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-nha-tron-goi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-nha-xuong/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-nha-xuong\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung-nha-xuong/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung-nha-xuong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung\index.htm
+Content Type: text/html
+
+Uri: http://kientruc2.ninhbinhweb.info/xay-dung/feed/
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xay-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://kientruc2.ninhbinhweb.info/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C500|Dancing+Script:regular%2C400
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v22/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\s\dancingscript\v22\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fbo-ban-ghe-an-trevi-tai-nha-anh-minh-biet-thu-pandora%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fkham-pha-cho-nghi-chan-cua-obama-khi-den-sai-gon%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fnoi-that-go-oc-cho-xuat-khau-dep-cho-gia-dinh-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fsua-chua-biet-thu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fsua-chua-khach-san%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fsua-chua-nha-hang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fsua-chua-nha-xuong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fsua-chua-quan-ca-phe%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fsua-chua-quan-karaoke%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fsua-chua-shop-quan-ao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-biet-thu-dep%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-ho-ca-koi-nhat-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-hon-non-bo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-nha-cap-4-dep%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-noi-that-cong-trinh-nghi-duong-gan-gui-voi-thien-nhien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-noi-that-gia-dinh-can-ghi-nho-dieu-nay-cho-gia-chu-menh-moc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-noi-that-gia-dinh-hop-phong-thuy%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-quan-ca-phe%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fthiet-ke-quan-ca-phe-san-vuon%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fxay-dung-ho-ca-koi-nhat-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fxay-dung-hon-non-bo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fxay-dung-nha-pho%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fxay-dung-nha-tron-goi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fkientruc2.ninhbinhweb.info%252Fxay-dung-nha-xuong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://noithatducduong.com/wp-content/uploads/2019/05/10-1.jpg
+File Name: D:\cyotek-webcopy\kientruc2.ninhbinhweb.info\wp-content\uploads\2019\05\10-1.jpg
+Content Type: image/jpeg
+

@@ -1,0 +1,644 @@
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat.websiteviet.vn%252F2017%252F05%252F04%252F84%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat.websiteviet.vn%252F2017%252F05%252F04%252Fchung-cu-golden-west-340-trieu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat.websiteviet.vn%252F2017%252F05%252F04%252Fchung-cu-nam-do-complex-anh-chi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fnoithat.websiteviet.vn%252F2017%252F05%252F04%252Fphong-khach-chi-hanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://noithat.websiteviet.vn/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/2017/05/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/84/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\84\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/84/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\84\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/chung-cu-golden-west-340-trieu/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\chung-cu-golden-west-340-trieu\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/chung-cu-golden-west-340-trieu/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\chung-cu-golden-west-340-trieu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/chung-cu-nam-do-complex-anh-chi/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\chung-cu-nam-do-complex-anh-chi\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/chung-cu-nam-do-complex-anh-chi/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\chung-cu-nam-do-complex-anh-chi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/phong-khach-chi-hanh/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\phong-khach-chi-hanh\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/2017/05/04/phong-khach-chi-hanh/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\2017\05\04\phong-khach-chi-hanh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/author/admin/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/author/admin/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/category/chung-cu-moi/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\category\chung-cu-moi\index.htm
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/category/chung-cu-moi/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\category\chung-cu-moi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/comments/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/feed/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://noithat.websiteviet.vn/wp-admin/css/forms.min.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\css\forms.min.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-admin/css/l10n.min.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\css\l10n.min.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-admin/css/login.min.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\css\login.min.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-admin/images/loading.gif
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://noithat.websiteviet.vn/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat.websiteviet.vn/wp-admin/js/password-strength-meter.min.js?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-admin/js/user-profile.min.js?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-admin\js\user-profile.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.0.1
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.0.1
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=5.0.1
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.0.1
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.0.0
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.0.0
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\vendors-style.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\yith-woocommerce-wishlist\assets\css\jquery.selectBox.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/yith-woocommerce-wishlist/assets/images/jquery.selectBox-arrow.gif
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\yith-woocommerce-wishlist\assets\images\jquery.selectBox-arrow.gif
+Content Type: image/gif
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\yith-woocommerce-wishlist\assets\js\jquery.selectBox.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.0.20
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\plugins\yith-woocommerce-wishlist\assets\js\jquery.yith-wcwl.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.3
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.6.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: font/woff
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: font/woff2
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.6.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.6.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.css?ver=3.4
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\inc\integrations\wc-yith-wishlist\wishlist.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/inc/integrations/wc-yith-wishlist/wishlist.js?ver=3.4
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\inc\integrations\wc-yith-wishlist\wishlist.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-content/themes/flatsome/style.css?ver=3.6.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\themes\flatsome\style.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/bg-banner.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\bg-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand1-1.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand1-1.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand1.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand1.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand10-1.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand10-1.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand10.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand10.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand2-1.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand2-1.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand2.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand2.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand4-1.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand4-1.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/brand4.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\brand4.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/cropped-Logo-1-180x180.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\cropped-Logo-1-180x180.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/cropped-Logo-1-192x192.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\cropped-Logo-1-192x192.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/cropped-Logo-1-32x32.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\cropped-Logo-1-32x32.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/cropped-Logo-1.png
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\cropped-Logo-1.png
+Content Type: image/png
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Nha-pho-Anh-Toan-tp-Vinh-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Nha-pho-Anh-Toan-tp-Vinh-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Nha-pho-Anh-Toan-tp-Vinh.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Nha-pho-Anh-Toan-tp-Vinh.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slidehome_ccanhung-1024x419.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slidehome_ccanhung-1024x419.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slidehome_ccanhung-300x123.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slidehome_ccanhung-300x123.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slidehome_ccanhung-600x245.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slidehome_ccanhung-600x245.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slidehome_ccanhung-768x314.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slidehome_ccanhung-768x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slidehome_ccanhung.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slidehome_ccanhung.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_cong-trinh-anh-Chi-1024x419.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_cong-trinh-anh-Chi-1024x419.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_cong-trinh-anh-Chi-300x123.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_cong-trinh-anh-Chi-300x123.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_cong-trinh-anh-Chi-600x245.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_cong-trinh-anh-Chi-600x245.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_cong-trinh-anh-Chi-768x314.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_cong-trinh-anh-Chi-768x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_cong-trinh-anh-Chi.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_cong-trinh-anh-Chi.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-1024x419.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-1024x419.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-300x123.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-300x123.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-600x245.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-600x245.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-768x314.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung-768x314.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Slide_thiet-ke-noi-that-chung-cu-nha-a-Hung.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-Golden-land-1-1-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-Golden-land-1-1-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-Golden-land-1-1.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-Golden-land-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-Golden-land-1-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-Golden-land-1-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-Golden-land-1.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-Golden-land-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-GOLDEN-WEST-LE-VAN-THIEM-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-GOLDEN-WEST-LE-VAN-THIEM-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-GOLDEN-WEST-LE-VAN-THIEM.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-GOLDEN-WEST-LE-VAN-THIEM.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/thiet-ke-noi-that-chung-cu-Hacinco-Le-Van-Luong-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\thiet-ke-noi-that-chung-cu-Hacinco-Le-Van-Luong-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/thiet-ke-noi-that-chung-cu-Hacinco-Le-Van-Luong.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\thiet-ke-noi-that-chung-cu-Hacinco-Le-Van-Luong.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-Hapulico-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-Hapulico-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-chung-cu-Hapulico.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-chung-cu-Hapulico.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-nha-pho-ha-noi-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-nha-pho-ha-noi-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-nha-pho-ha-noi.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-nha-pho-ha-noi.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-bac-Trieu-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-bac-Trieu-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-bac-Trieu.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-bac-Trieu.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-1-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-1-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-1.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-2-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-2-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-2.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-2.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-nha-chi-Hanh.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel-1-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel-1-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel-1.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel-1.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-noi-that-phong-ngu-tap-the-Dorm-hotel.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/tHIET-KE-TRUONG-MAM-NO-SPARK-DUON-GNOI-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\tHIET-KE-TRUONG-MAM-NO-SPARK-DUON-GNOI-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/tHIET-KE-TRUONG-MAM-NO-SPARK-DUON-GNOI.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\tHIET-KE-TRUONG-MAM-NO-SPARK-DUON-GNOI.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-va-thi-cong-nha-pho-anh-Vinh-Ha-Tinh-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-va-thi-cong-nha-pho-anh-Vinh-Ha-Tinh-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Thiet-ke-va-thi-cong-nha-pho-anh-Vinh-Ha-Tinh.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Thiet-ke-va-thi-cong-nha-pho-anh-Vinh-Ha-Tinh.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Van-phong-Anh-Giang-Thuan-Phat-300x195.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Van-phong-Anh-Giang-Thuan-Phat-300x195.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-content/uploads/2017/05/Van-phong-Anh-Giang-Thuan-Phat.jpg
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-content\uploads\2017\05\Van-phong-Anh-Giang-Thuan-Phat.jpg
+Content Type: image/jpeg
+
+Uri: https://noithat.websiteviet.vn/wp-includes/css/buttons.min.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\css\buttons.min.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-includes/css/dashicons.min.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://noithat.websiteviet.vn/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://noithat.websiteviet.vn/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\fonts\dashicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/comment-reply.min.js?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/dist/api-fetch.min.js?ver=17766b2bf644140bbb233ce86db2174c
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/dist/url.min.js?ver=5d9169e30a8883667fee1a7b5dd0fb51
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/underscore.min.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/wp-util.min.js?ver=5.9.2
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://noithat.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://noithat.websiteviet.vn/wp-json/
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F&format=xml
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2F84%2F
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2F84%2F&format=xml
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2Fchung-cu-golden-west-340-trieu%2F
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2Fchung-cu-golden-west-340-trieu%2F&format=xml
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2Fchung-cu-nam-do-complex-anh-chi%2F
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2Fchung-cu-nam-do-complex-anh-chi%2F&format=xml
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2Fphong-khach-chi-hanh%2F
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fnoithat.websiteviet.vn%2F2017%2F05%2F04%2Fphong-khach-chi-hanh%2F&format=xml
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://noithat.websiteviet.vn/wp-json/wp/v2/categories/19
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\wp\v2\categories\19
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/wp/v2/pages/6
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\wp\v2\pages\6
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/wp/v2/posts/136
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\wp\v2\posts\136
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/wp/v2/posts/138
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\wp\v2\posts\138
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/wp/v2/posts/140
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\wp\v2\posts\140
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/wp/v2/posts/84
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\wp\v2\posts\84
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-json/wp/v2/users/1
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://noithat.websiteviet.vn/wp-login.php?itsec-hb-token=wpgpsc
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/wp-login.php?itsec-hb-token=wpgpsc&action=lostpassword
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\wp-login.php.html
+Content Type: text/html
+
+Uri: https://noithat.websiteviet.vn/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://secure.gravatar.com/avatar/dfaf919e7f8c631d101492cc7b9427b5?s=180&d=mm&r=g
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\avatar\dfaf919e7f8c631d101492cc7b9427b5-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/dfaf919e7f8c631d101492cc7b9427b5?s=90&d=mm&r=g
+File Name: D:\cyotek-webcopy\noithat.websiteviet.vn\avatar\dfaf919e7f8c631d101492cc7b9427b5.png
+Content Type: image/jpeg
+

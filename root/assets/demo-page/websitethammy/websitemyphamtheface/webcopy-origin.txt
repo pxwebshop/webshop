@@ -1,0 +1,584 @@
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/404.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\404.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/about.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\about.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/css/helper.css
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\css\helper.css
+Content Type: text/css
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/css/iconfont.min.css
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\css\iconfont.min.css
+Content Type: text/css
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/css/plugins.css
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\css\plugins.css
+Content Type: text/css
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/css/style.css
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\css\style.css
+Content Type: text/css
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/Pe-icon-7-stroke.eot?
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\Pe-icon-7-stroke-1.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/Pe-icon-7-stroke.eot?d7yf1v
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\Pe-icon-7-stroke.eot
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/Pe-icon-7-stroke.svg?d7yf1v
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\Pe-icon-7-stroke.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/Pe-icon-7-stroke.ttf?d7yf1v
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\Pe-icon-7-stroke.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/fonts/Pe-icon-7-stroke.woff?d7yf1v
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\fonts\Pe-icon-7-stroke.woff
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/about/about-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\about\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/author/test-author-1.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\author\test-author-1.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/author/test-author-2.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\author\test-author-2.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/author/test-author-3.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\author\test-author-3.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/author/test-author-4.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\author\test-author-4.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/author/test-author-5.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\author\test-author-5.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/banner/category-image.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\banner\category-image.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/banner/h1-banner-1.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\banner\h1-banner-1.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/banner/h1-banner-2.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\banner\h1-banner-2.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/banner/h1-banner-3.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\banner\h1-banner-3.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/banner/h4-banner-1.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\banner\h4-banner-1.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/banner/h4-banner-2.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\banner\h4-banner-2.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/blog/blog-details-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\blog\blog-details-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/blog/blog-details-2.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\blog\blog-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/blog/blog-details-3.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\blog\blog-details-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/blog/blog1.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\blog\blog1.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/blog/blog2.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\blog\blog2.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/blog/blog3.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\blog\blog3.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/brands/brand-1.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\brands\brand-1.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/brands/brand-2.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\brands\brand-2.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/brands/brand-3.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\brands\brand-3.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/brands/brand-4.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\brands\brand-4.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/brands/brand-5.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\brands\brand-5.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/cart/cart-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\cart\cart-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/cart/cart-2.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\cart\cart-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/categorie/cate-1.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\categorie\cate-1.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/categorie/cate-2.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\categorie\cate-2.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/categorie/cate-3.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\categorie\cate-3.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/deal-product/product-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\deal-product\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/deal-product/product-2.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\deal-product\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/deal-product/product-3.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\deal-product\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/deal-product/product-4.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\deal-product\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\favicon.ico
+Content Type: application/octet-stream
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/icons/author.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\icons\author.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/language/english.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\language\english.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/logo-white.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\logo-white.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/logofoo.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\logofoo.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/payment.png
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\payment.png
+Content Type: image/png
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/large-product/l-product-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\large-product\l-product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/large-product/l-product-2.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\large-product\l-product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/large-product/l-product-3.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\large-product\l-product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/large-product/l-product-4.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\large-product\l-product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/large-product/l-product-5.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\large-product\l-product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-10.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-10.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-11.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-11.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-12.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-12.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-13.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-13.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-14.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-14.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-15.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-15.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-16.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-16.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-17.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-17.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-18.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-18.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-19.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-19.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-2.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-3.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-4.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-5.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-6.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-7.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-8.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-8.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/product-9.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\product-9.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/small-product/s-product-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\small-product\s-product-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/small-product/s-product-2.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\small-product\s-product-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/small-product/s-product-3.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\small-product\s-product-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/small-product/s-product-4.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\small-product\s-product-4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/product/small-product/s-product-5.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\product\small-product\s-product-5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/team/team-1.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\team\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/team/team-2.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\team\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/images/team/team-3.jpg
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\images\team\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/js/main.js
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/js/plugins.js
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/js/vendor/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\js\vendor\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/assets/js/vendor/modernizr-2.8.3.min.js
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\assets\js\vendor\modernizr-2.8.3.min.js
+Content Type: application/javascript
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog-details-audio.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog-details-audio.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog-details-gallery.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog-details-gallery.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog-details-video.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog-details-video.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog-details.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog-details.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog-left-sidebar.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog-right-sidebar.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog-right-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog-two-column.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog-two-column.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/blog.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\blog.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/cart.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\cart.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/checkout.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\checkout.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/compare.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\compare.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/contact.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\contact.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/faq.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\faq.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/index-2.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\index-2.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/index-3.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\index-3.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/index-4.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\index-4.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/index-5.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\index-5.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/index-6.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\index-6.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/index.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\index.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/login-register.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\login-register.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/my-account.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\my-account.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/shop-four-column.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\shop-four-column.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/shop-list-left-sidebar.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\shop-list-left-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/shop-list-nosidebar.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\shop-list-nosidebar.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/shop-list-right-sidebar.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\shop-list-right-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/shop-right-sidebar.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\shop-right-sidebar.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/shop-three-column.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\shop-three-column.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/shop.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\shop.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-affiliate.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-affiliate.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-gallery-left.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-gallery-left.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-gallery-right.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-gallery-right.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-group.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-group.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-slider-box.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-slider-box.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-sticky-left.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-sticky-left.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-sticky-right.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-sticky-right.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-tabstyle-2.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-tabstyle-2.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-tabstyle-3.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-tabstyle-3.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product-variable.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product-variable.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/single-product.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\single-product.html
+Content Type: text/html
+
+Uri: https://demo.hasthemes.com/theface-preview/theface-v3/wishlist.html
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\theface-preview\theface-v3\wishlist.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,800|Yesteryear
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/yesteryear/v12/dg4g_p78rroaKl8kRKo1n7sNSw.ttf
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\s\yesteryear\v12\dg4g_p78rroaKl8kRKo1n7sNSw.ttf
+Content Type: font/ttf
+
+Uri: https://maps.google.com/maps/api/js?sensor=false&libraries=geometry&v=3.22&key=AIzaSyDAq7MrCR1A2qIShmjbtLHSKjcEIEBEEwM
+File Name: C:\Downloaded Web Sites\demo.hasthemes.com\maps\api\js
+Content Type: text/javascript
+

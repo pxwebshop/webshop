@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/toys.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-11-16T01:20:29-05:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4376016224341</id>
+    <published>2019-11-16T01:20:29-05:00</published>
+    <updated>2019-11-16T01:20:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/abacus"/>
+    <title>Abacus</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Boon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-ba-15_9b321134-af57-4aba-971c-5695b0cd0d43.jpg?v=1613651370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boon<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            135.00 - 190.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/abacus">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boon</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Toy</s:tag>
+    <s:tag>Wool</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376016224341</id>
+      <title>L / BLue / Wool</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>GCP31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376016224341</id>
+      <title>L / Pink / Cotton</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>GCP32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376016224341</id>
+      <title>X / Black / Silk</title>
+      <s:price currency="USD">184.00</s:price>
+      <s:sku>GCP33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4376012587093</id>
+    <published>2019-11-16T01:18:29-05:00</published>
+    <updated>2019-11-16T01:18:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/tiny-midi"/>
+    <title>Tiny Midi</title>
+    <s:type>Midi</s:type>
+    <s:vendor>Nicole Miller</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-ba-13_46cd4a4f-2362-4169-aa8c-6b47c56195b0.jpg?v=1573885164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nicole Miller<br>
+        <strong>Type: </strong>Midi<br>
+        <strong>Price: </strong>
+            435.00 - 490.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/tiny-midi">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Midi</s:tag>
+    <s:tag>Nicole Miller</s:tag>
+    <s:tag>Velvet</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376012587093</id>
+      <title>XL / Green / Velvet</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku>GCP31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376012587093</id>
+      <title>L / Pink / Cotton</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>GCP32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376012587093</id>
+      <title>X / Black / Silk</title>
+      <s:price currency="USD">484.00</s:price>
+      <s:sku>GCP33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4376000921685</id>
+    <published>2019-11-16T01:12:41-05:00</published>
+    <updated>2019-11-16T01:12:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/infant-gloves"/>
+    <title>Infant Gloves</title>
+    <s:type>Clothes</s:type>
+    <s:vendor>Baby Grow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-ba-8_a3eac5fa-7447-40e4-b544-48307cbecce4.jpg?v=1573884803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baby Grow<br>
+        <strong>Type: </strong>Clothes<br>
+        <strong>Price: </strong>
+            735.00 - 790.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/infant-gloves">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Baby Grow</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376000921685</id>
+      <title>XXL / Orange / Plastic</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku>GCP31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376000921685</id>
+      <title>L / Pink / Cotton</title>
+      <s:price currency="USD">735.00</s:price>
+      <s:sku>GCP32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4376000921685</id>
+      <title>X / Black / Silk</title>
+      <s:price currency="USD">784.00</s:price>
+      <s:sku>GCP33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4375978213461</id>
+    <published>2019-11-16T01:01:31-05:00</published>
+    <updated>2019-11-16T01:01:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/woolen-cap"/>
+    <title>Woolen Cap</title>
+    <s:type>Clothes</s:type>
+    <s:vendor>Littly</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-ba-1.jpg?v=1573884150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Littly<br>
+        <strong>Type: </strong>Clothes<br>
+        <strong>Price: </strong>
+            334.00 - 390.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/woolen-cap">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Littly</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silk</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4375978213461</id>
+      <title>S / Yellow / Silk</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>GCP31</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4375978213461</id>
+      <title>L / Pink / Cotton</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku>GCP32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4375978213461</id>
+      <title>X / Black / Silk</title>
+      <s:price currency="USD">334.00</s:price>
+      <s:sku>GCP33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

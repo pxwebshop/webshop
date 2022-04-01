@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/tagged/blushes.atom"/>
+  <title>Beauty Store - News</title>
+  <updated>2017-05-25T08:57:00-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/blogs/news/skin-tone-is-the-key-to-looking-young</id>
+    <published>2017-05-25T08:57:00-04:00</published>
+    <updated>2021-02-09T05:12:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/skin-tone-is-the-key-to-looking-young"/>
+    <title>Skin tone is the key to looking young</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/blogs/news/nailing-it-with-pink-requires-attitude</id>
+    <published>2017-05-25T08:55:00-04:00</published>
+    <updated>2021-02-09T05:11:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/nailing-it-with-pink-requires-attitude"/>
+    <title>Nailing it with pink requires attitude!</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/blogs/news/different-brushes-for-facial-makeup</id>
+    <published>2017-05-25T08:50:00-04:00</published>
+    <updated>2021-02-09T05:11:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/different-brushes-for-facial-makeup"/>
+    <title>Different brushes for facial makeup</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/blogs/news/top-10-colors-for-the-best-lipstick</id>
+    <published>2017-03-15T05:59:00-04:00</published>
+    <updated>2021-02-09T05:12:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/top-10-colors-for-the-best-lipstick"/>
+    <title>Top 10 colors for the best lipstick</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/blogs/news/latest-tips-to-achieve-a-perfect-winter-face</id>
+    <published>2017-03-15T05:54:00-04:00</published>
+    <updated>2021-02-09T05:11:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/blogs/news/latest-tips-to-achieve-a-perfect-winter-face"/>
+    <title>Latest tips to achieve a perfect winter face</title>
+    <author>
+      <name>Ram M</name>
+    </author>
+    <content type="html">
+      <![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]>
+    </content>
+  </entry>
+</feed>

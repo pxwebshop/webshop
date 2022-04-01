@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/auto-parts.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-11-13T05:08:00-05:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4367968272469</id>
+    <published>2019-11-13T05:08:00-05:00</published>
+    <updated>2019-11-13T05:08:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/rear-break-caliper"/>
+    <title>Rear Break Caliper</title>
+    <s:type>Shock Absorbers</s:type>
+    <s:vendor>TAFE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-9_4281a2eb-46e0-4d53-b77b-4bacfa0e0a29.jpg?v=1613714996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TAFE<br>
+        <strong>Type: </strong>Shock Absorbers<br>
+        <strong>Price: </strong>
+            319.00 - 323.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/rear-break-caliper">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>4W</s:tag>
+    <s:tag>Shock Absorbers</s:tag>
+    <s:tag>TAFE</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4367968272469</id>
+      <title>4W</title>
+      <s:price currency="USD">323.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4367968272469</id>
+      <title>3W</title>
+      <s:price currency="USD">319.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4367968272469</id>
+      <title>2W</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4365966508117</id>
+    <published>2019-11-12T08:07:45-05:00</published>
+    <updated>2019-11-12T08:07:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/pro-clutch-yokes"/>
+    <title>Pro Clutch Yokes</title>
+    <s:type>Brake Shoe</s:type>
+    <s:vendor>TAFE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-8_08478443-0ade-484d-a186-44836a7b36f0.jpg?v=1573564088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TAFE<br>
+        <strong>Type: </strong>Brake Shoe<br>
+        <strong>Price: </strong>
+            123.00 - 198.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/pro-clutch-yokes">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>2W</s:tag>
+    <s:tag>Brake Shoe</s:tag>
+    <s:tag>TAFE</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365966508117</id>
+      <title>4W</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>12345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365966508117</id>
+      <title>2W</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365966508117</id>
+      <title>3W</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>sku26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4365959856213</id>
+    <published>2019-11-12T08:01:04-05:00</published>
+    <updated>2019-11-12T08:01:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/coupling-hubs"/>
+    <title>Coupling Hubs</title>
+    <s:type>Brake Shoe</s:type>
+    <s:vendor>MotoCorp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-6_bdab63bf-8be8-4236-813b-180276ea1a5f.jpg?v=1573563685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MotoCorp<br>
+        <strong>Type: </strong>Brake Shoe<br>
+        <strong>Price: </strong>
+            123.00 - 198.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/coupling-hubs">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>3W</s:tag>
+    <s:tag>Brake Shoe</s:tag>
+    <s:tag>MotoCorp</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365959856213</id>
+      <title>4W</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>12345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365959856213</id>
+      <title>2W</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365959856213</id>
+      <title>3W</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>sku26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4365956907093</id>
+    <published>2019-11-12T07:58:17-05:00</published>
+    <updated>2019-11-12T07:58:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/brake-shoe"/>
+    <title>Brake Shoe</title>
+    <s:type>Shock Absorbers</s:type>
+    <s:vendor>MotoCorp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-5_235fbbaf-f66d-4e58-b7f7-5594a92866c1.jpg?v=1573563511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MotoCorp<br>
+        <strong>Type: </strong>Shock Absorbers<br>
+        <strong>Price: </strong>
+            123.00 - 198.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/brake-shoe">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>4W</s:tag>
+    <s:tag>MotoCorp</s:tag>
+    <s:tag>Shock Absorbers</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365956907093</id>
+      <title>4W</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>12345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365956907093</id>
+      <title>2W</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365956907093</id>
+      <title>3W</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>sku26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4365954678869</id>
+    <published>2019-11-12T07:56:01-05:00</published>
+    <updated>2019-11-12T07:56:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/break-lever"/>
+    <title>Break Lever</title>
+    <s:type>Indicator Panel</s:type>
+    <s:vendor>Earth Movers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-4_701d32f2-b3c3-4d05-abc7-df331bfc57aa.jpg?v=1573563395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Earth Movers<br>
+        <strong>Type: </strong>Indicator Panel<br>
+        <strong>Price: </strong>
+            123.00 - 198.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/break-lever">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>2W</s:tag>
+    <s:tag>Earth Movers</s:tag>
+    <s:tag>Indicator Panel</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365954678869</id>
+      <title>4W</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>12345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365954678869</id>
+      <title>2W</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365954678869</id>
+      <title>3W</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>sku26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4365951041621</id>
+    <published>2019-11-12T07:52:16-05:00</published>
+    <updated>2019-11-12T07:52:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/tyre-inflator"/>
+    <title>Tyre Inflator</title>
+    <s:type>Brake Levers</s:type>
+    <s:vendor>Electric Vechicle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-3_866e66b1-b376-4685-88b5-0d2f2caedf8d.jpg?v=1573563161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Electric Vechicle<br>
+        <strong>Type: </strong>Brake Levers<br>
+        <strong>Price: </strong>
+            123.00 - 198.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/tyre-inflator">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $400</s:tag>
+    <s:tag>3W</s:tag>
+    <s:tag>Brake Levers</s:tag>
+    <s:tag>Electric Vechicle</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365951041621</id>
+      <title>4W</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>12345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365951041621</id>
+      <title>2W</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365951041621</id>
+      <title>3W</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>sku26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4365947076693</id>
+    <published>2019-11-12T07:46:12-05:00</published>
+    <updated>2019-11-12T07:46:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/wheel-balancer"/>
+    <title>Wheel Balancer</title>
+    <s:type>Brake Shoe</s:type>
+    <s:vendor>TAFE</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-2_dcc51ca4-1a86-43bf-b2e4-79cb19ad4db6.jpg?v=1573562786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TAFE<br>
+        <strong>Type: </strong>Brake Shoe<br>
+        <strong>Price: </strong>
+            123.00 - 198.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/wheel-balancer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>4W</s:tag>
+    <s:tag>Brake Shoe</s:tag>
+    <s:tag>TAFE</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365947076693</id>
+      <title>4W</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>12345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365947076693</id>
+      <title>2W</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365947076693</id>
+      <title>3W</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>sku26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4365932822613</id>
+    <published>2019-11-12T07:30:06-05:00</published>
+    <updated>2019-11-12T07:30:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/front-break-disc"/>
+    <title>Front Break Disc</title>
+    <s:type>Shock Absorbers</s:type>
+    <s:vendor>MotoCorp</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/shop-1_01f22d21-f97a-4020-b39c-7dcec3843807.jpg?v=1573562256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MotoCorp<br>
+        <strong>Type: </strong>Shock Absorbers<br>
+        <strong>Price: </strong>
+            123.00 - 198.00
+            <a href="https://huge-cosmetics-shop.myshopify.com/products/front-break-disc">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>4W</s:tag>
+    <s:tag>MotoCorp</s:tag>
+    <s:tag>Shock Absorbers</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365932822613</id>
+      <title>4W</title>
+      <s:price currency="USD">123.00</s:price>
+      <s:sku>12345</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365932822613</id>
+      <title>2W</title>
+      <s:price currency="USD">179.00</s:price>
+      <s:sku>12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4365932822613</id>
+      <title>3W</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>sku26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

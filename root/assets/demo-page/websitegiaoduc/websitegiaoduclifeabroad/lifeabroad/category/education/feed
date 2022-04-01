@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Education &#8211; Life Abroad</title>
+	<atom:link href="http://tech.mypagedemo.com/lifeabroad/category/education/feed" rel="self" type="application/rss+xml" />
+	<link>http://tech.mypagedemo.com/lifeabroad</link>
+	<description>Make your journey different</description>
+	<lastBuildDate>Mon, 13 Jul 2020 17:42:13 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.12</generator>
+	<item>
+		<title>How should I adapt to British culture while studying in the UK</title>
+		<link>http://tech.mypagedemo.com/lifeabroad/how-should-i-adapt-to-british-culture-while-studying-in-the-uk.html</link>
+				<comments>http://tech.mypagedemo.com/lifeabroad/how-should-i-adapt-to-british-culture-while-studying-in-the-uk.html#respond</comments>
+				<pubDate>Thu, 09 Jul 2020 17:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[mypage]]></dc:creator>
+				<category><![CDATA[Accommodation]]></category>
+		<category><![CDATA[Education]]></category>
+		<category><![CDATA[Others]]></category>
+
+		<guid isPermaLink="false">http://tech.mypagedemo.com/lifeabroad/?p=73</guid>
+				<description><![CDATA[Today, learn how to adapt to British Culture While Studying Abroad in the UK if you are interested in going to the UK for your studies. They state a certain species must have the option to “adapt” to moving environments so as to survive. People, obviously, are one of the strongest and smart species prepared [&#8230;]]]></description>
+						<wfw:commentRss>http://tech.mypagedemo.com/lifeabroad/how-should-i-adapt-to-british-culture-while-studying-in-the-uk.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Lobbying MPs in a crisis</title>
+		<link>http://tech.mypagedemo.com/lifeabroad/lobbying-mps-in-a-crisis.html</link>
+				<comments>http://tech.mypagedemo.com/lifeabroad/lobbying-mps-in-a-crisis.html#respond</comments>
+				<pubDate>Mon, 06 Jul 2020 09:53:58 +0000</pubDate>
+		<dc:creator><![CDATA[mypage]]></dc:creator>
+				<category><![CDATA[Education]]></category>
+		<category><![CDATA[Life hacks]]></category>
+		<category><![CDATA[Others]]></category>
+
+		<guid isPermaLink="false">http://tech.mypagedemo.com/lifeabroad/?p=86</guid>
+				<description><![CDATA[Being heard by those in power is important at any time for a charity like Age UK. And our efforts to make life better for older people are even more important during a crisis, as Senior Public Affairs Manager Rob Henderson explains. Both nationally and locally, the Age UK network is working tirelessly to help [&#8230;]]]></description>
+						<wfw:commentRss>http://tech.mypagedemo.com/lifeabroad/lobbying-mps-in-a-crisis.html/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

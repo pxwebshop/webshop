@@ -1,0 +1,1852 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>	First-Travel</title>
+    <link rel="stylesheet" type="text/css" href="../Content/js/owl-carousel/owl.theme.default.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/js/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="../ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <link href="../css?family=Josefin+Sans:Regular&display=swap" rel="stylesheet">
+    <link href="../css-1?family=Open+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="../Content/css/style.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/page3.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/responsive/page3_res.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/responsive/style_res.min.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/page5_res.min.css">
+    
+
+    <script>
+        window.fbAsyncInit = function () {
+            FB.init({
+                appId: '1044999808883212',
+                xfbml: true,
+                version: 'v2.6'
+            });
+        };
+
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) { return; }
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
+</head>
+<body>
+<div class="contacthotel"> 
+	<div class="container">
+		<div class="topcontact">
+			<div class="back">
+				 <a href="https://webtravel.vn/"> &#10554; Về trang chủ </a>
+			</div>
+			<div class="order">
+				<a href="https://webtravel.vn/Dang-ki?MaWebSite=M%E1%BA%ABu%2007%20-%20The%20First%20Travel"> 
+					Sử dụng giao diện này
+				</a>
+				<a href="#" class="closetop">
+					&#10005;
+				</a>
+			</div>
+		
+		</div>
+		
+	</div>
+</div>
+  
+<style> 
+.topcontact{
+     display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+    align-items: center;
+    font-weight: 600;
+	z-index:1111;
+	transition:all .5s ease-in-out;
+}
+.contacthotel{   
+    background: #0072bd;
+    z-index: 111111;
+    width: 100%;
+	transition:all .5s ease-in-out;
+}
+.order{
+	display:flex;
+	color:#FFf;
+	 align-items: center;
+    font-weight: 600;
+	z-index:111;
+}
+.topcontact a{
+	color: #FFF !important;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.closetop{
+    padding-left: 10px;
+    color: #FFF;
+    z-index: 111;
+    background: transparent!important;
+}
+.topcontact .order a{
+	padding: 3px 15px;
+	border-radius:5px;
+	background: #f8c218;
+}
+body{
+	transition:all .5s ease-in-out;
+}
+@media(max-width:425px){
+	.contacthotel{
+	    position: fixed;
+	    width: 100%;
+	    z-index: 1111;
+	    bottom:0;
+	    left: 0;
+	}
+	.contacthotel.fixedcontact {
+	    position: fixed;
+	    width: 100%;
+	    z-index: 1111;
+	    top: 93%;
+	    left: 0;
+	}
+	.topcontact{
+	    display: flex;
+	    justify-content: space-between;
+	    padding: 5px 0px;
+	    align-items: center;
+	    font-weight: 600;
+	    z-index: 111;
+	    transition: all .5s ease-in-out;
+	    font-size: 13px;
+	}
+	.topcontact .order a {
+	    padding: 5px 5px;
+	    border-radius: 5px;
+	}
+}
+</style>
+    <div class="fabss">
+        <ul>
+            <li>
+                <a href="../inquire.html">
+                    <span>
+                        <img src="../Content/img/index/contact_header/fa1.png" alt="inquire">
+                        <em>plan trip</em>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="#" data-toggle="modal" data-target="#brochure">
+                    <span>
+                        <img src="../Content/img/index/contact_header/fa2.png" alt="brochure">
+                        <em>brochure</em>
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="tel: (+84) 242 242 0777">
+                    <span id="callll">
+                        <img src="../Content/img/index/contact_header/fa3.png" alt="Call">
+                        <em>call us</em>
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <section class="contact_header">
+        <div class="container_">
+            <div class="wrapper_contact_header">
+                <ul>
+                    <li>
+                        <span><a href=""><img src="../Content/img/index/contact_header/envelope.png"></a></span>
+                        <span>info@webtravel.vn</span>
+                    </li>
+                    <li class="phone_contac">
+                        <span><a href=""><img src="../Content/img/index/contact_header/phone-call.png"></a></span>
+                        <span>
+                            <span class="toang">
+                                <a href=""> (+84) 242 242 0777</a>
+                                <img src="../Content/img/index/contact_header/part_top.png">
+                            </span>
+                            <div class="list_phone">
+                                <ul>
+                                    <li><a href=""> (+84) 242 242 0777</a></li>
+                                </ul>
+                            </div>
+                        </span>
+                    </li>
+                    <li class="trust">
+                        <a href="../review.html">
+                            <img src="../Content/img/index/contact_header/Repeat.png">
+                            <span>Trustpilot</span>
+                        </a>
+                    </li>
+                </ul>
+                <span class="ique_contact">
+                    <a href="../inquire.html">INQUIRE NOW</a>
+                </span>
+            </div>
+        </div>
+    </section>
+    <header>
+        <div class="container_">
+            <div class="logo"><a title="" href="../index.htm"><img src="../files/files/FileDemo/logo.png"></a></div>
+            
+<div class="menu">
+    <nav class="nav_res">
+        <span class="close_menu"><i class="fa fa-times"></i></span>
+        <ul class="menu_parent">
+
+                        <script>
+                            function openCityy16(evt, cityName) {
+                                var i, tabcontent4, tablinks;
+                                tabcontent4 = document.getElementsByClassName("img_tours_81");
+                                for (i = 0; i < tabcontent4.length; i++) {
+                                    tabcontent4[i].style.display = "none";
+                                }
+                                tablinks4 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks4.length; i++) {
+                                    tablinks4[i].className = tablinks4[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="About us">About us<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu about_us">
+                                <div class="list_tours">
+
+                                    <ul class="wrapper_itemtour">
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_who-we-are')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Who We Are</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_our-people')">
+                                                    <span class="title_tour"><a href="../our-people.html">Our People</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_why-book-with-us')">
+                                                    <span class="title_tour"><a href="../why-book-with-us.html">Why Book With Us</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy16(event, 'zz_what-others-say')">
+                                                    <span class="title_tour"><a href="../what-others-say.html">What Others Say</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                    <script>
+                                        function openCityy31(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_91");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+
+
+                                    <script>
+                                        function openCityy51(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_51");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+                                            <div id="zz_who-we-are" class="img_tours img_tours_81" style="display: block">
+                                                <div class="wrap_in">
+                                                    <div class="list_content_text">
+                                                        <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+
+                                                                <li class="tablinks" onmouseover="openCityy31(event, 'zz_a-bit-about-us')"><a href="../a-bit-about-us.html">A bit about us</a></li>
+                                                                <li class="tablinks" onmouseover="openCityy31(event, 'zz_the-journey')"><a href="../the-journey.html">The journey</a></li>
+                                                                <li class="tablinks" onmouseover="openCityy31(event, 'zz_why-the-name')"><a href="../why-the-name.html">Why the name</a></li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="list_more">
+                                                            <div id="zz_a-bit-about-us" class="show_tour_child img_tours_91" style="display: block">
+                                                                <img src="../files/files/FileDemo/banner1_1.png" alt="A bit about us">
+                                                            </div>
+                                                            <div id="zz_the-journey" class="show_tour_child img_tours_91" style="">
+                                                                <img src="../files/files/FileDemo/q5.png" alt="The journey">
+                                                            </div>
+                                                            <div id="zz_why-the-name" class="show_tour_child img_tours_91" style="">
+                                                                <img src="../files/files/FileDemo/q3.png" alt="Why the name">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_our-people" class="img_tours img_tours_81" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="our-people" class="show_tour_child img_tours_51" style="display: block">
+                                                                <img src="../files/files/FileDemo/q3.png" alt="Our People">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_why-book-with-us" class="img_tours img_tours_81" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="why-book-with-us" class="show_tour_child img_tours_51" style="display: block">
+                                                                <img src="../files/files/FileDemo/q5.png" alt="Why Book With Us">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_what-others-say" class="img_tours img_tours_81" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="what-others-say" class="show_tour_child img_tours_51" style="display: block">
+                                                                <img src="../files/files/FileDemo/q5.png" alt="What Others Say">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCity123241(evt, cityName) {
+                                var i, tabcontent, tablinks;
+                                tabcontent = document.getElementsByClassName("img_tours_260");
+                                for (i = 0; i < tabcontent.length; i++) {
+                                    tabcontent[i].style.display = "none";
+                                }
+                                tablinks = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks.length; i++) {
+                                    tablinks[i].className = tablinks[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="Destination">Destination<i class="fa fa-caret-down"></i></a>
+
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu">
+                                <div class="list_tours">
+                                    <ul class="wrapper_itemtour desti">
+                                                <li class="tablinks active" onmouseover="openCity123241(event, 'vietnam1')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Vietnam</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks " onmouseover="openCity123241(event, 'laos1')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Laos</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks " onmouseover="openCity123241(event, 'myanmar')">
+                                                    <span class="title_tour"><a href="javascript:void(0)">Myanmar</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks " onmouseover="openCity123241(event, 'cambodia')">
+                                                    <span class="title_tour"><a href="../cambodia.html">CAMBODIA</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+                                        <div id="vietnam1" class="img_tours img_tours_260" style="display: block;">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                                <li><a href="../vietnam1/ha-long-tours-package-tours.html">Ha Long Tours &amp; Package Tours </a></li>
+                                                                <li><a href="../vietnam1/ha-giang-tour-packages.html">Ha Giang Tour &amp; Packages</a></li>
+                                                                <li><a href="../vietnam1/sapa-vacation-tours.html">Sapa Vacation &amp; Tours</a></li>
+                                                                <li><a href="../vietnam1/mai-chau-moc-chau.html">Mai Chau &amp; Moc Chau</a></li>
+                                                                <li><a href="../vietnam1/ba-be-lake-ban-gioc-water-fall.html">Ba Be Lake &amp; Ban Gioc Water Fall</a></li>
+                                                                <li><a href="../vietnam1/ninh-binh-tours-package-tours.html">Ninh Binh Tours &amp; Package Tours </a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>Vietnam</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/03.jpg" alt="Vietnam">
+                                                    </div>
+                                                    <p>Adventure In Viet Nam</p>
+                                                    <span><span style="font-size:16px">A whirlwind of colorfully pristine nature and magnanimous culture awaits in Vietnam as a country of immense depth opens for your discovery. A proud heritage, welcoming people, and a delectable cuisine beckons to travelers of all kinds</span></span>
+                                                    <p><a href="../vietnam1.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="laos1" class="img_tours img_tours_260" style="display: none">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                                <li><a href="vientiane.html">Vientiane </a></li>
+                                                                <li><a href="luang-prabang.html">Luang Prabang</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>Laos</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/Laos.jpg" alt="Laos">
+                                                    </div>
+                                                    <p>Laos Hidden Beautifull </p>
+                                                    <span>The Lao originated in southern China and moved southward into present-day Laos, forming a kingdom in the Mekong River valley in the fourteenth century and pushing the earlier inhabitants of the area, the Kammu, into more mountainous areas. After three centuries, however, disputes over succession to the throne and foreign invasions split the country into three rival kingdoms in the north, center, and south.<br>
+<br>
+&nbsp;</span>
+                                                    <p><a href="../laos1.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="myanmar" class="img_tours img_tours_260" style="display: none">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                            <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                                <li><a href="../myanmar/yangon.html">Yangon</a></li>
+                                                                <li><a href="../myanmar/mandalay.html">Mandalay</a></li>
+                                                                <li><a href="../myanmar/bagan.html">Bagan</a></li>
+                                                                <li><a href="../myanmar/inle-lake.html">Inle lake</a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>Myanmar</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/shutterstock_494101192.jpg" alt="Myanmar">
+                                                    </div>
+                                                    <p>Wonder of Nature</p>
+                                                    <span>Myanmar (the former name was Burma) gets along well with the neighbors as Thailand, Cambodia, Laos, and Vietnam. Just several years ago, Myanmar Holidays sounded bizarre and new to many people. But recently, this Southeast Asian country grows to be the hot spot that attracts many backpackers and tourists worldwide. A good introduction about Myanmar surely helps the newcomers to discover the land&rsquo;s quintessence in the full manner.</span>
+                                                    <p><a href="../myanmar.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="cambodia" class="img_tours img_tours_260" style="display: none">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <ul>
+                                                    </ul>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>CAMBODIA</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/images/03.jpg" alt="CAMBODIA">
+                                                    </div>
+                                                    <p></p>
+                                                    <span>Beautiful desert-island beaches, jungle trekking in protected reserves, caf&eacute;-culture in a capital city full of complex history&ndash; and, of course, 1000-year old temples from one of the most impressive empires in world history: Cambodia certainly is the Kingdom of Wonder.</span>
+                                                    <p><a href="../cambodia.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCityy17(evt, cityName) {
+                                var i, tabcontent4, tablinks;
+                                tabcontent4 = document.getElementsByClassName("img_tours_82");
+                                for (i = 0; i < tabcontent4.length; i++) {
+                                    tabcontent4[i].style.display = "none";
+                                }
+                                tablinks4 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks4.length; i++) {
+                                    tablinks4[i].className = tablinks4[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="Travel Style">Travel Style<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu about_us">
+                                <div class="list_tours">
+
+                                    <ul class="wrapper_itemtour">
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_adventure')">
+                                                    <span class="title_tour"><a href="../adventure.html">ADVENTURE</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_honeymoon')">
+                                                    <span class="title_tour"><a href="../honeymoon.html">HONEYMOON</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_relaxing')">
+                                                    <span class="title_tour"><a href="../relaxing.html">Relaxing</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_romance')">
+                                                    <span class="title_tour"><a href="../romance.html">ROMANCE</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy17(event, 'zz_family-tour')">
+                                                    <span class="title_tour"><a href="../family-tour.html">Family Tour</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                    <script>
+                                        function openCityy32(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_92");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+
+
+                                    <script>
+                                        function openCityy52(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_52");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+                                            <div id="zz_adventure" class="img_tours img_tours_82" style="display: block">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="adventure" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/74c7f82151b2fbe307f4ef0d583259a3.jpg" alt="ADVENTURE">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_honeymoon" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="honeymoon" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/six-senses-con-dao_84837.jpg" alt="HONEYMOON">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_relaxing" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="relaxing" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/CITS-3.jpg" alt="Relaxing">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_romance" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="romance" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/Resorts%E2%80%99-Executive-Chef-Shares-The-Best-Tips-To-Honeymooners-banner.jpg" alt="ROMANCE">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_family-tour" class="img_tours img_tours_82" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="family-tour" class="show_tour_child img_tours_52" style="display: block">
+                                                                <img src="../files/images/Family-Tour-Vietnam.jpg" alt="Family Tour">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCityy18(evt, cityName) {
+                                var i, tabcontent4, tablinks;
+                                tabcontent4 = document.getElementsByClassName("img_tours_83");
+                                for (i = 0; i < tabcontent4.length; i++) {
+                                    tabcontent4[i].style.display = "none";
+                                }
+                                tablinks4 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks4.length; i++) {
+                                    tablinks4[i].className = tablinks4[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" title="" href="javascript:void(0)" title="Travel Guide">Travel Guide<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu about_us">
+                                <div class="list_tours">
+
+                                    <ul class="wrapper_itemtour">
+                                                <li class="tablinks" onmouseover="openCityy18(event, 'zz_vietnam')">
+                                                    <span class="title_tour"><a href="../vietnam.html">Vietnam</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy18(event, 'zz_cambodia')">
+                                                    <span class="title_tour"><a href="../cambodia.html">Cambodia</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                                <li class="tablinks" onmouseover="openCityy18(event, 'zz_myanmar1')">
+                                                    <span class="title_tour"><a href="../myanmar1.html">Myanmar</a></span>
+                                                    <span><i class="fas fa-angle-right"></i></span>
+                                                </li>
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                    <script>
+                                        function openCityy33(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_93");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+
+
+                                    <script>
+                                        function openCityy53(evt, cityName) {
+                                            var i, tabcontent7, tablinks;
+                                            tabcontent7 = document.getElementsByClassName("img_tours_53");
+                                            for (i = 0; i < tabcontent7.length; i++) {
+                                                tabcontent7[i].style.display = "none";
+                                            }
+                                            tablinks7 = document.getElementsByClassName("tablinks");
+                                            for (i = 0; i < tablinks7.length; i++) {
+                                                tablinks7[i].className = tablinks7[i].className.replace(" active", "");
+                                            }
+                                            document.getElementById(cityName).style.display = "block";
+                                            evt.currentTarget.className += " active";
+                                        };
+                                    </script>
+                                            <div id="zz_vietnam" class="img_tours img_tours_83" style="display: block">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="vietnam" class="show_tour_child img_tours_53" style="display: block">
+                                                                <img src="../files/images/Welcome%20to%20Vietnam.png" alt="Vietnam">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_cambodia" class="img_tours img_tours_83" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="cambodia" class="show_tour_child img_tours_53" style="display: block">
+                                                                <img src="../files/images/Welcome%20to%20Vietnam%20%281%29.png" alt="Cambodia">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                            <div id="zz_myanmar1" class="img_tours img_tours_83" style="">
+                                                <div class="wrap_in">
+
+                                                    <div class="list_more">
+
+
+                                                            <div id="myanmar1" class="show_tour_child img_tours_53" style="display: block">
+                                                                <img src="../files/images/Welcome%20to%20Vietnam%20%283%29.png" alt="Myanmar">
+                                                            </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+                        <script>
+                            function openCity220(evt, cityName) {
+                                var i, tabcontent2, tablinks;
+                                tabcontent2 = document.getElementsByClassName("img_tours_220");
+                                for (i = 0; i < tabcontent2.length; i++) {
+                                    tabcontent2[i].style.display = "none";
+                                }
+                                tablinks2 = document.getElementsByClassName("tablinks");
+                                for (i = 0; i < tablinks2.length; i++) {
+                                    tablinks2[i].className = tablinks2[i].className.replace(" active", "");
+                                }
+                                document.getElementById(cityName).style.display = "block";
+                                evt.currentTarget.className += " active";
+                            };
+                        </script>
+                        <li class="li_parent">
+                            <a class="qqqq" href="" title="Orther Service">Orther Service<i class="fa fa-caret-down"></i></a>
+                            <span class="close_back"><i class="fas fa-angle-left"></i>Back</span>
+                            <ul class="ul_child tours_menu orther_servi">
+                                <div class="list_tours">
+                                    <ul class="wrapper_itemtour">
+
+                                            <li class="tablinks " onmouseover="openCity220(event, 'visa')">
+                                                <span class="title_tour"><a href="../visa.html">VISA</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'bus')">
+                                                <span class="title_tour"><a href="../bus.html">BUS</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'sim-card')">
+                                                <span class="title_tour"><a href="../sim-card.html">SIM CARD</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'food-beverage')">
+                                                <span class="title_tour"><a href="../food-beverage.html">FOOD &amp; BEVERAGE</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+                                            <li class="tablinks " onmouseover="openCity220(event, 'flight-ticket')">
+                                                <span class="title_tour"><a href="../flight-ticket.html">FLIGHT TICKET</a></span>
+                                                <span><i class="fas fa-angle-right"></i></span>
+                                            </li>
+
+                                    </ul>
+                                </div>
+                                <div class="wraper_tou">
+
+                                        <div id="visa" class="img_tours img_tours_220" style="display: block">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Visa on arrival is a convenient procedure for entry into Vietnam which is also provided by The First Travel</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>VISA</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/Vietnamese%20Visa%20%282%29.png" alt="VISA">
+                                                    </div>
+                                                    <p><a href="visa.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="bus" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">In addition to the shuttle service for each package tour, we also offer a bus rental service on request</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>BUS</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/2.png" alt="BUS">
+                                                    </div>
+                                                    <p><a href="bus.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="sim-card" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Own a sim card with 4G service for contact is very easy with customers of The First Travel
+</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>SIM CARD</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/1.png" alt="SIM CARD">
+                                                    </div>
+                                                    <p><a href="sim-card.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="food-beverage" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Food and beverage are fully served during our trip which is listed in our tour itineraries </p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>FOOD &amp; BEVERAGE</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/Vietnamese%20Visa%20%281%29.png" alt="FOOD &amp; BEVERAGE">
+                                                    </div>
+                                                    <p><a href="food-beverage.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div id="flight-ticket" class="img_tours img_tours_220" style="">
+                                            <div class="wrap_in">
+                                                <div class="list_content_text">
+                                                    <li class="close_show_list"><i class="fas fa-angle-left"></i>Back</li>
+                                                    <p class="note_p">Domestic and oversea flight tickets are always available with best price</p>
+                                                </div>
+                                                <div class="list_more">
+                                                    <p>FLIGHT TICKET</p>
+                                                    <div class="img_banr_menu_tour">
+                                                        <img src="../files/files/services/Vietnamese%20Visa%20%281%29%281%29.png" alt="FLIGHT TICKET">
+                                                    </div>
+                                                    <p><a href="flight-ticket.html">TAKE ME THESE</a></p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    <div class="clearfix"></div>
+                                </div>
+                            </ul>
+                        </li>
+
+
+            <li class="li_parent special_o index"><a title="" href="inquire.html">inquire now</a></li>
+            <li class="li_parent search_menu_mobi">
+                <span id="search_menu" data-toggle="modal" data-target="#myModal"><img src="../Content/img/icon_search.png"></span>
+            </li>
+            <li class="li_parent travel_view">
+                <a href="travel-view.html">
+                    <img src="../Content/img/index/contact_header/Repeat.png">
+                    <span>Trustpilot</span>
+                </a>
+                <a class="brochu" href="#" data-toggle="modal" data-target="#brochure">
+                    <span>
+                        <img src="../Content/img/index/brochure_.png">
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="menu_toggle"><span></span></div>
+    <span id="icon_mobile" data-toggle="modal" data-target="#myModal"><img src="../Content/img/icon_search.png"></span>
+    <div class="search__">
+    </div>
+    <span class="inquire_mobi"><a title="" href="inquire.html">inquire now</a></span>
+</div>
+
+
+        </div>
+    </header>
+    
+<main>
+    <div class="banner_main_p3">
+        <div class="img_banner_top">
+            <img src="../files/images/Luang%20Prabang/2.jpg" alt="Luang Prabang">
+        </div>
+        <div class="country_">
+            <div class="container_">    
+                <div class="rutu">
+                    <form action="" class="wow bounceInLeft fadeInLeft" data-wow-delay=".2s">
+                        <i>A 11 day trip to Japan by Travel Agency 2377525</i>
+                        <span class="star">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                        </span>
+                        <span><a href=""><i>40 REVIEWS</i></a></span>
+                    </form>
+                </div>
+                <ul>
+                    <li><a href=""><img src="../Content/img/page3/i1.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i2.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i3.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i4.png"></a></li>
+                    <li><a href=""><img src="../Content/img/page3/i5.png"></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="home_pre">
+        <div class="container_">
+            <span><a href="../index.htm">Home</a></span>
+            <span>»</span>
+            <span>Luang Prabang</span>
+        </div>
+    </div>
+    <div class="wrapper_ title_top_header">
+        <div class="container_">
+            <h2 class="text-center">Luang Prabang</h2>
+            <div class="p_text_ninh_binh text-center">
+                <span style="font-family:tahoma,geneva,sans-serif">Luang Prabang one of the Word Heritage is recognized by UNESCO, is the heart of Northern Laos&nbsp; it is located at the confluence of Mekong and Nam Khan river, and is one of the top destination in Laos. It know that the famous with some architecture of temple.&nbsp; Let&rsquo;s discover the Laos countries with the First Travel</span>
+            </div>
+            <span class="heal_plan"><a href="inquire.html#my_trip"><i class="fas fa-angle-right"></i>Help me plan my trip</a></span>
+        </div>
+    </div>
+    <div class="wrapper_ text_feat">
+        <div class="container_">
+            <h2>Feature Tours</h2>
+            <p>Luang Prabang one of the Word Heritage is recognized by UNESCO,</p>
+        </div>
+    </div>
+    <div class="list_guide">
+        <div class="container_">
+            <div class="list_guide_left">
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="159/6-days-discover-wonderful-landscape-in-laos.html">
+                                    <img src="../files/images/Luang%20Prabang/%E1%BA%A2nh%20tours/Wat-Xiengthong-8.jpg" alt="6 Days discover wonderful landscape in Laos">
+                                    <span>FAMILY TOUR</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="159/6-days-discover-wonderful-landscape-in-laos.html" title="6 Days discover wonderful landscape in Laos">6 Days discover wonderful landscape in Laos</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Vientiane - Luang Prabang</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>6 Days</i>
+                                            <span class="price">$10000</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="159/6-days-discover-wonderful-landscape-in-laos.html" title="6 Days discover wonderful landscape in Laos">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="160/4-days-explore-famous-place-in-luang-prabang.html">
+                                    <img src="../files/images/Luang%20Prabang/%E1%BA%A2nh%20tours/Mount-Phousi-3.jpg" alt="4 DAYS EXPLORE FAMOUS PLACE IN LUANG PRABANG ">
+                                    <span>FAMILY TOUR</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="160/4-days-explore-famous-place-in-luang-prabang.html" title="4 DAYS EXPLORE FAMOUS PLACE IN LUANG PRABANG ">4 DAYS EXPLORE FAMOUS PLACE IN LUANG PRABANG </a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Luang Prabang</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>4 Days</i>
+                                            <span class="price">$25000</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="160/4-days-explore-famous-place-in-luang-prabang.html" title="4 DAYS EXPLORE FAMOUS PLACE IN LUANG PRABANG ">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="161/5-DAYS-PACKAGE-TOURS-DISCOVER-HIGHTLIGHT-OF-LAOS.html">
+                                    <img src="../files/images/Luang%20Prabang/Vientian/3.jpg" alt="5 DAYS PACKAGE TOURS DISCOVER HIGHTLIGHT OF LAOS">
+                                    <span>FAMILY TOUR</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="161/5-DAYS-PACKAGE-TOURS-DISCOVER-HIGHTLIGHT-OF-LAOS.html" title="5 DAYS PACKAGE TOURS DISCOVER HIGHTLIGHT OF LAOS">5 DAYS PACKAGE TOURS DISCOVER HIGHTLIGHT OF LAOS</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Vientian - Luang Prabang </i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>5 Days</i>
+                                            <span class="price">$1000</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="161/5-DAYS-PACKAGE-TOURS-DISCOVER-HIGHTLIGHT-OF-LAOS.html" title="5 DAYS PACKAGE TOURS DISCOVER HIGHTLIGHT OF LAOS">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="162/best-trip-in-laos-for-8-days-package-tours.html">
+                                    <img src="../files/images/Luang%20Prabang/Vientian/1.jpg" alt="BEST TRIP IN LAOS FOR 8 DAYS PACKAGE TOURS">
+                                    <span>FAMILY TOUR</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="162/best-trip-in-laos-for-8-days-package-tours.html" title="BEST TRIP IN LAOS FOR 8 DAYS PACKAGE TOURS">BEST TRIP IN LAOS FOR 8 DAYS PACKAGE TOURS</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Luang Prabang - Vientian - Vang Vieng</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>8 Days</i>
+                                            <span class="price">$1000</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="162/best-trip-in-laos-for-8-days-package-tours.html" title="BEST TRIP IN LAOS FOR 8 DAYS PACKAGE TOURS">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item_guide">
+                            <div class="img_list">
+                                <a href="163/6-days-laos-express.html">
+                                    <img src="../files/images/Luang%20Prabang/Vientian/Luang-Prabang-1.jpg" alt="6 DAYS LAOS EXPRESS">
+                                    <span>FAMILY TOUR</span>
+                                </a>
+                            </div>
+                            <div class="wrap_list_gui">
+                                <h3><a href="163/6-days-laos-express.html" title="6 DAYS LAOS EXPRESS">6 DAYS LAOS EXPRESS</a></h3>
+                                <div class="add">
+                                    <div class="add_left">
+                                        <span>
+                                            <img src="../Content/img/page3/ad1.png" alt="Location"><i>Vientiean - Luang Prabang - Vang Vieng</i>
+                                        </span>
+                                        <span>
+                                            <img src="../Content/img/page3/res.png" alt="Time"><i>6 Days</i>
+                                            <span class="price">$1000</span>
+                                        </span>
+                                        <ul>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                            <li><a href=""><i class="fa fa-star"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="add_view"><a href="163/6-days-laos-express.html" title="6 DAYS LAOS EXPRESS">view detail</a></div>
+                                </div>
+                            </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="pagination_1 text-center">
+        <div class="pagination-container"><ul class="pagination"><li class="active"><a>1</a></li></ul></div>
+    </div>
+    <div class="list_nation">
+        ﻿
+<div class="container_">
+    <p class="name_autry">Luang Prabang</p>
+    <div class="tabs_list">
+        <div class="tabbar_control">
+            <ul class="nav nav-tabs">
+                        <li><a data-toggle="tab" href="#intro_0" class="active">HOW TO BOOK A TOUR</a></li>
+                        <li><a data-toggle="tab" href="#intro_1" class="">MUST SEE DESTINATION</a></li>
+                        <li><a data-toggle="tab" href="#intro_2" class="">SPECIAL INTERESTS AND ACTIVITIES</a></li>
+                        <li><a data-toggle="tab" href="#intro_3" class="">BEST TIME TO TRAVEL</a></li>
+                        <li><a data-toggle="tab" href="#intro_4" class="">TRANSPORTATION</a></li>
+                        <li><a data-toggle="tab" href="#intro_5" class="">TRAVEL CONSIDERATIONS</a></li>
+            </ul>
+        </div>
+        <div class="tab_show">
+            <div class="tab-content">
+                        <div id="intro_0" class="tab-pane fade active show">
+                            <p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">There are three ways to plan and book a trip:</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">1. Get a customized tour planned and booked by a travel professional. Travel independently on your own schedule.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">2. Book a group tour. Join an escorted group tour with a fixed departure date.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">3. Plan and book a trip yourself.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">The First Travel offers the best solution for a customized tour by matching you with top travel specialists who plan and book the trip for you. Our travel agency division, Marageti, specializes in helping you book an escorted group tour. There is no extra cost to you for either service.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="font-size:16px"><strong>Custom Tours</strong></span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">A customized tour is one that is planned by a travel specialist according to your specific interests, preferences, and schedule. Whether you desire a family-friendly adventure or a romantic getaway, each of the accommodations, activities, and destinations is tailored to your preferences. The knowledge and experience of your travel specialist makes a big difference. Zicasso has spent thousands of hours vetting the best travel partners. We act as a referral service, matching you with specialists that best meet your goals and priorities.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="font-size:16px"><strong>Escorted Group Tours</strong></span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">A group tour offers the advantage of convenience at a great value. The schedule is fixed, the itinerary is pre-planned, and a dedicated tour director travels with the group throughout the trip. A group tour can be 30 - 50% less expensive than an equivalent customized tour. Out of the many hundreds of group tours, how do you select the right one for you? Our travel agency division, Marageti, has sales agents who specialize in helping travelers weigh the pros and cons of each group tour. We give you personalized recommendations to find the best tour for you.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="font-size:16px"><strong>Goals and Priorities</strong></span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">What are your goals and priorities for the trip? These should drive your decision for either a customized tour or a fixed departure group tour. We are here to help you make the right decisions to make your dream trip a reality.</span></span></p>
+
+<div>&nbsp;</div>
+
+                        </div>
+                        <div id="intro_1" class="tab-pane fade ">
+                            <p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Luang Prabang, Laos has so many incredible thing to see and do - You will have a chance to discover the scenery beauty of nature and learning about culture and architecte of temples.&nbsp; If you come to Laos don&rsquo;t miss to visit top attractions in here.&nbsp;</span></span></p>
+
+<ol>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Mount Phousi&nbsp;</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">From Mount Phousi, you can see all most panorama of Luang Prabang, specially , it will great for sightseeing the wonderful sunrise if you can climb the more than 300 step to summit where you will find a temple</span></span></p>
+
+<ol start="2">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Royal Temple Museum&nbsp;</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">This is old government house where leader of Lao countries take over&nbsp; and deciced all most work , but now it is a museum for traveler in world can go here to&nbsp; find more information of Prabang Buddha statute that dates back 14h century</span></span></p>
+
+<ol start="3">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">What Xieng Thong.</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Wat Xieng thong was built under the rule of King, and after that it change to royal temple under the patronage of the royal family</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Wat Xieng Thong is one of the most temple in the UNESCO world heritage portion of Luang Prabang, this is the proof of cultural&nbsp; Laos in decada ,</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">You can sightseeing some famous temple such as: Wat Mai, Wat A ham&hellip;&nbsp;</span></span></p>
+
+<ol start="4">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Kwang Si Falls</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">when Travelers coming to Luang Prabang, they&nbsp; can&rsquo;t forget to visit to Kuang Si Falls - the biggest and wonderful waterfall in Laos, Swimming the the most attractive activities in here.&nbsp;</span></span></p>
+
+<ol start="5">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Night Markets</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">it will be open from 5 pm until around 10 pm every nights of week. Coming here, you will have a chance to taste some delicious food in Laos, discover street food like fried mushroom and seaweed&hellip;. you will can choice some souvenir in night market.&nbsp;</span></span></p>
+
+<ol start="6">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Pak Ou Caves&nbsp;</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Near Pak Ou the Tham Ting and the Tham Theung are caves overlooking the Mekong River 25km to the north of Luang Prabang Laos. The cave are noted for their miniature Buddha sculptures. Hundreds of very small and mostly damaged wooden Buddhist figures are laid out over the wall shelves. They take many different positions, including meditation, teaching, peace, rain, and reclining (nirvana)</span></span></p>
+
+<div>&nbsp;</div>
+
+                        </div>
+                        <div id="intro_2" class="tab-pane fade ">
+                            <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">If you want to get to Luang Prabang, then you can find some top interesting and activities for your trip by the First Travel in here.</span></p>
+
+<ol>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Climb Phouse Mountain</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Visit some traditional of <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866378596987243595">famous temple</gwmw> in Prabang and find <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866378599625413371">more cultural &amp; region</gwmw> in <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378592472702842">wat</gwmw> <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378590806174117">xieng</gwmw> thong, <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378596878064405">wat</gwmw> <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378592401821137">aham</gwmw>, <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378599160310983">wat</gwmw> <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378599445911720">mai</gwmw>, wat <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378591267980612">xieng</gwmw> khoang</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Trekking to Kuang Si Waterfall, relaxing time <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866386283537046086">to</gwmw> swimming in biggest waterfall in Laos</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt"><gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866391494342904323">Tasty</gwmw> some delicious food in Night Mark of Laos</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Get on a boat and jump across the river to <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866403875304352173">other side</gwmw>&nbsp;</span></p>
+	</li>
+</ol>
+
+                        </div>
+                        <div id="intro_3" class="tab-pane fade ">
+                            <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Luang Prabang <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866560211339974003">have</gwmw> tropical climate same many southeast Asian countries, with temperatures ranging between 15c - 38c<gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840866560215991381894"> .</gwmw> The rainy season in Luang Prabang is from June to September, and the dry season <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866576439218637733">begin</gwmw> from&nbsp; between October in <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866576439717842130">year</gwmw> to May year latter.</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">You can travel to Luang Prabang all of the time in the <gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840866588038726347012">year but</gwmw> the best time for <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866588038647206719">travelin</gwmw> in Luang Prabang is from November to March. The weather very comfortable with average temperatures. </span></p>
+
+<div>&nbsp;</div>
+
+                        </div>
+                        <div id="intro_4" class="tab-pane fade ">
+                            <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Traveling to Laos, you shouldn&rsquo;t worry about for transportation. In Laos have a number of modern transportation systems so that it is very easy for <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866837297072833677">traveler</gwmw> to transfer. This is some tip necessary for you during your trip.</span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">By Air</span></strong></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Luang Prabang has an International Airport with high services so that you can <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866858396284412720">esay</gwmw> transfer from your country&#39;s or some other countries <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866858397986268714">asian</gwmw> to Luang Prabang. If you want to book a cheap ticket fly you can contact with the First Travel. <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866869600940950516">we</gwmw> will very happy to support for you. </span><br>
+<strong><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">By Land</span></strong></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">It&rsquo;s really easy to get around Laos via the bus network. In Laos the transport system very developed so that you can travel from Luang Prabang through other famous town such as <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866895926142991980">Vientiean</gwmw>, Pakse&hellip; it will waste of your time about 3 to 10 hours, depend where you start your trip</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">To Vientiane - 10 hours</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Vang Vieng - 6 <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866903667605481175">housrs</gwmw></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Xieng Khoang - 8h hours</span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">By Boat</span></strong></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">The Luang Prabang a near <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866921496310135406">MeKong</gwmw> Delta system, so that you can choose <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866921491342512989">boat</gwmw> for traveling.</span></p>
+
+<div>&nbsp;</div>
+
+                        </div>
+                        <div id="intro_5" class="tab-pane fade ">
+                            <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">What you should bring for your trip to Luang Prabang</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">When you travel to Vientiane tours, you must consider travel logistics, safety, and accessibility. The following offers information on important travel considerations during your trip</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>Is Luang Prabang safe <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840867491017905108594">for</gwmw> Travel?</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Traveling to Vientiane it very safe for <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840867495325782543703">traveller</gwmw>. Tourists can walk down on the stress late at night without fear, and people here are always friendly and eager to welcome tourist.</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>Travel insurance</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">You&rsquo;ve booked your dream vacation, now protect it with travel insurance. A wide range of factors can leave your vacation in limbo. Medical emergencies, inclement weather, and unexpected cancellations can cause turmoil for your trip, so in the unlikely event of a disaster, get the travel insurance coverage that provides peace of mind. When booking with The First Travel, if you unlucky in your trip, we sure that deal with your accident faster and convenient for you soon.</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>For Families</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Luang Prabang <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840867546686066510346">are</gwmw> a great destination for families. Your travel will specialist has a knowledge of the different activities that can be adapted for <gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840867559251398934634">children such</gwmw> sightseeing to study cultural and region of Laos countries<gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840867559255025146053"> .</gwmw> <gwmw class="ginger-module-highlighter-mistake-anim ginger-module-highlighter-mistake-type-1" id="gwmw-15840867565185227202880">join</gwmw> in cooking class, cycling, swimming</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>For Seniors</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Seniors who are traveling in Luang Prabang must consider certain weather conditions during the the different seasons, such as the summer&rsquo;s heat or the rain. Summer is very hot but it suitable for more activities sightseeing</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">For Couples</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">It suit able for couple want to find more culture and region of Asia and Laos</span></p>
+
+<div>&nbsp;</div>
+
+                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="tabs_list_mobile">
+
+        <div class="tab_show">
+            <div class="tab-content">
+                        <div class="tabb tabb_show">
+                            <a href="#intro_0" class="ka active"><span>HOW TO BOOK A TOUR <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_0" class="tab_shq">
+                                <p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">There are three ways to plan and book a trip:</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">1. Get a customized tour planned and booked by a travel professional. Travel independently on your own schedule.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">2. Book a group tour. Join an escorted group tour with a fixed departure date.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">3. Plan and book a trip yourself.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">The First Travel offers the best solution for a customized tour by matching you with top travel specialists who plan and book the trip for you. Our travel agency division, Marageti, specializes in helping you book an escorted group tour. There is no extra cost to you for either service.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="font-size:16px"><strong>Custom Tours</strong></span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">A customized tour is one that is planned by a travel specialist according to your specific interests, preferences, and schedule. Whether you desire a family-friendly adventure or a romantic getaway, each of the accommodations, activities, and destinations is tailored to your preferences. The knowledge and experience of your travel specialist makes a big difference. Zicasso has spent thousands of hours vetting the best travel partners. We act as a referral service, matching you with specialists that best meet your goals and priorities.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="font-size:16px"><strong>Escorted Group Tours</strong></span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">A group tour offers the advantage of convenience at a great value. The schedule is fixed, the itinerary is pre-planned, and a dedicated tour director travels with the group throughout the trip. A group tour can be 30 - 50% less expensive than an equivalent customized tour. Out of the many hundreds of group tours, how do you select the right one for you? Our travel agency division, Marageti, has sales agents who specialize in helping travelers weigh the pros and cons of each group tour. We give you personalized recommendations to find the best tour for you.</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="font-size:16px"><strong>Goals and Priorities</strong></span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">What are your goals and priorities for the trip? These should drive your decision for either a customized tour or a fixed departure group tour. We are here to help you make the right decisions to make your dream trip a reality.</span></span></p>
+
+<div>&nbsp;</div>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_1" class="ka "><span>MUST SEE DESTINATION <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_1" class="tab_shq">
+                                <p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Luang Prabang, Laos has so many incredible thing to see and do - You will have a chance to discover the scenery beauty of nature and learning about culture and architecte of temples.&nbsp; If you come to Laos don&rsquo;t miss to visit top attractions in here.&nbsp;</span></span></p>
+
+<ol>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Mount Phousi&nbsp;</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">From Mount Phousi, you can see all most panorama of Luang Prabang, specially , it will great for sightseeing the wonderful sunrise if you can climb the more than 300 step to summit where you will find a temple</span></span></p>
+
+<ol start="2">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Royal Temple Museum&nbsp;</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">This is old government house where leader of Lao countries take over&nbsp; and deciced all most work , but now it is a museum for traveler in world can go here to&nbsp; find more information of Prabang Buddha statute that dates back 14h century</span></span></p>
+
+<ol start="3">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">What Xieng Thong.</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Wat Xieng thong was built under the rule of King, and after that it change to royal temple under the patronage of the royal family</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Wat Xieng Thong is one of the most temple in the UNESCO world heritage portion of Luang Prabang, this is the proof of cultural&nbsp; Laos in decada ,</span></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">You can sightseeing some famous temple such as: Wat Mai, Wat A ham&hellip;&nbsp;</span></span></p>
+
+<ol start="4">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Kwang Si Falls</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">when Travelers coming to Luang Prabang, they&nbsp; can&rsquo;t forget to visit to Kuang Si Falls - the biggest and wonderful waterfall in Laos, Swimming the the most attractive activities in here.&nbsp;</span></span></p>
+
+<ol start="5">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Night Markets</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">it will be open from 5 pm until around 10 pm every nights of week. Coming here, you will have a chance to taste some delicious food in Laos, discover street food like fried mushroom and seaweed&hellip;. you will can choice some souvenir in night market.&nbsp;</span></span></p>
+
+<ol start="6">
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; font-size:11pt">Pak Ou Caves&nbsp;</span></span></p>
+	</li>
+</ol>
+
+<p dir="ltr" style="text-align:justify"><span style="font-family:tahoma,geneva,sans-serif"><span style="background-color:transparent; color:rgb(0, 0, 0); font-size:11pt">Near Pak Ou the Tham Ting and the Tham Theung are caves overlooking the Mekong River 25km to the north of Luang Prabang Laos. The cave are noted for their miniature Buddha sculptures. Hundreds of very small and mostly damaged wooden Buddhist figures are laid out over the wall shelves. They take many different positions, including meditation, teaching, peace, rain, and reclining (nirvana)</span></span></p>
+
+<div>&nbsp;</div>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_2" class="ka "><span>SPECIAL INTERESTS AND ACTIVITIES <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_2" class="tab_shq">
+                                <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">If you want to get to Luang Prabang, then you can find some top interesting and activities for your trip by the First Travel in here.</span></p>
+
+<ol>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Climb Phouse Mountain</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Visit some traditional of <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866378596987243595">famous temple</gwmw> in Prabang and find <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866378599625413371">more cultural &amp; region</gwmw> in <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378592472702842">wat</gwmw> <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378590806174117">xieng</gwmw> thong, <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378596878064405">wat</gwmw> <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378592401821137">aham</gwmw>, <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378599160310983">wat</gwmw> <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378599445911720">mai</gwmw>, wat <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866378591267980612">xieng</gwmw> khoang</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Trekking to Kuang Si Waterfall, relaxing time <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866386283537046086">to</gwmw> swimming in biggest waterfall in Laos</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt"><gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866391494342904323">Tasty</gwmw> some delicious food in Night Mark of Laos</span></p>
+	</li>
+	<li dir="ltr">
+	<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; font-size:11pt">Get on a boat and jump across the river to <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866403875304352173">other side</gwmw>&nbsp;</span></p>
+	</li>
+</ol>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_3" class="ka "><span>BEST TIME TO TRAVEL <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_3" class="tab_shq">
+                                <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Luang Prabang <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866560211339974003">have</gwmw> tropical climate same many southeast Asian countries, with temperatures ranging between 15c - 38c<gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840866560215991381894"> .</gwmw> The rainy season in Luang Prabang is from June to September, and the dry season <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866576439218637733">begin</gwmw> from&nbsp; between October in <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866576439717842130">year</gwmw> to May year latter.</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">You can travel to Luang Prabang all of the time in the <gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840866588038726347012">year but</gwmw> the best time for <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866588038647206719">travelin</gwmw> in Luang Prabang is from November to March. The weather very comfortable with average temperatures. </span></p>
+
+<div>&nbsp;</div>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_4" class="ka "><span>TRANSPORTATION <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_4" class="tab_shq">
+                                <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Traveling to Laos, you shouldn&rsquo;t worry about for transportation. In Laos have a number of modern transportation systems so that it is very easy for <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866837297072833677">traveler</gwmw> to transfer. This is some tip necessary for you during your trip.</span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">By Air</span></strong></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Luang Prabang has an International Airport with high services so that you can <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866858396284412720">esay</gwmw> transfer from your country&#39;s or some other countries <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866858397986268714">asian</gwmw> to Luang Prabang. If you want to book a cheap ticket fly you can contact with the First Travel. <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866869600940950516">we</gwmw> will very happy to support for you. </span><br>
+<strong><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">By Land</span></strong></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">It&rsquo;s really easy to get around Laos via the bus network. In Laos the transport system very developed so that you can travel from Luang Prabang through other famous town such as <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866895926142991980">Vientiean</gwmw>, Pakse&hellip; it will waste of your time about 3 to 10 hours, depend where you start your trip</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">To Vientiane - 10 hours</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Vang Vieng - 6 <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866903667605481175">housrs</gwmw></span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Xieng Khoang - 8h hours</span></p>
+
+<p dir="ltr" style="text-align:justify"><strong><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">By Boat</span></strong></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">The Luang Prabang a near <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840866921496310135406">MeKong</gwmw> Delta system, so that you can choose <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840866921491342512989">boat</gwmw> for traveling.</span></p>
+
+<div>&nbsp;</div>
+
+                            </div>
+                        </div>
+                        <div class="tabb ">
+                            <a href="#intro_5" class="ka "><span>TRAVEL CONSIDERATIONS <i class="fas fa-sort-down"></i></span></a>
+                            <div id="intro_5" class="tab_shq">
+                                <p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">What you should bring for your trip to Luang Prabang</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">When you travel to Vientiane tours, you must consider travel logistics, safety, and accessibility. The following offers information on important travel considerations during your trip</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>Is Luang Prabang safe <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840867491017905108594">for</gwmw> Travel?</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Traveling to Vientiane it very safe for <gwmw class="ginger-module-highlighter-mistake-type-1" id="gwmw-15840867495325782543703">traveller</gwmw>. Tourists can walk down on the stress late at night without fear, and people here are always friendly and eager to welcome tourist.</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>Travel insurance</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">You&rsquo;ve booked your dream vacation, now protect it with travel insurance. A wide range of factors can leave your vacation in limbo. Medical emergencies, inclement weather, and unexpected cancellations can cause turmoil for your trip, so in the unlikely event of a disaster, get the travel insurance coverage that provides peace of mind. When booking with The First Travel, if you unlucky in your trip, we sure that deal with your accident faster and convenient for you soon.</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>For Families</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Luang Prabang <gwmw class="ginger-module-highlighter-mistake-type-3" id="gwmw-15840867546686066510346">are</gwmw> a great destination for families. Your travel will specialist has a knowledge of the different activities that can be adapted for <gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840867559251398934634">children such</gwmw> sightseeing to study cultural and region of Laos countries<gwmw class="ginger-module-highlighter-mistake-type-6" id="gwmw-15840867559255025146053"> .</gwmw> <gwmw class="ginger-module-highlighter-mistake-anim ginger-module-highlighter-mistake-type-1" id="gwmw-15840867565185227202880">join</gwmw> in cooking class, cycling, swimming</span></p>
+
+<p dir="ltr" style="text-align:justify"><em>For Seniors</em></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">Seniors who are traveling in Luang Prabang must consider certain weather conditions during the the different seasons, such as the summer&rsquo;s heat or the rain. Summer is very hot but it suitable for more activities sightseeing</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">For Couples</span></p>
+
+<p dir="ltr" style="text-align:justify"><span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:11pt">It suit able for couple want to find more culture and region of Asia and Laos</span></p>
+
+<div>&nbsp;</div>
+
+                            </div>
+                        </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <div class="banner_2_mamin">
+        <img alt="Luang Prabang">
+    </div>
+    <div class="heal">
+        <span class="heal_plan"><a href="inquire.html#my_trip"><i class="fas fa-angle-right"></i> Heal Me Plan My Trip</a></span>
+    </div>
+    <div class="wrapper_ list_post_3">
+        
+
+<div class="container_">
+    <h2 class="text-center">Reviews of The First Travel's Referral Service</h2>
+    <span class="star_refer text-center">
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <i class="fas fa-star"></i>
+        <span>4.9 star based on 1689 reviews</span>
+    </span>
+    <div class="wrapper_list_post3">
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">T and N Travel</h3>
+                </a>
+                <span class="text-item">
+                   He tour was amazing such great scenario one of the best tours I’ve been on so far in my South East Asian adventure. The tour guide was great very informative and spoke perfect english very recommended! So glad I was able to have a great guide
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY Tuan Anh</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona ...</h3>
+                </a>
+                <span class="text-item">
+                   &quot;Overall our trip was a tremendous experience - all thank to your travel company and Zacasso.&quot;
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY TAMARA M.</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona </h3>
+                </a>
+                <span class="text-item">
+                   &quot;Overall our trip was a tremendous experience - all thank to your travel company and Zacasso.&quot; 
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY TAMARA M.</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona </h3>
+                </a>
+                <span class="text-item">
+                   Overall our trip was a tremendous experience - all thank to your travel company and Zacasso.
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY Hau Nguyen</p>
+            </div>
+            <div class="item_post">
+                <a href="javascript:void(0)">
+                    <h3 class="title_list_post">Travel Review: Luxury Trip to Spain, Madrid, Bacelone, Girona </h3>
+                </a>
+                <span class="text-item">
+                   Overall our trip was a tremendous experience - all thank to your travel company and Zacasso
+                    <a href="javascript:void(0)">Read more</a>
+                </span>
+                <span class="star_refer">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </span>
+                <p>REVIEWED BY Tuan Anh</p>
+            </div>
+    </div>
+</div>
+    </div>
+    
+<div class="list_menu_">
+    <div class="container_ padding_row">
+            <ul>
+               
+                                                        <li><a title="About Us" href="http://thefirsttravels.com/a-bit-about-us">About Us</a></li>
+                                                        <li><a title="Term &amp; Conditions" href="../term-condition.html">Term &amp; Conditions</a></li>
+                                                        <li><a title="Useful Tips" href="../index.htm">Useful Tips</a></li>
+            </ul>
+            <ul>
+               
+            </ul>
+        <div class="flow_social">
+            <ul class="">
+                <li><a id="floww" href="javascript:void(0)" class="">Follow Us</a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/f1.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/t2.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/g3.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/p4.png"></a></li>
+                <li><a title=""><img src="../Content/img/index/banner11/i5.png"></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="company">
+    <div class="container_ padding_row">
+        <div class="row">
+            <div class="col-lg-9 col-md-8">
+                <div class="wrapper_compa">
+                        <ul>
+                            <li><span>COMPANY</span></li>
+                                                        <li><a title="About Us" href="http://thefirsttravels.com/a-bit-about-us">About Us</a></li>
+                                                        <li><a title="The First Travel in the News" href="../the-first-travel-in-the-news.html">The First Travel in the News</a></li>
+                                                        <li><a title="Question ?" href="../index.htm">Question ?</a></li>
+                                                        <li><a title="Careers" href="../index.htm">Careers</a></li>
+                                                        <li><a title="Term &amp; Conditions" href="../term-condition.html">Term &amp; Conditions</a></li>
+                                                        <li><a title="Useful Tips" href="../index.htm">Useful Tips</a></li>
+                        </ul>
+                        <ul>
+                            <li><span>POPULAR VACATIONS </span></li>
+                                                        <li><a title="Private Tours" href="../index.htm">Private Tours</a></li>
+                                                        <li><a title="Luxury Tours" href="../index.htm">Luxury Tours</a></li>
+                                                        <li><a title="Ha Giang Adventure and Motobike " href="../index.htm">Ha Giang Adventure and Motobike </a></li>
+                                                        <li><a title="Explore Cave in Ninh Binh and Boat Trip" href="../index.htm">Explore Cave in Ninh Binh and Boat Trip</a></li>
+                                                        <li><a title="Cruise Tours in Ha Long Bay" href="../index.htm">Cruise Tours in Ha Long Bay</a></li>
+                                                        <li><a title="Mai Chau Adventure and Trekking Tours" href="../index.htm">Mai Chau Adventure and Trekking Tours</a></li>
+                        </ul>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4">
+                <div class="wrapper_form">
+                    <form action="" method="get">
+                        <span>New & update</span>
+                        <p>Sign up to recives news and updates from the first travel</p>
+                        <input type="text" placeholder="Name" name="Name" id="NameMarketing">
+                        <input type="text" placeholder="Email" name="Email" id="EmailMarketing">
+                        <textarea name="Message" placeholder="Message" id="Note"></textarea>
+                        <button id="btn-submit">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+   
+
+
+</main>
+    <footer>
+        <div class="footer_main">
+            <div class="part_top">
+                <div class="container_ padding_row">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p class="title_pay">PAYMENT</p>
+                            <div class="paypal">
+                                <ul class="list_pay">
+                                    <li><a title="" href=""><img src="../Content/img/index/footer1.png"></a></li>
+                                    <li><a title="" href=""><img src="../Content/img/index/footer2.png"></a></li>
+                                    <li><a title="" href=""><img src="../Content/img/index/footer3.png"></a></li>
+                                    <li><a title="" href=""><img src="../Content/img/index/footer4.png"></a></li>
+                                    <li class="lon"><a title="" href=""><img src="../Content/img/index/footer5.png"></a></li>
+                                </ul>
+                                <div class="list_right">
+                                        <ul>
+                                           
+                                                        <li><a title="About Us" href="http://thefirsttravels.com/a-bit-about-us">About Us</a></li>
+                                                        <li><a title="Term &amp; Conditions" href="../term-condition.html">Term &amp; Conditions</a></li>
+                                                        <li><a title="Useful Tips" href="../index.htm">Useful Tips</a></li>
+                                        </ul>
+                                        <ul>
+                                           
+                                        </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="part_last">
+                <div class="container_ padding_row">
+                    <div class="row">
+                        <div class="col-md-5">
+                            <div class="copy_left">
+                                <p> WEBTRAVEL All rights reserved</p>
+                                <span>Headquarter:  4th floor, 147 Mai Dich, Cau Giay, Hanoi, Vietnam</span>
+                            </div>
+                        </div>
+						 <div class="col-md-4">
+                            <div class="" style="margin-top:20px; font-size: 13px;">
+                            Contact:   info@webtravel.vn
+                            </div>
+                        </div>
+						<div class="col-md-3">
+                            <div class="" style="margin-top:20px; font-size: 13px;">
+                              Tel:  (+84) 242 242 0777
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer_last">
+            <div class="container_ padding_row">
+                <span class="left_text">Take the hassle out of your trip planning. We'll match you with top travel specialists</span>
+                <span class="txt_right"><a title="" href="../inquire.html"><i class="fas fa-angle-right"></i>Help me plan my trip</a></span>
+            </div>
+        </div>
+        <div class="modal search_modal" id="myModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <form action="/search" method="get">
+                        <div class="modal-header" style="border:none">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        </div>
+                        <div class="modal-body">
+                            <input type="text" name="key" placeholder="Search...">
+                        </div>
+                    </form>
+                   
+                </div>
+            </div>
+        </div>
+        <div class="modal" id="brochure">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header" style="border:none">
+                        <h4 class="modal-title">View our 2019 travel brochure</h4>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Well actually, this is not your normal brochure. This is The Agenda. A brochure reimagined with beautiful imagery, need to know about travel in 2019.</p>
+                        <input type="text" name="" placeholder="Your email address">
+                        <div class="checkedd">
+                            <input type="checkbox" name="emailBrochure" id="emailBrochure">
+                            <span>To view The Agenda and join our mailing list simply tick this box. You can unsubscribe at any time.</span>
+                        </div>
+                        <span class="show_agen"><a href="javascript:void(0)" id="submitbrochure">SHOW ME  THE AGENDA</a></span>
+                        <div class="img_bou">
+                            <img src="../Content/img/index/bou.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+		<div class="scroll-top">
+			<a href="#scroll-topl" class="text-center" title="Lên Đầu Trang"><i class="fa fa-angle-double-up"></i></a>
+		</div>
+    </footer>
+
+    <script src="../ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="../ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
+    <script src="../ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="../Content/js/owl-carousel/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="../Content/js/slide.min.js"></script>
+    <script type="text/javascript" src="../Content/js/effect.min.js"></script>
+    <script type="text/javascript" src="../Content/js/page3.min.js"></script>
+    <script type="text/javascript" src="../Content/js/parallax.min.js"></script>
+    <script type="text/javascript" src="../Content/js/tabs.min.js"></script>
+    <script type="text/javascript" src="../Content/js/tour_de.min.js"></script>
+    <script type="text/javascript" src="../Content/js/geide_detail.min.js"></script>
+    <script type="text/javascript" src="../Content/js/acticle_1.min.js"></script>
+    <script type="text/javascript" src="../Content/js/travel_view.min.js"></script>
+    
+    <script>
+        function isValidEmailAddress(emailAddress) {
+            var pattern = new RegExp(/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
+            return pattern.test(emailAddress);
+        };
+        $(document).ready(function () {
+            $("#btn-submit").click(function () {
+
+                var email = $("#EmailMarketing");
+                //alert(email.val());
+                if (email.val() == "" || isValidEmailAddress(email.val()) == false) {
+                    alert("Please enter email");
+
+                } else {
+                    $.ajax({
+                        url: '/EmailMarketing/SaveEmail',
+                        type: 'Post',
+                        dataType: 'Json',
+                        data: {
+                            emailMarketing: $("#EmailMarketing").val(),
+                            Note: $("#Note").val(),
+                            Name: $("#NameMarketing").val()
+
+                        },
+                        success: function (data) {
+                            if (data.result == "ok") {
+                                alert("Thank for you subscribing to our newsletter");
+                            } else {
+                                alert(data.message);
+                            }
+                        },
+                    });
+                }
+
+            });
+
+
+            $("#submitbrochure").click(function () {
+
+                var email = $("#emailBrochure");
+                //alert(email.val());
+                if (email.val() == "" || isValidEmailAddress(email.val()) == false) {
+                    alert("Please enter email");
+
+                } else {
+                    $.ajax({
+                        url: '/EmailMarketing/Brochure',
+                        type: 'Post',
+                        dataType: 'Json',
+                        data: {
+                            emailBrochure: $("#emailBrochure").val()
+                        },
+                        success: function (data) {
+                            if (data.result == "ok") {
+                                alert("Thank for you subscribing to our newsletter");
+                            } else {
+                                alert(data.message);
+                            }
+                        },
+                    });
+                }
+
+            });
+        });
+    </script>
+	<script>
+	$(".closetop").click(function(){
+		$(".contacthotel").hide();
+		});
+</script>
+
+</body>
+</html>

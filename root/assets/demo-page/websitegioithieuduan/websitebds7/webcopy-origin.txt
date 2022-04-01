@@ -1,0 +1,992 @@
+Uri: http://wp.nootheme.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/comments/feed/
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://wp.nootheme.com/palazzo/feed/
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://wp.nootheme.com/palazzo/property-landing-v1/
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\property-landing-v1\index.htm
+Content Type: text/html
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/dsidxpress/css/client.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\dsidxpress\css\client.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/dsidxpress/css/dsidx-icons.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\dsidxpress\css\dsidx-icons.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/dsidxpress/dsidxwidgets/css/client.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\dsidxpress\dsidxwidgets\css\client.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/dsidxpress/js/autocomplete-mls-number.js?ver=3.7.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\dsidxpress\js\autocomplete-mls-number.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/dsidxpress/js/autocomplete.js?ver=3.7.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\dsidxpress\js\autocomplete.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/dsidxpress/js/widget-client.js?ver=3.7.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\dsidxpress\js\widget-client.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=6.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\js_composer\assets\js\vendors\woocommerce-add-to-cart.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\js_composer\assets\lib\bower\isotope\dist\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/noo-idx-support/assets/css/noo-landmark-3rd-dsidxpress.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\noo-idx-support\assets\css\noo-landmark-3rd-dsidxpress.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/noo-palazzo-framework/assets/css/noo-framework.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\noo-palazzo-framework\assets\css\noo-framework.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/noo-palazzo-framework/assets/js/jquery.noo-framework.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\noo-palazzo-framework\assets\js\jquery.noo-framework.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/noo-palazzo-framework/assets/js/rp-compare.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\noo-palazzo-framework\assets\js\rp-compare.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/noo-palazzo-framework/includes/shortcodes/recent-news-footer/assets/css/slick.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\noo-palazzo-framework\includes\shortcodes\recent-news-footer\assets\css\slick.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/noo-palazzo-framework/includes/shortcodes/recent-news-footer/assets/css/style.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\noo-palazzo-framework\includes\shortcodes\recent-news-footer\assets\css\style.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/css/realty-portal.css?ver=0.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\css\realty-portal.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/css/rp-agent.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\css\rp-agent.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/css/rp-package.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\css\rp-package.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/css/rp-submit-property.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\css\rp-submit-property.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/fonts/rpicons.css?ver=0.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\fonts\rpicons.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/agent/rp-agent.js?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\agent\rp-agent.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/google-map.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\google-map.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/map/infobox.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\map\infobox.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/map/map-icons.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\map\map-icons.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-agency.js?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-agency.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-calculator.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-calculator.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-core.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-core.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-favorites.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-favorites.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-floor-plan.js?ver=0.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-floor-plan.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-package.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-package.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-property.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-property.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-submit-property-buy.js?ver=0.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-submit-property-buy.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/js/rp-submit-property.js?ver=0.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\js\rp-submit-property.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/custombox/custombox.min.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\custombox\custombox.min.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/custombox/custombox.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\custombox\custombox.min-1.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/custombox/custombox.min.js?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\custombox\custombox.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/datetimepicker/jquery.datetimepicker.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\datetimepicker\jquery.datetimepicker.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/datetimepicker/jquery.datetimepicker.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\datetimepicker\jquery.datetimepicker.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/jquery.form-validator.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\jquery.form-validator.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/lightgallery/dist/css/lightgallery.css?ver=1.2.22
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\lightgallery\dist\css\lightgallery.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/lightgallery/dist/js/lightgallery-all.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\lightgallery\dist\js\lightgallery-all.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/lightgallery/lib/jquery.mousewheel.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\lightgallery\lib\jquery.mousewheel.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/modernizr/modernizr-2.7.1.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\modernizr\modernizr-2.7.1.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/notifyBar/jquery.notifyBar.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\notifyBar\jquery.notifyBar.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/notifyBar/jquery.notifyBar.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\notifyBar\jquery.notifyBar.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/owl-carousel/owl.carousel.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/owl-carousel/owl.carousel.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/slick/slick.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\slick\slick.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/realty-portal/assets/vendor/slick/slick.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\realty-portal\assets\vendor\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\revslider\public\assets\css\rs6.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\revslider\public\assets\js\revolution.tools.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\revslider\public\assets\js\rs6.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.8.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.8.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.8.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.js?ver=3.8.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.js?ver=3.8.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.js?ver=3.8.3
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.js?ver=2.70
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.js?ver=2.1.4
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=1646963140
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\style.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\wordpress-social-login\assets\css\style.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/facebook.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\wordpress-social-login\assets\img\32x32\wpzoom\facebook.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/google.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\wordpress-social-login\assets\img\32x32\wpzoom\google.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/plugins/wordpress-social-login/assets/img/32x32/wpzoom/twitter.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\plugins\wordpress-social-login\assets\img\32x32\wpzoom\twitter.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/css/noo.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\css\noo.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/css/realty-portal/realty-portal.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\css\realty-portal\realty-portal.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/js/noo-login.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\js\noo-login.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/js/noo-main.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\js\noo-main.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/js/noo-shop.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\js\noo-shop.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/additional-methods.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\additional-methods.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/bootstrap/css/bootstrap.min.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/bootstrap/js/bootstrap.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/Chart.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\Chart.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/DataTables/datatables.min.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\DataTables\datatables.min.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/DataTables/datatables.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\DataTables\datatables.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/DataTables/dataTables.responsive.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\DataTables\dataTables.responsive.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/fonts-awesome/css/font-awesome.min.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\fonts-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/ionicons/fonts/ionicons.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\ionicons\fonts\ionicons.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/jquery-confirm/jquery-confirm.min.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\jquery-confirm\jquery-confirm.min.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/jquery-confirm/jquery-confirm.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\jquery-confirm\jquery-confirm.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/jquery.blockUI.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\jquery.blockUI.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/jquery.validate.min.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/onepagenav/jquery.nav.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\onepagenav\jquery.nav.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/pe-icon-7-stroke/css/styles.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\pe-icon-7-stroke\css\styles.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/sticky-kit/sticky-kit.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\sticky-kit\sticky-kit.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/plugins/stickyHeader/sticky-custom.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\plugins\stickyHeader\sticky-custom.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/realty-portal/js/noo-realty-portal.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\realty-portal\js\noo-realty-portal.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/assets/vc-extend/css/vc-customize.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\assets\vc-extend\css\vc-customize.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/framework/core/megamenu/assets/css/animate.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\framework\core\megamenu\assets\css\animate.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/themes/noo-palazzo/framework/core/megamenu/assets/js/megamenu.js
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\themes\noo-palazzo\framework\core\megamenu\assets\js\megamenu.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog3.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog3.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog5-300x195.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog5-300x195.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog5-768x499.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog5-768x499.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog5.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog5.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog6-300x195.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog6-300x195.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog6-768x499.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog6-768x499.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog6.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog6.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog7-300x195.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog7-300x195.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog7-768x499.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog7-768x499.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog7.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog7.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/blog8.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\blog8.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/09/image-footer.gif
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\09\image-footer.gif
+Content Type: image/gif
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/1200px-Boy_George_by_Dean_Stockings-150x150.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\1200px-Boy_George_by_Dean_Stockings-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/1200px-Boy_George_by_Dean_Stockings-180x180.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\1200px-Boy_George_by_Dean_Stockings-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/1200px-Boy_George_by_Dean_Stockings-200x200.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\1200px-Boy_George_by_Dean_Stockings-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/1200px-Boy_George_by_Dean_Stockings-240x240.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\1200px-Boy_George_by_Dean_Stockings-240x240.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/1200px-Boy_George_by_Dean_Stockings-300x300.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\1200px-Boy_George_by_Dean_Stockings-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/1200px-Boy_George_by_Dean_Stockings-600x600.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\1200px-Boy_George_by_Dean_Stockings-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/8695263bdcc7611d8e034d37c1fdc63d-150x150.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\8695263bdcc7611d8e034d37c1fdc63d-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/8695263bdcc7611d8e034d37c1fdc63d-180x180.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\8695263bdcc7611d8e034d37c1fdc63d-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/8695263bdcc7611d8e034d37c1fdc63d-200x200.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\8695263bdcc7611d8e034d37c1fdc63d-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/8695263bdcc7611d8e034d37c1fdc63d-240x240.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\8695263bdcc7611d8e034d37c1fdc63d-240x240.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/8695263bdcc7611d8e034d37c1fdc63d-300x300.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\8695263bdcc7611d8e034d37c1fdc63d-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/8695263bdcc7611d8e034d37c1fdc63d-600x600.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\8695263bdcc7611d8e034d37c1fdc63d-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/8695263bdcc7611d8e034d37c1fdc63d.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\8695263bdcc7611d8e034d37c1fdc63d.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/avatar-agent-2.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\avatar-agent-2.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/RP001-Portfolio1-150x150.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\RP001-Portfolio1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/RP001-Portfolio1-180x180.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\RP001-Portfolio1-180x180.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/RP001-Portfolio1-200x200.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\RP001-Portfolio1-200x200.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/RP001-Portfolio1-240x240.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\RP001-Portfolio1-240x240.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/RP001-Portfolio1-300x300.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\RP001-Portfolio1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/RP001-Portfolio1-600x600.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\RP001-Portfolio1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/team-6-150x150.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\team-6-150x150.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/team-6-180x180.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\team-6-180x180.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/team-6-200x200.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\team-6-200x200.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/team-6-240x240.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\team-6-240x240.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/10/team-6.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\10\team-6.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/apartment-300x200.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\apartment-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/apartment.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\apartment.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/flash.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\flash.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/insurance.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\insurance.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/logo2.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\logo2.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/payments.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\payments.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property1-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property1-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property11-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property11-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property2-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property2-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property2.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property2.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property4-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property4-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property4.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property4.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property5-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property5-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property6-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property6-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property6.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property6.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property7-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property7-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property7.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property7.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property8-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property8-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property9-247x183.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property9-247x183.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/property9.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\property9.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/satisfaction.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\satisfaction.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/service.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\service.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/11/zipcar.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\11\zipcar.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/bathroom.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\bathroom.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/bedroom.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\bedroom.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/build.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\build.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/Call-us.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\Call-us.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/Floor-Plan-1-Landing.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\Floor-Plan-1-Landing.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/Floor-Plan-2-Landing.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\Floor-Plan-2-Landing.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/garages.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\garages.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/material.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\material.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/price.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\price.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/Property-feature.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\Property-feature.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/rate.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\rate.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2017/12/size.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2017\12\size.png
+Content Type: image/png
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2018/01/Rectangle-3.jpg
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2018\01\Rectangle-3.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/2019/11/background-footer_c2e4afe1e94c6f3d583128a14221959f.jpg?id=2201
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\2019\11\background-footer_c2e4afe1e94c6f3d583128a14221959f.jpg
+Content Type: image/jpeg
+
+Uri: http://wp.nootheme.com/palazzo/wp-content/uploads/noo-custom-css/custom-style.css
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-content\uploads\noo-custom-css\custom-style.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/css/dist/block-library/style.css?ver=5.9.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\css\dist\block-library\style.css
+Content Type: text/css
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/dist/a11y.js?ver=68e470cf840f69530e9db3be229ad4b6
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\dist\a11y.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/dist/dom-ready.js?ver=ecda74de0221e1c2ce5c57cbb5af09d5
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\dist\dom-ready.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/dist/hooks.js?ver=1e58c8c5a32b2e97491080c5b10dc71c
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\dist\hooks.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/dist/i18n.js?ver=30fcecb428a0e8383d3776bcdd3a7834
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\dist\i18n.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/dist/vendor/regenerator-runtime.js?ver=0.13.9
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\dist\vendor\regenerator-runtime.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/dist/vendor/wp-polyfill.js?ver=3.15.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\dist\vendor\wp-polyfill.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/jquery-migrate.js?ver=3.3.2
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\jquery-migrate.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/jquery.js?ver=3.6.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\autocomplete.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/button.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\button.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/checkboxradio.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\checkboxradio.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/controlgroup.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\controlgroup.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/core.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\core.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/dialog.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\dialog.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/draggable.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\draggable.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/menu.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\menu.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/mouse.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\mouse.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/resizable.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\resizable.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/slider.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\slider.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/sortable.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\sortable.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/js/jquery/ui/tooltip.js?ver=1.13.1
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\js\jquery\ui\tooltip.js
+Content Type: application/javascript
+
+Uri: http://wp.nootheme.com/palazzo/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://wp.nootheme.com/palazzo/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\wp.nootheme.com\palazzo\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://api-idx.diversesolutions.com/combo-css?config=dsidxpress-modern&ver=3.7.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\combo-css
+Content Type: text/css
+
+Uri: https://api-idx.diversesolutions.com/combo-js?config=dsidxpress-modern&ver=3.7.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\combo-js
+Content Type: text/javascript
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/ds-colorbox/border.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\ds-colorbox\border.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/ds-colorbox/controls.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\ds-colorbox\controls.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/ds-colorbox/loading.gif
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\ds-colorbox\loading.gif
+Content Type: image/gif
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/ds-colorbox/loading_background.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\ds-colorbox\loading_background.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/ds-colorbox/overlay.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\ds-colorbox\overlay.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/great-schools-community.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\great-schools-community.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/great-schools-rating.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\great-schools-rating.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/icons/grid.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\icons\grid.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/icons/heart-14.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\icons\heart-14.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/icons/list.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\icons\list.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/icons/photo-count.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\icons\photo-count.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/icons/small-map-marker.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\icons\small-map-marker.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/icons/street-view-14.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\icons\street-view-14.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_flat_0_aaaaaa_40x100.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_flat_0_aaaaaa_40x100.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_flat_75_ffffff_40x100.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_flat_75_ffffff_40x100.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_glass_55_fbf9ee_1x400.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_glass_55_fbf9ee_1x400.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_glass_65_ffffff_1x400.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_glass_65_ffffff_1x400.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_glass_75_dadada_1x400.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_glass_75_dadada_1x400.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_glass_75_e6e6e6_1x400.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_glass_75_e6e6e6_1x400.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_glass_95_fef1ec_1x400.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_glass_95_fef1ec_1x400.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-bg_highlight-soft_75_cccccc_1x100.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-bg_highlight-soft_75_cccccc_1x100.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-icons_222222_256x240.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-icons_222222_256x240.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-icons_2e83ff_256x240.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-icons_454545_256x240.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-icons_454545_256x240.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-icons_888888_256x240.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-icons_888888_256x240.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/Icons/ui-icons_cd0a0a_256x240.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\Icons\ui-icons_cd0a0a_256x240.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/icons/unsplash-14.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\icons\unsplash-14.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/listing-grid-bg-green.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\listing-grid-bg-green.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/listing-grid-bg.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\listing-grid-bg.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsIDXpress/map-hover-container.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsIDXpress\map-hover-container.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/map-hover-divet.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\map-hover-divet.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/search-btn-arrow.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\search-btn-arrow.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/search-pull-down.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\search-pull-down.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/search-pull-up.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\search-pull-up.png
+Content Type: image/png
+
+Uri: https://api-idx.diversesolutions.com/images/dsidxpress/slideshow-leftright.png
+File Name: D:\cyotek-webcopy\wp.nootheme.com\images\dsidxpress\slideshow-leftright.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Lato:100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic&ver=1578995646
+File Name: D:\cyotek-webcopy\wp.nootheme.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6uyw4BMUTPHjx4wWw.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v22/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: D:\cyotek-webcopy\wp.nootheme.com\s\lato\v22\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://maps.google.com/maps/api/js?libraries=geometry&key=AIzaSyCVldL9czMmSd7QaNecblFdml2pB5dUTt4&ver=3.7.0
+File Name: D:\cyotek-webcopy\wp.nootheme.com\maps\api\js
+Content Type: text/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=en_US&key=AIzaSyCRFdCDv0PExBF4VZQvAlBs4nlqlIPrp_4
+File Name: D:\cyotek-webcopy\wp.nootheme.com\maps\api\js-1
+Content Type: text/javascript
+

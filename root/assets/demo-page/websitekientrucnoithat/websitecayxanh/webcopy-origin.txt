@@ -1,0 +1,1796 @@
+Uri: http://cayxanh.websiteviet.vn/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/blogs/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\blogs\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/blogs/page/2/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\blogs\page\2\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/cach-thi-cong-hon-non-bo-tai-nha/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\cach-thi-cong-hon-non-bo-tai-nha\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/dich-vu-cay-xanh/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\dich-vu-cay-xanh\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/dich-vu-cay-xanh/cay-van-phong/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\dich-vu-cay-xanh\cay-van-phong\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/dich-vu-cay-xanh/sua-cay-tai-nha/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\dich-vu-cay-xanh\sua-cay-tai-nha\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/dich-vu-cay-xanh/thi-cong-canh-quan/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\dich-vu-cay-xanh\thi-cong-canh-quan\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/dich-vu-cay-xanh/thu-mua-cay-canh/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\dich-vu-cay-xanh\thu-mua-cay-canh\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/dich-vu-cay-xanh/vuon-tren-mai/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\dich-vu-cay-xanh\vuon-tren-mai\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/kien-thuc/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\kien-thuc\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/chuyen-muc/tin-tuc/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\chuyen-muc\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/cua-hang/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\cua-hang\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/cua-hang/page/2/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\cua-hang\page\2\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/da-san-vuon-trang-tri-tho-moc-tu-nhien/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\da-san-vuon-trang-tri-tho-moc-tu-nhien\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cac-loai-co/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cac-loai-co\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cac-loai-hoa-hong/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cac-loai-hoa-hong\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cay-cong-trinh/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cay-cong-trinh\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cay-day-leo/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cay-day-leo\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cay-hoa-la-quy-hiem/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cay-hoa-la-quy-hiem\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cay-trong-vien-cay-trong-nen/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cay-trong-vien-cay-trong-nen\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cay-xanh-do-thi/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cay-xanh-do-thi\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/danh-muc/cay-xanh-ngoai-that/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\danh-muc\cay-xanh-ngoai-that\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/dinh-nghia-thiet-ke-canh-quan-san-vuon-dep/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\dinh-nghia-thiet-ke-canh-quan-san-vuon-dep\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/du-an/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\du-an\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/gio-hang/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\gio-hang\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/gioi-thieu/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/lien-he/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\lien-he\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-bach-xanh/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-bach-xanh\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-bo-quan/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-bo-quan\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-cha-la/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-cha-la\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-co-tong-la-dom/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-co-tong-la-dom\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-da-yen-thao/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-da-yen-thao\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-giac-ngo/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-giac-ngo\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-hoa-hoang-thao/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-hoa-hoang-thao\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-lan-chu-dinh/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-lan-chu-dinh\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-lan-y-my/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-lan-y-my\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-mit/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-mit\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-muoi-gio-uc/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-muoi-gio-uc\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-nhan/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-nhan\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-siro/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-siro\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-thanh-tu/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-thanh-tu\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/cay-xa-cu/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\cay-xa-cu\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/co-la-tre/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\co-la-tre\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/co-lan-chi/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\co-lan-chi\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/co-mat-troi/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\co-mat-troi\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/co-nhung-nhat-ban/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\co-nhung-nhat-ban\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/co-tia-to/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\co-tia-to\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/co-toc-tien/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\co-toc-tien\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/hoa-dam-but-thai/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\hoa-dam-but-thai\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/hoa-hong-leo/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\hoa-hong-leo\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/san-pham/hoa-muoi-gio/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\san-pham\hoa-muoi-gio\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/su-dung-da-trang-tri-cho-san-vuon-hop-phong-thuy/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\su-dung-da-trang-tri-cho-san-vuon-hop-phong-thuy\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/tai-khoan/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/thi-cong-canh-quan-biet-thu-le-van-thien-nha-mat-pho-1000m2/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\thi-cong-canh-quan-biet-thu-le-van-thien-nha-mat-pho-1000m2\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/thi-cong-non-bo-ho-ca-koi-tai-xa-quang-tien-soc-son/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\thi-cong-non-bo-ho-ca-koi-tai-xa-quang-tien-soc-son\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/thiet-ke-san-vuon-biet-thu-hop-phong-thuy-gia-chu/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\thiet-ke-san-vuon-biet-thu-hop-phong-thuy-gia-chu\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/thoi-diem-tot-nhat-de-thi-cong-cay-xanh/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\thoi-diem-tot-nhat-de-thi-cong-cay-xanh\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/trong-cay-xanh-biet-thu-tu-gia-thi-cong-ho-ca-koi-tai-ba-vi-ha-noi/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\trong-cay-xanh-biet-thu-tu-gia-thi-cong-ho-ca-koi-tai-ba-vi-ha-noi\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/trong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-bac-an-khanh/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\trong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-bac-an-khanh\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/trong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-xuan-phuong/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\trong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-xuan-phuong\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/trong-cay-xanh-va-thi-cong-canh-quan-biet-thu-tu-gia-tai-viet-tri-phu-tho/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\trong-cay-xanh-va-thi-cong-canh-quan-biet-thu-tu-gia-tai-viet-tri-phu-tho\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/ve-dep-kho-cuong-cua-nhung-san-vuon-trang-tri-bang-da/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\ve-dep-kho-cuong-cua-nhung-san-vuon-trang-tri-bang-da\index.htm
+Content Type: text/html
+
+Uri: http://cayxanh.websiteviet.vn/wp-admin/js/password-strength-meter.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-admin\js\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/contentprotector/js/jquery.watermark.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\contentprotector\js\jquery.watermark.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.5.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.5.1
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.5.1
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/cay-xanh/style.css?ver=3.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\cay-xanh\style.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/img/lazy.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\img\lazy.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/libs/isotope.pkgd.min.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\libs\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.6.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=1.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/12-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\12-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/12-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\12-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/12.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\12.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/23.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\23.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/43-247x188.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\43-247x188.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/43.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\43.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/456.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\456.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/6-150x150.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/67.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\67.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-bách-xanh-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-bách-xanh-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-bách-xanh-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-bách-xanh-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-bách-xanh.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-bách-xanh.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-bồ-quân-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-bồ-quân-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-bồ-quân-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-bồ-quân-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-bồ-quân.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-bồ-quân.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-cô-tòng-lá-đốm-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-cô-tòng-lá-đốm-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-cô-tòng-lá-đốm-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-cô-tòng-lá-đốm-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-cô-tòng-lá-đốm.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-cô-tòng-lá-đốm.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-dạ-yến-thảo-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-dạ-yến-thảo-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-dạ-yến-thảo-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-dạ-yến-thảo-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-dạ-yến-thảo.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-dạ-yến-thảo.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-dạ-yến-thao-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-dạ-yến-thao-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-dạ-yến-thao-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-dạ-yến-thao-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-dạ-yến-thao.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-dạ-yến-thao.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-giác-ngộ-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-giác-ngộ-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-giác-ngộ-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-giác-ngộ-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-giác-ngộ.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-giác-ngộ.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-lan-ý-mỹ-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-lan-ý-mỹ-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-lan-ý-mỹ-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-lan-ý-mỹ-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-lan-ý-mỹ.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-lan-ý-mỹ.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-lan-chu-đinh-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-lan-chu-đinh-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-lan-chu-đinh-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-lan-chu-đinh-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-lan-chu-đinh.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-lan-chu-đinh.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-mit-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-mit-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-mit-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-mit-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-mit.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-mit.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-nhãn-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-nhãn-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-nhãn-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-nhãn-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-nhãn.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-nhãn.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-thanh-tú-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-thanh-tú-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-thanh-tú-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-thanh-tú-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cây-thanh-tú.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cây-thanh-tú.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-lá-tre-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-lá-tre-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-lá-tre-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-lá-tre-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-lá-tre.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-lá-tre.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-lan-chi-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-lan-chi-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-lan-chi-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-lan-chi-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-lan-chi.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-lan-chi.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-mặt-trời-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-mặt-trời-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-mặt-trời-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-mặt-trời-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-mặt-trời.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-mặt-trời.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-nhung-nhật-bản-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-nhung-nhật-bản-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-nhung-nhật-bản-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-nhung-nhật-bản-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-nhung-nhật-bản.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-nhung-nhật-bản.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-tía-tô-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-tía-tô-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-tía-tô-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-tía-tô-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-tía-tô.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-tía-tô.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-tóc-tiên-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-tóc-tiên-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-tóc-tiên-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-tóc-tiên-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cỏ-tóc-tiên.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cỏ-tóc-tiên.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/canh-quan-quan-cafe-300x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\canh-quan-quan-cafe-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/canh-quan-quan-cafe.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\canh-quan-quan-cafe.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/canh-quan-san-vuon-biet-thu-150x150.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\canh-quan-san-vuon-biet-thu-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-cong-trinh-150x150.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-cong-trinh-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-cong-trinh-300x225.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-cong-trinh-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-cong-trinh.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-cong-trinh.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-loc-vung-300x199.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-loc-vung-300x199.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-loc-vung.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-loc-vung.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-muoi-gioi-uc-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-muoi-gioi-uc-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-muoi-gioi-uc-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-muoi-gioi-uc-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-muoi-gioi-uc.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-muoi-gioi-uc.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-xa-cu-300x225.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-xa-cu-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-xa-cu.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-xa-cu.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cay-xanh-cong-trinh.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cay-xanh-cong-trinh.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cropped-logo2-180x180.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cropped-logo2-180x180.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cropped-logo2-192x192.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cropped-logo2-192x192.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/cropped-logo2-32x32.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\cropped-logo2-32x32.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-dâm-bụt-thái-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-dâm-bụt-thái-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-dâm-bụt-thái-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-dâm-bụt-thái-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-dâm-bụt-thái.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-dâm-bụt-thái.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-hong-leo-1-1-e1497926380350-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-hong-leo-1-1-e1497926380350-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-hong-leo-1-1-e1497926380350-300x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-hong-leo-1-1-e1497926380350-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-hong-leo-1-1-e1497926380350.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-hong-leo-1-1-e1497926380350.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-mười-giờ-247x296.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-mười-giờ-247x296.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-mười-giờ-300x224.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-mười-giờ-300x224.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hoa-mười-giờ.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hoa-mười-giờ.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hotline-header2-300x46.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hotline-header2-300x46.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/hotline-header2.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\hotline-header2.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/icon-menu.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\icon-menu.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/iconlik.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\iconlik.png
+Content Type: image/png
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/new.gif
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\new.gif
+Content Type: image/gif
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slide6-1024x325.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slide6-1024x325.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slide6-150x150.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slide6-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slide6-300x95.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slide6-300x95.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slide6-510x162.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slide6-510x162.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slide6-768x244.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slide6-768x244.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slide6.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slide6.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slider67-1024x325.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slider67-1024x325.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slider67-150x150.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slider67-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slider67-300x95.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slider67-300x95.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slider67-510x162.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slider67-510x162.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slider67-768x244.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slider67-768x244.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/slider67.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\slider67.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/thi-cong-canh-quan-biet-thu-300x225.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\thi-cong-canh-quan-biet-thu-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/thi-cong-canh-quan-biet-thu.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\thi-cong-canh-quan-biet-thu.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/vf-300x51.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\vf-300x51.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-content/uploads/2018/04/vf.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2018\04\vf.jpg
+Content Type: image/jpeg
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/css/dist/block-library/style.min.css?ver=5.8.4
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/comment-reply.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/hoverIntent.min.js?ver=1.10.1
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\hoverIntent.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/wp-embed.min.js?ver=5.8.4
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\wp-embed.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/x-javascript
+
+Uri: http://cayxanh.websiteviet.vn/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fcach-thi-cong-hon-non-bo-tai-nha%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-78
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fcach-thi-cong-hon-non-bo-tai-nha%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-79
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fda-san-vuon-trang-tri-tho-moc-tu-nhien%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-72
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fda-san-vuon-trang-tri-tho-moc-tu-nhien%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-73
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fdinh-nghia-thiet-ke-canh-quan-san-vuon-dep%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-84
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fdinh-nghia-thiet-ke-canh-quan-san-vuon-dep%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-85
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fdu-an%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fdu-an%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-bach-xanh%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-bach-xanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-bo-quan%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-bo-quan%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-cha-la%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-cha-la%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-co-tong-la-dom%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-co-tong-la-dom%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-da-yen-thao%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-da-yen-thao%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-giac-ngo%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-giac-ngo%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-hoa-hoang-thao%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-hoa-hoang-thao%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-lan-chu-dinh%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-lan-chu-dinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-lan-y-my%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-lan-y-my%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-mit%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-mit%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-muoi-gio-uc%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-muoi-gio-uc%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-nhan%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-nhan%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-siro%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-siro%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-thanh-tu%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-thanh-tu%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-xa-cu%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fcay-xa-cu%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-la-tre%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-la-tre%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-lan-chi%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-lan-chi%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-mat-troi%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-mat-troi%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-nhung-nhat-ban%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-nhung-nhat-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-tia-to%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-tia-to%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-toc-tien%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fco-toc-tien%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fhoa-dam-but-thai%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fhoa-dam-but-thai%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fhoa-hong-leo%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fhoa-hong-leo%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fhoa-muoi-gio%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsan-pham%2Fhoa-muoi-gio%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsu-dung-da-trang-tri-cho-san-vuon-hop-phong-thuy%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-76
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fsu-dung-da-trang-tri-cho-san-vuon-hop-phong-thuy%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-77
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-70
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-71
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthi-cong-canh-quan-biet-thu-le-van-thien-nha-mat-pho-1000m2%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthi-cong-canh-quan-biet-thu-le-van-thien-nha-mat-pho-1000m2%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthi-cong-non-bo-ho-ca-koi-tai-xa-quang-tien-soc-son%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthi-cong-non-bo-ho-ca-koi-tai-xa-quang-tien-soc-son%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthiet-ke-san-vuon-biet-thu-hop-phong-thuy-gia-chu%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-82
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthiet-ke-san-vuon-biet-thu-hop-phong-thuy-gia-chu%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-83
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthoi-diem-tot-nhat-de-thi-cong-cay-xanh%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-80
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fthoi-diem-tot-nhat-de-thi-cong-cay-xanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-81
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-biet-thu-tu-gia-thi-cong-ho-ca-koi-tai-ba-vi-ha-noi%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-biet-thu-tu-gia-thi-cong-ho-ca-koi-tai-ba-vi-ha-noi%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-bac-an-khanh%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-bac-an-khanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-xuan-phuong%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-xuan-phuong%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-va-thi-cong-canh-quan-biet-thu-tu-gia-tai-viet-tri-phu-tho%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Ftrong-cay-xanh-va-thi-cong-canh-quan-biet-thu-tu-gia-tai-viet-tri-phu-tho%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fve-dep-kho-cuong-cua-nhung-san-vuon-trang-tri-bang-da%2F
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-74
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/oembed/1.0/embed?url=http:%2F%2Fcayxanh.websiteviet.vn%2Fve-dep-kho-cuong-cua-nhung-san-vuon-trang-tri-bang-da%2F&format=xml
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\oembed\1.0\embed-75
+Content Type: text/xml
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/112
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\112
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/114
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\114
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/115
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\115
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/116
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\116
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/117
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\117
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/pages/305
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\pages\305
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/pages/307
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\pages\307
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/pages/57
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\pages\57
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/pages/59
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\pages\59
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/pages/802
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\pages\802
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/443
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\443
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/445
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\445
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/447
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\447
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/449
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\449
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/451
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\451
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/453
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\453
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/455
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\455
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/584
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\584
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/587
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\587
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/589
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\589
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/591
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\591
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/593
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\593
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/posts/596
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\posts\596
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/466
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\466
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/493
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\493
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/514
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\514
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/517
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\517
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/519
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\519
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/521
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\521
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/523
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\523
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/525
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\525
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/540
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\540
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/543
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\543
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/545
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\545
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/547
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\547
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/549
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\549
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/551
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\551
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/553
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\553
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/562
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\562
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/566
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\566
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/568
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\568
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/570
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\570
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/572
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\572
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/574
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\574
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/576
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\576
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/579
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\579
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product/581
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product\581
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/37
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\37
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/50
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\50
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/58
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\58
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/71
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\71
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/76
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\76
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/89
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\89
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/wp-json/wp/v2/product_cat/99
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-json\wp\v2\product_cat\99
+Content Type: application/json
+
+Uri: http://cayxanh.websiteviet.vn/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://saigonhoa.com/wp-content/uploads/2014/03/hoa-cay-co-tong-duoi-luon.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2014\03\hoa-cay-co-tong-duoi-luon.jpg
+Content Type: image/jpeg
+
+Uri: http://saigonhoa.com/wp-content/uploads/2014/04/chau-cay-vang-bac.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2014\04\chau-cay-vang-bac.jpg
+Content Type: image/jpeg
+
+Uri: http://saigonhoa.com/wp-content/uploads/2014/04/la-cay-vang-bac.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2014\04\la-cay-vang-bac.jpg
+Content Type: image/jpeg
+
+Uri: http://saigonhoa.com/wp-content/uploads/2014/06/chau-treo-muoi-gio-uc-2.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2014\06\chau-treo-muoi-gio-uc-2.jpg
+Content Type: image/jpeg
+
+Uri: http://saigonhoa.com/wp-content/uploads/2015/04/cum-hoa-lan-chu-dinh.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2015\04\cum-hoa-lan-chu-dinh.jpg
+Content Type: image/jpeg
+
+Uri: http://saigonhoa.com/wp-content/uploads/2015/04/la-cay-lan-chu-dinh.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2015\04\la-cay-lan-chu-dinh.jpg
+Content Type: image/jpeg
+
+Uri: http://saigonhoa.com/wp-content/uploads/2015/04/qua-cay-muoi-gio-300x294.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2015\04\qua-cay-muoi-gio-300x294.jpg
+Content Type: image/jpeg
+
+Uri: http://saigonhoa.com/wp-content/uploads/2015/04/qua-cay-muoi-gio.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2015\04\qua-cay-muoi-gio.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/02/co-la-tre1-548x600-183x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\02\co-la-tre1-548x600-183x200.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/02/co-la-tre1-548x600-274x300.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\02\co-la-tre1-548x600-274x300.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/02/co-la-tre1-548x600.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\02\co-la-tre1-548x600.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/02/co-lan-chi-548x600-183x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\02\co-lan-chi-548x600-183x200.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/02/co-lan-chi-548x600-274x300.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\02\co-lan-chi-548x600-274x300.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/02/co-lan-chi-548x600.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\02\co-lan-chi-548x600.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-cha-la-1-1024x767.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-cha-la-1-1024x767.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-cha-la-1-267x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-cha-la-1-267x200.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-cha-la-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-cha-la-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-cha-la-1-768x575.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-cha-la-1-768x575.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-cha-la-1.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-cha-la-1.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-1-767x1024.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-1-767x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-1-768x1025.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-1-768x1025.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-1.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-1.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-2-1024x726.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-2-1024x726.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-2-282x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-2-282x200.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-2-300x213.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-2-300x213.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-2-768x545.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-2-768x545.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-2.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-2.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-3-1024x634.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-3-1024x634.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-3-300x186.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-3-300x186.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-3-768x475.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-3-768x475.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cay-siro-3.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cay-siro-3.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cha-la-2-1024x819.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cha-la-2-1024x819.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cha-la-2-250x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cha-la-2-250x200.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cha-la-2-300x240.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cha-la-2-300x240.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cha-la-2-768x614.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cha-la-2-768x614.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/03/cha-la-2.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\03\cha-la-2.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/05-231x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\05-231x200.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/05-300x259.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\05-300x259.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/05-768x664.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\05-768x664.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/05.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\05.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/1435636122-11696750_1023816544298078_1921290892_n-267x200.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\1435636122-11696750_1023816544298078_1921290892_n-267x200.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/1435636122-11696750_1023816544298078_1921290892_n-300x225.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\1435636122-11696750_1023816544298078_1921290892_n-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/1435636122-11696750_1023816544298078_1921290892_n.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\1435636122-11696750_1023816544298078_1921290892_n.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/muoigio4-300x159.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\muoigio4-300x159.jpg
+Content Type: image/jpeg
+
+Uri: http://trongcaycongtrinh.com/wp-content/uploads/2017/04/muoigio4.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\wp-content\uploads\2017\04\muoigio4.jpg
+Content Type: image/jpeg
+
+Uri: https://bizhostvn.com/w/cayxanh/wp-content/uploads/2018/04/bg3.jpg
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\w\cayxanh\wp-content\uploads\2018\04\bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://bizhostvn.com/w/cayxanh/wp-content/uploads/2018/04/logo2.png
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\w\cayxanh\wp-content\uploads\2018\04\logo2.png
+Content Type: image/png
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fcach-thi-cong-hon-non-bo-tai-nha%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-33.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fda-san-vuon-trang-tri-tho-moc-tu-nhien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-30.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fdinh-nghia-thiet-ke-canh-quan-san-vuon-dep%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-36.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-bach-xanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-bo-quan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-cha-la%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-co-tong-la-dom%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-da-yen-thao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-giac-ngo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-hoa-hoang-thao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-lan-chu-dinh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-28.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-lan-y-my%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-25.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-mit%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-muoi-gio-uc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-nhan%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-siro%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-thanh-tu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-26.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fcay-xa-cu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fco-la-tre%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fco-lan-chi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fco-mat-troi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fco-nhung-nhat-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fco-tia-to%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fco-toc-tien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fhoa-dam-but-thai%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-27.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fhoa-hong-leo%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsan-pham%252Fhoa-muoi-gio%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fsu-dung-da-trang-tri-cho-san-vuon-hop-phong-thuy%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-32.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fthi-cong-canh-quan-biet-thu-le-van-thien-nha-mat-pho-1000m2%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fthi-cong-non-bo-ho-ca-koi-tai-xa-quang-tien-soc-son%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fthiet-ke-san-vuon-biet-thu-hop-phong-thuy-gia-chu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-35.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fthoi-diem-tot-nhat-de-thi-cong-cay-xanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-34.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Ftrong-cay-xanh-biet-thu-tu-gia-thi-cong-ho-ca-koi-tai-ba-vi-ha-noi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Ftrong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-bac-an-khanh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Ftrong-cay-xanh-san-vuon-biet-thu-thi-cong-ho-ca-koi-tai-khu-do-thi-xuan-phuong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Ftrong-cay-xanh-va-thi-cong-canh-quan-biet-thu-tu-gia-tai-viet-tri-phu-tho%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-29.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fcayxanh.websiteviet.vn%252Fve-dep-kho-cuong-cua-nhung-san-vuon-trang-tri-bang-da%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\cayxanh.websiteviet.vn\login-31.php
+Content Type: application/xhtml+xml
+

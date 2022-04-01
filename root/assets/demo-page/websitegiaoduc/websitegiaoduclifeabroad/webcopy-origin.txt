@@ -1,0 +1,1552 @@
+Uri: http://fonts.googleapis.com/css?family=Abril+Fatface:regular&ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\css-1
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Montserrat:200%2C300%2C400%2C700%2C800|Open+Sans:200%2C300%2C400%2C700%2C800&ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/abrilfatface/v18/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\abrilfatface\v18\zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\index.htm
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/author/mypage
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\author\mypage.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/author/mypage/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\author\mypage\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/blog
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\blog.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/accommodation
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\accommodation.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/accommodation/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\accommodation\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/around-uk
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\around-uk.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/around-uk/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\around-uk\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/education
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\education.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/education/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\education\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/life-hacks
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\life-hacks.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/life-hacks/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\life-hacks\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/others
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\others.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/category/others/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\category\others\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/comments/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\comments\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/compensation-if-youre-a-victim-of-crime-abroad.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\compensation-if-youre-a-victim-of-crime-abroad.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/compensation-if-youre-a-victim-of-crime-abroad.html/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\compensation-if-youre-a-victim-of-crime-abroad.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/how-should-i-adapt-to-british-culture-while-studying-in-the-uk.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\how-should-i-adapt-to-british-culture-while-studying-in-the-uk.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/how-should-i-adapt-to-british-culture-while-studying-in-the-uk.html/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\how-should-i-adapt-to-british-culture-while-studying-in-the-uk.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/how-to-get-a-uk-student-visa.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\how-to-get-a-uk-student-visa.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/how-to-get-a-uk-student-visa.html/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\how-to-get-a-uk-student-visa.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/job/education-counsellor
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\job\education-counsellor.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/job/education-counsellor/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\job\education-counsellor\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/job/teaching-assistant
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\job\teaching-assistant.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/job/teaching-assistant/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\job\teaching-assistant\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/job/vietnamese-ielts-teacher
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\job\vietnamese-ielts-teacher.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/job/vietnamese-ielts-teacher/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\job\vietnamese-ielts-teacher\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/jobs
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\jobs.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/journey
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\journey.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/lobbying-mps-in-a-crisis.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\lobbying-mps-in-a-crisis.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/lobbying-mps-in-a-crisis.html/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\lobbying-mps-in-a-crisis.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services/accommodation
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services\accommodation.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services/airport-pick-up
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services\airport-pick-up.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services/arrival-pack
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services\arrival-pack.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services/money-transfer
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services\money-transfer.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services/private-tour
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services\private-tour.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services/schengen-visa
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services\schengen-visa.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/our-services/ubuddy
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\our-services\ubuddy.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/settling-into-a-new-life-abroad.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\settling-into-a-new-life-abroad.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/settling-into-a-new-life-abroad.html/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\settling-into-a-new-life-abroad.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\index.htm
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/author/mypage
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\author\mypage.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/author/mypage/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\author\mypage\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/blog-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\blog-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/accommodation-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\accommodation-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/accommodation-th/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\accommodation-th\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/around-uk-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\around-uk-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/around-uk-th/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\around-uk-th\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/education-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\education-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/education-th/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\education-th\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/life-hacks-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\life-hacks-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/life-hacks-th/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\life-hacks-th\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/others-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\others-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/category/others-th/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\category\others-th\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/comments/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\comments\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/job/education-counsellor-2
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\job\education-counsellor-2.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/job/education-counsellor-2/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\job\education-counsellor-2\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/job/teaching-assistant-2
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\job\teaching-assistant-2.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/job/teaching-assistant-2/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\job\teaching-assistant-2\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/job/thailand-ielts-teacher
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\job\thailand-ielts-teacher.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/job/thailand-ielts-teacher/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\job\thailand-ielts-teacher\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/jobs-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\jobs-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/journey-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\journey-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th/accommodation
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th\accommodation.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th/airport-pick-up
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th\airport-pick-up.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th/arrival-pack
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th\arrival-pack.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th/money-transfer
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th\money-transfer.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th/private-tour
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th\private-tour.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th/schengen-visa
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th\schengen-visa.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/th/our-services-th/ubuddy
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\th\our-services-th\ubuddy.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/vi/
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\vi\index.htm
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/vi/author/mypage
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\vi\author\mypage.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/vi/author/mypage/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\vi\author\mypage\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/vi/comments/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\vi\comments\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/vi/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\vi\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/working-in-uk-while-studying.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\working-in-uk-while-studying.html
+Content Type: text/html
+
+Uri: http://tech.mypagedemo.com/lifeabroad/working-in-uk-while-studying.html/feed
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\working-in-uk-while-studying.html (1)\feed
+Content Type: application/rss+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.9
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.9
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.6
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: application/x-font-woff
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: application/x-font-woff
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.6
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/plugins/porto-functionality/shortcodes/assets/js/ultimate-carousel-loader.min.js?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\plugins\porto-functionality\shortcodes\assets\js\ultimate-carousel-loader.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage-child/images/icon_line.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage-child\images\icon_line.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage-child/images/icon_line_hover.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage-child\images\icon_line_hover.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage-child/images/line_title.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage-child\images\line_title.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage-child/images/service-bg.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage-child\images\service-bg.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage-child/style.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage-child\style.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/bootstrap_1.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\bootstrap_1.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/dynamic_style_1.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\dynamic_style_1.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/images/blank.gif
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\images\blank.gif
+Content Type: image/gif
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/images/fancybox_loading.gif
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\images\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/images/fancybox_loading@2x.gif
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\images\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/images/fancybox_sprite.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\images\fancybox_sprite.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/images/fancybox_sprite@2x.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\images\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/plugins.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\plugins.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/skin_1.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\skin_1.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/css/theme.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\css\theme.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.eot?
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.eot?v=2.0.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.svg?v=2.0.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.ttf?v=2.0.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/elusive/elusiveicons-webfont.woff?v=2.0.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\elusive\elusiveicons-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.eot?v=4.6.3
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.svg?v=4.6.3
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: application/x-gzip
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/minicart-font/minicart-font.eot?
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\minicart-font\minicart-font-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/minicart-font/minicart-font.eot?v=1.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\minicart-font\minicart-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/minicart-font/minicart-font.svg?v=1.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\minicart-font\minicart-font.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/minicart-font/minicart-font.ttf?v=1.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\minicart-font\minicart-font.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/minicart-font/minicart-font.woff?v=1.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\minicart-font\minicart-font.woff
+Content Type: application/x-font-woff
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/porto-font/porto.eot?23364375
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\porto-font\porto.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/porto-font/porto.svg?23364375
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\porto-font\porto.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/porto-font/porto.ttf?23364375
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\porto-font\porto.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/porto-font/porto.woff2?23364375
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\porto-font\porto.woff2
+Content Type: application/x-gzip
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/porto-font/porto.woff?23364375
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\porto-font\porto.woff
+Content Type: application/x-font-woff
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.eot?nuc4d1
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.svg?nuc4d1
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.ttf?nuc4d1
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/fonts/Simple-Line-Icons/Simple-Line-Icons.woff?nuc4d1
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\fonts\Simple-Line-Icons\Simple-Line-Icons.woff
+Content Type: application/x-font-woff
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/ajax-loader@2x.gif
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\ajax-loader@2x.gif
+Content Type: image/gif
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/AjaxLoader.gif
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/arrows-dark.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\arrows-dark.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/arrows.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\arrows.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/concept-icons.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\concept-icons.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/concept-item.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\concept-item.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/concept.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\concept.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/flags.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\flags.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/history-thumb.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\history-thumb.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/map.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\map.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/owl.video.play.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\owl.video.play.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/patterns/az_subtle.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\patterns\az_subtle.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/patterns/stripes.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\patterns\stripes.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/patterns/worn_dots.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\patterns\worn_dots.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/images/video-overlay.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\images\video-overlay.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/js/bootstrap.min.js?ver=4.4.4
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/js/jquery.slick.min.js?ver=4.4.4
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\js\jquery.slick.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/js/plugins.min.js?ver=4.4.4
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\js\plugins.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/js/popper.min.js?ver=4.4.4
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\js\popper.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/js/theme.min.js?ver=4.4.4
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\js\theme.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/style.css
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\style-1.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/themes/mypage/style.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\themes\mypage\style.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/about-bg.png?id=51
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\about-bg.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/about-img.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\about-img.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/customer-1.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\customer-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/customer-bg.jpg?id=64
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\customer-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/favicon.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\favicon.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/logo-home.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\logo-home.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/news-lifeabroad-360x240.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\news-lifeabroad-360x240.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/service-1.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\service-1.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/service-2.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\service-2.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/service-3.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\service-3.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/service-4.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\service-4.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/service-bg-2.png?id=39
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\service-bg-2.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/why-bg.jpg?id=54
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\why-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/why-icon-1.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\why-icon-1.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/why-icon-2.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\why-icon-2.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/why-icon-3.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\why-icon-3.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/06/why-icon-4.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\06\why-icon-4.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/2nd-October-2017-settling-into-a-new-life-360x240.jpeg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\2nd-October-2017-settling-into-a-new-life-360x240.jpeg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/accommodation-img-2.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\accommodation-img-2.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/accommodation-img.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\accommodation-img.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/airport-pickup-1.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\airport-pickup-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/airport-pickup-2.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\airport-pickup-2.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/arrival-pack-1.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\arrival-pack-1.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/arrival-pack-2.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\arrival-pack-2.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/arrival-pack-3.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\arrival-pack-3.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/arrival-pack-4.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\arrival-pack-4.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/banner-lifeabroad.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\banner-lifeabroad.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/banner-services.jpg?id=117
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\banner-services.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/breadcrumb-bg.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\breadcrumb-bg.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/dot-bg.png?id=119
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\dot-bg.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/hw-accom-1.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\hw-accom-1.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/hw-accom-2.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\hw-accom-2.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/hw-accom-3.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\hw-accom-3.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/hw-arrival-1.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\hw-arrival-1.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/Lobbying-360x240.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\Lobbying-360x240.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/logo-vso.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\logo-vso.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/service-img-1a.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\service-img-1a.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/service-img-2a.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\service-img-2a.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/service-img-3a.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\service-img-3a.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/service-img-4a.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\service-img-4a.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/service-money-transfer-1.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\service-money-transfer-1.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/services-accommodation-a.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\services-accommodation-a.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/services-accommodation.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\services-accommodation.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/services-airport.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\services-airport.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/services-arrival-a.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\services-arrival-a.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/services-private-tour-a.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\services-private-tour-a.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/services-schengen-a.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\services-schengen-a.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/services-ubuddy-a.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\services-ubuddy-a.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/step-cityhall.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\step-cityhall.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/step-docs.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\step-docs.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/step-idcar.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\step-idcar.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/step-passport.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\step-passport.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/step3.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\step3.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/student-visa-360x240.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\student-visa-360x240.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/study-in-UK-culture-360x240.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\study-in-UK-culture-360x240.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/07/UK-city-360x240.jpeg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\07\UK-city-360x240.jpeg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/banner-journey.jpg
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\banner-journey.jpg
+Content Type: image/jpeg
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/icon-truck.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\icon-truck.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-arrived.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-arrived.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-creating.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-creating.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-exploring.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-exploring.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-helping.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-helping.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-prepairing.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-prepairing.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-ready.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-ready.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-searching.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-searching.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-started.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-started.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-supporting.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-supporting.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-taking.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-taking.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-visa-app.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-visa-app.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/j-visa-receive.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\j-visa-receive.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/space.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\space.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/step-city.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\step-city.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/step-design.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\step-design.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/step-doccument.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\step-doccument.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/08/step-train.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\08\step-train.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/09/j-when-bg.png?id=380
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\09\j-when-bg.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/09/j-will-bg.png?id=381
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\09\j-will-bg.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/09/logo-footer.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\09\logo-footer.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/09/logo-page-4.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\09\logo-page-4.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-content/uploads/2020/09/step-choose.png
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-content\uploads\2020\09\step-choose.png
+Content Type: image/png
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-includes/css/dist/block-library/style.min.css?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-includes/js/wp-embed.min.js?ver=5.3.12
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-includes/wlwmanifest.xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2F
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2F&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fcompensation-if-youre-a-victim-of-crime-abroad.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fcompensation-if-youre-a-victim-of-crime-abroad.html&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fhow-should-i-adapt-to-british-culture-while-studying-in-the-uk.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fhow-should-i-adapt-to-british-culture-while-studying-in-the-uk.html&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fhow-to-get-a-uk-student-visa.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fhow-to-get-a-uk-student-visa.html&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjob%2Feducation-counsellor
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-60
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjob%2Feducation-counsellor&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-61
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjob%2Fteaching-assistant
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-62
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjob%2Fteaching-assistant&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-63
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjob%2Fvietnamese-ielts-teacher
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-58
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjob%2Fvietnamese-ielts-teacher&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-59
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjobs
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjobs&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjourney
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fjourney&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Flobbying-mps-in-a-crisis.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Flobbying-mps-in-a-crisis.html&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Faccommodation
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Faccommodation&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fairport-pick-up
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fairport-pick-up&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Farrival-pack
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Farrival-pack&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fmoney-transfer
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fmoney-transfer&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fprivate-tour
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fprivate-tour&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fschengen-visa
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fschengen-visa&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fubuddy
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services%2Fubuddy&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Four-services&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fsettling-into-a-new-life-abroad.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fsettling-into-a-new-life-abroad.html&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2F
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2F&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjob%2Feducation-counsellor-2
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-66
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjob%2Feducation-counsellor-2&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-67
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjob%2Fteaching-assistant-2
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-68
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjob%2Fteaching-assistant-2&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-69
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjob%2Fthailand-ielts-teacher
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-64
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjob%2Fthailand-ielts-teacher&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-65
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjobs-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-54
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjobs-th&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-55
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjourney-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-56
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Fjourney-th&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-57
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Faccommodation
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Faccommodation&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fairport-pick-up
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fairport-pick-up&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Farrival-pack
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Farrival-pack&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fmoney-transfer
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fmoney-transfer&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fprivate-tour
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fprivate-tour&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fschengen-visa
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fschengen-visa&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fubuddy
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th%2Fubuddy&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fth%2Four-services-th&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fvi%2F
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fvi%2F&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fworking-in-uk-while-studying.html
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://tech.mypagedemo.com/lifeabroad/wp-json/oembed/1.0/embed?url=http:%2F%2Ftech.mypagedemo.com%2Flifeabroad%2Fworking-in-uk-while-studying.html&format=xml
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/lifeabroad/xmlrpc.php?rsd
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\lifeabroad\xmlrpc.php
+Content Type: text/xml
+
+Uri: http://tech.mypagedemo.com/_private/static/script.min.js
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\_private\static\script.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.css
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\ajax\libs\simple-line-icons\2.4.1\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.eot?v=2.4.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.svg?v=2.4.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.ttf?v=2.4.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff2?v=2.4.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/fonts/Simple-Line-Icons.woff?v=2.4.0
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\ajax\libs\simple-line-icons\2.4.1\fonts\Simple-Line-Icons.woff
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;600&family=Montserrat:wght@300;400;500;700&family=Sarabun:wght@300;400;500;700&display=swap
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mitr/v9/pxiEypw5ucZF8eMcFJA.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\mitr\v9\pxiEypw5ucZF8eMcFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mitr/v9/pxiEypw5ucZF8ZcaFJA.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\mitr\v9\pxiEypw5ucZF8ZcaFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mitr/v9/pxiLypw5ucZFyTs.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\mitr\v9\pxiLypw5ucZFyTs.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sarabun/v12/DtVjJx26TKEr37c9WBI.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\sarabun\v12\DtVjJx26TKEr37c9WBI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sarabun/v12/DtVmJx26TKEr37c9YK5sulw.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\sarabun\v12\DtVmJx26TKEr37c9YK5sulw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sarabun/v12/DtVmJx26TKEr37c9YL5rulw.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\sarabun\v12\DtVmJx26TKEr37c9YL5rulw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/sarabun/v12/DtVmJx26TKEr37c9YOZqulw.ttf
+File Name: D:\cyotek-webcopy\tech.mypagedemo.com\s\sarabun\v12\DtVmJx26TKEr37c9YOZqulw.ttf
+Content Type: font/ttf
+

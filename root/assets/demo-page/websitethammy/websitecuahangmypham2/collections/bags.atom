@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://huge-cosmetics-shop.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://huge-cosmetics-shop.myshopify.com/collections/bags.atom"/>
+  <title>Beauty Store</title>
+  <updated>2019-11-01T04:38:12-04:00</updated>
+  <author>
+    <name>Beauty Store</name>
+  </author>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4338353733717</id>
+    <published>2019-11-01T04:38:12-04:00</published>
+    <updated>2019-11-01T04:38:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/fancy-gown"/>
+    <title>Fancy Gown</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Shining Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/19.jpg?v=1572597509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shining Fashion<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Rayon</s:tag>
+    <s:tag>Shining Fashion</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4338353733717</id>
+      <title>Green / Rayon / XL</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4338339446869</id>
+    <published>2019-11-01T04:29:12-04:00</published>
+    <updated>2019-11-01T04:29:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/light-color-pants"/>
+    <title>Light Color Pants</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Prince</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/16_48be6822-c525-4f0b-9456-1adc0f46fd3d.jpg?v=1572597048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prince<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Prince</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4338339446869</id>
+      <title>Orange / Glass / L</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4338317918293</id>
+    <published>2019-11-01T04:14:04-04:00</published>
+    <updated>2019-11-01T04:14:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/marathon-sport-shoes"/>
+    <title>Marathon Sport Shoes</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Himalaya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/10_b40bda43-a414-498b-86bb-195a344af9c8.jpg?v=1572596072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Himalaya<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Gadgets</s:tag>
+    <s:tag>Himalaya</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4338317918293</id>
+      <title>White / Cotton / XXL</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4338285445205</id>
+    <published>2019-11-01T03:54:38-04:00</published>
+    <updated>2019-11-01T03:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/uv-protected-sunglasses"/>
+    <title>UV Protected Sunglasses</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>Himalaya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/5_27b6f1fd-7969-4730-8104-4f224d4b3892.jpg?v=1613640949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Himalaya<br>
+        <strong>Type: </strong>Gadgets<br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Gadgets</s:tag>
+    <s:tag>Himalaya</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XXL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4338285445205</id>
+      <title>White / Cotton / XXL</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4338279284821</id>
+    <published>2019-11-01T03:51:27-04:00</published>
+    <updated>2019-11-01T03:51:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/high-heel-chapple"/>
+    <title>High Heel Chapple</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Shining Fashion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/4_b68f87ec-69a1-4d4a-aa1c-938ac516e4c0.jpg?v=1572594723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shining Fashion<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $500</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Rayon</s:tag>
+    <s:tag>Shining Fashion</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>XL</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4338279284821</id>
+      <title>Green / Rayon / XL</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://huge-cosmetics-shop.myshopify.com/products/4338234097749</id>
+    <published>2019-11-01T03:20:39-04:00</published>
+    <updated>2019-11-01T03:20:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://huge-cosmetics-shop.myshopify.com/products/leather-bag"/>
+    <title>Leather Bag</title>
+    <s:type>Bags</s:type>
+    <s:vendor>Prince</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1811/9571/products/1_f57ca07c-300e-4f60-aec6-ad91769a7ac8.jpg?v=1572592907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Prince<br>
+        <strong>Type: </strong>Bags<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officiore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillumdo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Prince</s:tag>
+    <s:variant>
+      <id>https://huge-cosmetics-shop.myshopify.com/products/4338234097749</id>
+      <title>Orange / Glass / L</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

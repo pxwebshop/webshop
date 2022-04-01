@@ -1,0 +1,164 @@
+
+
+
+.about-us .grid-uniform.block5 {float: left;width: 100%;padding: 5% 0;}
+
+.about-us .grid-uniform.block5 {float: left;width: 100%;}
+
+.about-us .block5 .content_block li {margin-bottom: 25px;padding-left: 30px;position: relative;}
+
+.about-us  .block5 .content_block {float: left;width: 100%;}
+
+.about-us .block5 .border-title {text-align: left;position: relative;margin-bottom: 40px;}
+
+.about-us .block5 .border-title .sep {display: inline-block;height: 2px;width: 100px;}
+
+.about-us .block5 .content_block .support_icon {left: 0;position: absolute;top: 0;}
+
+.about-us ul{list-style-type:none;padding:0;}
+
+.about-us .section-two .main-heading {text-align: center;float: left;width: 100%;margin-bottom: 30px;}
+
+.about-us .section-two .main-heading h5 {font-size: 13px;font-style: italic;margin-bottom: 0;}
+
+.about-us .invisible-small {float: left;margin: 15px 0;width: 100%;}
+
+.about-us .section-two h4 {font-size: 18px;margin-bottom: 20px;}
+
+.about-us .section-two .center-img {text-align: center;padding:0 10px;}
+
+.about-us .center-img img {display: inline-block;}
+
+.about-us .right-list li {font-size: 16px;margin-bottom: 0;padding-bottom: 20px;padding-left: 30px;position: relative;text-transform: uppercase;}
+
+.about-us .right-list li::after {content: "\f05d";font-family: fontawesome;left: 0;position: absolute;}
+
+.about-us  .block3 .post-large--one-half{ margin-right: 0; width: 50%;}
+
+.about-us  .block3-column-2, .about-us  .block3-column-3{   padding:130px 40px 116px;text-align: center;transition: all 0.3s linear 0s;} 
+
+.about-us  .block3 .content_section .support_thumb {margin-bottom: 25px;}
+
+.about-us .grid-uniform.block3 {padding: 5% 0;float:left;width:100%;}
+
+.about-us  .block3 .content_section .support_thumb img {display: inline-block;}
+
+.about-us img {display: block;}
+
+.about-us .main-heading {float: left;text-align: center;width: 100%;margin-bottom: 40px;}
+
+.about-us .testimonial-section {text-align: center;position: relative;}
+
+.about-us blockquote {margin: 0 0 70px;padding: 0 50px;}
+
+.about-us .testimonial-author img {border-radius: 50%;display: inline-block;margin-bottom:15px;}
+
+.about-us .testimonial-author h5 {font-weight: bold;margin-bottom: 5px;font-size:16px}
+
+.about-us .testimonial-author h6{font-size:14px}
+
+.about-us q {font-size: 16px;font-style: italic;}
+
+.about-us .client-img {float: left;width: 100%;text-align: center;}
+
+.about-us .main-heading  h6{margin-bottom:0;}
+
+.about-us .main-heading  h2{margin-bottom:5px;}
+
+.about-us .client-img img {display: inline-block;padding:0 10px;}
+
+.about-us h3 {font-size: 23px;}
+
+.about-us .section-two {background-repeat: no-repeat;background-size: cover;float: left;padding: 5% 2%;width: 100%;}
+
+.about-us .section-six{float: left;padding: 5% 0;width: 100%;}
+
+.about-us .client-section {float: left;padding: 5% 0;width: 100%;}
+
+.about-us .border-title h2{margin-bottom:5px;}
+
+.about-us .border-title h6 {margin-bottom: 0;}
+
+.about-us .testimonial-author span h5 , .about-us .testimonial-author span h6 {text-transform: capitalize;}
+
+.about-us .block3 .post-large--one-half {display: flex;margin-right: 0;width: 50%;}
+
+.about-us .block3 .container {display: flex;flex-wrap: wrap;}
+
+
+/* RESPONSIVE */
+
+
+
+
+/*** min-width 768px : to : max-width 1023px ***/
+
+@media only screen and (min-width:768px) and (max-width:1023px) {
+
+
+.about-us .right-list li{padding-left: 20px;font-size: 12px;}
+
+.about-us .block3 .post-large--one-half{width:100%;}
+
+.about-us .block3-column-2, .about-us .block3-column-3{padding: 80px 40px 65px;}
+
+}
+
+
+/*** min-width 320px : to : max-width 767px ***/
+
+@media only screen and (min-width:320px) and (max-width:767px) {
+
+.about-us .block3 .post-large--one-half   , .about-us .post-large--one-half{width:100%;}
+
+.about-us .section-two .center-img{padding: 30px;}
+
+.about-us .center-img img {display: block;}
+
+.about-us .right-list li{font-size:14px;}
+
+.about-us blockquote{padding: 0 40px;}
+
+.about-us q{font-size: 14px;}
+
+
+.about-us .block3-column-2, .about-us .block3-column-3{padding: 60px 40px;}
+
+}
+
+/*** min-width 1024px : to : max-width 1199px ***/
+
+@media only screen and (min-width:1024px) and (max-width:1199px) {
+
+.about-us .block3-column-2, .about-us .block3-column-3 {padding: 60px 40px 60px;}
+
+
+
+@media only screen and (min-width:800px) and (max-width:1280px) {
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

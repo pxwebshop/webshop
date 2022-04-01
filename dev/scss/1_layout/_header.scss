@@ -1,3 +1,330 @@
 /*------------------------------------------------------------
 header
 ------------------------------------------------------------*/
+.c-header {
+    $root: &;
+    box-shadow: 0 0 10px 2px rgba(0,0,0,0.1);
+    &__sticky {
+        position: sticky;
+        width: 100%;
+        background-color: $colorBlue6;
+        height: 100%;
+        top: 0;
+        z-index: 1;
+        color: $colorWhite;
+        @include sp {
+            display: none;
+        }
+    }
+    &__inner {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        // border-bottom: 1px solid $colorBlue5;
+        @include max-w(1024px) {
+            justify-content: space-around;
+        }
+    }
+    &__menu {
+        display: flex;
+        align-items: center;
+        z-index: 2;
+        @include max-w(1024px) {
+            margin: 16px auto;
+        }
+    }
+    &__item {
+        font-size: 1.7rem;
+        font-weight: 400;
+        line-height: 1.5;
+        font-weight: 600;
+        padding: 0 10px;
+        text-transform: capitalize;
+        position: relative;
+        cursor: pointer;
+        &__services {
+            height: 100%;
+            display: flex;
+            align-items: center;
+        }
+        &__abouts {
+            height: 100%;
+            display: flex;
+            align-items: center;
+        }
+        &:hover {
+            color: $colorRed;
+            transition: all 0.1s;
+            #{$root}__child {
+                display: block;
+                color: black;
+            }
+        }
+    }
+    &__itemSeach {
+        font-size: 1.7rem;
+        font-weight: 400;
+        line-height: 1.5;
+        font-weight: 600;
+        padding: 0 10px;
+        text-transform: capitalize;
+        position: relative;
+        cursor: pointer;
+        display: flex;
+        height: 100%;
+        align-items: center;
+        &:hover {
+            .c-header__search {
+                display: block;
+            }
+        }
+        @include sp() {
+            font-size: 1.8rem;
+            font-weight: 600;
+            padding: 10px 15px;
+            line-height: 1.5;
+        }
+    }
+    &__link {
+        display: inline-block;
+    }
+    &__logo {
+        display: inline-block;
+    }
+    &__child {
+        position: absolute;
+        top: 70px;
+        min-width: 310px;
+        padding: 10px;
+        box-shadow: 0px 6px 10px 1px #8aa0c5;
+        display: none;
+        border-radius: 3px;
+        background-color: $colorWhite;
+        z-index: 9;
+        right: 0;
+        &__item {
+            font-weight: 600;
+            font-size: 1.5rem;
+            padding: 10px 10px 0px 10px;
+           &:hover {
+                color: $colorRed;
+           } 
+        }
+    }
+    &__top {
+        // border-top: 1px solid $colorBlue5;
+        // border-bottom: 1px solid $colorBlue5;
+        .l-container {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px;
+            flex-wrap: wrap;
+            @include sp() {
+                padding: 10px 20px;
+            }
+        }
+    }
+    &__address {
+        display: flex;
+        flex-wrap: wrap;
+        @include sp() {
+            margin-top: 10px;
+        }
+        &__item {
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            &:last-child {
+                &::before {
+                    content: "";
+                    width: 2px;
+                    background-color: $colorBlack;
+                    height: 100%;
+                    margin-right: 15px;
+                    @include max-w(391px) {
+                        width: 0;
+                        margin-right: 0;
+                    }
+                }
+            }
+            &:first-child {
+                margin-right: 10px;
+            }
+        }
+    }
+    &__nameCompany {
+        font-weight: 600;
+        font-size: 1.7rem;
+    }
+    &__search {
+        display: none;
+        position: absolute;
+        top: 45px;
+        right: 7px;
+        z-index: 999;
+        @include sp() {
+            display: block;
+            position: static;
+        }
+    }
+    &__form {
+        display: flex;
+        margin-top: 15px;
+        input {
+            padding: 0 15px;
+            border: 1px solid $colorLightGrey;
+            font-size: 1.5rem;
+            font-weight: 500;
+            @include sp {
+                width: 90%;
+            }
+            @include max-w(550px) {
+                width: 80%;
+            }
+        }
+    }
+    &__btnSearch {
+        border: 1px solid $colorLightGrey;
+        padding: 8px 20px;
+        font-size: 1.8rem;
+        cursor: pointer;
+        @include sp {
+            width: 10%;
+        }
+        @include max-w(550px) {
+            width: 20%;
+        }
+    }
+    &__gnav {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+        background-color: $colorBlue5;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 999;
+        &__btn {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            z-index: 100;
+
+            width: 40px;
+            height: 40px;
+            background-color: #007dc5;
+            margin-left: 10px;
+            cursor: pointer;
+            span {
+                width: 70%;
+                height: 2px;
+                background-color: #fff;
+                margin: 4px 0;
+                transition: all 0.3s ease;
+            }
+            &.open {
+                span {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    bottom: 0;
+                    right: 0;
+                    margin: auto;
+                    &:nth-child(1) {
+                        transform: rotate(45deg);
+                    }
+                    &:nth-child(2) {
+                        width: 0;
+                    }
+                    &:nth-child(3) {
+                        transform: rotate(-45deg);
+                    }
+                }
+            }
+        }
+        &__menu {
+            padding-top: 10px;
+            &__sub {
+                display: none;
+                border-top: 1px solid $colorBlue1;
+                .c-header__gnav__item{
+                    font-size: 1.6rem;
+                    &:last-child {
+                        border-bottom: none;
+                    }
+                    span {
+                        padding-left: 30px;
+                    }
+                }
+            }
+        }
+        &__parent {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            i:last-child {
+                display: none;
+            }
+        }
+        &__item {
+            font-size: 1.8rem;
+            font-weight: 600;
+            border-bottom: 1px solid $colorBlue1;
+            span {
+                display: block;
+            }
+            a {
+                display: flex;
+                padding: 10px 15px;
+                line-height: 1.5;
+            }
+        }
+        &__child {
+            background-color: $colorWhite;
+            height: 100vh;
+            display: none;
+            top: 60px;
+            position: fixed;
+            width: 100%;
+            overflow: scroll;
+            z-index: 999;
+        }
+    }
+   
+    &__tel {
+        &__btn {
+            position: relative;
+            width: 40px;
+            height: 40px;
+            background-color: #007dc5;
+            margin-left: 10px;
+            cursor: pointer;
+            &::before {
+                content: "";
+                position: absolute;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                margin: auto;
+                z-index: 0;
+                width: 25px;
+                height: 24px;
+                background: url(https://www.takabou.jp/wp-content/themes/No1_theme01/img/common/nav-tel.svg) no-repeat center center;
+                background-size: 25px 24px;
+            }
+            .tel_link {
+                font-size: 0;
+            }
+        }
+    }
+    &__logoSp {
+        width: 200px;
+    }
+    &__btn {
+        display: flex;
+    }
+}

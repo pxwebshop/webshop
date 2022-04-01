@@ -1,0 +1,1912 @@
+Uri: http://0.gravatar.com/avatar/?s=160&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\none-2.png
+Content Type: image/jpeg
+
+Uri: http://1.gravatar.com/avatar/75d23af433e0cea4c0e45a56dba18b30?s=192&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\75d23af433e0cea4c0e45a56dba18b30-1.png
+Content Type: image/jpeg
+
+Uri: http://1.gravatar.com/avatar/?s=160&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\none-5.png
+Content Type: image/jpeg
+
+Uri: http://2.gravatar.com/avatar/56a282550cb77d3a5e15c22c1d16fb24?s=100&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\56a282550cb77d3a5e15c22c1d16fb24-3.jpeg
+Content Type: image/jpeg
+
+Uri: http://2.gravatar.com/avatar/56a282550cb77d3a5e15c22c1d16fb24?s=192&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\56a282550cb77d3a5e15c22c1d16fb24-2.jpeg
+Content Type: image/jpeg
+
+Uri: http://2.gravatar.com/avatar/56a282550cb77d3a5e15c22c1d16fb24?s=50&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\56a282550cb77d3a5e15c22c1d16fb24-4.jpeg
+Content Type: image/jpeg
+
+Uri: http://2.gravatar.com/avatar/?s=160&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\none-1.png
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/?s
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay/?replytocom=6
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in/?replytocom=5
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\apple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/author/admin/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/author/admin/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/author/monamedia/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\author\monamedia\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/author/monamedia/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\author\monamedia\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/author/monamedia/page/2/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\author\monamedia\page\2\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/author/monamedia/page/3/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\author\monamedia\page\3\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/ba-bau/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\ba-bau\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/ba-bau/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\ba-bau\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/ba-bau/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\ba-bau\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/ba-bau/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\ba-bau\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/ba-bau/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\ba-bau\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/ba-bau/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\ba-bau\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/ba-bau/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\ba-bau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/cong-nghe/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cong-nghe\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cong-nghe/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cong-nghe\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cong-nghe/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cong-nghe\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cong-nghe/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cong-nghe\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cong-nghe/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cong-nghe\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cong-nghe/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cong-nghe\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cong-nghe/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cong-nghe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/page/2/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\page\2\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/page/2/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\page\2\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/cuoc-song/page/2/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\cuoc-song\page\2\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/giai-tri/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\giai-tri\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/giai-tri/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\giai-tri\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/giai-tri/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\giai-tri\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/giai-tri/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\giai-tri\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/giai-tri/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\giai-tri\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/giai-tri/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\giai-tri\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/giai-tri/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\giai-tri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/lam-dep/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\lam-dep\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/lam-dep/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\lam-dep\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/lam-dep/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\lam-dep\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/lam-dep/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\lam-dep\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/lam-dep/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\lam-dep\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/lam-dep/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\lam-dep\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/lam-dep/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\lam-dep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/sao-viet/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\sao-viet\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/sao-viet/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\sao-viet\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/sao-viet/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\sao-viet\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/sao-viet/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\sao-viet\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/sao-viet/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\sao-viet\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/sao-viet/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\sao-viet\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/sao-viet/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\sao-viet\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/suc-khoe/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\suc-khoe\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/suc-khoe/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\suc-khoe\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/suc-khoe/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\suc-khoe\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/suc-khoe/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\suc-khoe\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/suc-khoe/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\suc-khoe\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/suc-khoe/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\suc-khoe\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/suc-khoe/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\suc-khoe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/category/thoi-trang/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\thoi-trang\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/thoi-trang/?filter_by=featured
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\thoi-trang\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/thoi-trang/?filter_by=popular
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\thoi-trang\index-2.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/thoi-trang/?filter_by=popular7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\thoi-trang\index-3.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/thoi-trang/?filter_by=random_posts
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\thoi-trang\index-5.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/thoi-trang/?filter_by=review_high
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\thoi-trang\index-4.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/category/thoi-trang/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\category\thoi-trang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/chong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\chong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/chong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\chong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/chong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\chong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/comments/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/di-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\di-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/di-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\di-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/di-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\di-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/duoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\duoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/duoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\duoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/duoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\duoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/footer-fast-news/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\footer-fast-news\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/hack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\hack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/hack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\hack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/hack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\hack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/infographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\infographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/infographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\infographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/infographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\infographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/nhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\nhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/nhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\nhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/nhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\nhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/page/2/?s
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\page\2\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/page/3/?s
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\page\3\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu/?replytocom=3
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\pewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong/?replytocom=2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\qua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/sao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\sao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/sao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\sao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/sao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\sao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/search/feed/rss2/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\search\feed\rss2\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/thai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\thai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/thai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\thai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/thai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\thai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/tung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\tung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/tung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\tung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/tung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\tung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/vo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\vo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/vo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\vo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/vo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\vo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat/?replytocom=4
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat\index-1.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/call-now-icon-animate/css.css
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\call-now-icon-animate\css.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-amp/templates/images/icons/newspaper.eot?8
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-amp\templates\images\icons\newspaper.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-amp/templates/images/icons/newspaper.svg?7
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-amp\templates\images\icons\newspaper.svg
+Content Type: image/svg+xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-amp/templates/images/icons/newspaper.ttf?8
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-amp\templates\images\icons\newspaper.ttf
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-amp/templates/images/icons/newspaper.woff?8
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-amp\templates\images\icons\newspaper.woff
+Content Type: font/woff
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-cloud-library/assets/css/tdb_less_front.css?ver=726837bbdee984ffb331a234aadde124
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-cloud-library\assets\css\tdb_less_front.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=726837bbdee984ffb331a234aadde124
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-cloud-library\assets\js\js_files_for_front.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-cloud-library/assets/js/js_posts_autoload.min.js?ver=726837bbdee984ffb331a234aadde124
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-cloud-library\assets\js\js_posts_autoload.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/assets/fonts/td-multipurpose/td-multipurpose.css?ver=618b370f2556e74c489bd6592378277f
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\assets\fonts\td-multipurpose\td-multipurpose.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/assets/fonts/td-multipurpose/td-multipurpose.eot
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\assets\fonts\td-multipurpose\td-multipurpose.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/assets/fonts/td-multipurpose/td-multipurpose.eot?
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\assets\fonts\td-multipurpose\td-multipurpose-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/assets/fonts/td-multipurpose/td-multipurpose.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\assets\fonts\td-multipurpose\td-multipurpose.ttf
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/assets/fonts/td-multipurpose/td-multipurpose.woff
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\assets\fonts\td-multipurpose\td-multipurpose.woff
+Content Type: font/woff
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/td-multi-purpose/images/icons/multipurpose.eot?2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\td-multi-purpose\images\icons\multipurpose.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/td-multi-purpose/images/icons/multipurpose.svg?2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\td-multi-purpose\images\icons\multipurpose.svg
+Content Type: image/svg+xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/td-multi-purpose/images/icons/multipurpose.ttf?2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\td-multi-purpose\images\icons\multipurpose.ttf
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/td-multi-purpose/images/icons/multipurpose.woff?2
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\td-multi-purpose\images\icons\multipurpose.woff
+Content Type: font/woff
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=618b370f2556e74c489bd6592378277f
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-composer\td-multi-purpose\style.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/plugins/td-newsletter/style.css?ver=9.5
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\plugins\td-newsletter\style.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper-child/style.css?ver=9.5c
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper-child\style.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/flags/flags.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\flags\flags.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper-icons.eot?1
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper-icons.svg?1
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper-icons.ttf?1
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper-icons.ttf
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper-icons.woff?1
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper-icons.woff
+Content Type: font/woff
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper.eot?16
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper.svg?16
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper.svg
+Content Type: image/svg+xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper.ttf?16
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper.ttf
+Content Type: application/octet-stream
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/icons/newspaper.woff?16
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\icons\newspaper.woff
+Content Type: font/woff
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/elements.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\elements.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/elements@2x.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\elements@2x.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/broken-clouds-d.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\broken-clouds-d.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/broken-clouds-n.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\broken-clouds-n.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/clear-sky-d.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\clear-sky-d.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/clear-sky-n.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\clear-sky-n.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/few-clouds-d.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\few-clouds-d.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/few-clouds-n.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\few-clouds-n.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/mist.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\mist.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/rain-d.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\rain-d.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/rain-n.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\rain-n.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/scattered-clouds-d.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\scattered-clouds-d.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/scattered-clouds-n.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\scattered-clouds-n.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/shower-rain-d.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\shower-rain-d.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/shower-rain-n.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\shower-rain-n.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/snow-d.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\snow-d.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/snow-n.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\snow-n.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/images/sprite/weather/thunderstorm.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\images\sprite\weather\thunderstorm.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=9.5
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\js\tagdiv_theme.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/themes/Newspaper/style.css?ver=9.5
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\themes\Newspaper\style.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/1-1024x576.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\1-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/11.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\11.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/12-1024x576.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\12-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/14-1.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\14-1.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/15.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\15.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/16.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\16.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/17.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\17.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/18.jpeg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\18.jpeg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/19.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\19.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/20.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\20.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/21.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\21.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/22.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\22.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/23.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\23.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/24.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\24.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/25.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\25.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/26.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\26.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/27.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\27.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/3.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\3.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/4.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\4.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/6.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\6.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/9.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\9.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/icon-mona.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\icon-mona.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/logo-w-300x172.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\logo-w-300x172.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/2019/04/read-book-good-health-1024x538.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\2019\04\read-book-good-health-1024x538.jpg
+Content Type: image/jpeg
+
+Uri: http://mauweb.monamedia.net/evavn/wp-content/uploads/tdn_pic_3.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-content\uploads\tdn_pic_3.png
+Content Type: image/png
+
+Uri: http://mauweb.monamedia.net/evavn/wp-includes/css/dist/block-library/style.min.css?ver=5.1.6
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://mauweb.monamedia.net/evavn/wp-includes/js/comment-reply.min.js?ver=5.1.6
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-includes/js/underscore.min.js?ver=1.8.3
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-includes/js/wp-embed.min.js?ver=5.1.6
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: http://mauweb.monamedia.net/evavn/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2F1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2F1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2F18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2F18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fapple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fapple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fapple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fapple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fbe-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fbe-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fchong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fchong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fco-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fco-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fdi-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fdi-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fduoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fduoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Ffooter-fast-news%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Ffooter-fast-news%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fhack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fhack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Finfographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Finfographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fminh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fminh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fnang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fnang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fnhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fnhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fpewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fpewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fqua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fqua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fsao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fsao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fsao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fsao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fsu-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fsu-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fthai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fthai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Ftung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Ftung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Ftuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Ftuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fvo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fvo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fvua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fvua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fxiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd%2F
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: http://mauweb.monamedia.net/evavn/wp-json/oembed/1.0/embed?url=http:%2F%2Fmauweb.monamedia.net%2Fevavn%2Fxiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd%2F&format=xml
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: http://mauweb.monamedia.net/evavn/xiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\xiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/xiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd/amp/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\xiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd\amp\index.htm
+Content Type: text/html
+
+Uri: http://mauweb.monamedia.net/evavn/xiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd/feed/
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\xiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://mauweb.monamedia.net/evavn/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\evavn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://0.gravatar.com/avatar/?s=80&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\none-4.png
+Content Type: image/jpeg
+
+Uri: https://1.gravatar.com/avatar/75d23af433e0cea4c0e45a56dba18b30?s=96&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\75d23af433e0cea4c0e45a56dba18b30.png
+Content Type: image/jpeg
+
+Uri: https://1.gravatar.com/avatar/?s=80&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\none-3.png
+Content Type: image/jpeg
+
+Uri: https://2.gravatar.com/avatar/56a282550cb77d3a5e15c22c1d16fb24?s=50&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\56a282550cb77d3a5e15c22c1d16fb24-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://2.gravatar.com/avatar/56a282550cb77d3a5e15c22c1d16fb24?s=96&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\56a282550cb77d3a5e15c22c1d16fb24.jpeg
+Content Type: image/jpeg
+
+Uri: https://2.gravatar.com/avatar/?s=80&d=mm&r=g
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\avatar\none.png
+Content Type: image/jpeg
+
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-anim-0.1.js
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\v0\amp-anim-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-01-21/1548057334-588-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-2-1548057213-500-width660height440-1548057335-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-01-21\1548057334-588-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-2-1548057213-500-width660height440-1548057335-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-01-21/1548057334-757-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-1-1548057213-541-width660height440-1548057334-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-01-21\1548057334-757-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-1-1548057213-541-width660height440-1548057334-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-01-21/1548057335-499-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-4-1548057213-416-width660height440-1548057335-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-01-21\1548057335-499-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-4-1548057213-416-width660height440-1548057335-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-01-21/1548057335-578-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-5-1548057213-889-width660height440-1548057335-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-01-21\1548057335-578-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-5-1548057213-889-width660height440-1548057335-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-01-21/1548057335-715-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-3-1548057213-769-width660height440-1548057335-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-01-21\1548057335-715-vua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-3-1548057213-769-width660height440-1548057335-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-17/ke-chuyen-di-de-san-phu-khien-chi-em-tai-mat-vi-khoanh-khac-xau-ho-tren-ban-sinh-1-1552757491-64-width600height450.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-17\ke-chuyen-di-de-san-phu-khien-chi-em-tai-mat-vi-khoanh-khac-xau-ho-tren-ban-sinh-1-1552757491-64-width600height450.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-17/ke-chuyen-di-de-san-phu-khien-chi-em-tai-mat-vi-khoanh-khac-xau-ho-tren-ban-sinh-3-1552757491-552-width600height535.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-17\ke-chuyen-di-de-san-phu-khien-chi-em-tai-mat-vi-khoanh-khac-xau-ho-tren-ban-sinh-3-1552757491-552-width600height535.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-17/ke-chuyen-di-de-san-phu-khien-chi-em-tai-mat-vi-khoanh-khac-xau-ho-tren-ban-sinh-4-1552757491-752-width600height594.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-17\ke-chuyen-di-de-san-phu-khien-chi-em-tai-mat-vi-khoanh-khac-xau-ho-tren-ban-sinh-4-1552757491-752-width600height594.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-25/sao-viet-24h-ly-hai-1553465853-953-width660height869.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-25\sao-viet-24h-ly-hai-1553465853-953-width660height869.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-25/sao-viet-24h-ly-hai1-1553465853-465-width660height803.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-25\sao-viet-24h-ly-hai1-1553465853-465-width660height803.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-25/sao-viet-24h-ly-hai2-1553465853-875-width660height880.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-25\sao-viet-24h-ly-hai2-1553465853-875-width660height880.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-25/sao-viet-24h-ly-hai3-1553465853-122-width660height880.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-25\sao-viet-24h-ly-hai3-1553465853-122-width660height880.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-27/be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua-me-vung-tau-sinh-be-gai-4-vong-day-ron-quan-co-vua-1553668419-463-width600height381.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-27\be-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua-me-vung-tau-sinh-be-gai-4-vong-day-ron-quan-co-vua-1553668419-463-width600height381.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/1-2019/images/2019-03-27/me-vung-tau-sinh-be-gai-4-vong-day-ron-quan-co-vua-chao-doi-da-duoc-khen-giau-qua-anh2-1553658400-272-width600height453.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\1-2019\images\2019-03-27\me-vung-tau-sinh-be-gai-4-vong-day-ron-quan-co-vua-chao-doi-da-duoc-khen-giau-qua-anh2-1553658400-272-width600height453.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-04/sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh-45769598-524129424734750-4038302145721008896-n-301-1554342554-657-width1080height607.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-04\sao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh-45769598-524129424734750-4038302145721008896-n-301-1554342554-657-width1080height607.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-04/sao-viet-24h-cuong-dola-khoe-tai-san-lon-nhat-cua-doi-minh-subeo-1554335131-961-width660height395.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-04\sao-viet-24h-cuong-dola-khoe-tai-san-lon-nhat-cua-doi-minh-subeo-1554335131-961-width660height395.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-04/sao-viet-24h-cuong-dola-khoe-tai-san-lon-nhat-cua-doi-minh-subeo1-1554335131-737-width660height989.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-04\sao-viet-24h-cuong-dola-khoe-tai-san-lon-nhat-cua-doi-minh-subeo1-1554335131-737-width660height989.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-1-1554629860-442-width640height497.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-1-1554629860-442-width640height497.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-10-1554630507-501-width640height939.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-10-1554630507-501-width640height939.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-11-1554624841-67-width640height479.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-11-1554624841-67-width640height479.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-12-1554630643-367-width640height648.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-12-1554630643-367-width640height648.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-13-1554630945-773-width640height640.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-13-1554630945-773-width640height640.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-3-1554629901-418-width640height861.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-3-1554629901-418-width640height861.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-4-1554630248-109-width640height320.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-4-1554630248-109-width640height320.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-5-1554630274-100-width640height640.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-5-1554630274-100-width640height640.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-6-1554630341-416-width640height502.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-6-1554630341-416-width640height502.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-7-1554630386-327-width640height640.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-7-1554630386-327-width640height640.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-8-1554630866-766-width640height640.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-8-1554630866-766-width640height640.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-07/duc-phuc-9-1554630809-338-width640height853.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-07\duc-phuc-9-1554630809-338-width640height853.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-1-1554742132-881-width650height433.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-1-1554742132-881-width650height433.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-2-1554742132-443-width550height771.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-2-1554742132-443-width550height771.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-3-1554742132-597-width650height667.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-3-1554742132-597-width650height667.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-4-1554742132-388-width650height649.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-4-1554742132-388-width650height649.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-5-1554742132-253-width550height825.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-5-1554742132-253-width550height825.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-6-1554742132-589-width650height439.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-6-1554742132-589-width650height439.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-7-1554742132-665-width650height464.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-7-1554742132-665-width650height464.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-8-1554742132-758-width550height817.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\1001-kieu-khong-chuyen-nghiep-cua-sao-viet-tren-phim-truong-danh-nhau-bung-vai-phut-chot-8-1554742132-758-width550height817.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-1-1554694287-974-width640height430.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-1-1554694287-974-width640height430.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-11-1554696284-19-width640height709.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-11-1554696284-19-width640height709.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-12-1554694185-157-width640height640.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-12-1554694185-157-width640height640.png
+Content Type: image/png
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-12-1554696321-623-width640height731.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-12-1554696321-623-width640height731.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-3-1554696344-262-width640height799.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-3-1554696344-262-width640height799.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-4-1554694317-721-width640height536.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-4-1554694317-721-width640height536.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-5-1554694402-78-width640height640.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-5-1554694402-78-width640height640.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-6-1554694356-960-width640height640.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-6-1554694356-960-width640height640.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-08/linh-chi-9-1554696376-218-width640height641.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-08\linh-chi-9-1554696376-218-width640height641.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-09/su-that-36200288_1845336665534259_1935575205770428416_o-1554799580-431-width660height495.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-09\su-that-36200288_1845336665534259_1935575205770428416_o-1554799580-431-width660height495.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-09/su-that-lan--1--1554799697-193-width787height510.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-09\su-that-lan--1--1554799697-193-width787height510.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-09/su-that-lan--2--1554798694-499-width671height496.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-09\su-that-lan--2--1554798694-499-width671height496.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-09/su-that-ngoclanchong-ngoc-lan-tro-tai-nau-an-khoe-vuon-rau-1554798825-613-width660height1056.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-09\su-that-ngoclanchong-ngoc-lan-tro-tai-nau-an-khoe-vuon-rau-1554798825-613-width660height1056.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-09/su-that-ngoclanchong-ngoc-lan-tro-tai-nau-an-khoe-vuon-rau-1554798927-436-width660height660.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-09\su-that-ngoclanchong-ngoc-lan-tro-tai-nau-an-khoe-vuon-rau-1554798927-436-width660height660.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-09/su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-nhieu-tat-xau-chong-lai-dam-nhu-co-tam-ngoclanthanhbinh-15-1554798609-671-width660height1005.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-09\su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-nhieu-tat-xau-chong-lai-dam-nhu-co-tam-ngoclanthanhbinh-15-1554798609-671-width660height1005.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-09/su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-va-bua-bon-chong-lai-dam-nhu-co-tam-ngoc-lan-nau-an--1554801050-662-width660height991.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-09\su-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-va-bua-bon-chong-lai-dam-nhu-co-tam-ngoc-lan-nau-an--1554801050-662-width660height991.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi-x-1554868220-239-width660height442.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi-x-1554868220-239-width660height442.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--10--1554860996-46-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--10--1554860996-46-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--11--1554860996-840-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--11--1554860996-840-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--12--1554861777-796-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--12--1554861777-796-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--4--1554860996-27-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--4--1554860996-27-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--7--1554860996-270-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--7--1554860996-270-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--8--1554861212-984-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--8--1554861212-984-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--9--1554861307-507-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-1--9--1554861307-507-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-lan-ngoc-1554865623-717-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-lan-ngoc-1554865623-717-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-p-1554860974-619-width640height360.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\minh-hang-va-nam-thu-duoc-doi-man-cong-chua-khieng-kieu-den-running-man-viet-nam-p-1554860974-619-width640height360.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113898-490-1-1554113897-width600height450-1554886548-28-width600height450.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113898-490-1-1554113897-width600height450-1554886548-28-width600height450.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113899-90-4-1554113898-width600height398-1554886548-513-width600height398.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113899-90-4-1554113898-width600height398-1554886548-513-width600height398.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113899-93-2-1554113897-width600height600-1554886548-457-width600height600.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113899-93-2-1554113897-width600height600-1554886548-457-width600height600.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-10/tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113900-342-6-1554113898-width600height359-1554886548-237-width600height359.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-10\tuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-8-cau-do-nay-ban-co-dam-thu-1554113900-342-6-1554113898-width600height359-1554886548-237-width600height359.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/1554997734-718-d7e071f89ad84006b322cd04ed89fab8-1554997734-width300height180.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\1554997734-718-d7e071f89ad84006b322cd04ed89fab8-1554997734-width300height180.png
+Content Type: image/png
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/bung-den-si-nhan-nhum-sau-sinh-vo-khong-ngo-chong-len-mang-noi-the-nay-1-1554951244-423-width600height540.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\bung-den-si-nhan-nhum-sau-sinh-vo-khong-ngo-chong-len-mang-noi-the-nay-1-1554951244-423-width600height540.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/bung-den-si-nhan-nhum-sau-sinh-vo-khong-ngo-chong-len-mang-noi-the-nay-2-1554951244-949-width600height499.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\bung-den-si-nhan-nhum-sau-sinh-vo-khong-ngo-chong-len-mang-noi-the-nay-2-1554951244-949-width600height499.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/bung-den-si-nhan-nhum-sau-sinh-vo-khong-ngo-chong-len-mang-noi-the-nay-3-1554951244-661-width600height605.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\bung-den-si-nhan-nhum-sau-sinh-vo-khong-ngo-chong-len-mang-noi-the-nay-3-1554951244-661-width600height605.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-56347772_2083320235108948_1532864791331209216_n-1554979720-281-width721height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-56347772_2083320235108948_1532864791331209216_n-1554979720-281-width721height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-56685648_2087418934699078_2565802093851967488_n-1554979573-179-width720height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-56685648_2087418934699078_2565802093851967488_n-1554979573-179-width720height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-me-9x-sieu-am-duoc-bac-si-thong-bao-mang-5-thai-vu-1554979397-799-width600height655.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-me-9x-sieu-am-duoc-bac-si-thong-bao-mang-5-thai-vu-1554979397-799-width600height655.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-zalo_screenshot_11_4_2019_105900-1554979586-84-width518height686.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\me-quang-ninh-mang-thai-5-khoc-tu-benh-vien-ve-nha-khi-bac-si-doc-ket-qua-sieu-am-zalo_screenshot_11_4_2019_105900-1554979586-84-width518height686.png
+Content Type: image/png
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-51177912_177982689842699_5124714965671870464_n-1554963123-187-width640height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-51177912_177982689842699_5124714965671870464_n-1554963123-187-width640height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-51823919_180979546209680_1175819783443054592_n-1554963123-528-width960height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-51823919_180979546209680_1175819783443054592_n-1554963123-528-width960height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-52038521_180979532876348_18213775186329600_n-1554963123-855-width960height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-52038521_180979532876348_18213775186329600_n-1554963123-855-width960height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-53248397_188362805471354_8397652037189238784_n-1554963123-253-width720height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-53248397_188362805471354_8397652037189238784_n-1554963123-253-width720height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-53934113_190648851909416_3933030208692551680_n-1554963123-264-width720height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-53934113_190648851909416_3933030208692551680_n-1554963123-264-width720height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-54432618_193249524982682_8097191526913802240_n-1554963123-96-width720height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-54432618_193249524982682_8097191526913802240_n-1554963123-96-width720height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-56832504_196525821321719_969363200900333568_n-1554963123-654-width640height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-56832504_196525821321719_969363200900333568_n-1554963123-654-width640height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/2-2019/images/2019-04-11/nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-57023970_197700774537557_9044456678694584320_n-1554963123-864-width639height960.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\2-2019\images\2019-04-11\nang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-no-co-the-ha-guc-dan-ong-57023970_197700774537557_9044456678694584320_n-1554963123-864-width639height960.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-11-28/midu-dan-ong-chi-nhu-mot-nhanh-cay-ma-thoi-midu-1543402917-12-width660height1034.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-11-28\midu-dan-ong-chi-nhu-mot-nhanh-cay-ma-thoi-midu-1543402917-12-width660height1034.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-11-28/midu-dan-ong-chi-nhu-mot-nhanh-cay-ma-thoi-midu1-1543402917-506-width660height525.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-11-28\midu-dan-ong-chi-nhu-mot-nhanh-cay-ma-thoi-midu1-1543402917-506-width660height525.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-17/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-1-1545029280-892-width600height1011.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-17\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-1-1545029280-892-width600height1011.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-17/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-2-1545029280-672-width600height1334.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-17\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-2-1545029280-672-width600height1334.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-17/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-3-1545029280-265-width600height800.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-17\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-3-1545029280-265-width600height800.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-17/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-4-1545029280-125-width600height899.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-17\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-4-1545029280-125-width600height899.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-17/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-6-1545029280-932-width600height1123.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-17\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-6-1545029280-932-width600height1123.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-17/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-7-1545029280-627-width600height1068.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-17\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-7-1545029280-627-width600height1068.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-17/co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-8-1545029280-566-width600height1073.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-17\co-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup-8-1545029280-566-width600height1073.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-21/vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-1-1545379834-344-width660height990.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-21\vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-1-1545379834-344-width660height990.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-21/vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-13-1545379834-553-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-21\vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-13-1545379834-553-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-21/vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-5-1545379834-198-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-21\vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-5-1545379834-198-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-21/vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-6-1545379834-436-width660height481.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-21\vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-6-1545379834-436-width660height481.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-21/vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-7-1545379834-455-width660height440.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-21\vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-7-1545379834-455-width660height440.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-21/vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-8-1545379834-885-width660height990.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-21\vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-8-1545379834-885-width660height990.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.eva.vn/upload/4-2018/images/2018-12-21/vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-h-1545389434-403-width660height439.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\upload\4-2018\images\2018-12-21\vo-chong-van-anh---tu-vi-tinh-tu-tai-dai-tiec-s2b-convention-h-1545389434-403-width660height439.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400|Open+Sans:300italic%2C400%2C400italic%2C600%2C600italic%2C700|Roboto:300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&ver=9.5
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400|Roboto:300%2C400%2C400italic%2C500%2C500italic%2C700%2C900|Open+Sans:300italic%2C400%2C400italic%2C600%2C600italic%2C700&ver=9.5
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/merriweather/v28/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\merriweather\v28\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v28/u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\merriweather\v28\u-4l0qyriQwlOrhSvowK_l5-eR71Wvf4jvk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v28/u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\merriweather\v28\u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v28/u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\merriweather\v28\u-4n0qyriQwlOrhSvowK_l52xwNZWMf_.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\roboto\v29\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://img.youtube.com/vi/0K-0vkFfUmY/default.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\vi\0K-0vkFfUmY\default.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/1ZgoluYjuZM/default.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\vi\1ZgoluYjuZM\default.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/7txU8f9Dl5c/default.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\vi\7txU8f9Dl5c\default.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/HjAxjN_8EWU/default.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\vi\HjAxjN_8EWU\default.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/NRuE38Bl5Mo/default.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\vi\NRuE38Bl5Mo\default.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/R8leL1-SOcg/default.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\vi\R8leL1-SOcg\default.jpg
+Content Type: image/jpeg
+
+Uri: https://img.youtube.com/vi/S07VinbxN3g/default.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\vi\S07VinbxN3g\default.jpg
+Content Type: image/jpeg
+
+Uri: https://kenh14cdn.com/2019/4/10/12-1554870269036844297535.png
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\2019\4\10\12-1554870269036844297535.png
+Content Type: image/png
+
+Uri: https://kenh14cdn.com/2019/4/10/maxresdefault-1554870417726915983798.jpg
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\2019\4\10\maxresdefault-1554870417726915983798.jpg
+Content Type: image/jpeg
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252F1001-tai-tieng-de-doi-cua-sao-viet-tren-phim-truong-het-bung-vai-den-thang-tay-danh-phu-nu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252F18-tuyet-tac-doi-xung-dep-den-na-tho-lam-hai-long-ca-nhung-nguoi-xem-kho-tinh-nhat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-24.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fapple-co-the-phat-hanh-den-5-chiec-iphone-trong-nam-nay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fapple-se-chuyen-sang-su-dung-man-hinh-mini-led-hoan-toan-moi-tren-ipad-va-mac-khong-chon-oled-vi-lo-ngai-burn-in%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fbe-gai-vung-tau-vua-chao-doi-da-duoc-cac-bac-si-khen-giau-co-qua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fchong-dang-anh-vo-bien-hinh-sau-sinh-khien-dan-mang-choang-vang-khong-ngo-vao-facebook-thi-the-nay%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fco-gai-xinh-dep-gay-xon-xao-khi-chup-cung-dang-van-lam-ngay-sau-chung-ket-aff-cup%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fdi-de-me-tre-khien-bac-si-tai-mat-vi-khoanh-khac-ho-henh-xau-ho-tren-ban-sinh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fduoc-thuong-gan-1-ty-usd-ceo-xiaomi-quyen-gop-luon-tat-ca-cho-hoat-dong-tu-thien%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fhack-mien-phi-11-banh-mcdonalds-thanh-nien-lai-gan-2-trieu-view-du-chi-500-nguoi-sub-kenh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-20.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Finfographic-50-nguoi-giau-nhat-song-o-dau-tren-the-gioi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-23.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fminh-hang-va-nam-thu-doi-man-cong-chua-khieng-kieu-den-running-man-lam-gi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-21.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fnang-hoa-hau-de-kieu-toc-suot-12-nam-vi-cho-rang-co-the-ha-guc-dan-ong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fnhin-vong-2-nho-xiu-cua-ba-xa-lam-vinh-hai-moi-thay-56cm-cua-ngoc-trinh-xua-qua-roi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fpewpew-canh-tinh-hoi-muon-bo-hoc-de-lam-streamer-lam-viec-12-tieng-ngay-am-anh-hon-ca-thi-hoc-ky-ngu-chi-lo-bi-dot-tu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fqua-2-lan-dap-di-xay-lai-duc-phuc-van-de-lo-nhung-khoanh-khac-kem-sac-tram-trong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fsao-viet-24h-cuong-do-la-khoe-tai-san-lon-nhat-cua-doi-minh%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-22.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fsao-viet-24h-vo-ly-hai-sinh-nhat-ben-4-con-nhung-chi-tiet-tren-chiec-banh-gay-ngo-ngang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fsu-that-nguoc-doi-nha-kieu-nu-ngoc-lan-vo-vung-bua-bon-chong-lai-dam-nhu-co-tam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fthai-5-ky-tich-ca-viet-nam-moi-co-1-me-quang-ninh-lai-khoc-nac-nghe-bac-si-bao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-19.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Ftung-huy-hon-gio-im-thin-thit-duong-tinh-midu-chi-coi-dan-ong-nhu-mot-nhanh-cay-ma-thoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Ftuong-ngon-an-nhung-ca-trieu-nguoi-tra-loi-sai-4-cau-do-nay-ban-co-dam-thu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fvo-chong-van-anh-tu-vi-tinh-tu-tai-dai-tiec-s2b-convention%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fvua-tuyen-bo-khong-an-tet-huynh-lap-ngay-lap-tuc-bi-bat-gap-an-sap-mat%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252Fmauweb.monamedia.net%252Fevavn%252Fxiaomi-cong-bo-khoa-xe-dap-thong-minh-areox-ho-tro-van-tay-gia-29-usd%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\mauweb.monamedia.net\login-17.php
+Content Type: application/xhtml+xml
+

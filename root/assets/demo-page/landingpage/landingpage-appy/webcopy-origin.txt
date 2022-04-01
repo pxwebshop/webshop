@@ -1,0 +1,256 @@
+Uri: https://appy.netlify.app/assets/img/contact-bg.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\contact-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://appy.netlify.app/assets/img/download-bg.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\download-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://appy.netlify.app/assets/img/favicon.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://appy.netlify.app/assets/img/features-bg.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\features-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://appy.netlify.app/assets/img/slide-bg.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\slide-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://appy.netlify.app/assets/img/statistics-bg.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\statistics-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://appy.netlify.app/assets/img/testimonial-bg.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\testimonial-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://appy.netlify.app/assets/img/video-bg.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://appy.netlify.app/index-1
+File Name: D:\cyotek-webcopy\appy.netlify.app\index-1.html
+Content Type: text/html
+
+Uri: https://d33wubrfki0l68.cloudfront.net/04b9aea72e3a413f1820f2f118faef5f8758c937/bb96b/assets/img/color-4.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\04b9aea72e3a413f1820f2f118faef5f8758c937\bb96b\assets\img\color-4.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/117cc79cd0b3b0342b990d60e138871449341d3b/6ae08/assets/img/icon-4.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\117cc79cd0b3b0342b990d60e138871449341d3b\6ae08\assets\img\icon-4.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/15f8b754e86dd6ba9b09e0ee98d0651a3c64ef91/9cb9b/assets/img/logo.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\15f8b754e86dd6ba9b09e0ee98d0651a3c64ef91\9cb9b\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/17acc8c9820ffd66a36fc1ebc1c14ce8e3f970ff/1ceb2/assets/img/icon-5.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\17acc8c9820ffd66a36fc1ebc1c14ce8e3f970ff\1ceb2\assets\img\icon-5.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/234e134c8c6f90e938656bd724d7d7e4a4fde01f/cf22d/assets/img/news-1.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\234e134c8c6f90e938656bd724d7d7e4a4fde01f\cf22d\assets\img\news-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/245c502614b1c59ef9435bb9de9d43bf4df9eaae/a31f1/assets/img/color-5.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\245c502614b1c59ef9435bb9de9d43bf4df9eaae\a31f1\assets\img\color-5.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/24abec56495c669fb0eed6e1de40163242c94919/ffcd2/assets/img/appyscreen-1.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\24abec56495c669fb0eed6e1de40163242c94919\ffcd2\assets\img\appyscreen-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/2726fb444775ce7de5ba621b69b0de318ac58d20/d0613/assets/img/icon-12.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\2726fb444775ce7de5ba621b69b0de318ac58d20\d0613\assets\img\icon-12.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/31aceeebdb14fb5e8b7af60ef487a442ced7b2b1/59eb3/assets/img/icon-7.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\31aceeebdb14fb5e8b7af60ef487a442ced7b2b1\59eb3\assets\img\icon-7.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/34df5698341609bfa5cdbb552f4a05af53adad73/65a2b/assets/img/client.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\34df5698341609bfa5cdbb552f4a05af53adad73\65a2b\assets\img\client.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/34e25b7132813ed2fcf8de86f07c7d7f346ad21e/a199c/assets/img/team-1.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\34e25b7132813ed2fcf8de86f07c7d7f346ad21e\a199c\assets\img\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/3c4b5b6a2aeafbd3659174ed1f33877be676976f/ef040/assets/img/icon-1.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\3c4b5b6a2aeafbd3659174ed1f33877be676976f\ef040\assets\img\icon-1.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/3ca2ed76ab4ec297c49d6ac2a9fb73de2839bef0/ac147/assets/img/color-3.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\3ca2ed76ab4ec297c49d6ac2a9fb73de2839bef0\ac147\assets\img\color-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/3ecbf316d55c945b1decf7cf400814d4c04de2ab/9aeaa/assets/img/news-2.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\3ecbf316d55c945b1decf7cf400814d4c04de2ab\9aeaa\assets\img\news-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/427c0822e7d18356cba7dbfac16a133a4f574fe9/d1977/assets/img/team-3.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\427c0822e7d18356cba7dbfac16a133a4f574fe9\d1977\assets\img\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/45ecad2f8e45a532513a4d4aac834e34d36a748e/d5aba/assets/img/icon-13.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\45ecad2f8e45a532513a4d4aac834e34d36a748e\d5aba\assets\img\icon-13.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/4b394474c92e677e6012398b68659ed93075af4b/9837c/assets/img/icon-3.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\4b394474c92e677e6012398b68659ed93075af4b\9837c\assets\img\icon-3.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/53e00d2f44b24c0dccfe915d2ed082a4e5b2823d/9e76d/assets/img/team-2.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\53e00d2f44b24c0dccfe915d2ed082a4e5b2823d\9e76d\assets\img\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/63c3ac7c7cedac2074515781ca6aaf8dab60df56/468cd/assets/img/icon-10.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\63c3ac7c7cedac2074515781ca6aaf8dab60df56\468cd\assets\img\icon-10.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/6b99eecce634b0ee0dbca66450722648e48ad78d/da3e4/assets/img/one-feature-2.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\6b99eecce634b0ee0dbca66450722648e48ad78d\da3e4\assets\img\one-feature-2.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/7f0aa209172cf778b88b7ed0f6f5a1103224efe2/8e2b0/assets/img/color-2.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\7f0aa209172cf778b88b7ed0f6f5a1103224efe2\8e2b0\assets\img\color-2.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/8786c99a21b5e699a69adf7a6a51d09a8ff5a8bc/f8323/assets/img/icon-14.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\8786c99a21b5e699a69adf7a6a51d09a8ff5a8bc\f8323\assets\img\icon-14.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/9b016fe7856d3975712354bb5f15da55f8b844b1/9cd1a/assets/img/icon-2.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\9b016fe7856d3975712354bb5f15da55f8b844b1\9cd1a\assets\img\icon-2.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/9bf46145f0087b57374ca28ec1af3caa38f3296c/1d9a0/assets/img/slide-mobile-2.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\9bf46145f0087b57374ca28ec1af3caa38f3296c\1d9a0\assets\img\slide-mobile-2.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/a05578b9ab2842ee97aad02abda67222fa9c114c/5f5f8/assets/img/icon-6.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\a05578b9ab2842ee97aad02abda67222fa9c114c\5f5f8\assets\img\icon-6.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/a474c8c17261c9cf0b809adf43c3117e2723fd20/7d680/assets/img/icon-8.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\a474c8c17261c9cf0b809adf43c3117e2723fd20\7d680\assets\img\icon-8.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/assets/img/c0b2044da15620654cf2fabe30473baf65165322/screenshots-bg-3.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\assets\img\c0b2044da15620654cf2fabe30473baf65165322\screenshots-bg-3.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/beb572f03feb151b759171977982579496a3053d/afd7d/assets/img/icon-11.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\beb572f03feb151b759171977982579496a3053d\afd7d\assets\img\icon-11.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/bundles/408e74523dbdb83c53cc14827b48b4604cbceeaa.js
+File Name: D:\cyotek-webcopy\appy.netlify.app\bundles\408e74523dbdb83c53cc14827b48b4604cbceeaa.js
+Content Type: application/javascript
+
+Uri: https://d33wubrfki0l68.cloudfront.net/bundles/b68f365190f91989cb08192e897572fdc1e70dd3.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\bundles\b68f365190f91989cb08192e897572fdc1e70dd3.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/c8877d0f885f5c188543024466b1d9416d35e853/4186d/assets/img/features-mobile.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\c8877d0f885f5c188543024466b1d9416d35e853\4186d\assets\img\features-mobile.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/css/39cf22992bf553594c43bf2887700a2983035e3b/assets/css/main.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\css\39cf22992bf553594c43bf2887700a2983035e3b\assets\css\main.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/css/5b433b3b553dd1a89833d4d229586db786370a02/assets/css/color-1.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\css\5b433b3b553dd1a89833d4d229586db786370a02\assets\css\color-1.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/css/7e872c843d06033f2d6d4619d4c7a0d5792ab9be/css/animate.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\css\7e872c843d06033f2d6d4619d4c7a0d5792ab9be\css\animate.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/css/92037843850e20f2f77594a25497e67edce53555/stylesheets/vendors/bootstrap.min.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\css\92037843850e20f2f77594a25497e67edce53555\stylesheets\vendors\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/css/d199a1451328abd5155bd0fda050d9e3cba23602/assets/css/lity.min.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\css\d199a1451328abd5155bd0fda050d9e3cba23602\assets\css\lity.min.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/css/d2d718fb90454b0fbc19870b4bd8848e9ba2a4a8/ref-1/index_files/font-awesome.min.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\css\d2d718fb90454b0fbc19870b4bd8848e9ba2a4a8\ref-1\index_files\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/css/dc0ddfd87505c42c3245af069c22d636c7e704bb/assets/css/aos.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\css\dc0ddfd87505c42c3245af069c22d636c7e704bb\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/de71b8040eb56c465f44d8311085ae9488039fda/4adf5/assets/img/icon-9.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\de71b8040eb56c465f44d8311085ae9488039fda\4adf5\assets\img\icon-9.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/e3e21b7f82f291d3d63eba76a4b4fe36a49db5f8/e6439/assets/img/one-feature.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\e3e21b7f82f291d3d63eba76a4b4fe36a49db5f8\e6439\assets\img\one-feature.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/e595f429087f7c292d65731afae4aad2dee65177/1b1e5/assets/img/color-1.jpg
+File Name: D:\cyotek-webcopy\appy.netlify.app\e595f429087f7c292d65731afae4aad2dee65177\1b1e5\assets\img\color-1.jpg
+Content Type: image/jpeg
+
+Uri: https://d33wubrfki0l68.cloudfront.net/fa44a781b85c4e9bcc2ee518131c36be0a321ccc/31dfa/assets/img/phone-vertical.png
+File Name: D:\cyotek-webcopy\appy.netlify.app\fa44a781b85c4e9bcc2ee518131c36be0a321ccc\31dfa\assets\img\phone-vertical.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/js/190620fe05c0a6f4084d6dd6f15e3c6400969502/js/bootstrap.min.js
+File Name: D:\cyotek-webcopy\appy.netlify.app\js\190620fe05c0a6f4084d6dd6f15e3c6400969502\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://d33wubrfki0l68.cloudfront.net/js/1fb06e903e758278c0f8afeb52f021bb3bdf2f3d/js/jquery.min.js
+File Name: D:\cyotek-webcopy\appy.netlify.app\js\1fb06e903e758278c0f8afeb52f021bb3bdf2f3d\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://d33wubrfki0l68.cloudfront.net/js/26f60402be5ad1f92139234731482258c096115f/assets/js/main.js
+File Name: D:\cyotek-webcopy\appy.netlify.app\js\26f60402be5ad1f92139234731482258c096115f\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://d33wubrfki0l68.cloudfront.net/js/8f1d5c4b0b00f05ea03f7fbaeec1d5680f6d3974/static/owl.carousel.min.b7b9c97cd6.js
+File Name: D:\cyotek-webcopy\appy.netlify.app\js\8f1d5c4b0b00f05ea03f7fbaeec1d5680f6d3974\static\owl.carousel.min.b7b9c97cd6.js
+Content Type: application/javascript
+
+Uri: https://d33wubrfki0l68.cloudfront.net/js/e6efcbfffdd4957f899f58e0d19a48d53db8d2d2/assets/js/lity.min.js
+File Name: D:\cyotek-webcopy\appy.netlify.app\js\e6efcbfffdd4957f899f58e0d19a48d53db8d2d2\assets\js\lity.min.js
+Content Type: application/javascript
+
+Uri: https://d33wubrfki0l68.cloudfront.net/js/f9cab714b4483e38ed1617c870fbfc0e66d728a4/assets/js/aos.js
+File Name: D:\cyotek-webcopy\appy.netlify.app\js\f9cab714b4483e38ed1617c870fbfc0e66d728a4\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: D:\cyotek-webcopy\appy.netlify.app\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: D:\cyotek-webcopy\appy.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\cyotek-webcopy\appy.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\cyotek-webcopy\appy.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\cyotek-webcopy\appy.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\cyotek-webcopy\appy.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\cyotek-webcopy\appy.netlify.app\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
