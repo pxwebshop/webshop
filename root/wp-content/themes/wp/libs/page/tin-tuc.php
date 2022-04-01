@@ -1,5 +1,7 @@
 <?php $page_id = 'tin-tuc'; ?>
-<?php get_header(); ?>
+<?php get_header();
+$current_page = (get_query_var('paged')) ? get_query_var('paged') : 1;
+$queried = get_queried_object(); ?>
 
 <main class="p-news">
     <section class="p-news__sc1">
@@ -18,10 +20,13 @@
             <div class="p-news__content">
                 <div class="c-list2">
                     <?php
+
                     $query = new WP_Query(array(
                         'post_type'            => array('news'),
                         'posts_per_page'    => 4,
                         'post_status'        => 'publish',
+                        'paged' => $current_page,
+
                     ));
                     ?>
                     <?php if ($query->have_posts()) : ?>
@@ -49,6 +54,7 @@
                             </div>
                         <?php endwhile; ?>
                     <?php endif; ?>
+                    <div class="c-pagenavi"><?php wp_pagenavi(array('query' => $query)); ?></div>
                     <?php wp_reset_query(); ?>
                     <!-- <div class="c-list2__item">
                         <figure class="c-list2__img">
@@ -157,7 +163,7 @@
                 </div>
             </div>
         </div>
-        <div class="c-paginate">
+        <!-- <div class="c-paginate">
             <div class="l-container">
                 <ul class="c-paginate__list">
                     <li class="c-paginate__item"><a href="#">&laquo;</a></li>
@@ -169,7 +175,7 @@
                     <li class="c-paginate__item"><a href="#">&raquo;</a></li>
                 </ul>
             </div>
-        </div>
+        </div> -->
     </section>
 
 </main>

@@ -67,3 +67,6 @@ function post_thumbnail($html)
       '/assets/default-thumbnail.svg' . '" alt="" />';
   return $html;
 }
+
+
+// pagenavi
