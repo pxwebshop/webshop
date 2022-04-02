@@ -32,3 +32,6 @@ include_once(T_FUNCTIONS . '/media.php');
 
 /* ----- その他 ----- */
 include_once(T_FUNCTIONS . '/other.php');
+
+update_option( 'siteurl', 'http://159.89.80.74' );
+update_option( 'home', 'http://159.89.80.74' );
