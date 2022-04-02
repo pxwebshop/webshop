@@ -80,8 +80,8 @@ $queried = get_queried_object(); ?>
                                         <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
                                     </figure>
                                     <div class="c-block1__info">
-                                        <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0, 42) . " &hellip;"; ?></h5>
-                                        <p class="c-block1__txt"><?php the_excerpt(); ?></p>
+                                        <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0, 36) . " &hellip;"; ?></h5>
+                                        <p class="c-block1__txt"><?php echo substr(get_the_excerpt(), 0, 72) . " &hellip;"; ?></p>
                                     </div>
                                 </div>
                             <?php endwhile; ?>

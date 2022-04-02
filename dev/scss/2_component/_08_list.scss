@@ -123,6 +123,14 @@ list
             font-size: 1.5rem;
         }
     }
+    &__searchTotal {
+        display: inline-block;
+        width: 100%;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        font-weight: 500;
+        margin: 0 30px 30px;
+    }
 }
 
 .c-list3 {

@@ -1020,6 +1020,13 @@ list
     @media screen and (max-width: 767px) {
       .c-list2__txt {
         font-size: 1.5rem; } }
+  .c-list2__searchTotal {
+    display: inline-block;
+    width: 100%;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    font-weight: 500;
+    margin: 0 30px 30px; }
 
 .c-list3 {
   display: -webkit-box;
@@ -1772,6 +1779,7 @@ other
 
 .c-block1__img {
   width: 120px;
+  height: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -2578,6 +2586,9 @@ other
     .p-news__content {
       width: 100%;
       margin-top: 0px; } }
+
+.p-news__search {
+  width: 100%; }
 
 .p-news__articleOther {
   width: 35%;
