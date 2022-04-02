@@ -67,6 +67,9 @@ list
        &:hover {
             transform: translateY(-5px);
        }
+       &--search {
+           width: 33.33%;
+       }
     }
     &__link {
         display: flex;        
