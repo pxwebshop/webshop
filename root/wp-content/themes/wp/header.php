@@ -132,7 +132,7 @@
 						<a class="c-header__link" href="/">Trang chủ</a>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/kho-giao-dien">Kho giao diện</a>
+						<a class="c-header__link" href="/index.php/kho-giao-dien">Kho giao diện</a>
 					</li>
 					<li class="c-header__item c-header__item__services">
 						<span>Dịch vụ <i class="fa-solid fa-caret-down"></i></span>
