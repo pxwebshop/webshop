@@ -605,203 +605,201 @@ other
 		width: 100%;
 		height: 300px;
 	}
-    &__article {
-        // position: relative;
-        padding: 30px;
-        display: flex;
-        @include sp {
-            flex-wrap: wrap;
-            padding: 0;
-        }
-    }
-    &__share {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        text-align: center;
-        width: 100px;
-        box-shadow: 0 0 5px $colorLightGrey;
-        border-radius: 5px;
-        padding: 10px;
-        height: 100%;
-        
-        // position: absolute;
-        // top: 30px;
-        // left: -100px;
-        span {
-            i {
-                font-size: 3.2rem;
-            }
-            font-size: 1.8rem;
-            line-height: 2;
-            @include sp {
-                display: none;
-            }
-        }
-        ul {
-            @include sp {
-                display: inline;
-            }
-        }
-        li{
-            border: 1px solid $colorLightGrey;
-            border-radius: 5px;
-            padding: 5px;
-            margin: 5px 0;
-            cursor: pointer;
-            &:hover {
-                background-color: $colorLightGrey;
-            }
-            @include sp {
-                display: inline;
-                margin-right: 5px;
-                font-size: 1.3rem;
-            }
-        }
-        @include sp {
-            width: 100%;
-            font-size: 1.6rem;
-            box-shadow: none;
-            text-align: left;
-        }  
-    }
-    &__content {
-        padding-left: 30px;
-        @include sp {
-            padding: 0;
-        }
-    }
-    // title detail
-    &__title1 {
-        font-size: 4.8rem;
-        font-weight: 700;
-        line-height: 1.5;
-        @include sp {
-            font-size: 2.8rem;
-        }
-    }
-    &__title2 {
-        font-size: 3.6rem;
-        font-weight: 700;
-        line-height: 1.5;
-        margin: 16px 0;
-        @include sp {
-            font-size: 2.4rem;
-        }
-    }
-    &__title3 {
-        font-size: 2.4rem;
-        font-weight: 700;
-        line-height: 1.5;
-        margin: 16px 0;
-        @include sp {
-            font-size: 1.8rem;
-        }
-    }
-    &__title4 {
-        font-size: 1.8rem;
-        line-height: 1.5;
-        font-weight: 600;
-        color: $colorBlack;
-        margin-bottom: 16px;
-        @include sp {
-            font-size: 1.6rem;
-        }
-    }
-    // end: title detail
-    &__info {
-        color: $colorGrey;
-        font-size: 1.4rem;
-        @include sp {
-            font-size: 1.3rem;
-        }
-    }
-    &__txt {
-        margin: 30px 0;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        @include sp {
-            font-size: 1.4rem;
-        }
-    }
-    &__tableContent {
-        margin: 30px;
-        background-color: $colorLightGrey;
-        border-radius: 5px;
-        padding: 30px;
-        span {
-            font-size: 1.7rem;
-            line-height: 2;
-            font-weight: 600;
-        }
-    }
-    &__show, &__hide {
-        font-size: 1.8rem;
-        line-height: 1.5;
-        cursor: pointer;
-        padding-left: 10px;
-    }
-    #showTableOfContent {
-        display: none;
-    }
-    &__contentItem {
-        font-size: 1.6rem;
-        line-height: 1.5;
-    }
-    &__contentSubItem {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        padding-left: 16px;
-    }
-    &__subImg {
-        font-size: 1.4rem;
-        line-height: 1.5;
-        text-align: center;
-        font-style: italic;
-        color: $colorGrey;
-    }
-    &__info1 {
-        display: flex;
-        padding: 30px;
-        box-shadow: 0 0 5px $colorLightGrey;
-    }
-    &__ava {
+	&__article {
+		// position: relative;
+		padding: 30px;
+		display: flex;
+		@include sp {
+			flex-wrap: wrap;
+			padding: 0;
+		}
+	}
+	&__share {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		text-align: center;
+		width: 100px;
+		box-shadow: 0 0 5px $colorLightGrey;
+		border-radius: 5px;
+		padding: 10px;
+		height: 100%;
 
-        height: 100%;
-        img {
-            width: 100px;
-            border-radius: 50%;
-        }
-    }
-    &__text {
-        padding: 0 32px;
-        @include sp {
-            padding: 0 16px;
-        }
-        ul {
-            margin: 16px 0 16px -16px;
-        }
-        li {
-            display: inline;
-            margin: 10px;
-            padding: 6px;
-            &:hover {
-                background-color: $colorLightGrey;
-                border-radius: 5px
-            };
-        }
-    }
+		// position: absolute;
+		// top: 30px;
+		// left: -100px;
+		span {
+			i {
+				font-size: 3.2rem;
+			}
+			font-size: 1.8rem;
+			line-height: 2;
+			@include sp {
+				display: none;
+			}
+		}
+		ul {
+			@include sp {
+				display: inline;
+			}
+		}
+		li {
+			border: 1px solid $colorLightGrey;
+			border-radius: 5px;
+			padding: 5px;
+			margin: 5px 0;
+			cursor: pointer;
+			&:hover {
+				background-color: $colorLightGrey;
+			}
+			@include sp {
+				display: inline;
+				margin-right: 5px;
+				font-size: 1.3rem;
+			}
+		}
+		@include sp {
+			width: 100%;
+			font-size: 1.6rem;
+			box-shadow: none;
+			text-align: left;
+		}
+	}
+	&__content {
+		padding-left: 30px;
+		@include sp {
+			padding: 0;
+		}
+	}
+	// title detail
+	&__title1 {
+		font-size: 4.8rem;
+		font-weight: 700;
+		line-height: 1.5;
+		@include sp {
+			font-size: 2.8rem;
+		}
+	}
+	&__title2 {
+		font-size: 3.6rem;
+		font-weight: 700;
+		line-height: 1.5;
+		margin: 16px 0;
+		@include sp {
+			font-size: 2.4rem;
+		}
+	}
+	&__title3 {
+		font-size: 2.4rem;
+		font-weight: 700;
+		line-height: 1.5;
+		margin: 16px 0;
+		@include sp {
+			font-size: 1.8rem;
+		}
+	}
+	&__title4 {
+		font-size: 1.8rem;
+		line-height: 1.5;
+		font-weight: 600;
+		color: $colorBlack;
+		margin-bottom: 16px;
+		@include sp {
+			font-size: 1.6rem;
+		}
+	}
+	// end: title detail
+	&__info {
+		color: $colorGrey;
+		font-size: 1.4rem;
+		@include sp {
+			font-size: 1.3rem;
+		}
+	}
+	&__txt {
+		margin: 30px 0;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		@include sp {
+			font-size: 1.4rem;
+		}
+	}
+	&__tableContent {
+		margin: 30px;
+		background-color: $colorLightGrey;
+		border-radius: 5px;
+		padding: 30px;
+		span {
+			font-size: 1.7rem;
+			line-height: 2;
+			font-weight: 600;
+		}
+	}
+	&__show,
+	&__hide {
+		font-size: 1.8rem;
+		line-height: 1.5;
+		cursor: pointer;
+		padding-left: 10px;
+	}
+	#showTableOfContent {
+		display: none;
+	}
+	&__contentItem {
+		font-size: 1.6rem;
+		line-height: 1.5;
+	}
+	&__contentSubItem {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		padding-left: 16px;
+	}
+	&__subImg {
+		font-size: 1.4rem;
+		line-height: 1.5;
+		text-align: center;
+		font-style: italic;
+		color: $colorGrey;
+	}
+	&__info1 {
+		display: flex;
+		padding: 30px;
+		box-shadow: 0 0 5px $colorLightGrey;
+	}
+	&__ava {
+		height: 100%;
+		img {
+			width: 100px;
+			border-radius: 50%;
+		}
+	}
+	&__text {
+		padding: 0 32px;
+		@include sp {
+			padding: 0 16px;
+		}
+		ul {
+			margin: 16px 0 16px -16px;
+		}
+		li {
+			display: inline;
+			margin: 10px;
+			padding: 6px;
+			&:hover {
+				background-color: $colorLightGrey;
+				border-radius: 5px;
+			}
+		}
+	}
 
-
-    &__related {
-        margin: 30px;
-        .c-title2 {
-            font-size: 2.8rem;
-            font-weight: 700;
-        }
-    }
+	&__related {
+		margin: 30px;
+		.c-title2 {
+			font-size: 2.8rem;
+			font-weight: 700;
+		}
+	}
 }
 // end: chi tiet bai viet
-
 
 // interface stock
 .c-stock {
@@ -825,3 +823,54 @@ other
 	}
 }
 // end: interface stock
+
+//table of content
+#toc_container {
+	margin: 30px;
+	background-color: $colorLightGrey;
+	border-radius: 5px;
+	padding: 30px;
+}
+.toc {
+	&_title {
+		font-size: 1.7rem;
+		line-height: 2;
+		font-weight: 700;
+	}
+	&_list {
+		font-size: 1.6rem;
+		font-weight: 500;
+		li>ul {
+			margin-left: 30px;
+		}
+	}
+	
+}
+// end: toc
+
+
+// pagenavi
+.c-pagenavi {
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+	font-size: 1.8rem;
+	line-height: 1.5;
+	margin: 30px 30px 50px;
+	.page {
+		padding: 8px 16px;
+		margin: 0 5px;
+		&:hover {
+			background-color: $colorBlue2;
+		}
+	}
+	.pages {
+		padding: 8px 16px;
+		
+	}
+	.current {
+		color: $colorWhite;
+		background-color: $colorBlue6;
+		padding: 8px 16px;
+	}
+}

@@ -2482,6 +2482,42 @@ other
   font-weight: 500;
   letter-spacing: 0.3px; }
 
+#toc_container {
+  margin: 30px;
+  background-color: #cccccc;
+  border-radius: 5px;
+  padding: 30px; }
+
+.toc_title {
+  font-size: 1.7rem;
+  line-height: 2;
+  font-weight: 700; }
+
+.toc_list {
+  font-size: 1.6rem;
+  font-weight: 500; }
+  .toc_list li > ul {
+    margin-left: 30px; }
+
+.c-pagenavi {
+  display: inline-block;
+  width: 100%;
+  text-align: right;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  margin: 30px 30px 50px; }
+  .c-pagenavi .page {
+    padding: 8px 16px;
+    margin: 0 5px; }
+    .c-pagenavi .page:hover {
+      background-color: #00BFFF; }
+  .c-pagenavi .pages {
+    padding: 8px 16px; }
+  .c-pagenavi .current {
+    color: #ffffff;
+    background-color: #003556;
+    padding: 8px 16px; }
+
 .c-article {
   display: -webkit-box;
   display: -webkit-flex;
@@ -2565,36 +2601,36 @@ other
     .p-payment .c-title2 {
       font-size: 2.0rem; } }
 
-.p-index__article .c-title1 {
-  margin-top: 35px;
-  margin-bottom: 5px; }
-  @media screen and (max-width: 767px) {
-    .p-index__article .c-title1 {
-      margin-top: 20px; } }
-
-.p-index__article__content {
-  width: 65%;
-  float: left; }
-  @media screen and (max-width: 870px) {
-    .p-index__article__content {
-      width: 60%; } }
-  @media screen and (max-width: 767px) {
-    .p-index__article__content {
-      width: 100%;
-      margin-top: 0px; } }
-
-.p-index__article__articleOther {
-  width: 35%;
-  padding: 0 0 0 20px;
-  float: right; }
-  @media screen and (max-width: 870px) {
-    .p-index__article__articleOther {
-      width: 40%; } }
-  @media screen and (max-width: 767px) {
-    .p-index__article__articleOther {
-      width: 100%;
-      padding-left: 0;
-      margin-bottom: 30px; } }
+.p-index__article {
+  margin-bottom: 50px; }
+  .p-index__article .c-title1 {
+    margin-top: 35px;
+    margin-bottom: 5px; }
+    @media screen and (max-width: 767px) {
+      .p-index__article .c-title1 {
+        margin-top: 20px; } }
+  .p-index__article__content {
+    width: 65%;
+    float: left; }
+    @media screen and (max-width: 870px) {
+      .p-index__article__content {
+        width: 60%; } }
+    @media screen and (max-width: 767px) {
+      .p-index__article__content {
+        width: 100%;
+        margin-top: 0px; } }
+  .p-index__article__articleOther {
+    width: 35%;
+    padding: 0 0 0 20px;
+    float: right; }
+    @media screen and (max-width: 870px) {
+      .p-index__article__articleOther {
+        width: 40%; } }
+    @media screen and (max-width: 767px) {
+      .p-index__article__articleOther {
+        width: 100%;
+        padding-left: 0;
+        margin-bottom: 30px; } }
 
 .p-index__process {
   margin-top: 30px; }

@@ -1,5 +1,7 @@
 <?php $page_id = 'chi-tiet-bai-viet'; ?>
 <?php get_header(); ?>
+
+
 <main class="p-detail">
     <div class="c-detail">
         <!-- <div class="c-detail__heading">
@@ -39,7 +41,7 @@
                 </div>
                 <div class="c-detail__content">
                     <h1 class="c-detail__title1">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        <?php the_title();?>
                     </h1>
                     <p class="c-detail__info">
                         Tin tức | Đặng Ngọc Quý | 23/03/2022 | 8 phút trước
@@ -234,4 +236,6 @@
 
 
 </main>
+
+
 <?php get_footer(); ?>
