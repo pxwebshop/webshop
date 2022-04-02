@@ -15,6 +15,7 @@ function wpse_381006_custom_site_url( $url ){
     // is server
     if (stripos($domain_local, $host) !== false) {
       return '/index.php'. $_SERVER['REQUEST_URI'];
+    }
   
     return $_SERVER['REQUEST_URI'];
 }
