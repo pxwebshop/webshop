@@ -59,10 +59,10 @@
 		<nav class="c-header__gnav__child sp-only" id="gnav">
 			<ul class="c-header__gnav__menu">
 				<li class="c-header__gnav__item">
-					<a href="/"><span>Trang chủ</span></a>
+					<a href="/index.php/"><span>Trang chủ</span></a>
 				</li>
 				<li class="c-header__gnav__item">
-					<a href="/kho-giao-dien"><span>Kho giao diện</span></a>
+					<a href="/index.php/kho-giao-dien"><span>Kho giao diện</span></a>
 				</li>
 				<li class="c-header__gnav__item">
 					<a class="c-header__gnav__parent" href="#">
@@ -98,13 +98,13 @@
 					</a>
 					<ul class="c-header__gnav__menu__sub">
 						<li class="c-header__gnav__item">
-							<a href="/gioi-thieu"><span>Giới thiệu</span></a>
+							<a href="/index.php/gioi-thieu"><span>Giới thiệu</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="/thanh-toan"><span>Thanh toán</span></a>
+							<a href="/index.php/thanh-toan"><span>Thanh toán</span></a>
 						</li>
 						<li class="c-header__gnav__item">
-							<a href="/lien-he"><span>Liên hệ</span></a>
+							<a href="/index.php/lien-he"><span>Liên hệ</span></a>
 						</li>
 					</ul>
 				</li>
@@ -124,7 +124,7 @@
 	<div class="c-header__sticky">
 		<div class="l-container pc-only">
 			<div class="c-header__inner">
-				<a href="/" class="c-header__logo">
+				<a href="/index.php/" class="c-header__logo">
 					<img src="https://placehold.jp/150x80.png" alt="pxwebshop">
 				</a>
 				<ul class="c-header__menu">
@@ -159,13 +159,13 @@
 
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
-								<a href="/gioi-thieu">Giới thiệu</a>
+								<a href="/index.php/gioi-thieu">Giới thiệu</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/thanh-toan">Thanh toán</a>
+								<a href="/index.php/thanh-toan">Thanh toán</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/lien-he">Liên Hệ</a>
+								<a href="/index.php/lien-he">Liên Hệ</a>
 							</li>
 						</ul>
 					</li>
