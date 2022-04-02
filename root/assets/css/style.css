@@ -1779,6 +1779,7 @@ other
 
 .c-block1__img {
   width: 120px;
+  height: 100%;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
