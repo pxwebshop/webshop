@@ -41,7 +41,7 @@ $queried = get_queried_object(); ?>
                                     </h3>
                                     <div class="c-list2__time">
                                         <i class="fa-solid fa-calendar-days"></i>
-                                        <span> <?php the_date(); ?></span>
+                                        <span> <?php echo get_the_date(); ?></span>
                                     </div>
                                     <div class="c-list2__author">
                                         <i class="fa-solid fa-user"></i>
