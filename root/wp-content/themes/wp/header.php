@@ -86,7 +86,7 @@
 					</ul>
 				</li>
 				<li class="c-header__gnav__item">
-					<a href="#">
+					<a href="/index.php/tin-tuc">
 						<span>Tin tức</span>
 					</a>
 				</li>
@@ -152,7 +152,7 @@
 						</ul>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/tin-tuc">Tin tức</a>
+						<a class="c-header__link" href="/index.php/tin-tuc">Tin tức</a>
 					</li>
 					<li class="c-header__item c-header__item__abouts">
 						<span>Về chúng tôi <i class="fa-solid fa-caret-down"></i></span>
