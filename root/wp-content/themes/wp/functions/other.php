@@ -13,7 +13,7 @@ function wpse_381006_custom_site_url( $url ){
     $host = $_SERVER['HTTP_HOST'];
     
     // is server
-    if (stripos($domain_local, $host) !== false) {
+    if (strstr($domain_local, $host) == false) {
       return '/index.php'. $_SERVER['REQUEST_URI'];
     }
   
