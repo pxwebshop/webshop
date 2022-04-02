@@ -23,7 +23,7 @@ $queried = get_queried_object(); ?>
 
                     $search_query = new WP_Query(array(
                         'post_type'            => array('news'),
-                        'posts_per_page'    => 3,
+                        'posts_per_page'    => 6,
                         'post_status'        => 'publish',
                         'paged' => $current_page,
 
@@ -35,18 +35,18 @@ $queried = get_queried_object(); ?>
                     $search_query = new WP_Query($search_string);
                     $total_results = $search_query->found_posts ? $search_query->found_posts : 0;
                     echo('<h3 class="c-list2__searchTotal">');
-                    printf(__('Chúng tôi tìm thấy %1$s bài viết mà bạn tìm kiếm', 'glw'), $total_results);
+                    printf(__('Chúng tôi tìm thấy <b> %1$s bài viết </b> mà bạn tìm kiếm', 'glw'), $total_results);
                     echo('</h3>');
                     if ($search_query->have_posts()) :
                     ?>
                         <?php while ($search_query->have_posts()) : $search_query->the_post(); ?>
-                            <div class="c-list2__item">
+                            <div class="c-list2__item c-list2__item--search">
                                 <figure class="c-list2__img">
                                     <a href="<?php the_permalink($post->ID); ?>"><?php the_post_thumbnail(); ?></a>
                                 </figure>
                                 <div class="c-list2__info">
                                     <h3 class="c-list2__title">
-                                        <?php echo substr(get_the_title(), 0, 60) . " &hellip;"; ?>
+                                        <a href="<?php the_permalink($post->ID); ?>"><?php echo substr(get_the_title(), 0, 60) . " &hellip;"; ?></a>
                                     </h3>
                                     <div class="c-list2__time">
                                         <i class="fa-solid fa-calendar-days"></i>

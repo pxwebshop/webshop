@@ -969,6 +969,8 @@ list
       -webkit-transform: translateY(-5px);
           -ms-transform: translateY(-5px);
               transform: translateY(-5px); }
+    .c-list2__item--search {
+      width: 33.33%; }
   .c-list2__link {
     display: -webkit-box;
     display: -webkit-flex;
