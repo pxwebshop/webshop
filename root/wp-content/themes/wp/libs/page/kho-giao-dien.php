@@ -23,7 +23,7 @@
                 <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-gioi-thieu-dich-vu">ເວັບໄຊແນະນໍາບໍ​ລິ​ການ​</a></li>
                 <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-gioi-thieu-du-an">ເວັບໄຊແນະນໍາໂຄງການ</a></li>
                 <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-gioi-thieu-san-pham">ເວັບໄຊແນະນໍາຜະລິດຕະພັນ</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-kien-truc-noi-that">ເວັບໄຊສະຖາປັດຕະຍະກໍາ - ຕົບແຕ່ງພາຍໃນ</a></li>
+                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-kien-truc-noi-that">ເວັບໄຊຕົບແຕ່ງພາຍໃນ - ສະຖາປັດຕະຍະກໍາ</a></li>
                 <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-giao-vat">ເວັບໄຊ giao vặt</a></li>
                 <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-tham-my-spa">ເວັບໄຊຄວາມງາມ, Spa</a></li>
                 <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-bat-dong-san">ເວັບໄຊອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</a></li>

@@ -6,10 +6,10 @@
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1 c-title1--color1">Liên hệ</h2>
+                    <h2 class="c-title1 c-title1--color1">ຕິດຕໍ່</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/lien-he">/ Liên hệ</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/lien-he">/ ຕິດຕໍ່</a>
                     </div>
                 </div>
             </div>
@@ -22,7 +22,7 @@
                 <div class="c-contact__info">
                     <div class="c-contact__phone">
                         <i class="fa-solid fa-phone"></i>
-                        <span class="c-contact__txt">0361.0214.01265</span>
+                        <span class="c-contact__txt">020 28266650</span>
                     </div>
                     <div class="c-contact__email">
                         <i class="fa-solid fa-envelope"></i>
@@ -30,32 +30,28 @@
                     </div>
                     <div class="c-contact__address1">
                         <i class="fa-solid fa-location-dot"></i>
-                        <span class="c-contact__txt">..., thành phố Hồ Chí Minh, Việt Nam</span>
-                    </div>
-                    <div class="c-contact__address2">
-                        <i class="fa-solid fa-location-dot"></i>
-                        <span class="c-contact__txt">..., Vientiane, Lào</span>
+                        <span class="c-contact__txt">ບ້ານ ຂາມງອຍ,​ ເມືອງ ໄຊເສດຖາ, ນະຄອນຫຼວງວຽງຈັນ</span>
                     </div>
                 </div>
                 <div class="c-contact__form">
                     <form action="#">
                         <div class="c-contact__group">
-                            <label for="name">Tên</label>
+                            <label for="name">ຊື່</label>
                             <input type="text" name="yourname" id="name">
                         </div>
                         <div class="c-contact__group">
-                            <label for="email">Email</label>
+                            <label for="email">ອີເມວ</label>
                             <input type="text" id="email">
                         </div>
                         <div class="c-contact__group">
-                            <label for="phone">Số điện thoại</label>
+                            <label for="phone">ເບີ້ໂທ</label>
                             <input type="text" id="phone">
                         </div>
                         <div class="c-contact__group">
-                            <label for="message">Message</label>
+                            <label for="message">ຂໍ້ຄວາມ</label>
                             <textarea rows="10" name="" id="message"></textarea>
                         </div>
-                        <button class="c-contact__form__btn" type="submit">Gửi</button>
+                        <button class="c-contact__form__btn" type="submit">ສົ່ງ</button>
                     </form>
                 </div>
             </div>

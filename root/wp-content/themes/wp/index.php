@@ -6,10 +6,10 @@
         <div class="c-banner">
             <div class="l-container">
                 <div class="c-banner__content wow slideInLeft">
-                    <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ໜ້າເຊື່ອຖື.</h3>
+                    <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ມີຄວາມປອດໄພ ແລະ ໜ້າເຊື່ອຖື.</h3>
                     <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຢີໃນລາວ.</span></h2>
-                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ຊອບ​ແວ​ ແລະ ເວັບໄຊ với hơn 10 năm<br /> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
-                    <a class="c-banner__btn  wow slideInLeft" href="/gioi-thieu">ຊອກຫາຂໍ້ມູນເພີ່ມເຕີມ</a>
+                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ຊອບ​ແວ​ ແລະ ເວັບໄຊ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
+                    <a class="c-banner__btn  wow slideInLeft" href="/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
                 </div>
             </div>
         </div>
@@ -36,7 +36,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/dienmay.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ໄຟຟ້າ</p>
+                                <p class="c-list6__txt">ເຄື່ອງໃຊ້ໄຟຟ້າ</p>
                             </div>
                         </a>
                     </div>
@@ -60,7 +60,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/landingpage.png" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Landing page</p>
+                                <p class="c-list6__txt">Landing Page</p>
                             </div>
                         </a>
                     </div>
@@ -72,7 +72,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/mevabe.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ແມ່ ແລະ ລູກ</p>
+                                <p class="c-list6__txt">ແມ່ ແລະ ເດັກ</p>
                             </div>
                         </a>
                     </div>
@@ -96,7 +96,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/kientruc.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ຕົບແຕ່ງພາຍໃນ - ສະຖາປັດຕະຍະກໍາ</p>
+                                <p class="c-list6__txt">ຕົບແຕ່ງພາຍໃນ</p>
                             </div>
                         </a>
                     </div>
@@ -168,7 +168,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/thucpham.jpg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ອາຫານ-ຢາ</p>
+                                <p class="c-list6__txt">ອາຫານ - ຢາ</p>
                             </div>
                         </a>
                     </div>
@@ -241,7 +241,7 @@
 
     <section class="p-index__quote">
         <div class="l-container">
-            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ລາຄາແພັກເກັດເວັບໄຊ</h2>
+            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ແພັກເກັດເວັບໄຊ</h2>
             <div class="p-index__quote__content">
                 <div class="c-list4">
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
@@ -249,58 +249,55 @@
                             <h3 class="c-list4__title">
                                 Basic
                             </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
                         </div>
                         <div class="c-list4__content">
                             <ul>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
+                                    <span>ຊື່ໂດເມນ .com</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 1000MB</span>
+                                    <span>ພື້ນທີ່: 1000 MB</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
+                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Thiết kế logo</span>
+                                    <span>ອອກແບບໂລໂກ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Email doanh nghiệp</span>
+                                    <span>Email ທຸລະກິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Tùy chỉnh giao diện</span>
+                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ </span>
+                                   
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
+                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
+                                    <span>SSL</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
+                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
+                                    <span>ສົ່ງມອບ source code</span>
                                 </li>
                             </ul>
                         </div>
                         <button class="c-list4__btn" id="btnOpenModal1">
-                            Đặt ngay
+                        ຈອງດຽວນີ້
                         </button>
                     </div>
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
@@ -308,58 +305,54 @@
                             <h3 class="c-list4__title">
                                 PLUS
                             </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
                         </div>
                         <div class="c-list4__content">
                             <ul>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
+                                    <span>ຊື່ໂດເມນ .com</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 1500MB</span>
+                                    <span>ພື້ນທີ່: 1500MB</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế logo</span>
+                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Email doanh nghiệp</span>
+                                    <span>ອອກແບບໂລໂກ</span>
+                                </li>
+                                <li>
+                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                    <span>Email ທຸລະກິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tùy chỉnh giao diện</span>
+                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
+                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
+                                    <span>SSL</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
+                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
+                                    <span>ສົ່ງມອບ source code</span>
                                 </li>
                             </ul>
                         </div>
                         <button class="c-list4__btn" id="btnOpenModal2">
-                            Đặt ngay
+                            ຈອງດຽວນີ້
                         </button>
                     </div>
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
@@ -367,58 +360,54 @@
                             <h3 class="c-list4__title">
                                 PRO
                             </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
                         </div>
                         <div class="c-list4__content">
                             <ul>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
+                                    <span>ຊື່ໂດເມນ .com</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 2000MB</span>
+                                    <span>ພື້ນທີ່: 2000MB</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
+                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
+                                    <span>ອອກແບບໂລໂກ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế logo</span>
+                                    <span>Email ທຸລະກິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Email doanh nghiệp</span>
+                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tùy chỉnh giao diện</span>
+                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
+                                    <span>SSL</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
+                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
+                                    <span>ສົ່ງມອບ source code</span>
                                 </li>
                             </ul>
                         </div>
                         <button class="c-list4__btn" id="btnOpenModal3">
-                            Đặt ngay
+                            ຈອງດຽວນີ້
                         </button>
                     </div>
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
@@ -426,58 +415,54 @@
                             <h3 class="c-list4__title">
                                 BUSINESS
                             </h3>
-                            <span class="c-list4__price">X.XXX.XXX đ</span>
+                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
                         </div>
                         <div class="c-list4__content">
                             <ul>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tên miền .com</span>
+                                    <span>ຊື່ໂດເມນ .com</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Hosting: 4000MB</span>
+                                    <span>ພື້ນທີ່: 4000MB</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Băng thông không giới hạn</span>
+                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Chọn mẫu giao diện</span>
+                                    <span>ອອກແບບໂລໂກ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế logo</span>
+                                    <span>Email ທຸລະກິດ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Email doanh nghiệp</span>
+                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Tùy chỉnh giao diện</span>
+                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Thiết kế chuấn SEO</span>
+                                    <span>SSL</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo mật SSL</span>
+                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bảo hành trọn đời</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Bàn giao source code</span>
+                                    <span>ສົ່ງມອບ source code</span>
                                 </li>
                             </ul>
                         </div>
                         <button class="c-list4__btn" id="btnOpenModal4">
-                            Đặt ngay
+                            ຈອງດຽວນີ້
                         </button>
                     </div>
                 </div>
@@ -489,26 +474,26 @@
         <div class="c-modal" id="modal">
             <div class="l-container">
                 <div class="c-modal__content">
-                    <h3 class="c-title2">Đăng ký tư vấn website</h3>
+                    <h3 class="c-title2">ລົງທະບຽນຂໍຄຳປຶກສາເວັບໄຊ</h3>
                     <form action="#" class="c-modal__form">
                         <div class="c-modal__group">
-                            <label for="name">Họ và tên</label>
-                            <input type="text" placeholder="Nhập họ và tên khách hàng" class="c-modal__name" id="name">
+                            <label for="name">ຊື່ ແລະ ນາມສະກຸນ</label>
+                            <input type="text" placeholder="&nbspໃສ່ຊື່ ແລະ ນາມສະກຸນຂອງລູກຄ້າ" class="c-modal__name" id="name">
                         </div>
                         <div class="c-modal__group">
-                            <label for="phone">Số điện thoại</label>
-                            <input type="text" placeholder="Nhập số điện thoại khách hàng" class="c-modal__name" id="phone">
+                            <label for="phone">ເບີ້ໂທ</label>
+                            <input type="text" placeholder="&nbspໃສ່ເບີໂທລະສັບຂອງລູກຄ້າ" class="c-modal__name" id="phone">
                         </div>
                         <div class="c-modal__group">
                             <label for="email">Email</label>
-                            <input type="email" placeholder="Nhập email khách hàng" class="c-modal__name" id="email">
+                            <input type="email" placeholder="&nbspໃສ່ອີເມວຂອງລູກຄ້າ" class="c-modal__name" id="email">
                         </div>
                         <div class="c-modal__group">
-                            <label for="content">Nội dung</label>
+                            <label for="content">ເນື້ອຫາ</label>
                             <textarea rows="5" type="text" class="c-modal__name" id="content"> </textarea>
                         </div>
                         <div class="c-modal__btnSubmit">
-                            <button type="submit">Đăng ký</button>
+                            <button type="submit">ລົງທະບຽນ</button>
                         </div>
                         <div class="c-modal__btnExit">
                             <button type="button" id="btnExitModal">X</button>
@@ -521,7 +506,7 @@
 
     <section class="p-index__process">
         <div class="l-container">
-            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">Quá Trình thực hiện</h2>
+            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ຂັ້ນຕອນໃນການດຳເນີນງານ</h2>
             <div class="c-list5 u-mt10 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                 <div class="c-list5__item">
                     <div class="c-list5__wrap">
@@ -529,7 +514,7 @@
                             <img src="/assets/img/process/img01.png" alt="">
                         </figure>
                         <!-- <p class="c-list5__txt">B1. Tiếp nhận yêu cầu và TƯ VẤN</p> -->
-                        <p class="c-list5__txt">Bước 1: Thu thập thông tin thiết kế website</p>
+                        <p class="c-list5__txt">ຂັ້ນຕອນ 1: ເກັບກໍາຂໍ້ມູນການອອກແບບເວັບໄຊ</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
@@ -539,7 +524,7 @@
                             <img src="/assets/img/process/img07.png" alt="">
                         </figure>
                         <!-- <p class="c-list5__txt">B2. Phác thảo giao diện và báo giá</p> -->
-                        <p class="c-list5__txt">Bước 2: Lên kế hoạch thiết kế website</p>
+                        <p class="c-list5__txt">ຂັ້ນຕອນ 2: ວາງແຜນການອອກແບບເວັບໄຊ</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
@@ -549,7 +534,7 @@
                             <img src="/assets/img/process/img04.png" alt="">
                         </figure>
                         <!-- <p class="c-list5__txt">B3. Tiến hành ký hợp đồng, thu phí 50% giá trị hợp đồng</p> -->
-                        <p class="c-list5__txt">Bước 3: Thiết kế website</p>
+                        <p class="c-list5__txt">ຂັ້ນຕອນ 3: ອອກແບບເວັບໄຊ</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
@@ -559,7 +544,7 @@
                             <img src="/assets/img/process/img06.png" alt="">
                         </figure>
                         <!-- <p class="c-list5__txt">B4. Tiến hành thiết kế website và gửi demo tới khách hàng</p> -->
-                        <p class="c-list5__txt">Bước 4: Phát triển website</p>
+                        <p class="c-list5__txt">ຂັ້ນຕອນ 4: ພັດທະນາເວັບໄຊ</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
@@ -568,7 +553,7 @@
                             <img src="/assets/img/process/img05.png" alt="">
                         </figure>
                         <!-- <p class="c-list5__txt">B5. Chốt giao diện website, thu 30% giá trị hợp đồng</p> -->
-                        <p class="c-list5__txt">Bước 5: Kiểm tra và chỉnh sửa website</p>
+                        <p class="c-list5__txt">ຂັ້ນຕອນ 5: ກວດສອບ ແລະ ແກ້ໄຂເວັບໄຊ</p>
                     </div>
                 </div>
                 <div class="c-list5__item">
@@ -578,7 +563,7 @@
                             <img src="/assets/img/process/img09.png" alt="">
                         </figure>
                         <!-- <p class="c-list5__txt">B6. Tiến hành code và thiết kế website</p> -->
-                        <p class="c-list5__txt">Bước 6: Hoàn thiện và bảo trì website</p>
+                        <p class="c-list5__txt">ຂັ້ນຕອນ 6: ສໍາເລັດ ແລະ ບຳລຸງຮັກສາເວັບໄຊ</p>
                     </div>
                 </div>
                 <!-- <div class="c-list5__item">
@@ -610,7 +595,7 @@
     </section>
     <section class="p-index__article">
         <div class="l-container clearfix">
-            <h2 class="c-title1">Tin tức</h2>
+            <h2 class="c-title1">ບົດຄວາມ</h2>
             <div class="p-index__article__content wow bounceInUp">
                 <div class="c-list2">
                     <div class="c-list2__item">
