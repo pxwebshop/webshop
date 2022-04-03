@@ -2110,7 +2110,7 @@ other
   height: 500px; }
   @media screen and (max-width: 767px) {
     .c-banner {
-      height: 480px; } }
+      height: 85vh; } }
   .c-banner__txt {
     font-size: 2.6rem;
     font-weight: 500;

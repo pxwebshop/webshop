@@ -410,7 +410,7 @@ other
 		no-repeat center center;
 	height: 500px;
 	@include sp() {
-		height: 480px;
+		height: 85vh;
 	}
 	&__txt {
 		font-size: 2.6rem;
