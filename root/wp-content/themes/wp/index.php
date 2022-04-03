@@ -6,10 +6,10 @@
         <div class="c-banner">
             <div class="l-container">
                 <div class="c-banner__content wow slideInLeft">
-                    <h3 class="c-banner__txt">Thiết kế website chuyên nghiệp, uy tín.</h3>
-                    <h2 class="c-banner__txt c-banner__txt--large">Dẫn đầu <span class="c-banner__color">công nghệ.</span></h2>
-                    <p class="c-banner__text">Pxwebshop đi đầu trong lĩnh vực phần mềm và website với hơn 10 năm<br /> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
-                    <a class="c-banner__btn  wow slideInLeft" href="/gioi-thieu">Tìm hiểu thêm</a>
+                    <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ໜ້າເຊື່ອຖື.</h3>
+                    <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຢີໃນລາວ.</span></h2>
+                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ຊອບ​ແວ​ ແລະ ເວັບໄຊ với hơn 10 năm<br /> kinh nghiệm và đội ngũ nhân viên chuyên nghiệp được đào tạo chuyên sâu.</p>
+                    <a class="c-banner__btn  wow slideInLeft" href="/gioi-thieu">ຊອກຫາຂໍ້ມູນເພີ່ມເຕີມ</a>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/congnghe.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Công nghệ</p>
+                                <p class="c-list6__txt">ເຕັກໂນໂລຊີ</p>
                             </div>
                         </a>
                     </div>
@@ -36,7 +36,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/dienmay.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Điện máy</p>
+                                <p class="c-list6__txt">ໄຟຟ້າ</p>
                             </div>
                         </a>
                     </div>
@@ -48,7 +48,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/inan.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">In ấn</p>
+                                <p class="c-list6__txt">ການພິມ</p>
                             </div>
                         </a>
                     </div>
@@ -72,7 +72,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/mevabe.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Mẹ và bé</p>
+                                <p class="c-list6__txt">ແມ່ ແລະ ລູກ</p>
                             </div>
                         </a>
                     </div>
@@ -84,7 +84,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/quatang.png" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Quà tặng</p>
+                                <p class="c-list6__txt">ຂອງຂວັນ</p>
                             </div>
                         </a>
                     </div>
@@ -96,7 +96,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/kientruc.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Nội thất - Kiến trúc</p>
+                                <p class="c-list6__txt">ຕົບແຕ່ງພາຍໃນ - ສະຖາປັດຕະຍະກໍາ</p>
                             </div>
                         </a>
                     </div>
@@ -108,7 +108,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/thoitrang.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Thời trang</p>
+                                <p class="c-list6__txt">ແຟຊັ່ນ</p>
                             </div>
                         </a>
                     </div>
@@ -120,7 +120,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/congty.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Công ty</p>
+                                <p class="c-list6__txt">ບໍລິສັດ</p>
                             </div>
                         </a>
                     </div>
@@ -132,7 +132,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/xehoi.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Web xe hơi</p>
+                                <p class="c-list6__txt">ເວັບລົດ</p>
                             </div>
                         </a>
                     </div>
@@ -144,7 +144,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/khachsan.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Du lịch - Khách sạn</p>
+                                <p class="c-list6__txt">ທ່ອງທ່ຽວ - ໂຮງແຮມ</p>
                             </div>
                         </a>
                     </div>
@@ -156,7 +156,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/mypham.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Mỹ phẩm - Làm đẹp</p>
+                                <p class="c-list6__txt">ເຄື່ອງສໍາອາງ</p>
                             </div>
                         </a>
                     </div>
@@ -168,7 +168,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/thucpham.jpg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Thực phẩm - Thuốc</p>
+                                <p class="c-list6__txt">ອາຫານ-ຢາ</p>
                             </div>
                         </a>
                     </div>
@@ -180,7 +180,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/batdongsan.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">Bất động sản</p>
+                                <p class="c-list6__txt">ອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</p>
                             </div>
                         </a>
                     </div>
@@ -191,14 +191,14 @@
 
     <section class="p-index__service">
         <div class="l-container">
-            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">Dịch Vụ</h2>
+            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">ບໍລິການ</h2>
             <div class="c-list7">
                 <div class="c-list7__item1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">
                     <a href="#">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service1.png" alt="">
                         </figure>
-                        <span class="c-list7__txt">Thiết kế website</span>
+                        <span class="c-list7__txt">ອອກແບບເວັບໄຊ</span>
                     </a>
                 </div>
                 <div class="c-list7__item1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">
@@ -207,7 +207,7 @@
                             <img src="assets/img/service/service2.png" alt="">
                         </figure>
                         <div class="c-list7__txt">
-                            <span>Xây dựng phần mềm theo yêu cầu</span>
+                            <span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span>
                         </div>
                     </a>
                 </div>
@@ -216,7 +216,7 @@
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service3.jpg" alt="">
                         </figure>
-                        <span class="c-list7__txt">Thiết kế banner</span>
+                        <span class="c-list7__txt">ອອກແບບໂລໂກ</span>
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -224,7 +224,7 @@
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service4.jpg" alt="">
                         </figure>
-                        <span class="c-list7__txt">Network design</span>
+                        <span class="c-list7__txt">ອອກແບບເຄືອຂ່າຍ</span>
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -232,7 +232,7 @@
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service5.png" alt="">
                         </figure>
-                        <span class="c-list7__txt">Dịch vụ SEO</span>
+                        <span class="c-list7__txt">ບໍລິການ SEO</span>
                     </a>
                 </div>
             </div>
@@ -241,7 +241,7 @@
 
     <section class="p-index__quote">
         <div class="l-container">
-            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">Báo giá thiết kế website</h2>
+            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ລາຄາແພັກເກັດເວັບໄຊ</h2>
             <div class="p-index__quote__content">
                 <div class="c-list4">
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
