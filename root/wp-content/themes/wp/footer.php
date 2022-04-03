@@ -41,27 +41,6 @@
 				</div>
 			</div>
 			<hr>
-			<div class="c-footer__branch">
-				<div class="c-footer__branch1">
-					<h3 class="c-title2">Trụ sở chính</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-location-dot"></i> ..., ..., Quận 7, thành phố Hồ Chí Minh, Việt Nam </p>
-					<p class="c-footer__txt"><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</p>
-					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> 0361.0214.01265</p>
-				</div>
-				<div class="c-footer__branch2">
-					<h3 class="c-title2">Chi nhánh Hồ Chí Minh</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-location-dot"></i> ..., ..., Quận 7, thành phố Hồ Chí Minh, Việt Nam </p>
-					<p class="c-footer__txt"><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</p>
-					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> 0361.0214.01265</p>
-				</div>
-				<div class="c-footer__branch3">
-					<h3 class="c-title2">Chi nhanh Lào</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-location-dot"></i> ..., ..., thủ đô Vientiane, Lào</p>
-					<p class="c-footer__txt"><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</p>
-					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> 0361.0214.01265</p>
-				</div>
-			</div>
-			<hr>
 			<div class="c-footer__social">
 				<div class="c-footer__website">
 					<h3 class="c-title2">Công ty TNHH PxWebShop</h3>
