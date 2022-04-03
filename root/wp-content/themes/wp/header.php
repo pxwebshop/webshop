@@ -24,13 +24,13 @@
 	<header class="c-header">
 		<div class="c-header__top pc-only">
 			<div class="l-container">
-				<p class="c-header__nameCompany">ບໍລີສັດ PX WebShop</p>
+				<p class="c-header__nameCompany">PX WebShop</p>
 				<ul class="c-header__address">
 					<li class="c-header__address__item">
 						<span><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</span>
 					</li>
 					<li class="c-header__address__item">
-						<a href="tel:0361.0214.01265"><i class="fa-solid fa-phone"></i> 0361.0214.01265</a href="tel:">
+						<a href="tel:0361.0214.01265"><i class="fa-solid fa-phone"></i> 020 28266650</a href="tel:">
 					</li>
 				</ul>
 			</div>

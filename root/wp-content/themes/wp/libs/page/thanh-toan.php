@@ -5,10 +5,10 @@
     <div class="c-page__heading" id="particles-js">
         <div class="c-page__title">
             <div>
-                <h2 class="c-title1 c-title1--color1">Thanh toán</h2>
+                <h2 class="c-title1 c-title1--color1">ຊຳລະເງິນ</h2>
                 <div class="c-page__url">
-                    <a href="/" class="c-page__link">Trang chủ</a>
-                    <span>/ Thanh toán</span>
+                    <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                    <span>/ ຊຳລະເງິນ</span>
                 </div>
             </div>
         </div>
@@ -16,19 +16,19 @@
     <div class="l-container">
         <div class="c-payment">
             <div class="c-payment__heading">
-                <h3 class="c-title2">Hướng dẫn thanh toán khi sử dụng dịch vụ tại PXWebShop</h3>
-                <p class="c-payment__subTitle">Khi mua hàng tại PXWebShop, quý khách vui lòng thanh toán trước 100% bằng một trong các hình thức sau</p>
+                <h3 class="c-title2">ແນະນໍາການຊໍາລະເງິນເມື່ອໃຊ້ບໍລິການຂອງ PX WebShop</h3>
+                <p class="c-payment__subTitle">ເມື່ອໃຊ້ບໍລິການທີ່ PX WebShop, ກະລຸນາຊຳລະເງີນລ່ວງໜ້າ 100% ດ້ວຍວິທີການດັ່ງຕໍ່ໄປນີ້</p>
             </div>
             <div class="c-payment__info">
                 <div class="c-payment__bank">
-                    <h2 class="c-title1">Thanh toán qua tài khoản ngân hàng</h2>
-                    <p>Quý khách có thể thanh toán dịch vụ tới một trong các tài khoản sau:</p>
+                    <h2 class="c-title1">ຊໍາລະເງີນຜ່ານບັນຊີທະນາຄານ</h2>
+                    <p>ລູກຄ້າສາມາດຈ່າຍຄ່າບໍລິການກັບບັນຊີໃດບັນຊີຫນຶ່ງຕໍ່ໄປນີ້:</p>
                     <div class="c-payment__bank1">
-                        <h4 class="c-title3">Chủ tài khoản: PXWebShop</h4>
+                        <h4 class="c-title3">ເຈົ້າຂອງບັນຊີ: PHONEXAY NAMSAVANH</h4>
                         <div class="c-payment__content">
-                            <figure class="c-payment__img"><img src="/assets/img/common/vietinbank-logo.png" alt=""></figure>
+                            <figure class="c-payment__img"><img src="/assets/img/common/bcel-logo.png" alt=""></figure>
                             <div class="c-payment__txt">
-                                <p>Ngân hàng Vietinbank - STK: 12345678910 - PXWEBSHOP2022 (STK tên công ty thay thế cho số thông thường, chỉ cần điền đúng như trên) - Chi nhánh Hồ Chí Minh</p>
+                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີ: 12345678910 - PHONEXAY NAMSAVANH</p>
                             </div>
                         </div>
                     </div>
