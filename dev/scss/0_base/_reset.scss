@@ -1,11 +1,11 @@
+@charset 'utf-8';
+
 /* Reset
 ------------------------------------------------------------*/
-*:not(i) {
-	margin: 0;
-	padding: 0;
-	font-family: $notosanslao !important;
+* {
+    margin: 0;
+    padding: 0;
 }
-
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
