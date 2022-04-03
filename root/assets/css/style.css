@@ -2174,7 +2174,8 @@ other
     top: 10%; }
     @media screen and (max-width: 767px) {
       .c-banner__content {
-        top: 18%; } }
+        top: 18%;
+        padding-right: 15px; } }
   .c-banner .l-container {
     height: 100%;
     position: relative; }
