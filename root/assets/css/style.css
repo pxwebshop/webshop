@@ -2118,6 +2118,9 @@ other
     @media screen and (max-width: 767px) {
       .c-banner__txt {
         font-size: 1.8rem; } }
+    @media screen and (max-width: 400px) {
+      .c-banner__txt {
+        font-size: 1.6rem; } }
     .c-banner__txt--large {
       font-weight: 700;
       font-size: 7rem;
@@ -2125,6 +2128,10 @@ other
       @media screen and (max-width: 767px) {
         .c-banner__txt--large {
           font-size: 4rem; } }
+      @media screen and (max-width: 400px) {
+        .c-banner__txt--large {
+          font-size: 3.6rem;
+          line-height: 1.5; } }
   .c-banner__color {
     color: #FF0000; }
   .c-banner__text {
@@ -2133,6 +2140,9 @@ other
     @media screen and (max-width: 767px) {
       .c-banner__text {
         font-size: 1.6rem; } }
+    @media screen and (max-width: 400px) {
+      .c-banner__text {
+        font-size: 1.4rem; } }
   .c-banner__btn {
     background-color: #5d3284;
     color: #fff;
@@ -2155,6 +2165,10 @@ other
       .c-banner__btn {
         font-size: 1.4rem;
         padding: 15px 20px; } }
+    @media screen and (max-width: 400px) {
+      .c-banner__btn {
+        font-size: 1.4rem;
+        padding: 10px 15px; } }
   .c-banner__content {
     position: absolute;
     top: 10%; }
