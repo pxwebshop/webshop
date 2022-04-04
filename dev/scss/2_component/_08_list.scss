@@ -371,7 +371,7 @@ list
 
 .c-list6 {
     $root: &;
-    margin-top: 30px;
+    margin-top: 20px;
     width: 100%;
     text-align: center;
     @include sp {
@@ -379,7 +379,7 @@ list
     }
 
     .slick-slide{
-        margin: 10px ;
+        margin: 0 3px;
     }
     .slick-prev {
         left: -13px;

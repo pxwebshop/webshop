@@ -1256,14 +1256,14 @@ list
         font-size: 1.3rem; } }
 
 .c-list6 {
-  margin-top: 30px;
+  margin-top: 20px;
   width: 100%;
   text-align: center; }
   @media screen and (max-width: 767px) {
     .c-list6 {
       margin-top: 10px; } }
   .c-list6 .slick-slide {
-    margin: 10px; }
+    margin: 0 3px; }
   .c-list6 .slick-prev {
     left: -13px; }
   .c-list6 .slick-next {
