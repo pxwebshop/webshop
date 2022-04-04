@@ -345,7 +345,8 @@ footer
   .c-footer__form {
     position: relative;
     width: 50%;
-    margin: 16px auto; }
+    margin: 15px auto;
+    margin-bottom: 0; }
     @media screen and (max-width: 767px) {
       .c-footer__form {
         width: 80%; } }
@@ -378,14 +379,18 @@ footer
       cursor: pointer;
       background-color: #00BFFF; }
       .c-footer__form button:hover {
-        background-color: #FF0000; }
+        background-color: #FF0000;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out; }
       @media screen and (max-width: 767px) {
         .c-footer__form button {
           border-radius: 5px;
           font-size: 1.3rem;
           padding: 16px 23px; } }
   .c-footer__info {
-    background-color: #003556; }
+    background-color: #045de9;
+    background-image: -webkit-linear-gradient(135deg, #09c6f9 0%, #045de9 74%);
+    background-image: linear-gradient(315deg, #09c6f9 0%, #045de9 74%); }
     .c-footer__info .c-title2 {
       margin: 16px 0; }
       @media screen and (max-width: 767px) {
@@ -427,7 +432,7 @@ footer
     font-size: 3.2rem;
     margin-right: 16px; }
   .c-footer__copyRight {
-    padding: 30px;
+    padding: 15px;
     text-align: center;
     background: url(/assets/img/common/bg-footer.svg);
     background-size: cover; }
@@ -442,7 +447,8 @@ header
     position: -webkit-sticky;
     position: sticky;
     width: 100%;
-    background-color: #003556;
+    background: -webkit-linear-gradient(135deg, #597fc5, #0c81f6, #2869cf, #285f9e);
+    background: linear-gradient(-45deg, #597fc5, #0c81f6, #2869cf, #285f9e);
     height: 100%;
     top: 0;
     z-index: 1;
@@ -726,7 +732,8 @@ header
               -ms-transform: rotate(-45deg);
                   transform: rotate(-45deg); }
     .c-header__gnav__menu {
-      padding-top: 10px; }
+      padding-top: 10px;
+      overflow: scroll; }
       .c-header__gnav__menu__sub {
         display: none;
         border-top: 1px solid #ADD8E6; }
@@ -771,7 +778,6 @@ header
       top: 60px;
       position: fixed;
       width: 100%;
-      overflow: scroll;
       z-index: 999; }
   .c-header__tel__btn {
     position: relative;

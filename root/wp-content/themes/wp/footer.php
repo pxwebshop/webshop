@@ -12,6 +12,7 @@
 	</div>
 	<div class="c-footer__info wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
+			<hr>
 			<div class="c-footer__content">
 				<div class="c-footer__about">
 					<h3 class="c-title2">ກຽ່ວກັບ PX WebShop</h3>
