@@ -49,7 +49,7 @@
                         </div>
                         <div class="c-contact__group">
                             <label for="message">ຂໍ້ຄວາມ</label>
-                            <textarea rows="3" name="" id="message"></textarea>
+                            <textarea rows="5" name="" id="message"></textarea>
                         </div>
                         <button class="c-contact__form__btn" type="submit">ສົ່ງ</button>
                     </form>
