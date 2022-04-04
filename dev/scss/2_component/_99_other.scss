@@ -409,9 +409,9 @@ other
 	background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png")
 		no-repeat center center;
 	height: 500px;
-	@include sp() {
-		height: 85vh;
-	}
+	// @include sp() {
+	// 	height: 85vh;
+	// }
 	&__txt {
 		font-size: 2.6rem;
 		font-weight: 500;
@@ -426,6 +426,7 @@ other
 			font-weight: 700;
 			font-size: 7rem;
 			margin-bottom: 13px;
+			line-height: 1;
 			@include sp() {
 				font-size: 4rem;
 			}

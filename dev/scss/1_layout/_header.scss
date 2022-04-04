@@ -60,6 +60,9 @@ header
                 color: black;
             }
         }
+        i {
+            margin: 0 6px;
+        }
     }
     &__itemSeach {
         font-size: 1.7rem;
@@ -165,6 +168,7 @@ header
         @include sp() {
             display: block;
             position: static;
+            width: 100%;
         }
     }
     &__form {

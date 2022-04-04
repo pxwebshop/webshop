@@ -516,6 +516,8 @@ header
       .c-header__item:hover .c-header__child {
         display: block;
         color: black; }
+    .c-header__item i {
+      margin: 0 6px; }
   .c-header__itemSeach {
     font-size: 1.7rem;
     font-weight: 400;
@@ -625,7 +627,8 @@ header
     @media screen and (max-width: 767px) {
       .c-header__search {
         display: block;
-        position: static; } }
+        position: static;
+        width: 100%; } }
   .c-header__form {
     display: -webkit-box;
     display: -webkit-flex;
@@ -955,6 +958,7 @@ list
     margin-bottom: 15px;
     width: 50%;
     padding-left: 20px;
+    height: 100%;
     -webkit-transition: all .5s;
     transition: all .5s; }
     @media screen and (max-width: 870px) {
@@ -981,9 +985,6 @@ list
     max-height: 250px;
     height: 100%;
     cursor: pointer; }
-    @media screen and (max-width: 767px) {
-      .c-list2__img {
-        max-height: 170px; } }
   .c-list2__info {
     margin-top: 10px; }
   .c-list2__title {
@@ -1252,6 +1253,9 @@ list
   margin-top: 30px;
   width: 100%;
   text-align: center; }
+  @media screen and (max-width: 767px) {
+    .c-list6 {
+      margin-top: 10px; } }
   .c-list6 .slick-slide {
     margin: 10px; }
   .c-list6 .slick-prev {
@@ -1272,6 +1276,9 @@ list
         -webkit-transform: scale(1.1);
             -ms-transform: scale(1.1);
                 transform: scale(1.1); }
+    @media screen and (max-width: 767px) {
+      .c-list6__img {
+        width: 100%; } }
   .c-list6__txt {
     font-family: 'Roboto Serif', serif;
     padding-top: 10px;
@@ -2107,9 +2114,6 @@ other
 .c-banner {
   background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
   height: 500px; }
-  @media screen and (max-width: 767px) {
-    .c-banner {
-      height: 85vh; } }
   .c-banner__txt {
     font-size: 2.6rem;
     font-weight: 500;
@@ -2123,7 +2127,8 @@ other
     .c-banner__txt--large {
       font-weight: 700;
       font-size: 7rem;
-      margin-bottom: 13px; }
+      margin-bottom: 13px;
+      line-height: 1; }
       @media screen and (max-width: 767px) {
         .c-banner__txt--large {
           font-size: 4rem; } }

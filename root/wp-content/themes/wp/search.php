@@ -62,8 +62,8 @@ $queried = get_queried_object(); ?>
                                 </div>
                             </div>
                         <?php endwhile; ?>
+                        <div class="c-pagenavi"><?php wp_pagenavi(array('query' => $search_query)); ?></div>
                     <?php endif; ?>
-                    <div class="c-pagenavi"><?php wp_pagenavi(array('query' => $search_query)); ?></div>
                     <?php wp_reset_query(); ?>
                 </div>
             </div>
