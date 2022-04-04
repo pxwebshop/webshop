@@ -432,10 +432,13 @@ footer
     font-size: 3.2rem;
     margin-right: 16px; }
   .c-footer__copyRight {
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     background: url(/assets/img/common/bg-footer.svg);
     background-size: cover; }
+    .c-footer__copyRight .c-footer__txt {
+      font-size: 1.5rem;
+      line-height: 1.5; }
 
 /*------------------------------------------------------------
 header

@@ -111,9 +111,13 @@ footer
         }
     }
     &__copyRight {
-        padding: 15px;
+        padding: 10px;
         text-align: center;
         background: url(/assets/img/common/bg-footer.svg);
-        background-size: cover; 
+        background-size: cover;
+        .c-footer__txt {
+            font-size: 1.5rem;
+            line-height: 1.5;
+        }
     }
 }
