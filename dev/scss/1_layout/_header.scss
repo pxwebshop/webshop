@@ -7,7 +7,8 @@ header
     &__sticky {
         position: sticky;
         width: 100%;
-        background-color: $colorBlue6;
+        // background-color: $colorBlue6;
+        background: linear-gradient(-45deg, rgba(89,127,197, 1), rgba(12, 129, 246, 1), rgba(40, 105, 207, 1), rgba(40, 95, 158, 1));
         height: 100%;
         top: 0;
         z-index: 1;
@@ -59,6 +60,9 @@ header
                 display: block;
                 color: black;
             }
+        }
+        i {
+            margin: 0 6px;
         }
     }
     &__itemSeach {
@@ -165,6 +169,7 @@ header
         @include sp() {
             display: block;
             position: static;
+            width: 100%;
         }
     }
     &__form {
@@ -247,6 +252,7 @@ header
         }
         &__menu {
             padding-top: 10px;
+            overflow: scroll;
             &__sub {
                 display: none;
                 border-top: 1px solid $colorBlue1;
@@ -289,7 +295,6 @@ header
             top: 60px;
             position: fixed;
             width: 100%;
-            overflow: scroll;
             z-index: 999;
         }
     }

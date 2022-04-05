@@ -142,10 +142,9 @@ Common color
 
 /* Reset
 ------------------------------------------------------------*/
-*:not(i) {
+* {
   margin: 0;
-  padding: 0;
-  font-family: "Noto Sans Lao", sans-serif !important; }
+  padding: 0; }
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -346,7 +345,8 @@ footer
   .c-footer__form {
     position: relative;
     width: 50%;
-    margin: 16px auto; }
+    margin: 15px auto;
+    margin-bottom: 0; }
     @media screen and (max-width: 767px) {
       .c-footer__form {
         width: 80%; } }
@@ -379,14 +379,18 @@ footer
       cursor: pointer;
       background-color: #00BFFF; }
       .c-footer__form button:hover {
-        background-color: #FF0000; }
+        background-color: #FF0000;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out; }
       @media screen and (max-width: 767px) {
         .c-footer__form button {
           border-radius: 5px;
           font-size: 1.3rem;
           padding: 16px 23px; } }
   .c-footer__info {
-    background-color: #003556; }
+    background-color: #045de9;
+    background-image: -webkit-linear-gradient(135deg, #09c6f9 0%, #045de9 74%);
+    background-image: linear-gradient(315deg, #09c6f9 0%, #045de9 74%); }
     .c-footer__info .c-title2 {
       margin: 16px 0; }
       @media screen and (max-width: 767px) {
@@ -428,10 +432,13 @@ footer
     font-size: 3.2rem;
     margin-right: 16px; }
   .c-footer__copyRight {
-    padding: 30px;
+    padding: 10px;
     text-align: center;
     background: url(/assets/img/common/bg-footer.svg);
     background-size: cover; }
+    .c-footer__copyRight .c-footer__txt {
+      font-size: 1.5rem;
+      line-height: 1.5; }
 
 /*------------------------------------------------------------
 header
@@ -443,7 +450,8 @@ header
     position: -webkit-sticky;
     position: sticky;
     width: 100%;
-    background-color: #003556;
+    background: -webkit-linear-gradient(135deg, #597fc5, #0c81f6, #2869cf, #285f9e);
+    background: linear-gradient(-45deg, #597fc5, #0c81f6, #2869cf, #285f9e);
     height: 100%;
     top: 0;
     z-index: 1;
@@ -517,6 +525,8 @@ header
       .c-header__item:hover .c-header__child {
         display: block;
         color: black; }
+    .c-header__item i {
+      margin: 0 6px; }
   .c-header__itemSeach {
     font-size: 1.7rem;
     font-weight: 400;
@@ -626,7 +636,8 @@ header
     @media screen and (max-width: 767px) {
       .c-header__search {
         display: block;
-        position: static; } }
+        position: static;
+        width: 100%; } }
   .c-header__form {
     display: -webkit-box;
     display: -webkit-flex;
@@ -724,7 +735,8 @@ header
               -ms-transform: rotate(-45deg);
                   transform: rotate(-45deg); }
     .c-header__gnav__menu {
-      padding-top: 10px; }
+      padding-top: 10px;
+      overflow: scroll; }
       .c-header__gnav__menu__sub {
         display: none;
         border-top: 1px solid #ADD8E6; }
@@ -769,7 +781,6 @@ header
       top: 60px;
       position: fixed;
       width: 100%;
-      overflow: scroll;
       z-index: 999; }
   .c-header__tel__btn {
     position: relative;
@@ -805,7 +816,7 @@ header
 layout
 ------------------------------------------------------------*/
 body {
-  font-family: "Noto Sans Lao", "Roboto Serif", "Meiryo", sans-serif !important;
+  font-family: "Noto Sans Lao", sans-serif;
   overflow-x: hidden;
   overflow-y: auto;
   min-width: 320px;
@@ -956,6 +967,7 @@ list
     margin-bottom: 15px;
     width: 50%;
     padding-left: 20px;
+    height: 100%;
     -webkit-transition: all .5s;
     transition: all .5s; }
     @media screen and (max-width: 870px) {
@@ -971,6 +983,12 @@ list
               transform: translateY(-5px); }
     .c-list2__item--search {
       width: 33.33%; }
+      @media screen and (max-width: 767px) {
+        .c-list2__item--search {
+          width: 50%; } }
+      @media screen and (max-width: 400px) {
+        .c-list2__item--search {
+          width: 100%; } }
   .c-list2__link {
     display: -webkit-box;
     display: -webkit-flex;
@@ -982,9 +1000,6 @@ list
     max-height: 250px;
     height: 100%;
     cursor: pointer; }
-    @media screen and (max-width: 767px) {
-      .c-list2__img {
-        max-height: 170px; } }
   .c-list2__info {
     margin-top: 10px; }
   .c-list2__title {
@@ -1250,11 +1265,14 @@ list
         font-size: 1.3rem; } }
 
 .c-list6 {
-  margin-top: 30px;
+  margin-top: 20px;
   width: 100%;
   text-align: center; }
+  @media screen and (max-width: 767px) {
+    .c-list6 {
+      margin-top: 10px; } }
   .c-list6 .slick-slide {
-    margin: 10px; }
+    margin: 0 3px; }
   .c-list6 .slick-prev {
     left: -13px; }
   .c-list6 .slick-next {
@@ -1273,6 +1291,9 @@ list
         -webkit-transform: scale(1.1);
             -ms-transform: scale(1.1);
                 transform: scale(1.1); }
+    @media screen and (max-width: 767px) {
+      .c-list6__img {
+        width: 100%; } }
   .c-list6__txt {
     font-family: 'Roboto Serif', serif;
     padding-top: 10px;
@@ -2108,9 +2129,6 @@ other
 .c-banner {
   background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
   height: 500px; }
-  @media screen and (max-width: 767px) {
-    .c-banner {
-      height: 85vh; } }
   .c-banner__txt {
     font-size: 2.6rem;
     font-weight: 500;
@@ -2124,7 +2142,8 @@ other
     .c-banner__txt--large {
       font-weight: 700;
       font-size: 7rem;
-      margin-bottom: 13px; }
+      margin-bottom: 13px;
+      line-height: 1; }
       @media screen and (max-width: 767px) {
         .c-banner__txt--large {
           font-size: 4rem; } }
@@ -2201,7 +2220,7 @@ other
   display: none;
   background-color: rgba(1, 1, 1, 0.5); }
   .c-modal__content {
-    background-color: #ADD8E6;
+    background-color: #87CEFA;
     max-width: 600px;
     width: 100%;
     height: 100%;
@@ -2214,7 +2233,7 @@ other
         font-size: 1.3rem; } }
   .c-modal .c-title2 {
     text-align: center;
-    background-color: #00BFFF;
+    background-color: #0064a3;
     padding: 16px 40px 16px 16px;
     border-radius: 5px;
     color: #ffffff; }
@@ -2257,13 +2276,13 @@ other
     text-align: center; }
     .c-modal__btnSubmit button {
       cursor: pointer;
-      padding: 10px 30px;
+      padding: 15px 30px;
       text-transform: uppercase;
-      background-color: #00BFFF;
+      background-color: #0064a3;
       border-radius: 50px;
       border: none;
-      -webkit-box-shadow: 0 0 5px #111111;
-              box-shadow: 0 0 5px #111111;
+      -webkit-box-shadow: 0 0 5px #ffffff;
+              box-shadow: 0 0 5px #ffffff;
       color: #ffffff;
       font-weight: 700;
       -webkit-transition: 1s;
