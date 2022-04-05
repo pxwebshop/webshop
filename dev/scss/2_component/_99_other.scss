@@ -124,6 +124,8 @@ other
 		position: relative;
 		@include sp {
 			background-size: auto;
+			height: 100px;
+			margin-top: 60px;
 		}
 		.c-title1 {
 			font-weight: 600;

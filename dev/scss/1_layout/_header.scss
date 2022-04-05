@@ -205,6 +205,7 @@ header
         justify-content: space-between;
         padding: 10px;
         background-color: $colorBlue5;
+        background: linear-gradient(-45deg, #597fc5, #0c81f6, #2869cf, #285f9e);
         position: fixed;
         top: 0;
         width: 100%;
@@ -254,14 +255,14 @@ header
             margin-bottom: 65px;
             &__sub {
                 display: none;
-                border-top: 1px solid $colorBlue1;
-                .c-header__gnav__item{
+                border-top: 1px solid rgba(14, 87, 171, 1);
+                .c-header__gnav__item {
+                    padding-left: 30px;
                     font-size: 1.6rem;
+                    display: flex;
+                    align-items: center;
                     &:last-child {
                         border-bottom: none;
-                    }
-                    span {
-                        padding-left: 30px;
                     }
                 }
             }
@@ -277,7 +278,7 @@ header
         &__item {
             font-size: 1.8rem;
             font-weight: 600;
-            border-bottom: 1px solid $colorBlue1;
+            border-bottom: 1px solid rgba(14, 87, 171, 0.5);           
             span {
                 display: block;
             }

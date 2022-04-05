@@ -69,16 +69,16 @@
 						<i class="fa-solid fa-minus"></i>
 					</a>
 					<ul class="c-header__gnav__menu__sub">
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#"><span>ອອກແບບເວັບໄຊ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#"><span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#">ຂຽນ Web App</a>
 						</li>
 					</ul>
@@ -95,13 +95,13 @@
 						<i class="fa-solid fa-minus"></i>
 					</a>
 					<ul class="c-header__gnav__menu__sub">
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php/gioi-thieu"><span>ແນະນຳ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php/thanh-toan"><span>ຊຳລະເງິນ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php/lien-he"><span>ຕິດຕໍ່</span></a>
 						</li>
 					</ul>
