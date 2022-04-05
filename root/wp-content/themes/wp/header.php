@@ -44,7 +44,7 @@
 
 			<div class="c-header__btn">
 				<div class="c-header__tel__btn">
-					<span class="tel_link"><a href="tel:07038951109">070-3895-1109</a></span>
+					<span class="tel_link"><a href="tel:020 28266650">020 28266650</a></span>
 				</div>
 
 				<div class="c-header__gnav__btn" id="gnav_open">
