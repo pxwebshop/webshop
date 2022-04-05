@@ -2144,6 +2144,9 @@ other
 .c-banner {
   background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
   height: 500px; }
+  @media screen and (max-width: 767px) {
+    .c-banner {
+      height: 90vh; } }
   .c-banner__txt {
     font-size: 2.6rem;
     font-weight: 500;
@@ -2208,7 +2211,8 @@ other
     top: 10%; }
     @media screen and (max-width: 767px) {
       .c-banner__content {
-        top: 18%;
+        top: auto;
+        bottom: 15%;
         padding-right: 15px; } }
   .c-banner .l-container {
     height: 100%;
