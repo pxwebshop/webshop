@@ -547,8 +547,8 @@ header
             align-items: center; }
     .c-header__itemSeach:hover .c-header__search {
       display: block; }
-      .c-header__itemSeach:hover .c-header__search input:focus .c-header__search {
-        display: block; }
+    .c-header__itemSeach:focus-within .c-header__search {
+      display: block; }
     @media screen and (max-width: 767px) {
       .c-header__itemSeach {
         font-size: 1.8rem;
