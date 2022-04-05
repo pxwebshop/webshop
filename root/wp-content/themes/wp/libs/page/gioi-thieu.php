@@ -23,7 +23,7 @@
                             <img src="/assets/img/team/phonexay.jpg" alt="">
                         </figure>
                         <div class="c-list8__content">
-                            <span class="c-list8__name">Phonexay Namsavanh</span> <br>
+                            <span class="c-list8__name"><span class="c-list8__title">Founder</span> - Phonexay Namsavanh</span> <br>
                             <span class="c-list8__position">Network Designer</span>
                             <ul class="c-list8__skill">
                                 <li><span>Cisco</span></li>
@@ -53,7 +53,7 @@
                             <img src="/assets/img/team/dangquy.jpg" alt="">
                         </figure>
                         <div class="c-list8__content">
-                            <span class="c-list8__name">Dang Ngoc Quy</span> <br>
+                            <span class="c-list8__name"><span class="c-list8__title">Co-founder</span> - Dang Quy</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
                                 <li><span>Docker</span></li>

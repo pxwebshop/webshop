@@ -13,12 +13,10 @@ other
 		#{$root}__title {
 			font-size: 3.2rem;
 			line-height: 2;
-			font-family: $roboto;
 		}
 		#{$root}__time {
 			font-size: 1.3rem;
 			font-style: italic;
-			font-family: $roboto;
 		}
 	}
 	&__body {
@@ -41,7 +39,6 @@ other
 			padding-left: 60px;
 			h2 {
 				font-size: 2.4rem;
-				font-family: $roboto;
 				line-height: 2;
 			}
 			li {
@@ -57,13 +54,11 @@ other
 			h2 {
 				font-size: 2.4rem;
 				line-height: 2;
-				font-family: $roboto;
 				text-align: center;
 			}
 		}
 	}
 	p {
-		font-family: $roboto;
 		font-size: 1.6rem;
 		text-align: justify;
 	}
@@ -207,7 +202,6 @@ other
 			color: $colorWhite;
 			letter-spacing: 1px;
 			cursor: pointer;
-			@include roboto;
 		}
 	}
 	&__group {
@@ -216,7 +210,6 @@ other
 			line-height: 1.5;
 			color: $colorBlack;
 			font-weight: 600;
-			@include roboto;
 			text-transform: uppercase;
 			padding-left: 10px;
 		}
@@ -283,7 +276,6 @@ other
 			padding: 10px;
 			font-size: 1.6rem;
 			line-height: 1.5;
-			@include roboto();
 		}
 	}
 	&__firstName,
@@ -323,7 +315,6 @@ other
 		font-size: 1.6rem;
 		line-height: 1.5;
 		padding: 10px;
-		@include roboto();
 	}
 	&__price {
 		float: right;
@@ -368,6 +359,9 @@ other
 		line-height: 1.5;
 		@include sp() {
 			width: 100%;
+		}
+		span {
+			font-weight: bold;
 		}
 	}
 	&__eWallets {
