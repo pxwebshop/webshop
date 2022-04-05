@@ -116,8 +116,8 @@ other
 }
 .c-page {
 	&__heading {
-		background: url(../img/common/contact-background.jpg) no-repeat center
-			center;
+		// background: url(../img/common/contact-background.jpg) no-repeat center center;
+		background-color: #00356B;;
 		background-size: 100%;
 		height: 300px;
 		width: 100%;
@@ -155,6 +155,8 @@ other
 	&__map {
 		width: 100%;
 		height: 346px;
+		z-index: 2;
+		position: inherit;
 		iframe {
 			width: 100%;
 			height: 346px;
@@ -163,6 +165,7 @@ other
 	&__content {
 		display: flex;
 		flex-wrap: wrap;
+		padding-bottom: 30px;
 		@include sp {
 			display: block;
 		}
@@ -172,6 +175,8 @@ other
 		margin-top: 30px;
 		font-size: 1.6rem;
 		line-height: 2;
+		color: $colorWhite;
+		z-index: 2;
 		@include sp {
 			width: 100%;
 		}
@@ -183,6 +188,7 @@ other
 		margin-top: -130px;
 		box-shadow: 0 0 5px $colorGrey;
 		border-radius: 5px;
+		z-index: 2;
 		@include sp {
 			width: 100%;
 			margin-top: 30px;
