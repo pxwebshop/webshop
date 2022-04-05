@@ -147,10 +147,10 @@
                 <div class="l-container">
                     <div class="c-list9__content c-list9__content1">
                         <div class="c-list9__text">
-                            <h1 class="c-title1">ມີແບບເວັບໄຊທີ່ຫຼາກຫຼາຍ</h1>
+                            <h1 class="c-title1">ແບບເວັບໄຊທີ່ຫຼາກຫຼາຍ</h1>
                             <p class="c-list9__subTitle">ຫຼາຍກວ່າ 500 ແບບ, ໃຫ້ທ່ານເລືອກໄດ້ຕາມໃຈມັກ</p>
-                            <p class="c-list9__txt">ທີ່ PX WebShop, ມີແບບເວັບໄຊໃຫ້ເລືອກຫຼາກຫຼາຍໃນທຸກສາຂາອາຊີບ ເພື່ອໃຫ້ລູກຄ້າເລືອກໄດ້ຕາມໃຈມັກ. ເວັບໄຊຕອບສະໜອງໄດ້ກັບທຸກໆອຸປະກອນ.</p>
-                            <button class="c-list9__btn">ເບີ່ງຕົວຢ່າງເວັບໄຊເພີ່ມເຕີມ</button>
+                            <p class="c-list9__txt">ທີ່ PX WebShop, ມີແບບເວັບໄຊໃຫ້ທ່ານເລືອກຫຼາກຫຼາຍໃນທຸກໆສາຂາອາຊີບ ເພື່ອໃຫ້ລູກຄ້າເລືອກຕາມໃຈມັກ. ເວັບໄຊສາມາດຕອບສະໜອງກັບທຸກໆອຸປະກອນ.</p>
+                            <button class="c-list9__btn">ເບີ່ງແບບເວັບໄຊເພີ່ມເຕີມ</button>
                         </div>
                         <figure class="c-list9__img">
                             <img src="/assets/img/intro/intro1.png" alt="">
@@ -165,7 +165,7 @@
                             <h1 class="c-title1">ຄຸ້ມຄອງງ່າຍ</h1>
                             <p class="c-list9__subTitle">ກາຍເປັນຜູ້ຄຸ້ມຄອງເວັບໄຊມືອາຊີບ</p>
                             <p class="c-list9__txt">ດ້ວຍປະສົບການຂອງຜູ້ສ້າງເວັບໄຊ, ພວກເຮົາເຂົ້າໃຈດີກ່ວາໃຜໆ ວ່າລູກຄ້າຕ້ອງການເວັບໄຊທີ່ໃຊ້ງານງ່າຍ ແລະ ຄຸ້ມຄອງໄດ້ງ່າຍ.</p>
-                            <p class="c-list9__txt">ກັບແບບເວັບທີ່ PX WebShop, ລູກຄ້າບໍ່ຈໍາເປັນຕ້ອງກັງວົນກ່ຽວກັບເລື່ອງນີ້ອີກຕໍ່ໄປ, ພຽງແຕ່ຮູ້ການນຳໃຊ້ຄອມພິວເຕີ້ຂັ້ນພື້ນຖານ, ທ່ານກໍ່ສາມາດຈັດການເວັບໄຊໄດ້ຢ່າງງ່າຍດາຍ.</p>
+                            <p class="c-list9__txt">ແບບເວັບໄຊທີ່ PX WebShop, ລູກຄ້າບໍ່ຈໍາເປັນຕ້ອງກັງວົນກ່ຽວກັບເລື່ອງນີ້ອີກຕໍ່ໄປ, ພຽງແຕ່ທ່ານຮູ້ການນຳໃຊ້ຄອມພິວເຕີ້ຂັ້ນພື້ນຖານ, ທ່ານກໍ່ສາມາດຈັດການເວັບໄຊໄດ້ຢ່າງງ່າຍດາຍ.</p>
                             <p class="c-list9__txt">ຢ່າງໃດກໍຕາມ, ຖ້າທ່ານຍັງບໍ່ຫມັ້ນໃຈແທ້ໆ, ກະລຸນາຕິດຕໍ່ຫາພວກເຮົາ. ທີມງານ PX WebShop ພ້ອມໃຫ້ບໍລິການທ່ານຕະຫຼອດເວລາ.</p>
                             <!-- <button class="c-list9__btn">Xem thêm các mẫu giao diện ></button> -->
                         </div>
@@ -181,7 +181,7 @@
                         <div class="c-list9__text">
                             <h1 class="c-title1">ຄຸນ​ນະ​ສົມ​ບັດທີ່ຫຼາກຫຼາຍ</h1>
                             <p class="c-list9__subTitle">ສະໜອງຄຸນ​ນະ​ສົມ​ບັດຕ່າງໆສໍາລັບເວັບໄຊ</p>
-                            <p class="c-list9__txt">ໃນປັດຈຸບັນ, PX WebShop ໄດ້ສະໜອງບັນດາຄຸນນະສົມບັດດັ່ງຕໍ່ໄປນີ້: Slider, banner, products, news, services, support, recruitment, members, orders, payment, online chat, contact… ແລະ ຄຸນ​ນະ​ສົມ​ບັດອື່ນໆອີກຫຼາຍຮ້ອຍລາຍການ.</p>
+                            <p class="c-list9__txt">ໃນປັດຈຸບັນ, PX WebShop ໄດ້ສະໜອງບັນດາຄຸນນະສົມບັດດັ່ງຕໍ່ໄປນີ້: Slider, Banner, ສີນຄ້າ, ຂ່າວສານ, ບໍລິການ, recruitment, ສະມະຊິກ, ອໍເດີສີນຄ້າ, ການຊຳລະເງິນ, ອອນລາຍແຊັດ... ແລະ ຄຸນ​ນະ​ສົມ​ບັດອື່ນໆອີກຫຼາຍຮ້ອຍລາຍການ.</p>
                             
                         </div>
                         <figure class="c-list9__img">
@@ -194,11 +194,11 @@
                 <div class="l-container">
                     <div class="c-list9__content c-list9__content4">
                         <div class="c-list9__text">
-                            <h1 class="c-title1">ເພີ່ມປະສິດທິພາບຄ່າໃຊ້ຈ່າຍ</h1>
-                            <p class="c-list9__subTitle">ເພີ່ມປະສິດທິພາບເວັບໄຊຊ່ວຍໃຫ້ລູກຄ້າຫຼຸດຜ່ອນຄ່າໃຊ້ຈ່າຍ</p>
-                            <p class="c-list9__txt">ສໍາລັບທຸລະກິດສ່ວນຕົວ ຫຼື ທຸລະກິດໃຫມ່, ຄ່າໃຊ້ຈ່າຍຖືວ່າສຳຄັນທີ່ສຸດ. ໂດຍສະເພາະເມື່ອໃຊ້ບໍລິການທີ່ເຮັດໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍອື່ນໆຫຼາຍ.Với những cá nhân kinh doanh hay những doanh nghiệp mới chi phí luôn là điều phải cân nhắc. Nhất là khi sử dụng dịch vụ mà lại phát sinh thêm nhiều khoản chi phí khác.</p>
-                            <p class="c-list9__txt">Hiểu được điều này chúng tôi luôn cố gắng tích hợp tính năng website đầy đủ và phù hợp với ngành hàng, không phát sinh thêm chi phí, trả phí gia hạn tiện lợi giúp khách hàng tiết kiệm được ngân sách chi tiêu.</p>
-                            <button class="c-list9__btn">Tư vấn</button>
+                            <h1 class="c-title1">ຈັດການຄ່າໃຊ້ຈ່າຍຢ່າງມີປະສິດທິພາບ</h1>
+                            <p class="c-list9__subTitle">ການຈັດການຄ່າໃຊ້ຈ່າຍຢ່າງມີປະສິດທິພາບຊ່ວຍໃຫ້ລູກຄ້າຫຼຸດຜ່ອນຄ່າໃຊ້ຈ່າຍກ່ຽວກັບເວັບໄຊ</p>
+                            <p class="c-list9__txt">ສໍາລັບທຸລະກິດ SME ຫຼື ທຸລະກິດໃໝ່, ຄ່າໃຊ້ຈ່າຍຖືວ່າສຳຄັນທີ່ສຸດ ໂດຍສະເພາະເມື່ອຂໍໃຊ້ບໍລິການເພີ່ມທີ່ກໍ່ໃຫ້ເກີດຄ່າໃຊ້ຈ່າຍຕ່າງໆຫຼາຍຂື້ນ.</p>
+                            <p class="c-list9__txt">ພວກເຮົາເຂົ້າໃຈສີ່ງນີ້ດີ, ສະນັ້ນພວກເຮົາພະຍາຍາມລວບລວມເອົາຄຸນນະສົມບັດຕ່າງໆຂອງເວັບໄຊໃຫ້ຄົບຖ້ວນ ແລະ ເຫມາະສົມກັບທຸລະກິດຂອງລູກຄ້າ, ໂດຍບໍ່ມີຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ.</p>
+                            <button class="c-list9__btn">ຂໍຄຳແນະນຳ</button>
                         </div>
                         <figure class="c-list9__img">
                             <img src="/assets/img/intro/intro4.png" alt="">
@@ -212,7 +212,7 @@
                         <div class="c-list9__text">
                             <h1 class="c-title1">ຊ່ວຍເຫຼືອ 24/7</h1>
                             <p class="c-list9__subTitle">ຊ່ວຍເຫຼືອ ແລະ ໃຫ້ຄໍາແນະນໍາລູກຄ້າໄດ້ທຸກທີ່, ທຸກເວລາ</p>
-                            <p class="c-list9__txt">ທີມງານຂອງພວກເຮົາພ້ອມທີ່ຈະໃຫ້ບໍລິການທຸກຄັ້ງທີ່ລູກຄ້າຕ້ອງການເພື່ອຮັບປະກັນການບໍລິການແບບມືອາຊີບ.</p>
+                            <p class="c-list9__txt">ທີມງານຂອງພວກເຮົາພ້ອມທີ່ຈະໃຫ້ບໍລິການທຸກຄັ້ງທີ່ລູກຄ້າຕ້ອງການເພື່ອຮັບປະກັນການບໍລິການທີ່ເປັນມືອາຊີບ.</p>
                             <p class="c-list9__txt">ພຽງແຕ່ລູກຄ້າຮ້ອງຂໍ ພວກເຮົາຕອບສະໜອງທັນທີ!</p>
                         </div>
                         <figure class="c-list9__img">

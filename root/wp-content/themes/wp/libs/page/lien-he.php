@@ -22,21 +22,21 @@
                 <div class="c-contact__info">
                     <div class="c-contact__phone">
                         <i class="fa-solid fa-phone"></i>
-                        <span class="c-contact__txt">020 28266650</span>
+                        <span class="c-contact__txt"> &nbsp020 28266650</span>
                     </div>
                     <div class="c-contact__email">
                         <i class="fa-solid fa-envelope"></i>
-                        <span class="c-contact__txt">pxwebshop@gmail.com</span>
+                        <span class="c-contact__txt"> &nbsppxwebshop@gmail.com</span>
                     </div>
                     <div class="c-contact__address1">
                         <i class="fa-solid fa-location-dot"></i>
-                        <span class="c-contact__txt">ບ້ານ ຂາມງອຍ,​ ເມືອງ ໄຊເສດຖາ, ນະຄອນຫຼວງວຽງຈັນ</span>
+                        <span class="c-contact__txt"> &nbspບ້ານ ຂາມງອຍ,​ ເມືອງ ໄຊເສດຖາ, ນະຄອນຫຼວງວຽງຈັນ</span>
                     </div>
                 </div>
                 <div class="c-contact__form">
                     <form action="#">
                         <div class="c-contact__group">
-                            <label for="name">ຊື່</label>
+                            <label for="name">ຊື່ ແລະ ນາມສະກຸນ</label>
                             <input type="text" name="yourname" id="name">
                         </div>
                         <div class="c-contact__group">
@@ -44,7 +44,7 @@
                             <input type="text" id="email">
                         </div>
                         <div class="c-contact__group">
-                            <label for="phone">ເບີ້ໂທ</label>
+                            <label for="phone">ເບີໂທ</label>
                             <input type="text" id="phone">
                         </div>
                         <div class="c-contact__group">
