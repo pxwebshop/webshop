@@ -12,7 +12,6 @@
 	</div>
 	<div class="c-footer__info wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
-			<hr>
 			<div class="c-footer__content">
 				<div class="c-footer__about">
 					<h3 class="c-title2">ກຽ່ວກັບ PX WebShop</h3>
@@ -41,7 +40,6 @@
 					<p class="c-footer__txt"><a href="#" class="c-footer__link">ເງື່ອນ​ໄຂ​ການ​ນໍາ​ໃຊ້​</a></p>
 				</div>
 			</div>
-			<hr>
 			<div class="c-footer__social">
 				<div class="c-footer__website">
 					<h3 class="c-title2">PX WebShop</h3>
