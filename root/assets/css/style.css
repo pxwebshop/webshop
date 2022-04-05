@@ -741,7 +741,7 @@ header
                   transform: rotate(-45deg); }
     .c-header__gnav__menu {
       padding-top: 10px;
-      margin-bottom: 65px; }
+      margin-bottom: 200px; }
       .c-header__gnav__menu__sub {
         display: none;
         border-top: 1px solid #0e57ab; }
@@ -784,7 +784,7 @@ header
         display: -webkit-flex;
         display: -ms-flexbox;
         display: flex;
-        padding: 10px 15px;
+        padding: 10px 15px 10px 10px;
         line-height: 1.5; }
     .c-header__gnav__child {
       background-color: #ffffff;
