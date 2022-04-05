@@ -75,7 +75,6 @@ header
         position: relative;
         cursor: pointer;
         display: flex;
-        height: 100%;
         align-items: center;
         &:hover {
             .c-header__search {
@@ -252,7 +251,7 @@ header
         }
         &__menu {
             padding-top: 10px;
-            overflow: scroll;
+            margin-bottom: 65px;
             &__sub {
                 display: none;
                 border-top: 1px solid $colorBlue1;
@@ -296,6 +295,7 @@ header
             position: fixed;
             width: 100%;
             z-index: 999;
+            overflow: scroll;
         }
     }
    
