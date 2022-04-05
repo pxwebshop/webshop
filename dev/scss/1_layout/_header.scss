@@ -79,11 +79,12 @@ header
         &:hover {
             .c-header__search {
                 display: block;
-                input:focus {
-                    .c-header__search {
-                        display: block;
-                    }
-                }
+
+            }
+        }
+        &:focus-within {
+            .c-header__search {
+                display: block;
             }
         }
         @include sp() {
@@ -189,6 +190,8 @@ header
             }
             @include max-w(550px) {
                 width: 80%;
+                border-radius: 0;
+                background-color: $colorWhite;
             }
         }
     }
@@ -202,6 +205,10 @@ header
         }
         @include max-w(550px) {
             width: 20%;
+            background-color: $colorWhite;
+            i {
+                color: $colorBlack;
+            }
         }
     }
     &__gnav {
