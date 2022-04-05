@@ -2,7 +2,7 @@
 <footer class="c-footer" id="footer">
 	<div class="c-footer__advise wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
-			<h3 class="c-title2">PX WebShop – ອອກແບບເວັບໄຊແບບມືອາຊີບ</h3>
+			<h3 class="c-title2">PX WebShop – ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ</h3>
 			<p class="c-footer__txt">ລົງທະບຽນເພື່ອທົດລອງໃຊ້ເວັບໄຊ 7 ມື້ຟຣີ!</p>
 			<div class="c-footer__form">
 				<input type="tel" placeholder="ໃສ່ເບີໂທລະສັບເພື່ອຮັບຄຳປຶກສາ" maxlength="15" minlength="5">
@@ -14,7 +14,7 @@
 		<div class="l-container">
 			<div class="c-footer__content">
 				<div class="c-footer__about">
-					<h3 class="c-title2">ກຽ່ວກັບ PX WebShop</h3>
+					<h3 class="c-title2">ກຽ່ວກັບເຮົາ</h3>
 					<p class="c-footer__txt"><a href="/gioi-thieu" class="c-footer__link">ແນະນຳ</a></p>
 					<p class="c-footer__txt"><a href="/thanh-toan" class="c-footer__link">ຊຳລະເງິນ</a></p>
 					<p class="c-footer__txt"><a href="/lien-he" class="c-footer__link">ຕິດຕໍ່</a></p>
@@ -27,7 +27,7 @@
 					<p class="c-footer__txt"><a href="#" class="c-footer__link">ບໍລິການ SEO</a></p>
 				</div>
 				<div class="c-footer__quote">
-					<h3 class="c-title2">ລາຍ​ການ​ລາ​ຄາເວັບໄຊ</h3>
+					<h3 class="c-title2">ແພັກເກັດເວັບໄຊ</h3>
 					<p class="c-footer__txt"><a href="#" class="c-footer__link">Basic</a></p>
 					<p class="c-footer__txt"><a href="#" class="c-footer__link">Plus</a></p>
 					<p class="c-footer__txt"><a href="#" class="c-footer__link">Professional</a></p>

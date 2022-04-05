@@ -8,8 +8,8 @@
                 <div class="c-banner__content wow slideInLeft">
                     <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ມີຄວາມປອດໄພ ແລະ ໜ້າເຊື່ອຖື.</h3>
                     <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຢີໃນລາວ.</span></h2>
-                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ຊອບ​ແວ​ ແລະ ເວັບໄຊ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
-                    <a class="c-banner__btn  wow slideInLeft" href="/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
+                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ເວັບໄຊ​ ແລະ ຊອບ​ແວ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
+                    <a class="c-banner__btn  wow slideInLeft" href="/index.php/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
                 </div>
             </div>
         </div>
@@ -132,7 +132,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/xehoi.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ເວັບລົດ</p>
+                                <p class="c-list6__txt">ເວັບໄຊກ່ຽວກັບລົດ</p>
                             </div>
                         </a>
                     </div>
@@ -474,22 +474,22 @@
         <div class="c-modal" id="modal">
             <div class="l-container">
                 <div class="c-modal__content">
-                    <h3 class="c-title2">ລົງທະບຽນຂໍຄຳປຶກສາເວັບໄຊ</h3>
+                    <h3 class="c-title2">ລົງທະບຽນຂໍຄຳປຶກສາກ່ຽວກັບເວັບໄຊ</h3>
                     <form action="#" class="c-modal__form">
                         <div class="c-modal__group">
                             <label for="name">ຊື່ ແລະ ນາມສະກຸນ</label>
                             <input type="text" placeholder="&nbspໃສ່ຊື່ ແລະ ນາມສະກຸນຂອງລູກຄ້າ" class="c-modal__name" id="name">
                         </div>
                         <div class="c-modal__group">
-                            <label for="phone">ເບີ້ໂທ</label>
+                            <label for="phone">ເບີໂທ</label>
                             <input type="text" placeholder="&nbspໃສ່ເບີໂທລະສັບຂອງລູກຄ້າ" class="c-modal__name" id="phone">
                         </div>
                         <div class="c-modal__group">
-                            <label for="email">Email</label>
+                            <label for="email">ອີເມວ</label>
                             <input type="email" placeholder="&nbspໃສ່ອີເມວຂອງລູກຄ້າ" class="c-modal__name" id="email">
                         </div>
                         <div class="c-modal__group">
-                            <label for="content">ເນື້ອຫາ</label>
+                            <label for="content">ຂໍ້ຄວາມ</label>
                             <textarea rows="5" type="text" class="c-modal__name" id="content"> </textarea>
                         </div>
                         <div class="c-modal__btnSubmit">
@@ -614,7 +614,7 @@
 
             <div class="p-index__article__articleOther wow slideInRight">
                 <div class="c-block1">
-                    <h3 class="c-block1__heading">Bài viết khác</h3>
+                    <h3 class="c-block1__heading">ບົດຄວາມອື່ນໆ</h3>
                     <div class="c-block1__inner">
                         <?php
                         $args = array('posts_per_page' => 4);

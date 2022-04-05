@@ -145,7 +145,7 @@
 						</ul>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/index.php/tin-tuc">ຂ່າວສານ</a>
+						<a class="c-header__link" href="/index.php/tin-tuc">ບົດຄວາມ</a>
 					</li>
 					<li class="c-header__item c-header__item__abouts">
 						<span>ກຽ່ວກັບເຮົາ<i class="fa-solid fa-caret-down"></i></span>
