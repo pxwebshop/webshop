@@ -360,15 +360,19 @@ other
 		@include sp() {
 			width: 100%;
 		}
-		span {
-			font-weight: bold;
-		}
+	}
+	&__txtNum {
+		font-size: 1.8rem;
+		font-weight: bold;
 	}
 	&__eWallets {
 		display: flex;
 		justify-content: space-between;
 		figure {
 			width: 100px;
+			img {
+				object-fit: contain;
+			}
 		}
 	}
 	&__note {
