@@ -79,6 +79,11 @@ header
         &:hover {
             .c-header__search {
                 display: block;
+                input:focus {
+                    .c-header__search {
+                        display: block;
+                    }
+                }
             }
         }
         @include sp() {
