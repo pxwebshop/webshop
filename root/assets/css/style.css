@@ -192,7 +192,7 @@ body p {
   -webkit-margin-start: 0;
   -webkit-margin-end: 0; }
 
-body, table,
+body, table, button,
 input, textarea, select, option,
 h1, h2, h3, h4, h5, h6 {
   -webkit-font-smoothing: antialiased;
@@ -906,13 +906,11 @@ side
   font-size: 1.8rem;
   line-height: 2;
   font-weight: 600;
-  font-family: 'Roboto Serif', serif;
   text-transform: uppercase; }
 
 .c-title3 {
   font-size: 1.6rem;
   line-height: 1.5;
-  font-family: 'Roboto Serif', serif;
   font-weight: 600;
   text-transform: uppercase; }
 
@@ -955,8 +953,7 @@ list
             box-shadow: 0 0 5px #cccccc; }
     .c-list1__description .c-list1__title {
       font-size: 1.8rem;
-      line-height: 1.5;
-      font-family: "Roboto"; }
+      line-height: 1.5; }
     .c-list1__description .c-list1__time {
       font-size: 1.3rem;
       line-height: 1.5;
@@ -1217,8 +1214,7 @@ list
             box-shadow: 0 0 5px #cccccc;
     border-bottom-left-radius: 3px;
     border-bottom-right-radius: 3px;
-    cursor: pointer;
-    font-family: 'Roboto Serif', serif; }
+    cursor: pointer; }
     @media screen and (max-width: 767px) {
       .c-list4__btn {
         font-size: 1.5rem; } }
@@ -1326,7 +1322,6 @@ list
       .c-list6__img {
         width: 100%; } }
   .c-list6__txt {
-    font-family: 'Roboto Serif', serif;
     padding-top: 10px;
     font-size: 1.3rem;
     line-height: 1.5;
@@ -1454,6 +1449,8 @@ list
     text-transform: uppercase;
     color: #111111;
     font-weight: 600; }
+  .c-list8__title {
+    text-transform: capitalize; }
   .c-list8__position {
     font-size: 1.5rem;
     line-height: 1.5;
@@ -1466,13 +1463,14 @@ list
     padding-top: 10px;
     border-style: dotted; }
     .c-list8__skill li {
-      display: inline; }
+      display: inline-block;
+      margin-bottom: 2px; }
       .c-list8__skill li span {
         font-size: 1.3rem;
-        padding: 3px;
+        padding: 1px 4px;
         border-radius: 5px;
         background-color: #3a454d;
-        line-height: 2.5;
+        line-height: 2;
         color: #ffffff;
         border: 1px solid #838383; }
   .c-list8__social ul {
@@ -1595,6 +1593,7 @@ list
   -webkit-transition: all 1s;
   transition: all 1s; }
   .c-list9__btn:hover {
+    cursor: pointer;
     background-color: #FF0000; }
 
 .c-list10 {
@@ -1769,13 +1768,11 @@ other
 
 .c-articleDetail__head .c-articleDetail__title {
   font-size: 3.2rem;
-  line-height: 2;
-  font-family: "Roboto"; }
+  line-height: 2; }
 
 .c-articleDetail__head .c-articleDetail__time {
   font-size: 1.3rem;
-  font-style: italic;
-  font-family: "Roboto"; }
+  font-style: italic; }
 
 .c-articleDetail__body {
   display: -webkit-box;
@@ -1797,7 +1794,6 @@ other
     padding-left: 60px; }
     .c-articleDetail__body .c-articleDetail__right h2 {
       font-size: 2.4rem;
-      font-family: "Roboto";
       line-height: 2; }
     .c-articleDetail__body .c-articleDetail__right li {
       font-size: 1.6rem;
@@ -1809,11 +1805,9 @@ other
   .c-articleDetail__body .c-articleDetail__related h2 {
     font-size: 2.4rem;
     line-height: 2;
-    font-family: "Roboto";
     text-align: center; }
 
 .c-articleDetail p {
-  font-family: "Roboto";
   font-size: 1.6rem;
   text-align: justify; }
 
@@ -1962,15 +1956,13 @@ other
     border-radius: 5px;
     color: #ffffff;
     letter-spacing: 1px;
-    cursor: pointer;
-    font-family: 'Roboto Serif', serif; }
+    cursor: pointer; }
 
 .c-contact__group label {
   font-size: 1.6rem;
   line-height: 1.5;
   color: #111111;
   font-weight: 600;
-  font-family: 'Roboto Serif', serif;
   text-transform: uppercase;
   padding-left: 10px; }
 
@@ -2052,8 +2044,7 @@ other
       margin: 10px 0;
       padding: 10px;
       font-size: 1.6rem;
-      line-height: 1.5;
-      font-family: 'Roboto Serif', serif; }
+      line-height: 1.5; }
   .c-checkout__firstName, .c-checkout__lastName, .c-checkout__cardSecu, .c-checkout__cardDate {
     width: 45%; }
     @media screen and (max-width: 500px) {
@@ -2081,8 +2072,7 @@ other
   .c-checkout__txt {
     font-size: 1.6rem;
     line-height: 1.5;
-    padding: 10px;
-    font-family: 'Roboto Serif', serif; }
+    padding: 10px; }
   .c-checkout__price {
     float: right; }
     @media screen and (max-width: 1118px) {
@@ -2125,6 +2115,10 @@ other
     .c-payment__txt {
       width: 100%; } }
 
+.c-payment__txtNum {
+  font-size: 1.8rem;
+  font-weight: bold; }
+
 .c-payment__eWallets {
   display: -webkit-box;
   display: -webkit-flex;
@@ -2136,6 +2130,9 @@ other
           justify-content: space-between; }
   .c-payment__eWallets figure {
     width: 100px; }
+    .c-payment__eWallets figure img {
+      -o-object-fit: contain;
+         object-fit: contain; }
 
 .c-payment__note {
   margin-top: 30px; }
@@ -2622,8 +2619,7 @@ other
     .c-article__sub .c-article__text {
       font-size: 2.0rem;
       line-height: 1.5;
-      font-weight: bold;
-      font-family: "Roboto"; }
+      font-weight: bold; }
     .c-article__sub .c-list2__description {
       margin: 0; }
     .c-article__sub .c-list2__item {

@@ -3,7 +3,6 @@
     line-height: 1.5;
     font-weight: bold;
     text-transform: uppercase;
-    // color: $colorPurple1;
     color: $colorBlue6;
     @include sp() {
         font-size: 2.0rem;
@@ -16,13 +15,11 @@
     font-size: 1.8rem;
     line-height: 2;
     font-weight: 600;
-    @include roboto();
     text-transform: uppercase;
 }
 .c-title3 {
     font-size: 1.6rem;
     line-height: 1.5;
-    @include roboto();
     font-weight: 600;
     text-transform: uppercase;
 }

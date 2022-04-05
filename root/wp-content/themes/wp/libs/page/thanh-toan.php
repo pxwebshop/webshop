@@ -28,8 +28,8 @@
                         <div class="c-payment__content">
                             <figure class="c-payment__img"><img src="/assets/img/common/bcel-logo.png" alt=""></figure>
                             <div class="c-payment__txt">
-                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນກີບ: 010-12-00-00087570-001 - PHONEXAY NAMSAVANH</p>
-                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນໂດຣາ: 221-12-10-00087570-001 - PHONEXAY NAMSAVANH</p>
+                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນກີບ: <span class="c-payment__txtNum">010-12-00-00087570-001</span> - PHONEXAY NAMSAVANH</p>
+                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນໂດຣາ: <span class="c-payment__txtNum">221-12-10-00087570-001</span> - PHONEXAY NAMSAVANH</p>
                             </div>
                         </div>
                     </div>

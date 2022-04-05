@@ -24,7 +24,6 @@ list
         #{$root}__title {
             font-size: 1.8rem;
             line-height: 1.5;
-            font-family: $roboto;
         }
         #{$root}__time {
             font-size: 1.3rem;
@@ -311,7 +310,6 @@ list
         border-bottom-left-radius: 3px;
         border-bottom-right-radius: 3px;
         cursor: pointer;
-        @include roboto();
         @include sp() {
             font-size: 1.5rem;
         }
@@ -381,7 +379,6 @@ list
     }
 }
 
-
 .c-list6 {
     $root: &;
     margin-top: 15px;
@@ -419,7 +416,6 @@ list
         }
     }
     &__txt {
-        @include roboto();
         padding-top: 10px;
         font-size: 1.3rem;
         line-height: 1.5;
@@ -544,6 +540,9 @@ list
         color: $colorBlack;
         font-weight: 600;
     }
+    &__title {
+        text-transform: capitalize;
+    }
     &__position {
         font-size: 1.5rem;
         line-height: 1.5;
@@ -557,14 +556,14 @@ list
         padding-top: 10px;
         border-style: dotted;
         li {
-            display: inline;
-            
+            display: inline-block;
+            margin-bottom: 2px;
             span {
                 font-size: 1.3rem;
-                padding: 3px;
+                padding: 1px 4px;
                 border-radius: 5px;
                 background-color: $colorGrey3;
-                line-height: 2.5;
+                line-height: 2;
                 color: $colorWhite;
                 border: 1px solid $colorGrey;
             }
@@ -679,6 +678,7 @@ list
         box-shadow: 0 0 5px $colorBlack;
         transition: all 1s;
         &:hover {
+            cursor: pointer;
             background-color: $colorRed;
         }
     }
