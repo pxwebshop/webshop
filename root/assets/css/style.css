@@ -1463,13 +1463,14 @@ list
     padding-top: 10px;
     border-style: dotted; }
     .c-list8__skill li {
-      display: inline; }
+      display: inline-block;
+      margin-bottom: 2px; }
       .c-list8__skill li span {
         font-size: 1.3rem;
-        padding: 3px;
+        padding: 1px 4px;
         border-radius: 5px;
         background-color: #3a454d;
-        line-height: 2.5;
+        line-height: 2;
         color: #ffffff;
         border: 1px solid #838383; }
   .c-list8__social ul {
@@ -1592,6 +1593,7 @@ list
   -webkit-transition: all 1s;
   transition: all 1s; }
   .c-list9__btn:hover {
+    cursor: pointer;
     background-color: #FF0000; }
 
 .c-list10 {

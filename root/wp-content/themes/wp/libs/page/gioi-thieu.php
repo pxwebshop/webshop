@@ -31,6 +31,8 @@
                                 <li><span>Palo Alto</span></li>
                                 <li><span>Cloud</span></li>
                                 <li><span>Linux</span></li>
+                                <li><span>Sophos</span></li>
+                                <li><span>HP</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
                                 <li><span>JavaScript</span></li>
@@ -60,7 +62,6 @@
                                 <li><span>AWS</span></li>
                                 <li><span>Laravel</span></li>
                                 <li><span>IOS</span></li>
-                                <li><span>Server</span></li>
                                 <li><span>Database</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>

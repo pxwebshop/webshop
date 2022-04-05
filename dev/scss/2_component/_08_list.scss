@@ -556,14 +556,14 @@ list
         padding-top: 10px;
         border-style: dotted;
         li {
-            display: inline;
-            
+            display: inline-block;
+            margin-bottom: 2px;
             span {
                 font-size: 1.3rem;
-                padding: 3px;
+                padding: 1px 4px;
                 border-radius: 5px;
                 background-color: $colorGrey3;
-                line-height: 2.5;
+                line-height: 2;
                 color: $colorWhite;
                 border: 1px solid $colorGrey;
             }
@@ -678,6 +678,7 @@ list
         box-shadow: 0 0 5px $colorBlack;
         transition: all 1s;
         &:hover {
+            cursor: pointer;
             background-color: $colorRed;
         }
     }
