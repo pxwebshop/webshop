@@ -384,14 +384,14 @@ list
 
 .c-list6 {
     $root: &;
-    margin-top: 20px;
+    margin-top: 15px;
     width: 100%;
     text-align: center;
     @include sp {
         margin-top: 10px;
     }
     .slick-slide {
-        margin: 0 3px;
+        margin: 10px 5px;
     }
     .slick-prev {
         left: -13px;
@@ -407,7 +407,6 @@ list
         }
     }
     &__img {
-        width: 90%;
         border: 1px solid #fff;
         img {
             border-radius: 10%;

@@ -1292,14 +1292,14 @@ list
         font-size: 1.3rem; } }
 
 .c-list6 {
-  margin-top: 20px;
+  margin-top: 15px;
   width: 100%;
   text-align: center; }
   @media screen and (max-width: 767px) {
     .c-list6 {
       margin-top: 10px; } }
   .c-list6 .slick-slide {
-    margin: 0 3px; }
+    margin: 10px 5px; }
   .c-list6 .slick-prev {
     left: -13px; }
   .c-list6 .slick-next {
@@ -1310,7 +1310,6 @@ list
     .c-list6 .slick-arrow:hover {
       background-color: #838383; }
   .c-list6__img {
-    width: 90%;
     border: 1px solid #fff; }
     .c-list6__img img {
       border-radius: 10%; }
