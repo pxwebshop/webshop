@@ -15,29 +15,29 @@
 			<div class="c-footer__content">
 				<div class="c-footer__about">
 					<h3 class="c-title2">ກຽ່ວກັບເຮົາ</h3>
-					<p class="c-footer__txt"><a href="/gioi-thieu" class="c-footer__link">ແນະນຳ</a></p>
-					<p class="c-footer__txt"><a href="/thanh-toan" class="c-footer__link">ຊຳລະເງິນ</a></p>
-					<p class="c-footer__txt"><a href="/lien-he" class="c-footer__link">ຕິດຕໍ່</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/gioi-thieu" class="c-footer__link">ແນະນຳ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ຊຳລະເງິນ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/lien-he" class="c-footer__link">ຕິດຕໍ່</a></p>
 				</div>
 				<div class="c-footer__service">
 					<h3 class="c-title2">ບໍລິການ</h3>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">ອອກແບບໂລໂກ</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">ບໍລິການ SEO</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ອອກແບບໂລໂກ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ບໍລິການ SEO</a></p>
 				</div>
 				<div class="c-footer__quote">
 					<h3 class="c-title2">ແພັກເກັດເວັບໄຊ</h3>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">Basic</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">Plus</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">Professional</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">Business</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Basic</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Plus</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Professional</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Business</a></p>
 				</div>
 				<div class="c-footer__support">
 					<h3 class="c-title2">ຊ່ວຍເຫຼືອ</h3>
-					<p class="c-footer__txt"><a href="/thanh-toan" class="c-footer__link">ແນະນຳວິທີຊຳລະເງີນ</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">ນະໂຍບາຍຄວາມປອດໄພ</a></p>
-					<p class="c-footer__txt"><a href="#" class="c-footer__link">ເງື່ອນ​ໄຂ​ການ​ນໍາ​ໃຊ້​</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ແນະນຳວິທີຊຳລະເງີນ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ນະໂຍບາຍຄວາມປອດໄພ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ເງື່ອນ​ໄຂ​ການ​ນໍາ​ໃຊ້​</a></p>
 				</div>
 			</div>
 			<div class="c-footer__social">

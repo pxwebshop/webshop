@@ -144,3 +144,21 @@ if(showTableOfContent !== null && hideTableOfContent !== null) {
 
 
 // end: Show/Hide table of contents
+
+
+// pop up: img
+$(document).ready(function () {
+    "use strict";
+    
+    $(".c-payment__eWallets img").click(function () {
+        var $src = $(this).attr("src");
+        $(".c-payment__show").fadeIn();
+        $(".c-payment__img-show img").attr("src", $src);
+    });
+    
+    $("span, .c-payment__overlay").click(function () {
+        $(".c-payment__show").fadeOut();
+    });
+    
+});
+// end pop up
