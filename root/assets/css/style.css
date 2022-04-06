@@ -677,12 +677,11 @@ header
       border-right: 0; }
       @media screen and (max-width: 767px) {
         .c-header__form input {
-          width: 90%; } }
+          width: 90%;
+          border-right: 1px solid #cccccc; } }
       @media screen and (max-width: 550px) {
         .c-header__form input {
-          width: 80%;
-          border-radius: 0;
-          background-color: #ffffff; } }
+          width: 80%; } }
   .c-header__btnSearch {
     border: 1px solid #cccccc;
     padding: 8px 20px;
@@ -696,8 +695,7 @@ header
         width: 10%; } }
     @media screen and (max-width: 550px) {
       .c-header__btnSearch {
-        width: 20%;
-        background-color: #ffffff; }
+        width: 20%; }
         .c-header__btnSearch i {
           color: #111111; } }
   .c-header__gnav {
