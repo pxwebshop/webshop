@@ -528,7 +528,7 @@ header
           -ms-flex-align: center;
               align-items: center; }
     .c-header__item:hover {
-      color: #FF0000;
+      color: black;
       -webkit-transition: all 0.1s;
       transition: all 0.1s; }
       .c-header__item:hover .c-header__child {
@@ -571,8 +571,8 @@ header
     position: absolute;
     top: 70px;
     min-width: 310px;
-    -webkit-box-shadow: 0px 6px 10px 1px #8aa0c5;
-            box-shadow: 0px 6px 10px 1px #8aa0c5;
+    -webkit-box-shadow: 0px 3px 10px 1px #8aa0c5;
+            box-shadow: 0px 3px 10px 1px #8aa0c5;
     display: none;
     border-radius: 3px;
     background-color: #ffffff;
@@ -580,14 +580,24 @@ header
     right: 0; }
     .c-header__child__item {
       font-weight: 600;
-      font-size: 1.5rem; }
+      font-size: 1.5rem;
+      color: black;
+      -webkit-transition: all 0.5s ease-in-out;
+      transition: all 0.5s ease-in-out; }
+      .c-header__child__item:not(:last-child) {
+        border-bottom: 1px solid #ccc; }
       .c-header__child__item:hover {
-        color: #FF0000; }
+        -webkit-transition: all 0.5s ease-in-out;
+        transition: all 0.5s ease-in-out;
+        background: -webkit-linear-gradient(135deg, #1460ee, #0c81f6, #2869cf, #285f9e);
+        background: linear-gradient(-45deg, #1460ee, #0c81f6, #2869cf, #285f9e); }
+        .c-header__child__item:hover a {
+          color: #ffff;
+          -webkit-transition: all 0.1s ease-in-out;
+          transition: all 0.1s ease-in-out; }
       .c-header__child__item a {
         display: block;
         padding: 10px 20px; }
-        .c-header__child__item a:hover {
-          background-color: #87CEFA; }
   .c-header__top .l-container {
     display: -webkit-box;
     display: -webkit-flex;
@@ -1443,7 +1453,7 @@ list
         display: -webkit-flex;
         display: -ms-flexbox;
         display: flex;
-        background-color: rgba(1, 1, 1, 0.2); }
+        background-color: rgba(1, 1, 1, 0.1); }
       .c-list8__item:hover .c-list8__name, .c-list8__item:hover .c-list8__position {
         color: #ffffff; }
       .c-list8__item:hover .c-list8__skill {
@@ -1588,7 +1598,7 @@ list
       color: #838383; } }
 
 .c-list9__btn {
-  padding: 5px 30px;
+  padding: 10px 30px;
   font-size: 1.6rem;
   line-height: 1.5;
   margin-bottom: 30px;
@@ -1597,8 +1607,9 @@ list
   color: #ffffff;
   font-weight: bold;
   border: transparent;
-  -webkit-box-shadow: 0 0 5px #111111;
-          box-shadow: 0 0 5px #111111;
+  -webkit-box-shadow: 0px 6px 10px 0px #8aa0c5;
+          box-shadow: 0px 6px 10px 0px #8aa0c5;
+  border-radius: 5px;
   -webkit-transition: all 1s;
   transition: all 1s; }
   .c-list9__btn:hover {
