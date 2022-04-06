@@ -200,6 +200,9 @@ header
             border: 1px solid $colorLightGrey;
             font-size: 1.5rem;
             font-weight: 500;
+            border-bottom-left-radius: 5px;
+            border-top-left-radius: 5px;
+            border-right: 0;
             @include sp {
                 width: 90%;
             }
@@ -215,6 +218,9 @@ header
         padding: 8px 20px;
         font-size: 1.8rem;
         cursor: pointer;
+        border-left: 0;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
         @include sp {
             width: 10%;
         }

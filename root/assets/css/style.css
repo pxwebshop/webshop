@@ -671,7 +671,10 @@ header
       padding: 0 15px;
       border: 1px solid #cccccc;
       font-size: 1.5rem;
-      font-weight: 500; }
+      font-weight: 500;
+      border-bottom-left-radius: 5px;
+      border-top-left-radius: 5px;
+      border-right: 0; }
       @media screen and (max-width: 767px) {
         .c-header__form input {
           width: 90%; } }
@@ -684,7 +687,10 @@ header
     border: 1px solid #cccccc;
     padding: 8px 20px;
     font-size: 1.8rem;
-    cursor: pointer; }
+    cursor: pointer;
+    border-left: 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px; }
     @media screen and (max-width: 767px) {
       .c-header__btnSearch {
         width: 10%; } }
