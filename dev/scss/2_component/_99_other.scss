@@ -509,8 +509,8 @@ other
 		font-weight: 500;
 		background: linear-gradient(
 			to right,
-			rgb(26, 73, 204) 50%,
-			rgb(104, 20, 90) 50%
+			rgb(12, 129, 246) 50%,
+			rgb(129, 31, 113) 50%
 		);
 		background-size: 200% 100%;
 		background-position: right bottom;
@@ -941,4 +941,35 @@ other
 		background-color: $colorBlue6;
 		padding: 8px 16px;
 	}
+}
+
+.c-pageTop {
+	position: fixed;
+    bottom: 30px;
+    right: 25px;
+    z-index: 10;
+	cursor: pointer;
+	display: flex;
+	@include sp {
+		right: 10px;
+		bottom: 15px;
+	}
+	&__icon {
+		padding: 20px 25px;
+		background-color: #1964af;
+		color: #fff;
+		border-radius: 5px;
+		@include sp {
+			padding: 10px 15px;
+		}
+	}
+}
+.is-hide {
+	display: none;
+	transition: all 1s;
+}
+
+.is-show {
+	display: block;
+	transition: all 1s;
 }

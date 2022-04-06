@@ -175,6 +175,11 @@
             </div>
         </div>
     </div>
+    <div class="c-pageTop">
+        <span class="c-pageTop__icon">
+            <i class="fa-solid fa-angles-up"></i>
+        </span>
+    </div>
 </main>
 
 <?php get_footer(); ?>
