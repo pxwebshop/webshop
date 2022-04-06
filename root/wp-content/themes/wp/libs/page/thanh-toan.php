@@ -47,13 +47,7 @@
                             <img src="/assets/img/common/bcel-one-dollar-qr.jpeg" alt="">
                         </figure>
                     </div>
-                    <div class="c-payment__show">
-                        <div class="c-payment__overlay"></div>
-                        <div class="c-payment__img-show">
-                            <span><i class="fa-solid fa-circle-xmark"></i></span>
-                            <figure><img src=""></figure>
-                        </div>
-                    </div>
+
                 </div>
                 <div class="c-payment__note">
                     <h2 class="c-title1">ໝາຍເຫດ</h2>
@@ -65,6 +59,12 @@
                     <button>ຂໍຄໍາແນະນຳຟຣີ</button>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="c-payment__show">
+        <div class="c-payment__img-show">
+            <span><i class="fa-solid fa-circle-xmark"></i></span>
+            <figure><img src=""></figure>
         </div>
     </div>
     <div class="c-pageTop">
