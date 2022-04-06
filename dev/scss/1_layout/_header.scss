@@ -7,7 +7,6 @@ header
     &__sticky {
         position: sticky;
         width: 100%;
-        // background-color: $colorBlue6;
         background: linear-gradient(-45deg, rgba(89,127,197, 1), rgba(12, 129, 246, 1), rgba(40, 105, 207, 1), rgba(40, 95, 158, 1));
         height: 100%;
         top: 0;
@@ -205,11 +204,10 @@ header
             border-right: 0;
             @include sp {
                 width: 90%;
+                border-right: 1px solid $colorLightGrey;
             }
             @include max-w(550px) {
                 width: 80%;
-                border-radius: 0;
-                background-color: $colorWhite;
             }
         }
     }
@@ -226,7 +224,6 @@ header
         }
         @include max-w(550px) {
             width: 20%;
-            background-color: $colorWhite;
             i {
                 color: $colorBlack;
             }
