@@ -821,7 +821,8 @@ header
         display: -ms-flexbox;
         display: flex;
         padding: 10px 15px 10px 10px;
-        line-height: 1.5; }
+        line-height: 1.5;
+        width: 100%; }
     .c-header__gnav__child {
       background-color: #ffffff;
       height: 100vh;
@@ -2714,7 +2715,8 @@ other
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
-  display: flex; }
+  display: flex;
+  opacity: 0.5; }
   @media screen and (max-width: 767px) {
     .c-pageTop {
       right: 10px;

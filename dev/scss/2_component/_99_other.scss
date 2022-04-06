@@ -345,13 +345,6 @@ other
 		@include max-w(545px) {
 			flex-wrap: wrap;
 		}
-		// <<<<<<< HEAD
-		// 		@include max-w(545px) {
-		// 			flex-wrap: wrap;
-		// 		}
-		// =======
-		// 		align-items: center;
-		// >>>>>>> 375e6f919a0439d46a8fb8ec76bfd9703fec6c66
 	}
 	&__img {
 		max-width: 200px;
@@ -478,7 +471,6 @@ other
 // banner
 .c-banner {
 	$root: &;
-	// background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
 	background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png")
 		no-repeat center center;
 	height: 500px;
@@ -967,6 +959,7 @@ other
 	z-index: 10;
 	cursor: pointer;
 	display: flex;
+	opacity: 0.5;
 	@include sp {
 		right: 10px;
 		bottom: 15px;
