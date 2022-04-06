@@ -202,7 +202,12 @@ header
             border-bottom-left-radius: 5px;
             border-top-left-radius: 5px;
             border-right: 0;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
             @include sp {
+                border-bottom-right-radius: 0;
+                border-top-right-radius: 0;
                 width: 90%;
                 border-right: 1px solid $colorLightGrey;
             }
@@ -221,6 +226,7 @@ header
         border-bottom-right-radius: 5px;
         @include sp {
             width: 10%;
+            background-color: #ccc;
         }
         @include max-w(550px) {
             width: 20%;

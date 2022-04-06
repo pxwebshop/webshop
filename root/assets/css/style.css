@@ -674,9 +674,14 @@ header
       font-weight: 500;
       border-bottom-left-radius: 5px;
       border-top-left-radius: 5px;
-      border-right: 0; }
+      border-right: 0;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none; }
       @media screen and (max-width: 767px) {
         .c-header__form input {
+          border-bottom-right-radius: 0;
+          border-top-right-radius: 0;
           width: 90%;
           border-right: 1px solid #cccccc; } }
       @media screen and (max-width: 550px) {
@@ -692,7 +697,8 @@ header
     border-bottom-right-radius: 5px; }
     @media screen and (max-width: 767px) {
       .c-header__btnSearch {
-        width: 10%; } }
+        width: 10%;
+        background-color: #ccc; } }
     @media screen and (max-width: 550px) {
       .c-header__btnSearch {
         width: 20%; }
