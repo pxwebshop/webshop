@@ -342,14 +342,16 @@ other
 	&__content {
 		display: flex;
 		padding: 30px;
+		@include max-w(545px) {
+			flex-wrap: wrap;
+		}
 	}
 	&__img {
-		width: 200px;
+		max-width: 200px;
+		margin: 0 auto;
 		img {
 			width: 100%;
-		}
-		@include sp() {
-			display: none;
+			object-fit: contain;
 		}
 	}
 	&__txt {
@@ -367,9 +369,18 @@ other
 	}
 	&__eWallets {
 		display: flex;
+		flex-wrap: wrap;
 		justify-content: space-between;
+		@include sp {
+			justify-content: space-around;
+		}
 		figure {
 			max-width: 200px;
+			@include sp {
+				&:first-child {
+					display: none;
+				}
+			}
 			img {
 				object-fit: contain;
 				cursor: pointer;
