@@ -2185,39 +2185,41 @@ other
 
 .c-payment__show {
   z-index: 999;
-  display: block; }
+  display: none; }
 
 .c-payment__overplay {
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.66);
+  width: 50%;
+  height: 50%;
+  background: rgba(1, 1, 1, 0.5);
   position: absolute;
-  top: 0;
-  left: 0; }
+  top: 50%;
+  left: 50%; }
 
 .c-payment__img-show {
-  width: 600px;
-  height: 400px;
+  width: 100%;
+  height: 100%;
   background: #FFF;
   position: absolute;
   top: 50%;
   left: 50%;
+  background-color: rgba(1, 1, 1, 0.5);
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  overflow: hidden; }
+  overflow: hidden;
+  z-index: 999; }
   .c-payment__img-show span {
     position: absolute;
     top: 10px;
     right: 10px;
     z-index: 99;
-    cursor: pointer; }
+    cursor: pointer;
+    font-size: 5rem; }
   .c-payment__img-show img {
-    width: 100%;
+    width: 50%;
     height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0; }
+    display: block;
+    margin: 0 auto; }
 
 .c-banner {
   background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
