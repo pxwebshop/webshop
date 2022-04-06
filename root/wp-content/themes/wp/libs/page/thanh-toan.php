@@ -63,8 +63,12 @@
     </div>
     <div class="c-payment__show">
         <div class="c-payment__img-show">
-            <span><i class="fa-solid fa-circle-xmark"></i></span>
-            <figure><img src=""></figure>
+            <div class="c-payment__showImg">
+                <figure>
+                    <img src="">
+                </figure>
+                <span><i class="fa-solid fa-circle-xmark"></i></span>
+            </div>
         </div>
     </div>
     <div class="c-pageTop">

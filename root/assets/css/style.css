@@ -2218,6 +2218,9 @@ other
   z-index: 1;
   display: none; }
 
+.c-payment__showImg {
+  position: relative; }
+
 .c-payment__img-show {
   position: fixed;
   width: 100%;
@@ -2239,17 +2242,27 @@ other
   background-color: rgba(1, 1, 1, 0.5); }
   .c-payment__img-show span {
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 0;
+    right: 20px;
     z-index: 1001;
     cursor: pointer;
     font-size: 5rem;
-    color: #ffffff; }
+    color: #FF0000; }
+    @media screen and (max-width: 767px) {
+      .c-payment__img-show span {
+        right: 70px;
+        font-size: 4rem; } }
+    @media screen and (max-width: 400px) {
+      .c-payment__img-show span {
+        right: 45px;
+        font-size: 3rem; } }
   .c-payment__img-show img {
-    width: 60%;
-    height: 60%;
+    width: 100%;
     display: block;
     margin: 0 auto; }
+    @media screen and (max-width: 767px) {
+      .c-payment__img-show img {
+        width: 80%; } }
 
 .c-banner {
   background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
