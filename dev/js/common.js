@@ -168,10 +168,12 @@ $(document).ready(function () {
         var $src = $(this).attr("src");
         $(".c-payment__show").fadeIn();
         $(".c-payment__img-show img").attr("src", $src);
+		document.body.style.overflow = "hidden";
     });
     
-    $("span, .c-payment__overlay").click(function () {
+    $("span").click(function () {
         $(".c-payment__show").fadeOut();
+		document.body.style.overflow = "scroll";
     });
     
 });
