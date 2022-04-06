@@ -24,7 +24,6 @@ list
         #{$root}__title {
             font-size: 1.8rem;
             line-height: 1.5;
-            font-family: $roboto;
         }
         #{$root}__time {
             font-size: 1.3rem;
@@ -311,7 +310,6 @@ list
         border-bottom-left-radius: 3px;
         border-bottom-right-radius: 3px;
         cursor: pointer;
-        @include roboto();
         @include sp() {
             font-size: 1.5rem;
         }
@@ -381,7 +379,6 @@ list
     }
 }
 
-
 .c-list6 {
     $root: &;
     margin-top: 15px;
@@ -419,7 +416,6 @@ list
         }
     }
     &__txt {
-        @include roboto();
         padding-top: 10px;
         font-size: 1.3rem;
         line-height: 1.5;
@@ -520,7 +516,7 @@ list
             background-color: $colorGrey3;
             #{$root}__social ul {
                 display: flex;
-                background-color: rgba(1,1,1,0.2);
+                background-color: rgba(1,1,1,0.1);
             }
             #{$root}__name, #{$root}__position {
                 color: $colorWhite;
@@ -544,6 +540,9 @@ list
         color: $colorBlack;
         font-weight: 600;
     }
+    &__title {
+        text-transform: capitalize;
+    }
     &__position {
         font-size: 1.5rem;
         line-height: 1.5;
@@ -557,14 +556,14 @@ list
         padding-top: 10px;
         border-style: dotted;
         li {
-            display: inline;
-            
+            display: inline-block;
+            margin-bottom: 2px;
             span {
                 font-size: 1.3rem;
-                padding: 3px;
+                padding: 1px 4px;
                 border-radius: 5px;
                 background-color: $colorGrey3;
-                line-height: 2.5;
+                line-height: 2;
                 color: $colorWhite;
                 border: 1px solid $colorGrey;
             }
@@ -667,7 +666,7 @@ list
         }
     }
     &__btn {
-        padding: 5px 30px;
+        padding: 10px 30px;
         font-size: 1.6rem;
         line-height: 1.5;
         margin-bottom: 30px;
@@ -676,9 +675,11 @@ list
         color: $colorWhite;
         font-weight: bold;
         border: transparent;
-        box-shadow: 0 0 5px $colorBlack;
+        box-shadow: 0px 6px 10px 0px #8aa0c5;
+        border-radius: 5px;
         transition: all 1s;
         &:hover {
+            cursor: pointer;
             background-color: $colorRed;
         }
     }

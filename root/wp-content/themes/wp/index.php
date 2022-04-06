@@ -9,7 +9,7 @@
                     <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ມີຄວາມປອດໄພ ແລະ ໜ້າເຊື່ອຖື.</h3>
                     <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຊີໃນລາວ.</span></h2>
                     <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ເວັບໄຊ​ ແລະ ຊອບ​ແວ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
-                    <a class="c-banner__btn  wow slideInLeft" href="/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
+                    <a class="c-banner__btn  wow slideInLeft" href="/index.php/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
                 </div>
             </div>
         </div>
@@ -645,6 +645,12 @@
             </div>
         </div>
     </section>
+
+    <div class="c-pageTop">
+        <span class="c-pageTop__icon">
+            <i class="fa-solid fa-angles-up"></i>
+        </span>
+    </div>
 </main>
 
 <?php get_footer(); ?>

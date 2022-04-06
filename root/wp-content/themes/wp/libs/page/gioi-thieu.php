@@ -23,7 +23,7 @@
                             <img src="/assets/img/team/phonexay.jpg" alt="">
                         </figure>
                         <div class="c-list8__content">
-                            <span class="c-list8__name">Phonexay Namsavanh</span> <br>
+                            <span class="c-list8__name"><span class="c-list8__title">Founder</span> - Phonexay Namsavanh</span> <br>
                             <span class="c-list8__position">Network Designer</span>
                             <ul class="c-list8__skill">
                                 <li><span>Cisco</span></li>
@@ -31,6 +31,8 @@
                                 <li><span>Palo Alto</span></li>
                                 <li><span>Cloud</span></li>
                                 <li><span>Linux</span></li>
+                                <li><span>Sophos</span></li>
+                                <li><span>HP</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
                                 <li><span>JavaScript</span></li>
@@ -53,14 +55,13 @@
                             <img src="/assets/img/team/dangquy.jpg" alt="">
                         </figure>
                         <div class="c-list8__content">
-                            <span class="c-list8__name">Dang Ngoc Quy</span> <br>
+                            <span class="c-list8__name"><span class="c-list8__title">Co-founder</span> - Dang Quy</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
                                 <li><span>Docker</span></li>
                                 <li><span>AWS</span></li>
                                 <li><span>Laravel</span></li>
                                 <li><span>IOS</span></li>
-                                <li><span>Server</span></li>
                                 <li><span>Database</span></li>
                                 <li><span>HTML</span></li>
                                 <li><span>CSS</span></li>
@@ -223,6 +224,11 @@
             </div>
         </div>
     </section>
+    <div class="c-pageTop">
+        <span class="c-pageTop__icon">
+            <i class="fa-solid fa-angles-up"></i>
+        </span>
+    </div>
 </main>
 
 <?php get_footer(); ?>

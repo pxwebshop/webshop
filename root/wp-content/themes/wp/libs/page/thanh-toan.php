@@ -28,8 +28,8 @@
                         <div class="c-payment__content">
                             <figure class="c-payment__img"><img src="/assets/img/common/bcel-logo.png" alt=""></figure>
                             <div class="c-payment__txt">
-                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນກີບ: 010-12-00-00087570-001 - PHONEXAY NAMSAVANH</p>
-                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນໂດຣາ: 221-12-10-00087570-001 - PHONEXAY NAMSAVANH</p>
+                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນກີບ: <span class="c-payment__txtNum">010-12-00-00087570-001</span> - PHONEXAY NAMSAVANH</p>
+                                <p>ທະນາຄານການຄ້າ - ເລກບັນຊີເງິນໂດຣາ: <span class="c-payment__txtNum">221-12-10-00087570-001</span> - PHONEXAY NAMSAVANH</p>
                             </div>
                         </div>
                     </div>
@@ -47,6 +47,7 @@
                             <img src="/assets/img/common/bcel-one-dollar-qr.jpeg" alt="">
                         </figure>
                     </div>
+
                 </div>
                 <div class="c-payment__note">
                     <h2 class="c-title1">ໝາຍເຫດ</h2>
@@ -59,5 +60,20 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="c-payment__show">
+        <div class="c-payment__img-show">
+            <div class="c-payment__showImg">
+                <figure>
+                    <img src="">
+                </figure>
+                <span><i class="fa-solid fa-circle-xmark"></i></span>
+            </div>
+        </div>
+    </div>
+    <div class="c-pageTop">
+        <span class="c-pageTop__icon">
+            <i class="fa-solid fa-angles-up"></i>
+        </span>
     </div>
 </main>

@@ -117,6 +117,20 @@ $(document).ready(function () {
 			},
 		],
 	});
+
+	$(".c-pageTop").click(function() {
+		$("html, body").animate({ scrollTop: 0 }, 600);
+		return false;
+	});
+
+	$(document).scroll(function() {
+		var scroll = $(window).scrollTop();
+		if (scroll < 100) {
+			$(".c-pageTop").addClass("is-hide");
+		} else {
+			$(".c-pageTop").removeClass("is-hide");
+		}
+    })
 });
 
 
@@ -144,3 +158,23 @@ if(showTableOfContent !== null && hideTableOfContent !== null) {
 
 
 // end: Show/Hide table of contents
+
+
+// pop up: img
+$(document).ready(function () {
+    "use strict";
+    
+    $(".c-payment__eWallets img").click(function () {
+        var $src = $(this).attr("src");
+        $(".c-payment__show").fadeIn();
+        $(".c-payment__img-show img").attr("src", $src);
+		document.body.style.overflow = "hidden";
+    });
+    
+    $("span").click(function () {
+        $(".c-payment__show").fadeOut();
+		document.body.style.overflow = "scroll";
+    });
+    
+});
+// end pop up

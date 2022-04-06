@@ -13,12 +13,10 @@ other
 		#{$root}__title {
 			font-size: 3.2rem;
 			line-height: 2;
-			font-family: $roboto;
 		}
 		#{$root}__time {
 			font-size: 1.3rem;
 			font-style: italic;
-			font-family: $roboto;
 		}
 	}
 	&__body {
@@ -41,7 +39,6 @@ other
 			padding-left: 60px;
 			h2 {
 				font-size: 2.4rem;
-				font-family: $roboto;
 				line-height: 2;
 			}
 			li {
@@ -57,13 +54,11 @@ other
 			h2 {
 				font-size: 2.4rem;
 				line-height: 2;
-				font-family: $roboto;
 				text-align: center;
 			}
 		}
 	}
 	p {
-		font-family: $roboto;
 		font-size: 1.6rem;
 		text-align: justify;
 	}
@@ -117,7 +112,7 @@ other
 .c-page {
 	&__heading {
 		// background: url(../img/common/contact-background.jpg) no-repeat center center;
-		background-color: #00356B;;
+		background-color: #00356b;
 		background-size: 100%;
 		height: 300px;
 		width: 100%;
@@ -207,7 +202,6 @@ other
 			color: $colorWhite;
 			letter-spacing: 1px;
 			cursor: pointer;
-			@include roboto;
 		}
 	}
 	&__group {
@@ -216,7 +210,6 @@ other
 			line-height: 1.5;
 			color: $colorBlack;
 			font-weight: 600;
-			@include roboto;
 			text-transform: uppercase;
 			padding-left: 10px;
 		}
@@ -283,7 +276,6 @@ other
 			padding: 10px;
 			font-size: 1.6rem;
 			line-height: 1.5;
-			@include roboto();
 		}
 	}
 	&__firstName,
@@ -323,7 +315,6 @@ other
 		font-size: 1.6rem;
 		line-height: 1.5;
 		padding: 10px;
-		@include roboto();
 	}
 	&__price {
 		float: right;
@@ -351,14 +342,23 @@ other
 	&__content {
 		display: flex;
 		padding: 30px;
+		@include max-w(545px) {
+			flex-wrap: wrap;
+		}
+		// <<<<<<< HEAD
+		// 		@include max-w(545px) {
+		// 			flex-wrap: wrap;
+		// 		}
+		// =======
+		// 		align-items: center;
+		// >>>>>>> 375e6f919a0439d46a8fb8ec76bfd9703fec6c66
 	}
 	&__img {
-		width: 200px;
+		max-width: 200px;
+		margin: 0 auto;
 		img {
 			width: 100%;
-		}
-		@include sp() {
-			display: none;
+			object-fit: contain;
 		}
 	}
 	&__txt {
@@ -370,11 +370,28 @@ other
 			width: 100%;
 		}
 	}
+	&__txtNum {
+		font-size: 1.8rem;
+		font-weight: bold;
+	}
 	&__eWallets {
 		display: flex;
+		flex-wrap: wrap;
 		justify-content: space-between;
+		@include sp {
+			justify-content: space-around;
+		}
 		figure {
-			width: 100px;
+			max-width: 200px;
+			@include sp {
+				&:first-child {
+					display: none;
+				}
+			}
+			img {
+				object-fit: contain;
+				cursor: pointer;
+			}
 		}
 	}
 	&__note {
@@ -397,13 +414,61 @@ other
 			border-radius: 30px;
 			background-color: $colorBlue5;
 			border: transparent;
-			box-shadow: 0 0 5px $colorBlack;
+			box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+				rgba(0, 0, 0, 0.22) 0px 15px 12px;
 			color: $colorWhite;
 			font-weight: 700;
 			text-transform: uppercase;
 			cursor: pointer;
 			&:hover {
 				background-color: $colorRed;
+			}
+		}
+	}
+	&__show {
+		z-index: 1;
+		display: none;
+	}
+	&__showImg {
+		position: relative;
+	}
+	&__img-show {
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		z-index: 1000;
+		top: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: rgba(1, 1, 1, 0.5);
+		span {
+			position: absolute;
+			top: 0;
+			right: 20px;
+			z-index: 1001;
+			cursor: pointer;
+			font-size: 5rem;
+			color: $colorRed;
+			@include sp {
+				right: 70px;
+				font-size: 4rem;
+			}
+			// @include max-w(468px) {
+			// 	right: 60px;
+			// 	font-size: 3rem;
+			// }
+			@include max-w(400px) {
+				right: 45px;
+				font-size: 3rem;
+			}
+		}
+		img {
+			width: 100%;
+			display: block;
+			margin: 0 auto;
+			@include sp {
+				width: 80%;
 			}
 		}
 	}
@@ -443,7 +508,6 @@ other
 				line-height: 1.5;
 			}
 		}
-		
 	}
 	&__color {
 		color: $colorRed;
@@ -466,17 +530,14 @@ other
 		margin-top: 20px;
 		font-size: 1.7rem;
 		font-weight: 500;
-		background: linear-gradient(
-			to right,
-			rgb(26, 73, 204) 50%,
-			rgb(104, 20, 90) 50%
-		);
+		box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 		background-size: 200% 100%;
 		background-position: right bottom;
 		transition: all 0.5s ease-out;
 		border-radius: 5px;
 		&:hover {
-			background-position: left bottom;
+			opacity: 1;
+			box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 		}
 		@include sp() {
 			font-size: 1.4rem;
@@ -867,14 +928,12 @@ other
 	&_list {
 		font-size: 1.6rem;
 		font-weight: 500;
-		li>ul {
+		li > ul {
 			margin-left: 30px;
 		}
 	}
-	
 }
 // end: toc
-
 
 // pagenavi
 .c-pagenavi {
@@ -893,11 +952,41 @@ other
 	}
 	.pages {
 		padding: 8px 16px;
-		
 	}
 	.current {
 		color: $colorWhite;
 		background-color: $colorBlue6;
 		padding: 8px 16px;
 	}
+}
+
+.c-pageTop {
+	position: fixed;
+	bottom: 30px;
+	right: 25px;
+	z-index: 10;
+	cursor: pointer;
+	display: flex;
+	@include sp {
+		right: 10px;
+		bottom: 15px;
+	}
+	&__icon {
+		padding: 20px 25px;
+		background-color: #1964af;
+		color: #fff;
+		border-radius: 5px;
+		@include sp {
+			padding: 10px 15px;
+		}
+	}
+}
+.is-hide {
+	display: none;
+	transition: all 1s;
+}
+
+.is-show {
+	display: block;
+	transition: all 1s;
 }
