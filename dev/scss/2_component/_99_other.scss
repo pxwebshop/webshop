@@ -342,6 +342,7 @@ other
 	&__content {
 		display: flex;
 		padding: 30px;
+		align-items: center;
 		@include max-w(545px) {
 			flex-wrap: wrap;
 		}
