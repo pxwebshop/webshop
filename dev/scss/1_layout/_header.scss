@@ -54,7 +54,7 @@ header
             align-items: center;
         }
         &:hover {
-            color: $colorRed;
+            color: black;
             transition: all 0.1s;
             #{$root}__child {
                 display: block;
@@ -105,7 +105,7 @@ header
         top: 70px;
         min-width: 310px;
         // padding: 10px;
-        box-shadow: 0px 6px 10px 1px #8aa0c5;
+        box-shadow: 0px 3px 10px 1px #8aa0c5;
         display: none;
         border-radius: 3px;
         background-color: $colorWhite;
@@ -114,16 +114,24 @@ header
         &__item {
             font-weight: 600;
             font-size: 1.5rem;
-            // padding: 10px 10px 0px 10px;
+            color: black;
+            transition: all 0.5s ease-in-out;
+            &:not(:last-child) {
+                border-bottom: 1px solid #ccc;
+            }
            &:hover {
-                color: $colorRed;
+                // background-color: #529ccb;
+                transition: all 0.5s ease-in-out;
+                // background: rgb(2,0,36);
+                background: linear-gradient(-45deg, #1460ee, #0c81f6, #2869cf, #285f9e);
+                a {
+                    color: #ffff;
+                    transition: all 0.1s ease-in-out;
+                }
            } 
            a {
                display: block;
                padding: 10px 20px;
-               &:hover {
-                   background-color: $colorBlue3;
-               }
            }
         }
     }
@@ -192,6 +200,9 @@ header
             border: 1px solid $colorLightGrey;
             font-size: 1.5rem;
             font-weight: 500;
+            border-bottom-left-radius: 5px;
+            border-top-left-radius: 5px;
+            border-right: 0;
             @include sp {
                 width: 90%;
             }
@@ -207,6 +218,9 @@ header
         padding: 8px 20px;
         font-size: 1.8rem;
         cursor: pointer;
+        border-left: 0;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
         @include sp {
             width: 10%;
         }
