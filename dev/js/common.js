@@ -117,6 +117,20 @@ $(document).ready(function () {
 			},
 		],
 	});
+
+	$(".c-pageTop").click(function() {
+		$("html, body").animate({ scrollTop: 0 }, 600);
+		return false;
+	});
+
+	$(document).scroll(function() {
+		var scroll = $(window).scrollTop();
+		if (scroll < 100) {
+			$(".c-pageTop").addClass("is-hide");
+		} else {
+			$(".c-pageTop").removeClass("is-hide");
+		}
+    })
 });
 
 
