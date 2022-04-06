@@ -116,14 +116,16 @@ other
 }
 .c-page {
 	&__heading {
-		background: url(../img/common/contact-background.jpg) no-repeat center
-			center;
+		// background: url(../img/common/contact-background.jpg) no-repeat center center;
+		background-color: #00356B;;
 		background-size: 100%;
 		height: 300px;
 		width: 100%;
 		position: relative;
 		@include sp {
 			background-size: auto;
+			height: 100px;
+			margin-top: 60px;
 		}
 		.c-title1 {
 			font-weight: 600;
@@ -155,6 +157,8 @@ other
 	&__map {
 		width: 100%;
 		height: 346px;
+		z-index: 2;
+		position: inherit;
 		iframe {
 			width: 100%;
 			height: 346px;
@@ -163,6 +167,7 @@ other
 	&__content {
 		display: flex;
 		flex-wrap: wrap;
+		padding-bottom: 30px;
 		@include sp {
 			display: block;
 		}
@@ -172,6 +177,8 @@ other
 		margin-top: 30px;
 		font-size: 1.6rem;
 		line-height: 2;
+		color: $colorWhite;
+		z-index: 2;
 		@include sp {
 			width: 100%;
 		}
@@ -183,6 +190,7 @@ other
 		margin-top: -130px;
 		box-shadow: 0 0 5px $colorGrey;
 		border-radius: 5px;
+		z-index: 2;
 		@include sp {
 			width: 100%;
 			margin-top: 30px;
@@ -410,7 +418,7 @@ other
 		no-repeat center center;
 	height: 500px;
 	@include sp() {
-		height: 85vh;
+		height: 90vh;
 	}
 	&__txt {
 		font-size: 2.6rem;
@@ -426,6 +434,7 @@ other
 			font-weight: 700;
 			font-size: 7rem;
 			margin-bottom: 13px;
+			line-height: 1;
 			@include sp() {
 				font-size: 4rem;
 			}
@@ -482,7 +491,8 @@ other
 		position: absolute;
 		top: 10%;
 		@include sp() {
-			top: 18%;
+			top: auto;
+			bottom: 15%;
 			padding-right: 15px;
 		}
 	}
@@ -506,7 +516,7 @@ other
 	display: none;
 	background-color: rgba(1, 1, 1, 0.5);
 	&__content {
-		background-color: $colorBlue1;
+		background-color: $colorBlue3;
 		max-width: 600px;
 		width: 100%;
 		height: 100%;
@@ -520,7 +530,7 @@ other
 	}
 	.c-title2 {
 		text-align: center;
-		background-color: $colorBlue2;
+		background-color: $colorBlue5;
 		padding: 16px 40px 16px 16px;
 		border-radius: 5px;
 		// box-shadow: 0 0 5px $colorBlack;
@@ -569,12 +579,12 @@ other
 		text-align: center;
 		button {
 			cursor: pointer;
-			padding: 10px 30px;
+			padding: 15px 30px;
 			text-transform: uppercase;
-			background-color: $colorBlue2;
+			background-color: $colorBlue5;
 			border-radius: 50px;
 			border: none;
-			box-shadow: 0 0 5px $colorBlack;
+			box-shadow: 0 0 5px $colorWhite;
 			color: $colorWhite;
 			font-weight: 700;
 			transition: 1s;

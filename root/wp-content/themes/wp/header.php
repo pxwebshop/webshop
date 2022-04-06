@@ -44,7 +44,7 @@
 
 			<div class="c-header__btn">
 				<div class="c-header__tel__btn">
-					<span class="tel_link"><a href="tel:07038951109">070-3895-1109</a></span>
+					<span class="tel_link"><a href="tel:020 28266650">020 28266650</a></span>
 				</div>
 
 				<div class="c-header__gnav__btn" id="gnav_open">
@@ -69,16 +69,16 @@
 						<i class="fa-solid fa-minus"></i>
 					</a>
 					<ul class="c-header__gnav__menu__sub">
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#"><span>ອອກແບບເວັບໄຊ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#"><span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="#">ຂຽນ Web App</a>
 						</li>
 					</ul>
@@ -95,13 +95,13 @@
 						<i class="fa-solid fa-minus"></i>
 					</a>
 					<ul class="c-header__gnav__menu__sub">
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php/gioi-thieu"><span>ແນະນຳ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php/thanh-toan"><span>ຊຳລະເງິນ</span></a>
 						</li>
-						<li class="c-header__gnav__item">
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php/lien-he"><span>ຕິດຕໍ່</span></a>
 						</li>
 					</ul>
@@ -128,7 +128,7 @@
 						<a class="c-header__link" href="/index.php/kho-giao-dien">ຄັງເວັບໄຊ</a>
 					</li>
 					<li class="c-header__item c-header__item__services">
-					<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>
+						<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
 								<a href="#">ອອກແບບເວັບໄຊ</a>
@@ -165,12 +165,7 @@
 					<li class="c-header__itemSeach">
 						<i class="fa-solid fa-magnifying-glass is-searchMenu"></i>
 						<div class="c-header__search">
-							<form action="" class="c-header__form">
-								<input type="text" placeholder="ໃສ່ຂໍ້ມູນທີ່ຕ້ອງການຄົ້ນຫາ">
-								<button class="c-header__btnSearch" type="submit">
-									<i class="fa-solid fa-magnifying-glass"></i>
-								</button>
-							</form>
+							<?php get_search_form();  ?>
 						</div>
 					</li>
 				</ul>

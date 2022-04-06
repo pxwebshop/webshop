@@ -5,7 +5,7 @@
 			<h3 class="c-title2">PX WebShop – ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ</h3>
 			<p class="c-footer__txt">ລົງທະບຽນເພື່ອທົດລອງໃຊ້ເວັບໄຊ 7 ມື້ຟຣີ!</p>
 			<div class="c-footer__form">
-				<input type="text" placeholder="ໃສ່ເບີໂທລະສັບເພື່ອຮັບຄຳປຶກສາ" maxlength="15" minlength="5">
+				<input type="tel" placeholder="ໃສ່ເບີໂທລະສັບເພື່ອຮັບຄຳປຶກສາ" maxlength="15" minlength="5">
 				<button type="submit">ລົງທະບຽນ</button>
 			</div>
 		</div>
@@ -40,7 +40,6 @@
 					<p class="c-footer__txt"><a href="#" class="c-footer__link">ເງື່ອນ​ໄຂ​ການ​ນໍາ​ໃຊ້​</a></p>
 				</div>
 			</div>
-			<hr>
 			<div class="c-footer__social">
 				<div class="c-footer__website">
 					<h3 class="c-title2">PX WebShop</h3>

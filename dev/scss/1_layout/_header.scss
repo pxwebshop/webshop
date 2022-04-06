@@ -7,7 +7,8 @@ header
     &__sticky {
         position: sticky;
         width: 100%;
-        background-color: $colorBlue6;
+        // background-color: $colorBlue6;
+        background: linear-gradient(-45deg, rgba(89,127,197, 1), rgba(12, 129, 246, 1), rgba(40, 105, 207, 1), rgba(40, 95, 158, 1));
         height: 100%;
         top: 0;
         z-index: 1;
@@ -60,6 +61,9 @@ header
                 color: black;
             }
         }
+        i {
+            margin: 0 6px;
+        }
     }
     &__itemSeach {
         font-size: 1.7rem;
@@ -71,11 +75,15 @@ header
         position: relative;
         cursor: pointer;
         display: flex;
-        height: 100%;
         align-items: center;
         &:hover {
             .c-header__search {
                 display: block;
+                input:focus {
+                    .c-header__search {
+                        display: block;
+                    }
+                }
             }
         }
         @include sp() {
@@ -165,6 +173,7 @@ header
         @include sp() {
             display: block;
             position: static;
+            width: 100%;
         }
     }
     &__form {
@@ -201,6 +210,7 @@ header
         justify-content: space-between;
         padding: 10px;
         background-color: $colorBlue5;
+        background: linear-gradient(-45deg, #597fc5, #0c81f6, #2869cf, #285f9e);
         position: fixed;
         top: 0;
         width: 100%;
@@ -247,16 +257,17 @@ header
         }
         &__menu {
             padding-top: 10px;
+            margin-bottom: 200px;
             &__sub {
                 display: none;
-                border-top: 1px solid $colorBlue1;
-                .c-header__gnav__item{
+                border-top: 1px solid rgba(14, 87, 171, 1);
+                .c-header__gnav__item {
+                    padding-left: 30px;
                     font-size: 1.6rem;
+                    display: flex;
+                    align-items: center;
                     &:last-child {
                         border-bottom: none;
-                    }
-                    span {
-                        padding-left: 30px;
                     }
                 }
             }
@@ -272,13 +283,13 @@ header
         &__item {
             font-size: 1.8rem;
             font-weight: 600;
-            border-bottom: 1px solid $colorBlue1;
+            border-bottom: 1px solid rgba(14, 87, 171, 0.5);           
             span {
                 display: block;
             }
             a {
                 display: flex;
-                padding: 10px 15px;
+                padding: 10px 15px 10px 10px;
                 line-height: 1.5;
             }
         }
@@ -289,8 +300,8 @@ header
             top: 60px;
             position: fixed;
             width: 100%;
-            overflow: scroll;
             z-index: 999;
+            overflow: scroll;
         }
     }
    

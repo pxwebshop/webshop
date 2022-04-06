@@ -94,7 +94,13 @@ $(document).ready(function () {
         slidesToScroll: 4
       }
     }, {
-      breakpoint: 480,
+      breakpoint: 550,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 3
+      }
+    }, {
+      breakpoint: 420,
       settings: {
         slidesToShow: 2,
         slidesToScroll: 2
