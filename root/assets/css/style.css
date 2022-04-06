@@ -678,7 +678,9 @@ header
       @media screen and (max-width: 767px) {
         .c-header__form input {
           width: 90%;
-          border-right: 1px solid #cccccc; } }
+          border-right: 1px solid #cccccc;
+          border-bottom-right-radius: 0;
+          border-top-right-radius: 0; } }
       @media screen and (max-width: 550px) {
         .c-header__form input {
           width: 80%; } }
@@ -692,7 +694,8 @@ header
     border-bottom-right-radius: 5px; }
     @media screen and (max-width: 767px) {
       .c-header__btnSearch {
-        width: 10%; } }
+        width: 10%;
+        background-color: #cccccc; } }
     @media screen and (max-width: 550px) {
       .c-header__btnSearch {
         width: 20%; }

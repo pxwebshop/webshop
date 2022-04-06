@@ -205,6 +205,8 @@ header
             @include sp {
                 width: 90%;
                 border-right: 1px solid $colorLightGrey;
+                border-bottom-right-radius: 0;
+                border-top-right-radius: 0;
             }
             @include max-w(550px) {
                 width: 80%;
@@ -221,6 +223,7 @@ header
         border-bottom-right-radius: 5px;
         @include sp {
             width: 10%;
+            background-color: $colorLightGrey;
         }
         @include max-w(550px) {
             width: 20%;
