@@ -794,6 +794,8 @@ header
                   align-items: center; }
           .c-header__gnav__menu__sub .c-header__gnav__item:last-child {
             border-bottom: none; }
+          .c-header__gnav__menu__sub .c-header__gnav__item a {
+            width: 100%; }
     .c-header__gnav__parent {
       display: -webkit-box;
       display: -webkit-flex;
@@ -821,8 +823,7 @@ header
         display: -ms-flexbox;
         display: flex;
         padding: 10px 15px 10px 10px;
-        line-height: 1.5;
-        width: 100%; }
+        line-height: 1.5; }
     .c-header__gnav__child {
       background-color: #ffffff;
       height: 100vh;
