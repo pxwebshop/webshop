@@ -2709,14 +2709,11 @@ other
 
 .c-pageTop {
   position: fixed;
+  display: none;
   bottom: 30px;
   right: 25px;
   z-index: 10;
   cursor: pointer;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   opacity: 0.7; }
   @media screen and (max-width: 767px) {
     .c-pageTop {
@@ -2730,16 +2727,6 @@ other
     @media screen and (max-width: 767px) {
       .c-pageTop__icon {
         padding: 10px 15px; } }
-
-.is-hide {
-  display: none;
-  -webkit-transition: all 1s;
-  transition: all 1s; }
-
-.is-show {
-  display: block;
-  -webkit-transition: all 1s;
-  transition: all 1s; }
 
 .c-article {
   display: -webkit-box;

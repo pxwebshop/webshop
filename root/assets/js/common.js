@@ -117,9 +117,9 @@ $(document).ready(function () {
     var scroll = $(window).scrollTop();
 
     if (scroll < 100) {
-      $(".c-pageTop").addClass("is-hide");
+      $(".c-pageTop").hide();
     } else {
-      $(".c-pageTop").removeClass("is-hide");
+      $(".c-pageTop").show();
     }
   });
 }); // Show/Hide table of contents
