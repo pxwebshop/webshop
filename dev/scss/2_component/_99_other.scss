@@ -342,6 +342,7 @@ other
 	&__content {
 		display: flex;
 		padding: 30px;
+		align-items: center;
 	}
 	&__img {
 		width: 200px;
@@ -396,7 +397,7 @@ other
 			border-radius: 30px;
 			background-color: $colorBlue5;
 			border: transparent;
-			box-shadow: 0 0 5px $colorBlack;
+			box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 			color: $colorWhite;
 			font-weight: 700;
 			text-transform: uppercase;
@@ -496,17 +497,14 @@ other
 		margin-top: 20px;
 		font-size: 1.7rem;
 		font-weight: 500;
-		background: linear-gradient(
-			to right,
-			rgb(12, 129, 246) 50%,
-			rgb(129, 31, 113) 50%
-		);
+		box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 		background-size: 200% 100%;
 		background-position: right bottom;
 		transition: all 0.5s ease-out;
 		border-radius: 5px;
 		&:hover {
-			background-position: left bottom;
+			opacity: 1;
+			box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 		}
 		@include sp() {
 			font-size: 1.4rem;
