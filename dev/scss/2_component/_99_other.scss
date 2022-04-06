@@ -112,7 +112,7 @@ other
 .c-page {
 	&__heading {
 		// background: url(../img/common/contact-background.jpg) no-repeat center center;
-		background-color: #00356B;;
+		background-color: #00356b;
 		background-size: 100%;
 		height: 300px;
 		width: 100%;
@@ -345,6 +345,13 @@ other
 		@include max-w(545px) {
 			flex-wrap: wrap;
 		}
+		// <<<<<<< HEAD
+		// 		@include max-w(545px) {
+		// 			flex-wrap: wrap;
+		// 		}
+		// =======
+		// 		align-items: center;
+		// >>>>>>> 375e6f919a0439d46a8fb8ec76bfd9703fec6c66
 	}
 	&__img {
 		max-width: 200px;
@@ -407,7 +414,8 @@ other
 			border-radius: 30px;
 			background-color: $colorBlue5;
 			border: transparent;
-			box-shadow: 0 0 5px $colorBlack;
+			box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+				rgba(0, 0, 0, 0.22) 0px 15px 12px;
 			color: $colorWhite;
 			font-weight: 700;
 			text-transform: uppercase;
@@ -419,8 +427,7 @@ other
 	}
 	&__show {
 		z-index: 1;
-    	display: none;
-		
+		display: none;
 	}
 	&__img-show {
 		position: fixed;
@@ -432,7 +439,7 @@ other
 		justify-content: center;
 		align-items: center;
 		background-color: rgba(1, 1, 1, 0.5);
-		span{
+		span {
 			position: absolute;
 			top: 10px;
 			right: 10px;
@@ -441,7 +448,7 @@ other
 			font-size: 5rem;
 			color: $colorWhite;
 		}
-		img{
+		img {
 			width: 60%;
 			height: 60%;
 			display: block;
@@ -484,7 +491,6 @@ other
 				line-height: 1.5;
 			}
 		}
-		
 	}
 	&__color {
 		color: $colorRed;
@@ -507,17 +513,14 @@ other
 		margin-top: 20px;
 		font-size: 1.7rem;
 		font-weight: 500;
-		background: linear-gradient(
-			to right,
-			rgb(12, 129, 246) 50%,
-			rgb(129, 31, 113) 50%
-		);
+		box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 		background-size: 200% 100%;
 		background-position: right bottom;
 		transition: all 0.5s ease-out;
 		border-radius: 5px;
 		&:hover {
-			background-position: left bottom;
+			opacity: 1;
+			box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 		}
 		@include sp() {
 			font-size: 1.4rem;
@@ -908,14 +911,12 @@ other
 	&_list {
 		font-size: 1.6rem;
 		font-weight: 500;
-		li>ul {
+		li > ul {
 			margin-left: 30px;
 		}
 	}
-	
 }
 // end: toc
-
 
 // pagenavi
 .c-pagenavi {
@@ -934,7 +935,6 @@ other
 	}
 	.pages {
 		padding: 8px 16px;
-		
 	}
 	.current {
 		color: $colorWhite;
@@ -945,9 +945,9 @@ other
 
 .c-pageTop {
 	position: fixed;
-    bottom: 30px;
-    right: 25px;
-    z-index: 10;
+	bottom: 30px;
+	right: 25px;
+	z-index: 10;
 	cursor: pointer;
 	display: flex;
 	@include sp {
