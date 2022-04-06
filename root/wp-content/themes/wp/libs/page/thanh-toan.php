@@ -51,7 +51,7 @@
                         <div class="c-payment__overlay"></div>
                         <div class="c-payment__img-show">
                             <span><i class="fa-solid fa-circle-xmark"></i></span>
-                            <img src="/assets/img/common/bcel-one-kip-qr.jpeg">
+                            <figure><img src=""></figure>
                         </div>
                     </div>
                 </div>
