@@ -397,10 +397,14 @@ other
 	&__note {
 		margin-top: 30px;
 		li {
-			list-style-type: circle;
+			list-style-type: disc;
 			font-size: 1.6rem;
 			line-height: 1.5;
 			padding: 5px;
+			&::marker {
+				color: $colorBlue5;
+				font-size: 2rem;
+			}
 		}
 	}
 	&__btn {
@@ -467,6 +471,7 @@ other
 			width: 100%;
 			display: block;
 			margin: 0 auto;
+			box-shadow: 0 0 20px $colorBlue6;
 			@include sp {
 				width: 80%;
 			}

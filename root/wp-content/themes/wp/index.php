@@ -276,7 +276,7 @@
                                 <li>
                                     <i class="fa-solid fa-xmark c-list4__uncheck"></i>
                                     <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ </span>
-                                   
+
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check c-list4__check"></i>
@@ -297,7 +297,7 @@
                             </ul>
                         </div>
                         <button class="c-list4__btn" id="btnOpenModal1">
-                        ຈອງດຽວນີ້
+                            ຈອງດຽວນີ້
                         </button>
                     </div>
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
@@ -590,7 +590,14 @@
                                 <div class="c-list2__info">
                                     <h3 class="c-list2__title">
                                         <a href="<?php the_permalink($post->ID); ?>">
-                                            <?php echo substr(get_the_title(), 0, 60) . " &hellip;"; ?>
+                                            <?php
+                                            $n = strlen(get_the_title($post->ID));
+                                            if ($n < 60) {
+                                                echo get_the_title();
+                                            } else {
+                                                echo substr(get_the_title(), 0, 60) . "&hellip;";
+                                            }
+                                            ?>
                                         </a>
                                     </h3>
                                     <div class="c-list2__time">
@@ -633,8 +640,15 @@
                                         <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
                                     </figure>
                                     <div class="c-block1__info">
-                                    <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0, 36) . " &hellip;"; ?></h5>
-                                        <p class="c-block1__txt"><?php echo substr(get_the_excerpt(), 0, 72) . " &hellip;"; ?></p>
+                                        <h5 class="c-block1__title"><?php
+                                                                    $n = strlen(get_the_title($post->ID));
+                                                                    if ($n < 36) {
+                                                                        echo get_the_title();
+                                                                    } else {
+                                                                        echo substr(get_the_title(), 0, 36) . "&hellip;";
+                                                                    }
+                                                                    ?></h5>
+                                        <p class="c-block1__txt"><?php echo substr(get_the_excerpt(), 0, 72) . "&hellip;"; ?></p>
                                     </div>
                                 </div>
                             <?php endwhile; ?>

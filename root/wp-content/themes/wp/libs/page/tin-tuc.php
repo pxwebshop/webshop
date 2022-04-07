@@ -37,7 +37,14 @@ $queried = get_queried_object(); ?>
                                 </figure>
                                 <div class="c-list2__info">
                                     <h3 class="c-list2__title">
-                                        <?php echo substr(get_the_title(), 0, 60) . " &hellip;"; ?>
+                                        <?php
+                                        $n = strlen(get_the_title($post->ID));
+                                        if ($n < 60) {
+                                            echo get_the_title();
+                                        } else {
+                                            echo substr(get_the_title(), 0, 60) . "&hellip;";
+                                        }
+                                        ?>
                                     </h3>
                                     <div class="c-list2__time">
                                         <i class="fa-solid fa-calendar-days"></i>
@@ -80,8 +87,15 @@ $queried = get_queried_object(); ?>
                                         <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
                                     </figure>
                                     <div class="c-block1__info">
-                                        <h5 class="c-block1__title"><?php echo substr(get_the_title(), 0, 36) . " &hellip;"; ?></h5>
-                                        <p class="c-block1__txt"><?php echo substr(get_the_excerpt(), 0, 72) . " &hellip;"; ?></p>
+                                        <h5 class="c-block1__title"><?php
+                                                                    $n = strlen(get_the_title($post->ID));
+                                                                    if ($n < 36) {
+                                                                        echo get_the_title();
+                                                                    } else {
+                                                                        echo substr(get_the_title(), 0, 36) . "&hellip;";
+                                                                    }
+                                                                    ?></h5>
+                                        <p class="c-block1__txt"><?php echo substr(get_the_excerpt(), 0, 72) . "&hellip;"; ?></p>
                                     </div>
                                 </div>
                             <?php endwhile; ?>

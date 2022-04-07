@@ -75,13 +75,7 @@ header
         cursor: pointer;
         display: flex;
         align-items: center;
-        &:hover {
-            .c-header__search {
-                display: block;
-
-            }
-        }
-        &:focus-within {
+        &:hover, &:focus-within {
             .c-header__search {
                 display: block;
             }
