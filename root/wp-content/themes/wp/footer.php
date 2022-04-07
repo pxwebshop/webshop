@@ -44,7 +44,7 @@
 				<div class="c-footer__website">
 					<h3 class="c-title2">PX WebShop</h3>
 					<p class="c-footer__txt"><i class="fa-solid fa-location-dot"></i>&nbsp&nbsp&nbspບ້ານ ຂາມງອຍ,​ ເມືອງ ໄຊເສດຖາ, ນະຄອນຫຼວງວຽງຈັນ</p>
-					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> &nbsp020 28266650</p>
+					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> &nbsp <a href="tel:020 28266650">020 28266650</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-globe"></i> &nbsppxwebshop.com</p>
 					<p class="c-footer__txt"><i class="fa-solid fa-envelope"></i> &nbsppxwebshop@gmail.com</p>
 					<p class="c-footer__txt">ເຮັດວຽກຕະຫຼອດ 24 ຊົ່ວໂມງແຕ່ວັນຈັນເຖິງວັນອາທິດ</p>

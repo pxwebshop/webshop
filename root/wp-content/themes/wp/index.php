@@ -245,225 +245,233 @@
             <div class="p-index__quote__content">
                 <div class="c-list4">
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
-                        <div class="c-list4__info c-list4__info--background1">
-                            <h3 class="c-list4__title">
-                                Basic
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
-                        </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຊື່ໂດເມນ .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ພື້ນທີ່: 1000 MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>ອອກແບບໂລໂກ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Email ທຸລະກິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ </span>
+                        <div class="c-list4__wrap">
+                            <div class="c-list4__info c-list4__info--background1">
+                                <h3 class="c-list4__title">
+                                    Basic
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຊື່ໂດເມນ .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ພື້ນທີ່: 1000 MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ບໍ່ຈໍາກັດແບນວິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>ອອກແບບໂລໂກ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>Email ທຸລະກິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ </span>
 
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ສົ່ງມອບ source code</span>
-                                </li>
-                            </ul>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ສົ່ງມອບ source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn" id="btnOpenModal1">
+                                ຈອງດຽວນີ້
+                            </button>
                         </div>
-                        <button class="c-list4__btn" id="btnOpenModal1">
-                            ຈອງດຽວນີ້
-                        </button>
                     </div>
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
-                        <div class="c-list4__info c-list4__info--background2">
-                            <h3 class="c-list4__title">
-                                PLUS
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                        <div class="c-list4__wrap">
+                            <div class="c-list4__info c-list4__info--background2">
+                                <h3 class="c-list4__title">
+                                    PLUS
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຊື່ໂດເມນ .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ພື້ນທີ່: 1500MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ບໍ່ຈໍາກັດແບນວິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>ອອກແບບໂລໂກ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-xmark c-list4__uncheck"></i>
+                                        <span>Email ທຸລະກິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ສົ່ງມອບ source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn" id="btnOpenModal2">
+                                ຈອງດຽວນີ້
+                            </button>
                         </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຊື່ໂດເມນ .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ພື້ນທີ່: 1500MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>ອອກແບບໂລໂກ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-xmark c-list4__uncheck"></i>
-                                    <span>Email ທຸລະກິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ສົ່ງມອບ source code</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <button class="c-list4__btn" id="btnOpenModal2">
-                            ຈອງດຽວນີ້
-                        </button>
                     </div>
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
-                        <div class="c-list4__info c-list4__info--background3">
-                            <h3 class="c-list4__title">
-                                PRO
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                        <div class="c-list4__wrap">
+                            <div class="c-list4__info c-list4__info--background3">
+                                <h3 class="c-list4__title">
+                                    PRO
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຊື່ໂດເມນ .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ພື້ນທີ່: 2000MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ບໍ່ຈໍາກັດແບນວິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ອອກແບບໂລໂກ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Email ທຸລະກິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ສົ່ງມອບ source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn" id="btnOpenModal3">
+                                ຈອງດຽວນີ້
+                            </button>
                         </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຊື່ໂດເມນ .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ພື້ນທີ່: 2000MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ອອກແບບໂລໂກ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Email ທຸລະກິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ສົ່ງມອບ source code</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <button class="c-list4__btn" id="btnOpenModal3">
-                            ຈອງດຽວນີ້
-                        </button>
                     </div>
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
-                        <div class="c-list4__info c-list4__info--background4">
-                            <h3 class="c-list4__title">
-                                BUSINESS
-                            </h3>
-                            <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                        <div class="c-list4__wrap">
+                            <div class="c-list4__info c-list4__info--background4">
+                                <h3 class="c-list4__title">
+                                    BUSINESS
+                                </h3>
+                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                            </div>
+                            <div class="c-list4__content">
+                                <ul>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຊື່ໂດເມນ .com</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ພື້ນທີ່: 4000MB</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ບໍ່ຈໍາກັດແບນວິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ອອກແບບໂລໂກ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>Email ທຸລະກິດ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>SSL</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
+                                    </li>
+                                    <li>
+                                        <i class="fa-solid fa-check c-list4__check"></i>
+                                        <span>ສົ່ງມອບ source code</span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <button class="c-list4__btn" id="btnOpenModal4">
+                                ຈອງດຽວນີ້
+                            </button>
                         </div>
-                        <div class="c-list4__content">
-                            <ul>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຊື່ໂດເມນ .com</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ພື້ນທີ່: 4000MB</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ບໍ່ຈໍາກັດແບນວິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ອອກແບບໂລໂກ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>Email ທຸລະກິດ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ປັບແຕ່ງເວັບຕາມຄວາມຕ້ອງການ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ອອກແບບຕາມມາດຕະຖານ SEO</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>SSL</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ຮັບປະກັນຕະຫຼອດການໃຊ້ງານ</span>
-                                </li>
-                                <li>
-                                    <i class="fa-solid fa-check c-list4__check"></i>
-                                    <span>ສົ່ງມອບ source code</span>
-                                </li>
-                            </ul>
-                        </div>
-                        <button class="c-list4__btn" id="btnOpenModal4">
-                            ຈອງດຽວນີ້
-                        </button>
                     </div>
                 </div>
             </div>

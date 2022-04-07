@@ -1191,16 +1191,18 @@ list
       .c-list4__item {
         width: 100%;
         margin: 10px 0 0 0; } }
+  .c-list4__wrap {
+    -webkit-box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+            box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; }
   .c-list4__info {
     font-size: 2.3rem;
-    border-radius: 3px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     line-height: 1.5;
     text-align: center;
     font-weight: bold;
     padding: 30px 30px;
     color: #ffffff;
-    -webkit-box-shadow: 0 0 5px #838383;
-            box-shadow: 0 0 5px #838383;
     background-color: #838383; }
     @media screen and (max-width: 1024px) {
       .c-list4__info {
@@ -1224,9 +1226,6 @@ list
   .c-list4__content {
     font-size: 1.6rem;
     text-align: center;
-    border: 1px solid #cccccc;
-    -webkit-box-shadow: 0 0 5px #cccccc;
-            box-shadow: 0 0 5px #cccccc;
     border-bottom: none; }
     .c-list4__content li {
       border-bottom: 1px solid #cccccc;
@@ -1249,20 +1248,14 @@ list
     font-weight: 600;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    border: 1px solid #cccccc;
-    -webkit-box-shadow: 0 0 5px #cccccc;
-            box-shadow: 0 0 5px #cccccc;
-    border-bottom-left-radius: 3px;
-    border-bottom-right-radius: 3px;
+    border: 1px solid #0064a3;
     cursor: pointer; }
     @media screen and (max-width: 767px) {
       .c-list4__btn {
         font-size: 1.5rem; } }
     .c-list4__btn:hover {
-      border: 1px solid #FF0000;
-      -webkit-box-shadow: 0 0 5px #cccccc;
-              box-shadow: 0 0 5px #cccccc;
-      background-color: #FF0000; }
+      border: 1px solid #db5151;
+      background-color: #d94040; }
 
 .c-list5 {
   display: -webkit-box;

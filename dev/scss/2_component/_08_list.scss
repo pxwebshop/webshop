@@ -235,33 +235,32 @@ list
             margin: 10px 0 0 0;
         }
     }
+    &__wrap {
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    }
     &__info {
         font-size: 2.3rem;
-        border-radius: 3px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
         line-height: 1.5;
         text-align: center;
         font-weight: bold;
         padding: 30px 30px;
         color: $colorWhite;
-        box-shadow: 0 0 5px $colorGrey;
         background-color: $colorGrey;
         @include max-w(1024px) {
             padding: 30px 15px;
         }
         &--background1 {
-            // background-color: $colorBlue3;
             background-color: $color1;
         }
         &--background2 {
-            // background-color: $colorBlue2;
             background-color: $color2;
         }
         &--background3 {
-            // background-color: $colorBlue5;
             background-color: $color3;
         }
         &--background4 {
-            // background-color: $colorBlue6;
             background-color: $color4;
         }
     }
@@ -278,8 +277,6 @@ list
     &__content {
         font-size: 1.6rem;
         text-align: center;
-        border: 1px solid $colorLightGrey;
-        box-shadow: 0 0 5px $colorLightGrey;
         border-bottom: none;
         li {
             border-bottom: 1px solid $colorLightGrey;
@@ -305,18 +302,14 @@ list
         color: $colorWhite;
         font-weight: 600;
         transition: all 0.5s;
-        border: 1px solid $colorLightGrey;
-        box-shadow: 0 0 5px $colorLightGrey;
-        border-bottom-left-radius: 3px;
-        border-bottom-right-radius: 3px;
+        border: 1px solid $colorBlue5;
         cursor: pointer;
         @include sp() {
             font-size: 1.5rem;
         }
         &:hover {
-            border: 1px solid $colorRed;
-            box-shadow: 0 0 5px $colorLightGrey;
-            background-color: $colorRed;
+            border: 1px solid rgba(219,81,81, 1);
+            background-color: rgba(217,64,64, 1);
         }
     }
 }
