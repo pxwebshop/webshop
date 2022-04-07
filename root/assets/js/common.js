@@ -48,13 +48,9 @@ $(document).ready(function () {
   $(".c-header__gnav__btn").click(function () {
     if ($(this).hasClass("open")) {
       $(this).removeClass("open");
-    } else {
-      $(this).addClass("open");
-    }
-
-    if ($("body").css('overflow') == 'hidden') {
       $("body").css("overflow", "");
     } else {
+      $(this).addClass("open");
       $("body").css("overflow", "hidden");
     }
 
