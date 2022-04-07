@@ -416,11 +416,11 @@ footer
     padding-left: 30px; }
     @media screen and (max-width: 767px) {
       .c-footer__about, .c-footer__service, .c-footer__quote, .c-footer__support {
+        padding-left: 10px;
         width: 50%; } }
     @media screen and (max-width: 468px) {
       .c-footer__about, .c-footer__service, .c-footer__quote, .c-footer__support {
-        width: 100%;
-        padding-left: 10px; } }
+        width: 100%; } }
   .c-footer__branch1, .c-footer__branch2, .c-footer__branch3 {
     width: 33.33%;
     padding-left: 30px; }
