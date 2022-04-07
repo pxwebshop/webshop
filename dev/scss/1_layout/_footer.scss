@@ -4,6 +4,7 @@ footer
 .c-footer {
     $root: &;
     color: $colorWhite;
+    background-color: red;
     &__txt {
         font-size: 1.6rem;
         line-height: 2;
@@ -13,7 +14,7 @@ footer
     }
     &__advise {
         padding: 30px 0;
-        background: $colorBlue1 url(/assets/img/common/bg-footer.svg);
+        background: $colorBlue1 url(/assets/img/common/bg-footer.svg) -10px;
         text-align: center;
         .c-title2 {
             text-align: center;
