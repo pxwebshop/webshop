@@ -2666,7 +2666,7 @@ other
 .c-stock__tagItem {
   background-color: #ffffff;
   margin: 5px;
-  padding: 10px;
+  padding: 10px 15px;
   border-radius: 50px;
   -webkit-box-shadow: 0px 3px 6px 0px #8aa0c5;
           box-shadow: 0px 3px 6px 0px #8aa0c5;
