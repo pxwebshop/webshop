@@ -2,7 +2,7 @@
     <li class="c-stock__tagItem"><a href="/index.php/kho-giao-dien/landing-page">Landing Page</a></li>
     <li class="c-stock__tagItem"><a href="/index.php/kho-giao-dien/website-ban-hang">ເວັບໄຊຂາຍສີນຄ້າ</a></li>
     <li class="c-stock__tagItem"><a href="/index.php/kho-giao-dien/website-giao-duc">ເວັບໄຊການສຶກສາ</a></li>
-    <li class="c-stock__tagItem"><a href="/index.php/kho-giao-dien/website-gioi-thieu-cong-ty">ເວັບໄຊແນະນໍາບໍລິສັດ</a></li>
+    <li class="c-stock__tagItem is-active"><a href="/index.php/kho-giao-dien/website-gioi-thieu-cong-ty">ເວັບໄຊແນະນໍາບໍລິສັດ</a></li>
     <li class="c-stock__tagItem"><a href="/index.php/kho-giao-dien/website-gioi-thieu-dich-vu">ເວັບໄຊແນະນໍາບໍ​ລິ​ການ​</a></li>
     <li class="c-stock__tagItem"><a href="/index.php/kho-giao-dien/website-gioi-thieu-du-an">ເວັບໄຊແນະນໍາໂຄງການ</a></li>
     <li class="c-stock__tagItem"><a href="/index.php/kho-giao-dien/website-gioi-thieu-san-pham">ເວັບໄຊແນະນໍາຜະລິດຕະພັນ</a></li>
