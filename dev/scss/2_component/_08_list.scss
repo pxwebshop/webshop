@@ -324,7 +324,7 @@ list
 
 .c-list5 {
     $root: &;
-    margin-left: -30px;
+    // margin-left: -30px;
     display: flex;
     flex-wrap: wrap;
     @include sp() {
@@ -334,8 +334,9 @@ list
         cursor: pointer;
         // width: 33.33%;
         width: 25%;
-        padding-left: 30px;
+        // padding-left: 30px;
         margin-bottom: 20px;
+        min-height: 330px;
         transition: all 0.5s ease-in-out;
         @include hover() {
             transform: translateY(-5px);
@@ -344,6 +345,12 @@ list
             width: 50%;
             margin-bottom: 10px;
             padding-left: 15px;
+            min-height: 0;
+        }
+        &--1, &--3 {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
     }
     &__wrap {
@@ -378,6 +385,28 @@ list
         font-weight: 500;
         @include sp() {
             font-size: 1.3rem;
+        }
+    }
+    &__text {
+        margin-left: 20px;
+        margin-top: 10px;
+        font-size: 2rem;
+        font-weight: 600;
+        &--center {
+            text-align: center;
+            margin-left: 0;
+        }
+        &--color1 {
+            color: #fec96b;
+        }
+        &--color2 {
+            color: #1fb398;
+        }
+        &--color3 {
+            color: #f44438;
+        }
+        &--color4 {
+            color: $colorBlack;
         }
     }
 }

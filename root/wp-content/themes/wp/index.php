@@ -508,27 +508,27 @@
         <div class="l-container">
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ຂັ້ນຕອນໃນການດຳເນີນງານ</h2>
             <div class="c-list5 u-mt10 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
-                <div class="c-list5__item">
+                <div class="c-list5__item c-list5__item--1">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/1.png" alt="">
                     </figure>
-                    <p class="c-list5__text">
-                        01. Nghiên Cứu
+                    <p class="c-list5__text c-list5__text--color1">
+                        01. Nghiên cứu
                     </p>
                 </div>
                 <div class="c-list5__item">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/2.png" alt="">
                     </figure>
-                    <p class="c-list5__text">
+                    <p class="c-list5__text c-list5__text--color2">
                         02. Phân tích
                     </p>
                 </div>
-                <div class="c-list5__item">
+                <div class="c-list5__item c-list5__item--3">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/3.png" alt="">
                     </figure>
-                    <p class="c-list5__text">
+                    <p class="c-list5__text c-list5__text--color3">
                         03. Triển khai
                     </p>
                 </div>
@@ -536,7 +536,7 @@
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/4.png" alt="">
                     </figure>
-                    <p class="c-list5__text">
+                    <p class="c-list5__text c-list5__text--center c-list5__text--color4">
                         04. Kết quả
                     </p>
                 </div>

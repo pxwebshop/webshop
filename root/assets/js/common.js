@@ -1,11 +1,11 @@
 "use strict"; //modal
 
-var btnOpenModal1 = document.getElementById('btnOpenModal1');
-var btnOpenModal2 = document.getElementById('btnOpenModal2');
-var btnOpenModal3 = document.getElementById('btnOpenModal3');
-var btnOpenModal4 = document.getElementById('btnOpenModal4');
-var btnExitModal = document.getElementById('btnExitModal');
-var modal = document.getElementById('modal'); // trong page ko tìm được document.getElementById('btnOpenModal1');
+var btnOpenModal1 = document.getElementById("btnOpenModal1");
+var btnOpenModal2 = document.getElementById("btnOpenModal2");
+var btnOpenModal3 = document.getElementById("btnOpenModal3");
+var btnOpenModal4 = document.getElementById("btnOpenModal4");
+var btnExitModal = document.getElementById("btnExitModal");
+var modal = document.getElementById("modal"); // trong page ko tìm được document.getElementById('btnOpenModal1');
 // sẽ dẫn đến bị lỗi. Null ko thể tìm thấy. Em debug để phát triền kĩ năng nha
 
 if (btnOpenModal1 !== null) {
@@ -120,22 +120,22 @@ $(document).ready(function () {
   });
 }); // Show/Hide table of contents
 
-var showTableOfContent = document.getElementById('showTableOfContent');
-var hideTableOfContent = document.getElementById('hideTableOfContent');
-var tableOfContent = document.getElementsByClassName('c-detail__ItemContent');
+var showTableOfContent = document.getElementById("showTableOfContent");
+var hideTableOfContent = document.getElementById("hideTableOfContent");
+var tableOfContent = document.getElementsByClassName("c-detail__ItemContent");
 
 if (showTableOfContent !== null && hideTableOfContent !== null) {
-  if (window.getComputedStyle(showTableOfContent, null).display === 'none' || window.getComputedStyle(hideTableOfContent, null).display === 'none') {
+  if (window.getComputedStyle(showTableOfContent, null).display === "none" || window.getComputedStyle(hideTableOfContent, null).display === "none") {
     hideTableOfContent.onclick = function () {
-      showTableOfContent.style.display = 'inline';
-      hideTableOfContent.style.display = 'none';
-      tableOfContent[0].style.display = 'none';
+      showTableOfContent.style.display = "inline";
+      hideTableOfContent.style.display = "none";
+      tableOfContent[0].style.display = "none";
     };
 
     showTableOfContent.onclick = function () {
-      hideTableOfContent.style.display = 'inline';
-      showTableOfContent.style.display = 'none';
-      tableOfContent[0].style.display = 'block';
+      hideTableOfContent.style.display = "inline";
+      showTableOfContent.style.display = "none";
+      tableOfContent[0].style.display = "block";
     };
   }
 } // end: Show/Hide table of contents
@@ -147,16 +147,34 @@ $(document).ready(function () {
 
   $(".c-payment__eWallets img").click(function () {
     var $src = $(this).attr("src");
-    $(".c-payment__show").fadeIn();
+    $(".c-payment__show").show();
     $(".c-payment__img-show img").attr("src", $src);
     document.body.style.overflow = "hidden";
   });
   $("span").click(function () {
-    $(".c-payment__show").fadeOut();
+    $(".c-payment__show").hide();
     document.body.style.overflow = "scroll";
   });
 }); // end pop up
+// hover search
 
 $(".c-header__item").hover(function () {
-  $('.c-header__form input').blur();
+  $(".c-header__form input").blur();
+}); // end: hover search
+// active link demo web
+
+$(".c-stock__tagItem a").click(function (e) {
+  localStorage.setItem("active-item", $(this).attr("href"));
 });
+$(document).ready(function () {
+  var activeItem = $('.c-stock__tagItem a[href="' + localStorage.getItem("active-item") + '"]').first();
+
+  if (activeItem) {
+    setActiveLink(activeItem);
+  }
+});
+
+function setActiveLink($el) {
+  $el.addClass("is-active");
+  localStorage.clear();
+} // end: active link
