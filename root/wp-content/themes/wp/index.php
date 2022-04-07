@@ -515,7 +515,7 @@
     <section class="p-index__process">
         <div class="l-container">
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ຂັ້ນຕອນໃນການດຳເນີນງານ</h2>
-            <div class="c-list5 u-mt40 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
+            <div class="c-list5 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                 <div class="c-list5__item c-list5__item--1">
                     <figure class="c-list5__img">
                         <img src="/assets/img/process/1.png" alt="">

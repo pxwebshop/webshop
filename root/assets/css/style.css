@@ -2994,6 +2994,8 @@ other
 
 .p-index__quote {
   margin-top: 50px; }
+  .p-index__quote .c-list4 {
+    margin-bottom: 60px; }
 
 .p-index__service .c-title1 {
   margin-bottom: 7px; }
