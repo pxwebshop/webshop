@@ -580,7 +580,8 @@ header
       font-size: 1.5rem;
       color: black;
       -webkit-transition: all 0.5s ease-in-out;
-      transition: all 0.5s ease-in-out; }
+      transition: all 0.5s ease-in-out;
+      border-radius: 3px; }
       .c-header__child__item:not(:last-child) {
         border-bottom: 1px solid #ccc; }
       .c-header__child__item:hover {
