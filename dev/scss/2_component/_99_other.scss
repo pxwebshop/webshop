@@ -477,7 +477,8 @@ other
 // banner
 .c-banner {
 	$root: &;
-	background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png")
+	// background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
+	background: url("/assets/img/common/banner.png")
 		no-repeat center center;
 	height: 500px;
 	@include sp() {

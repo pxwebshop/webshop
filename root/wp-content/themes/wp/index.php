@@ -517,62 +517,36 @@
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ຂັ້ນຕອນໃນການດຳເນີນງານ</h2>
             <div class="c-list5 u-mt10 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                 <div class="c-list5__item">
-                    <div class="c-list5__wrap">
-                        <figure class="c-list5__img">
-                            <img src="/assets/img/process/img01.png" alt="">
-                        </figure>
-                        <!-- <p class="c-list5__txt">B1. Tiếp nhận yêu cầu và TƯ VẤN</p> -->
-                        <p class="c-list5__txt">ຂັ້ນຕອນ 1: ເກັບກໍາຂໍ້ມູນການອອກແບບເວັບໄຊ</p>
-                    </div>
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/1.png" alt="">
+                    </figure>
+                    <p class="c-list5__text">
+                        01. Nghiên Cứu
+                    </p>
                 </div>
                 <div class="c-list5__item">
-                    <div class="c-list5__wrap">
-                        <figure class="c-list5__img">
-                            <!-- <img src="/assets/img/process/img02.png" alt=""> -->
-                            <img src="/assets/img/process/img07.png" alt="">
-                        </figure>
-                        <!-- <p class="c-list5__txt">B2. Phác thảo giao diện và báo giá</p> -->
-                        <p class="c-list5__txt">ຂັ້ນຕອນ 2: ວາງແຜນການອອກແບບເວັບໄຊ</p>
-                    </div>
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/2.png" alt="">
+                    </figure>
+                    <p class="c-list5__text">
+                        02. Phân tích
+                    </p>
                 </div>
                 <div class="c-list5__item">
-                    <div class="c-list5__wrap">
-                        <figure class="c-list5__img">
-                            <!-- <img src="/assets/img/process/img03.png" alt=""> -->
-                            <img src="/assets/img/process/img04.png" alt="">
-                        </figure>
-                        <!-- <p class="c-list5__txt">B3. Tiến hành ký hợp đồng, thu phí 50% giá trị hợp đồng</p> -->
-                        <p class="c-list5__txt">ຂັ້ນຕອນ 3: ອອກແບບເວັບໄຊ</p>
-                    </div>
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/3.png" alt="">
+                    </figure>
+                    <p class="c-list5__text">
+                        03. Triển khai
+                    </p>
                 </div>
                 <div class="c-list5__item">
-                    <div class="c-list5__wrap">
-                        <figure class="c-list5__img">
-                            <!-- <img src="/assets/img/process/img04.png" alt=""> -->
-                            <img src="/assets/img/process/img06.png" alt="">
-                        </figure>
-                        <!-- <p class="c-list5__txt">B4. Tiến hành thiết kế website và gửi demo tới khách hàng</p> -->
-                        <p class="c-list5__txt">ຂັ້ນຕອນ 4: ພັດທະນາເວັບໄຊ</p>
-                    </div>
-                </div>
-                <div class="c-list5__item">
-                    <div class="c-list5__wrap">
-                        <figure class="c-list5__img">
-                            <img src="/assets/img/process/img05.png" alt="">
-                        </figure>
-                        <!-- <p class="c-list5__txt">B5. Chốt giao diện website, thu 30% giá trị hợp đồng</p> -->
-                        <p class="c-list5__txt">ຂັ້ນຕອນ 5: ກວດສອບ ແລະ ແກ້ໄຂເວັບໄຊ</p>
-                    </div>
-                </div>
-                <div class="c-list5__item">
-                    <div class="c-list5__wrap">
-                        <figure class="c-list5__img">
-                            <!-- <img src="/assets/img/process/img06.png" alt=""> -->
-                            <img src="/assets/img/process/img09.png" alt="">
-                        </figure>
-                        <!-- <p class="c-list5__txt">B6. Tiến hành code và thiết kế website</p> -->
-                        <p class="c-list5__txt">ຂັ້ນຕອນ 6: ສໍາເລັດ ແລະ ບຳລຸງຮັກສາເວັບໄຊ</p>
-                    </div>
+                    <figure class="c-list5__img">
+                        <img src="/assets/img/process/4.png" alt="">
+                    </figure>
+                    <p class="c-list5__text">
+                        04. Kết quả
+                    </p>
                 </div>
             </div>
         </div>

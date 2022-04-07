@@ -103,6 +103,9 @@ header
         background-color: $colorWhite;
         z-index: 9;
         right: 0;
+        @include max-w(1024px) {
+            top: 45px;
+        }
         &__item {
             font-weight: 600;
             font-size: 1.5rem;

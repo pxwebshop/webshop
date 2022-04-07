@@ -419,7 +419,8 @@ footer
         width: 50%; } }
     @media screen and (max-width: 468px) {
       .c-footer__about, .c-footer__service, .c-footer__quote, .c-footer__support {
-        width: 100%; } }
+        width: 100%;
+        padding-left: 10px; } }
   .c-footer__branch1, .c-footer__branch2, .c-footer__branch3 {
     width: 33.33%;
     padding-left: 30px; }
@@ -431,7 +432,8 @@ footer
     padding-left: 30px; }
     @media screen and (max-width: 767px) {
       .c-footer__website, .c-footer__network {
-        width: 100%; } }
+        width: 100%;
+        padding-left: 10px; } }
   .c-footer__network li {
     display: inline;
     font-size: 3.2rem;
@@ -575,6 +577,9 @@ header
     background-color: #ffffff;
     z-index: 9;
     right: 0; }
+    @media screen and (max-width: 1024px) {
+      .c-header__child {
+        top: 45px; } }
     .c-header__child__item {
       font-weight: 600;
       font-size: 1.5rem;
@@ -1266,7 +1271,7 @@ list
       margin-left: -15px; } }
   .c-list5__item {
     cursor: pointer;
-    width: 33.33%;
+    width: 25%;
     padding-left: 30px;
     margin-bottom: 20px;
     -webkit-transition: all 0.5s ease-in-out;
@@ -1302,14 +1307,14 @@ list
       .c-list5__wrap {
         padding: 5px; } }
   .c-list5__img {
-    width: 25%;
+    width: 100%;
     margin-right: 10px;
     -webkit-flex-shrink: 0;
         -ms-flex-negative: 0;
             flex-shrink: 0; }
     .c-list5__img img {
-      width: 100%;
-      height: 100%;
+      max-width: 100%;
+      max-height: 180px;
       -o-object-fit: contain;
          object-fit: contain; }
   .c-list5__txt {
@@ -1568,6 +1573,10 @@ list
   .c-list9__content2 .c-list9__text, .c-list9__content4 .c-list9__text {
     padding-left: 30px;
     padding-right: 0; }
+    @media screen and (max-width: 767px) {
+      .c-list9__content2 .c-list9__text, .c-list9__content4 .c-list9__text {
+        padding-left: 0;
+        text-align: justify; } }
 
 .c-list9__img {
   width: 40%; }
@@ -1582,7 +1591,9 @@ list
   line-height: 1.5; }
   @media screen and (max-width: 767px) {
     .c-list9__text {
-      width: 100%; } }
+      width: 100%;
+      padding-right: 0;
+      text-align: justify; } }
 
 .c-list9__txt {
   margin: 30px 0; }
@@ -2268,7 +2279,7 @@ other
         width: 80%; } }
 
 .c-banner {
-  background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png") no-repeat center center;
+  background: url("/assets/img/common/banner.png") no-repeat center center;
   height: 500px; }
   @media screen and (max-width: 767px) {
     .c-banner {

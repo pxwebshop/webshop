@@ -156,3 +156,7 @@ $(document).ready(function () {
     document.body.style.overflow = "scroll";
   });
 }); // end pop up
+
+$(".c-header__item").hover(function () {
+  $('.c-header__form input').blur();
+});

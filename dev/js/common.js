@@ -174,3 +174,8 @@ $(document).ready(function () {
     
 });
 // end pop up
+
+
+$(".c-header__item").hover(function() {
+	$('.c-header__form input').blur();
+});
