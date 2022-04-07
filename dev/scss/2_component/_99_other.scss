@@ -112,7 +112,7 @@ other
 .c-page {
 	&__heading {
 		// background: url(../img/common/contact-background.jpg) no-repeat center center;
-		background-color: #00356B;;
+		background-color: #00356b;
 		background-size: 100%;
 		height: 300px;
 		width: 100%;
@@ -342,15 +342,23 @@ other
 	&__content {
 		display: flex;
 		padding: 30px;
-		align-items: center;
+		@include max-w(545px) {
+			flex-wrap: wrap;
+		}
+		// <<<<<<< HEAD
+		// 		@include max-w(545px) {
+		// 			flex-wrap: wrap;
+		// 		}
+		// =======
+		// 		align-items: center;
+		// >>>>>>> 375e6f919a0439d46a8fb8ec76bfd9703fec6c66
 	}
 	&__img {
-		width: 200px;
+		max-width: 200px;
+		margin: 0 auto;
 		img {
 			width: 100%;
-		}
-		@include sp() {
-			display: none;
+			object-fit: contain;
 		}
 	}
 	&__txt {
@@ -368,9 +376,18 @@ other
 	}
 	&__eWallets {
 		display: flex;
+		flex-wrap: wrap;
 		justify-content: space-between;
+		@include sp {
+			justify-content: space-around;
+		}
 		figure {
 			max-width: 200px;
+			@include sp {
+				&:first-child {
+					display: none;
+				}
+			}
 			img {
 				object-fit: contain;
 				cursor: pointer;
@@ -397,7 +414,8 @@ other
 			border-radius: 30px;
 			background-color: $colorBlue5;
 			border: transparent;
-			box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+			box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+				rgba(0, 0, 0, 0.22) 0px 15px 12px;
 			color: $colorWhite;
 			font-weight: 700;
 			text-transform: uppercase;
@@ -409,8 +427,10 @@ other
 	}
 	&__show {
 		z-index: 1;
-    	display: none;
-		
+		display: none;
+	}
+	&__showImg {
+		position: relative;
 	}
 	&__img-show {
 		position: fixed;
@@ -422,20 +442,34 @@ other
 		justify-content: center;
 		align-items: center;
 		background-color: rgba(1, 1, 1, 0.5);
-		span{
+		span {
 			position: absolute;
-			top: 10px;
-			right: 10px;
+			top: 0;
+			right: 20px;
 			z-index: 1001;
 			cursor: pointer;
 			font-size: 5rem;
-			color: $colorWhite;
+			color: $colorRed;
+			@include sp {
+				right: 70px;
+				font-size: 4rem;
+			}
+			// @include max-w(468px) {
+			// 	right: 60px;
+			// 	font-size: 3rem;
+			// }
+			@include max-w(400px) {
+				right: 45px;
+				font-size: 3rem;
+			}
 		}
-		img{
-			width: 60%;
-			height: 60%;
+		img {
+			width: 100%;
 			display: block;
 			margin: 0 auto;
+			@include sp {
+				width: 80%;
+			}
 		}
 	}
 }
@@ -474,7 +508,6 @@ other
 				line-height: 1.5;
 			}
 		}
-		
 	}
 	&__color {
 		color: $colorRed;
@@ -895,14 +928,12 @@ other
 	&_list {
 		font-size: 1.6rem;
 		font-weight: 500;
-		li>ul {
+		li > ul {
 			margin-left: 30px;
 		}
 	}
-	
 }
 // end: toc
-
 
 // pagenavi
 .c-pagenavi {
@@ -921,7 +952,6 @@ other
 	}
 	.pages {
 		padding: 8px 16px;
-		
 	}
 	.current {
 		color: $colorWhite;
@@ -932,9 +962,9 @@ other
 
 .c-pageTop {
 	position: fixed;
-    bottom: 30px;
-    right: 25px;
-    z-index: 10;
+	bottom: 30px;
+	right: 25px;
+	z-index: 10;
 	cursor: pointer;
 	display: flex;
 	@include sp {
