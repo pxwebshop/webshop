@@ -342,16 +342,10 @@ other
 	&__content {
 		display: flex;
 		padding: 30px;
+		align-items: center;
 		@include max-w(545px) {
 			flex-wrap: wrap;
 		}
-		// <<<<<<< HEAD
-		// 		@include max-w(545px) {
-		// 			flex-wrap: wrap;
-		// 		}
-		// =======
-		// 		align-items: center;
-		// >>>>>>> 375e6f919a0439d46a8fb8ec76bfd9703fec6c66
 	}
 	&__img {
 		max-width: 200px;
@@ -906,13 +900,17 @@ other
 	&__tagItem {
 		background-color: $colorWhite;
 		margin: 5px;
-		padding: 10px;
+		padding: 10px 15px;
 		border-radius: 50px;
 		box-shadow: 0px 3px 6px 0px #8aa0c5;
 		font-size: 1.4rem;
 		line-height: 1.5;
 		font-weight: 500;
 		letter-spacing: 0.3px;
+	}
+	.is-active {
+		background-color: #db2424;
+ 		color: #fff;
 	}
 }
 // end: interface stock
@@ -967,11 +965,12 @@ other
 
 .c-pageTop {
 	position: fixed;
+	display: none;
 	bottom: 30px;
 	right: 25px;
 	z-index: 10;
 	cursor: pointer;
-	display: flex;
+	opacity: 0.7;
 	@include sp {
 		right: 10px;
 		bottom: 15px;
@@ -985,13 +984,4 @@ other
 			padding: 10px 15px;
 		}
 	}
-}
-.is-hide {
-	display: none;
-	transition: all 1s;
-}
-
-.is-show {
-	display: block;
-	transition: all 1s;
 }

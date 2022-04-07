@@ -97,7 +97,6 @@ header
         position: absolute;
         top: 70px;
         min-width: 310px;
-        // padding: 10px;
         box-shadow: 0px 3px 10px 1px #8aa0c5;
         display: none;
         border-radius: 3px;
@@ -112,13 +111,12 @@ header
             font-size: 1.5rem;
             color: black;
             transition: all 0.5s ease-in-out;
+            border-radius: 3px;
             &:not(:last-child) {
                 border-bottom: 1px solid #ccc;
             }
-           &:hover {
-                // background-color: #529ccb;
+            &:hover {
                 transition: all 0.5s ease-in-out;
-                // background: rgb(2,0,36);
                 background: linear-gradient(-45deg, #1460ee, #0c81f6, #2869cf, #285f9e);
                 a {
                     color: #ffff;
@@ -132,8 +130,6 @@ header
         }
     }
     &__top {
-        // border-top: 1px solid $colorBlue5;
-        // border-bottom: 1px solid $colorBlue5;
         .l-container {
             display: flex;
             justify-content: space-between;
@@ -298,6 +294,9 @@ header
                     align-items: center;
                     &:last-child {
                         border-bottom: none;
+                    }
+                    a {
+                        width: 100%;
                     }
                 }
             }
