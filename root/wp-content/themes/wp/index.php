@@ -571,8 +571,8 @@
     </section>
     <section class="p-index__article">
         <div class="l-container clearfix">
-            <h2 class="c-title1">ບົດຄວາມ</h2>
-            <div class="p-index__article__content wow bounceInUp">
+            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ບົດຄວາມ</h2>
+            <div class="p-index__article__content wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                 <div class="c-list2">
                     <?php
                     $query = new WP_Query(array(
