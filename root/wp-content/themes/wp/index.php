@@ -7,7 +7,7 @@
             <div class="l-container">
                 <div class="c-banner__content wow slideInLeft">
                     <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ມີຄວາມປອດໄພ ແລະ ໜ້າເຊື່ອຖື.</h3>
-                    <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຢີໃນລາວ.</span></h2>
+                    <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຊີໃນລາວ.</span></h2>
                     <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ເວັບໄຊ​ ແລະ ຊອບ​ແວ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
                     <a class="c-banner__btn  wow slideInLeft" href="/index.php/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
                 </div>
@@ -571,8 +571,8 @@
     </section>
     <section class="p-index__article">
         <div class="l-container clearfix">
-            <h2 class="c-title1">ບົດຄວາມ</h2>
-            <div class="p-index__article__content wow bounceInUp">
+            <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ບົດຄວາມ</h2>
+            <div class="p-index__article__content wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                 <div class="c-list2">
                     <?php
                     $query = new WP_Query(array(
