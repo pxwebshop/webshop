@@ -53,10 +53,10 @@
 					<h3 class="c-title2">ສື່ສັງຄົມອອນລາຍ</h3>
 					<p class="c-footer__txt">ຕິດຕາມ PX WebShop ສໍາຫຼັບຂໍ້ມູນເພີ່ມເຕີມ</p>
 					<ul>
-						<li><a href=""><i class="fa-brands fa-facebook"></i></a></li>
-						<li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
-						<li><a href=""><i class="fa-brands fa-youtube"></i></a></li>
-						<li><a href=""><i class="fa-brands fa-linkedin"></i></a></li>
+						<li><a href="https://www.facebook.com/pxwebshop"><i class="fa-brands fa-facebook"></i></a></li>
+						<li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+						<li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+						<li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
 					</ul>
 				</div>
 			</div>
