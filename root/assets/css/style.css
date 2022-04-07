@@ -333,7 +333,8 @@ breadcrumb
 footer
 ------------------------------------------------------------*/
 .c-footer {
-  color: #ffffff; }
+  color: #ffffff;
+  background-color: red; }
   .c-footer__txt {
     font-size: 1.6rem;
     line-height: 2; }
@@ -341,7 +342,7 @@ footer
       color: orange; }
   .c-footer__advise {
     padding: 30px 0;
-    background: #ADD8E6 url(/assets/img/common/bg-footer.svg);
+    background: #ADD8E6 url(/assets/img/common/bg-footer.svg) -10px;
     text-align: center; }
     .c-footer__advise .c-title2 {
       text-align: center; }
@@ -1025,8 +1026,8 @@ list
     width: 50%;
     padding-left: 20px;
     height: 100%;
-    -webkit-transition: all .5s;
-    transition: all .5s; }
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s; }
     @media screen and (max-width: 870px) {
       .c-list2__item {
         padding-left: 15px; } }
@@ -1077,7 +1078,7 @@ list
     font-weight: 700; }
     @media screen and (max-width: 767px) {
       .c-list2__title {
-        font-size: 2.0rem; } }
+        font-size: 2rem; } }
   .c-list2__time {
     font-size: 1.3rem;
     line-height: 1.5;
@@ -1310,7 +1311,7 @@ list
     border-radius: 5px 5px 5px 5px;
     border-style: solid;
     border-width: 1px 1px 1px 1px;
-    border-color: #FFFFFF;
+    border-color: #ffffff;
     -webkit-box-shadow: 0px 6px 10px 0px #8aa0c5;
             box-shadow: 0px 6px 10px 0px #8aa0c5;
     -webkit-box-align: center;
@@ -1331,6 +1332,13 @@ list
       max-height: 180px;
       -o-object-fit: contain;
          object-fit: contain; }
+    .c-list5__img--zoom > img {
+      -webkit-transition: all 0.5s ease-in-out;
+      transition: all 0.5s ease-in-out; }
+      .c-list5__img--zoom > img:hover {
+        -webkit-transform: scale(1.1);
+            -ms-transform: scale(1.1);
+                transform: scale(1.1); }
   .c-list5__txt {
     font-size: 1.5rem;
     line-height: 1.5;
@@ -1487,7 +1495,7 @@ list
     cursor: pointer;
     -webkit-transition: background-color 0.2s linear;
     transition: background-color 0.2s linear;
-    border-color: #FFFFFF;
+    border-color: #ffffff;
     -webkit-box-shadow: 0px 6px 10px 0px #8aa0c5;
             box-shadow: 0px 6px 10px 0px #8aa0c5; }
     .c-list8__item:hover {
@@ -1498,10 +1506,11 @@ list
         display: -ms-flexbox;
         display: flex;
         background-color: rgba(1, 1, 1, 0.1); }
-      .c-list8__item:hover .c-list8__name, .c-list8__item:hover .c-list8__position {
+      .c-list8__item:hover .c-list8__name,
+      .c-list8__item:hover .c-list8__position {
         color: #ffffff; }
       .c-list8__item:hover .c-list8__skill {
-        border-color: #FFFFFF; }
+        border-color: #ffffff; }
   .c-list8__img {
     width: 100%; }
   .c-list8__content {
@@ -1709,7 +1718,7 @@ list
     font-weight: 700; }
     @media screen and (max-width: 767px) {
       .c-list10__title {
-        font-size: 2.0rem; } }
+        font-size: 2rem; } }
   .c-list10__time {
     font-size: 1.1rem;
     line-height: 1.5;

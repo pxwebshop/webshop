@@ -114,7 +114,11 @@ $(document).ready(function () {
 	});
 
 	$(".c-pageTop").click(function () {
-		$("html, body").animate({ scrollTop: 0 }, 600);
+		$("html, body").animate({ scrollTop: 0 }, 600)
+			.css({
+				overflow: 'auto',
+				overflowX: 'hidden'
+			});
 		return false;
 	});
 

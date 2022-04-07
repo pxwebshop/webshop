@@ -106,7 +106,10 @@ $(document).ready(function () {
   $(".c-pageTop").click(function () {
     $("html, body").animate({
       scrollTop: 0
-    }, 600);
+    }, 600).css({
+      overflow: 'auto',
+      overflowX: 'hidden'
+    });
     return false;
   });
   $(document).scroll(function () {

@@ -541,7 +541,7 @@
                     </p>
                 </div>
                 <div class="c-list5__item">
-                    <figure class="c-list5__img">
+                    <figure class="c-list5__img c-list5__img--zoom">
                         <img src="/assets/img/process/4.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--center c-list5__text--color4">
