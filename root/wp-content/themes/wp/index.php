@@ -239,7 +239,7 @@
         </div>
     </section>
 
-    <section class="p-index__quote">
+    <section class="p-index__quote" id="price">
         <div class="l-container">
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ແພັກເກັດເວັບໄຊ</h2>
             <div class="p-index__quote__content">
@@ -247,7 +247,7 @@
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                         <div class="c-list4__wrap">
                             <div class="c-list4__info c-list4__info--background1">
-                                <h3 class="c-list4__title">
+                                <h3 class="c-list4__title" id="basic">
                                     Basic
                                 </h3>
                                 <span class="c-list4__price">X.XXX.XXX ກິບ</span>

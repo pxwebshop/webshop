@@ -21,17 +21,17 @@
 				</div>
 				<div class="c-footer__service">
 					<h3 class="c-title2">ບໍລິການ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ອອກແບບໂລໂກ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thiet-ke-web" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/xay-dung-phan-mem" class="c-footer__link">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thiet-ke-logo" class="c-footer__link">ອອກແບບໂລໂກ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ບໍລິການ SEO</a></p>
 				</div>
 				<div class="c-footer__quote">
 					<h3 class="c-title2">ແພັກເກັດເວັບໄຊ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Basic</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Plus</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Professional</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Business</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Basic</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Plus</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Professional</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Business</a></p>
 				</div>
 				<div class="c-footer__support">
 					<h3 class="c-title2">ຊ່ວຍເຫຼືອ</h3>

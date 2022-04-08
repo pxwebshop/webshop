@@ -141,6 +141,7 @@ other
 	}
 	&__url {
 		margin-top: 5px;
+		text-align: center;
 	}
 }
 
@@ -983,6 +984,138 @@ other
 		border-radius: 5px;
 		@include sp {
 			padding: 10px 15px;
+		}
+	}
+}
+
+.c-webDesign {
+	// background: url(/assets/img/common/tkw-bg.png) no-repeat center center;
+	// background-size: cover;	
+	&__trust {
+		padding-top: 30px;
+		.c-title1 {
+			text-align: center;
+		}
+		text-align: center;
+	}
+	.c-detail__related {
+		margin: 30px 0;
+	}
+	.c-title2 {
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+}
+
+.c-buildSoftware {
+	.c-list13__itemChild {
+		width: 100%;
+		@include sp {
+			padding-left: 0;
+		}
+		.c-list12__txt {
+			margin-top: 0;
+			@include sp {
+				font-size: 1.3rem;
+			}
+		}
+	}
+	.c-detail__related {
+		margin: 30px 0;
+	}
+	.c-list14{
+		&__item {
+			width: 100%;
+		}
+		&__img {
+			width: 100px;
+		}
+		&__list li{
+			list-style: circle;
+			margin-left: 30px;
+			font-size: 1.6rem;
+			line-height: 1.5;
+			color: $colorGrey;
+			@include sp {
+				font-size: 1.3rem;
+			}
+		}
+		&__wrap {
+			box-shadow: none;
+		}
+	}
+	&__btn {
+		text-align: center;
+	}
+	.c-title2 {
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+}
+
+.c-logoDesign {
+	&__header {
+		padding-top: 30px;
+		text-align: center;
+		color: $colorGrey;
+		.c-title1 {
+			text-align: center;
+		}
+	}
+	.c-detail__related {
+		margin: 30px 0;
+	}
+	.c-title2 {
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+	&__title {
+		font-size: 2rem;
+		line-height: 1.5;
+		font-weight: 600;
+		color: $colorBlue6;
+		&--center {
+			text-align: center;
+			margin-top: 30px;
+		}
+	}
+	&__txt {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		text-align: center;
+		color: $colorGrey;
+		@include sp {
+			font-size: 1.3rem;
+		}
+	}
+	&__list{
+		margin-left: 30px;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		color: $colorGrey;
+		margin-bottom: 30px;
+		@include sp {
+			font-size: 1.3rem;
+		}
+		li {
+			list-style: circle;
+			span {
+				font-weight: bold;
+			}
+		}
+	}
+	&__contactList {
+		font-size: 3rem;
+		line-height: 1.5;
+		text-align: center;
+		margin: 30px 0;
+		li {
+			display: inline;
+			margin: 30px;
+			cursor: pointer;
 		}
 	}
 }
