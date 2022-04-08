@@ -194,7 +194,7 @@
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">ບໍລິການ</h2>
             <div class="c-list7">
                 <div class="c-list7__item1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                    <a href="#">
+                    <a href="/thiet-ke-web">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service1.png" alt="">
                         </figure>
@@ -202,7 +202,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                    <a href="#">
+                    <a href="xay-dung-phan-mem">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service2.png" alt="">
                         </figure>
@@ -212,7 +212,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                    <a href="#">
+                    <a href="thiet-ke-logo">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service3.jpg" alt="">
                         </figure>
@@ -239,7 +239,7 @@
         </div>
     </section>
 
-    <section class="p-index__quote">
+    <section class="p-index__quote" id="price">
         <div class="l-container">
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ແພັກເກັດເວັບໄຊ</h2>
             <div class="p-index__quote__content">
@@ -247,7 +247,7 @@
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                         <div class="c-list4__wrap">
                             <div class="c-list4__info c-list4__info--background1">
-                                <h3 class="c-list4__title">
+                                <h3 class="c-list4__title" id="basic">
                                     Basic
                                 </h3>
                                 <span class="c-list4__price">X.XXX.XXX ກິບ</span>

@@ -176,9 +176,39 @@ $(document).ready(function () {
 // end pop up
 
 // hover search
+// $(".c-header__itemSeach").hover(function () {
+//     console.log("abc");
+// 	$(".c-header__search").css("display","block");
+// }, function () {
+//     // $(".c-header__search").css("display","none");
+// 	$(".c-header__itemSeach").blur();
+// });
+
 $(".c-header__item").hover(function () {
 	$(".c-header__form input").blur();
 });
+
+// $(".c-header__form input").on("focus", function(e) {
+
+//     if (e.type === "mouseenter") { console.log("enter"); }
+//     else if (e.type === "mouseleave") { console.log("leave"); }
+
+// });
+
+// $('.c-header__itemSeach').on('mouseover', function(){
+// 	$('.c-header__search', this).show();
+// }).on('mouseout', function(e){
+// 	if(!$(e.target).is('input')) {
+// 		$('.c-header__search', this).hide();
+// 	}
+// });
+// $('.c-header__itemSeach').on('mouseover', function(){
+// 	$('.c-header__search', this).show();
+// }).on('mouseout', function(e){
+// 	if(!$('input').autocomplete) {
+// 		$('.c-header__search', this).hide();
+// 	}
+// });
 // end: hover search
 
 // active link demo web
