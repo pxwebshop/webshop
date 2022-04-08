@@ -66,7 +66,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Mô hình nghiệp vụ</h4>
@@ -78,7 +78,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Công việc phải làm</h4>
@@ -89,7 +89,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Thu thập yêu cầu</h4>
@@ -100,7 +100,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Phân tích thiết kế</h4>
@@ -118,7 +118,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Thực thi</h4>
@@ -134,7 +134,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Kiểm Thử</h4>
@@ -150,7 +150,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Triển khai</h4>
@@ -166,7 +166,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Quản trị dự án</h4>
@@ -181,7 +181,7 @@
                 <div class="c-list14__item">
                     <div class="c-list14__wrap">
                         <figure class="c-list14__img">
-                            <img src="/assets/img/common/step.png" alt="">
+                            <img src="/assets/img/common/step1.png" alt="">
                         </figure>
                         <div class="c-list14__text">
                             <h4 class="c-list14__title">Quản lý thay đổi</h4>
