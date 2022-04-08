@@ -4,7 +4,7 @@
     <div class="c-webDesign">
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
-                <div>
+                <div class="l-container">
                     <h2 class="c-title1 c-title1--color1">Thiết kế website</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">Trang chủ</a>

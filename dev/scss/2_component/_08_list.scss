@@ -897,6 +897,9 @@ list
 	display: flex;
 	flex-wrap: wrap;
 	padding-top: 30px;
+	&--reserve {
+		flex-direction: row-reverse;
+	}
 	&__item {
 		width: 50%;
 		align-items: center;
@@ -908,9 +911,9 @@ list
 		font-size: 1.6rem;
 		line-height: 1.5;
 		margin: 30px 0;
-		@include sp {
-			font-size: 1.3rem;
-		}
+		// @include sp {
+		// 	font-size: 1.3rem;
+		// }
 	}
 	&__btn {
 		padding: 10px 30px;

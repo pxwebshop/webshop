@@ -5,7 +5,7 @@
     <div class="c-buildSoftware">
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
-                <div>
+                <div class="l-container">
                     <h2 class="c-title1 c-title1--color1">Xây dựng phần mềm theo yêu cầu</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">Trang chủ</a>

@@ -1016,9 +1016,9 @@ other
 		}
 		.c-list12__txt {
 			margin-top: 0;
-			@include sp {
-				font-size: 1.3rem;
-			}
+			// @include sp {
+			// 	font-size: 1.3rem;
+			// }
 		}
 	}
 	.c-detail__related {
@@ -1037,9 +1037,9 @@ other
 			font-size: 1.6rem;
 			line-height: 1.5;
 			color: $colorGrey;
-			@include sp {
-				font-size: 1.3rem;
-			}
+			// @include sp {
+			// 	font-size: 1.3rem;
+			// }
 		}
 		&__wrap {
 			box-shadow: none;
@@ -1059,7 +1059,6 @@ other
 	&__header {
 		padding-top: 30px;
 		text-align: center;
-		color: $colorGrey;
 		.c-title1 {
 			text-align: center;
 		}
@@ -1086,20 +1085,18 @@ other
 		font-size: 1.6rem;
 		line-height: 1.5;
 		text-align: center;
-		color: $colorGrey;
-		@include sp {
-			font-size: 1.3rem;
-		}
+		// @include sp {
+		// 	font-size: 1.3rem;
+		// }
 	}
 	&__list{
 		margin-left: 30px;
 		font-size: 1.6rem;
 		line-height: 1.5;
-		color: $colorGrey;
 		margin-bottom: 30px;
-		@include sp {
-			font-size: 1.3rem;
-		}
+		// @include sp {
+		// 	font-size: 1.3rem;
+		// }
 		li {
 			list-style: circle;
 			span {
@@ -1116,6 +1113,50 @@ other
 			display: inline;
 			margin: 30px;
 			cursor: pointer;
+		}
+	}
+}
+
+.c-webapp {
+	&__exp {
+		padding-top: 30px;
+	}
+}
+
+.c-seo {
+	&__notseo {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+	&__notseoItem {
+		width: 25%;
+		padding-top: 30px;
+		@include max-w(540px) {
+			width: 50%;
+		}
+	}
+	&__img {
+		width: 100px;
+		display: block;
+		margin: 0 auto;
+	}
+	&__title {
+		text-align: center;
+		font-size: 1.8rem;
+		line-height: 1.5;
+		font-weight: 700;
+	}
+	&__txt {
+		font-size: 1.6rem;
+		line-height: 1.5;
+	}
+	&__service {
+		margin-top: 15px;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		span {
+			font-weight: 700;
 		}
 	}
 }
