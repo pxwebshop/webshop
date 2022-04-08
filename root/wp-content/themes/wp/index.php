@@ -194,7 +194,7 @@
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">ບໍລິການ</h2>
             <div class="c-list7">
                 <div class="c-list7__item1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                    <a href="#">
+                    <a href="/thiet-ke-web">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service1.png" alt="">
                         </figure>
@@ -202,7 +202,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                    <a href="#">
+                    <a href="xay-dung-phan-mem">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service2.png" alt="">
                         </figure>
@@ -212,7 +212,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                    <a href="#">
+                    <a href="thiet-ke-logo">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service3.jpg" alt="">
                         </figure>
