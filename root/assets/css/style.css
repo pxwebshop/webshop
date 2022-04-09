@@ -590,6 +590,7 @@ header
       .c-header__child__item:not(:last-child) {
         border-bottom: 1px solid #ccc; }
       .c-header__child__item:hover {
+        border-radius: 0;
         -webkit-transition: all 0.5s ease-in-out;
         transition: all 0.5s ease-in-out;
         background: -webkit-linear-gradient(135deg, #1460ee, #0c81f6, #2869cf, #285f9e);
@@ -1241,7 +1242,7 @@ list
   .c-list4__btn {
     width: 100%;
     padding: 20px;
-    font-size: 1.6rem;
+    font-size: 1.7rem;
     text-transform: uppercase;
     background-color: #0064a3;
     color: #ffffff;
@@ -1958,7 +1959,8 @@ list
             align-items: center; }
     @media screen and (max-width: 767px) {
       .c-list14__wrap {
-        padding: 5px; } }
+        padding: 5px;
+        padding-right: 15px; } }
   .c-list14__img {
     width: 25%;
     margin-right: 10px;

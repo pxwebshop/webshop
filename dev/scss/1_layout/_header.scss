@@ -116,6 +116,7 @@ header
                 border-bottom: 1px solid #ccc;
             }
             &:hover {
+                border-radius: 0;
                 transition: all 0.5s ease-in-out;
                 background: linear-gradient(-45deg, #1460ee, #0c81f6, #2869cf, #285f9e);
                 a {

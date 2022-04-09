@@ -18,7 +18,7 @@
                 <div class="c-list12__item">
                     <h2 class="c-title1">Dịch vụ thiết kế website chuyên nghiệp</h2>
                     <p class="c-list12__txt">Tăng doanh thu bán hàng online với trang web với trang web bán hàng được thiết lập chuẩn SEO, bắt mắt.</p>
-                    <button class="c-list12__btn"><a href="tel:0361.0214.01265"><i class="fa-solid fa-phone"></i> Gọi ngay 0361.0214.01265</a></button>
+                    <button class="c-list12__btn"><a href="tel:02028266650"><i class="fa-solid fa-phone"></i> Gọi ngay 020 28266650</a></button>
                     <p class="c-list12__txt">Nắm bắt cơ hội tạo nên lợi thế cạnh tranh trong thời đại 4.0. Có website sẽ giúp bạn tăng độ nhận diện thương hiệu trên mạng internet, dễ dàng chạy quảng cáo và tương tác với khách hàng ở mọi nơi.</p>
                 </div>
                 <div class="c-list12__item">

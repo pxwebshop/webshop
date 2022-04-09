@@ -46,7 +46,7 @@
                 <h2 class="c-logoDesign__title c-logoDesign__title--center">Liên hệ với chúng tôi</h2>
                 <p class="c-logoDesign__txt">Hãy liên hệ trực tiếp với chúng tôi để được tư vấn và báo giá chi tiết</p>
                 <ul class="c-logoDesign__contactList">
-                    <li><a href="tel:0361.0214.01265"> <i class="fa-solid fa-phone"></i></a></li>
+                    <li><a href="tel:02028266650"> <i class="fa-solid fa-phone"></i></a></li>
                     <li><a href="https://www.facebook.com/pxwebshop"><i class="fa-solid fa-message"></i></a> </li>
                     <li><a href="/lien-he"><i class="fa-solid fa-file-contract"></i></a></li>
                 </ul>
