@@ -6,323 +6,969 @@ list
 ------------------------------------------------------------*/
 .c-list1 {
 	$root: &;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: -30px;
-    &__item {
-        width: 33.33%;
-        padding: 30px 0 0 30px;
-        @include sp {
-            width: 100%;
-            margin: 0 30px;
-        }
-        
-    }
-    &__description {
-        padding: 10px 20px 20px;
-        box-shadow: 0 0 5px $colorLightGrey;
-        #{$root}__title {
-            font-size: 1.8rem;
-            line-height: 1.5;
-        }
-        #{$root}__time {
-            font-size: 1.3rem;
-            line-height: 1.5;
-            font-style: italic;
-            color: $colorGrey;
-        }
-        #{$root}__txt {
-            font-size: 1.6rem;
-            line-height: 1.5;
-            color: $colorBlack;
-            text-align: justify;
-        }
-    }
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -30px;
+	&__item {
+		width: 33.33%;
+		padding: 30px 0 0 30px;
+		@include sp {
+			width: 100%;
+			margin: 0 30px;
+		}
+	}
+	&__description {
+		padding: 10px 20px 20px;
+		box-shadow: 0 0 5px $colorLightGrey;
+		#{$root}__title {
+			font-size: 1.8rem;
+			line-height: 1.5;
+		}
+		#{$root}__time {
+			font-size: 1.3rem;
+			line-height: 1.5;
+			font-style: italic;
+			color: $colorGrey;
+		}
+		#{$root}__txt {
+			font-size: 1.6rem;
+			line-height: 1.5;
+			color: $colorBlack;
+			text-align: justify;
+		}
+	}
 }
 
 .c-list2 {
-    $root: &;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: -20px;
-    @include max-w(870px) {
-        margin-left: -15px;
-    }
-    @include sp() {
-        margin-left: -10px;
-    }
-    &__item {
-       margin-bottom: 15px;
-       width: 50%;
-       padding-left: 20px;
-       height: 100%;
-       transition: all .5s;
-       @include max-w(870px) {
-           padding-left: 15px;
-       }
-       @include sp() {
-            padding-left: 10px;
-            margin-bottom: 30px;
-       }
-       &:hover {
-            transform: translateY(-5px);
-       }
-       &--search {
-           width: 33.33%;
-           @include sp {
-               width: 50%;
-           }
-           @include max-w(400px) {
-            width: 100%;
-        }
-       }
-    }
-    &__link {
-        display: flex;        
-    }
-    &__img {
-        display: inline-block;
-        width: 100%;
-        height: 250px;
-        cursor: pointer;
-        @include max-w(1000px) {
-            height: 200px;
-        }
-        @include max-w(500px) {
-            height: 150px;
-        }
-        @include max-w(400px) {
-            height: 100px;
-        }
-        a {
-            display: inline-block;
-            display: inline-block;
-            height: 100%;
-        }
-    }
-    &__info {
-        margin-top: 10px;
-    }
-    &__title {
-        font-size: 2.3rem;
-        line-height: 1.5;
-        font-weight: 700;
-        @include sp {
-            font-size: 2.0rem;
-        }
-    }
-    &__time {
-        font-size: 1.3rem;
-        line-height: 1.5;
-        font-style: italic;
-        color: $colorGrey;
-        display: inline;
-        @include sp {
-            display: block;
-        }
-    }
-    &__author{
-        font-size: 1.3rem;
-        line-height: 1.5;
-        color: $colorGrey;
-        display: inline;
-        float: right;
-        @include sp {
-            display: block;
-            float: none;
-        }
-    }
-    &__txt {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        color: $colorBlack;
-        text-align: justify;
-        margin-top: 5px;
-        @include sp {
-            font-size: 1.5rem;
-        }
-    }
-    &__searchTotal {
-        display: inline-block;
-        width: 100%;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        font-weight: 500;
-        margin: 0 30px 30px;
-    }
+	$root: &;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -20px;
+	@include max-w(870px) {
+		margin-left: -15px;
+	}
+	@include sp() {
+		margin-left: -10px;
+	}
+	&__item {
+		margin-bottom: 15px;
+		width: 50%;
+		padding-left: 20px;
+		height: 100%;
+		transition: all 0.5s;
+		@include max-w(870px) {
+			padding-left: 15px;
+		}
+		@include sp() {
+			padding-left: 10px;
+			margin-bottom: 30px;
+		}
+		&:hover {
+			transform: translateY(-5px);
+		}
+		&--search {
+			width: 33.33%;
+			@include sp {
+				width: 50%;
+			}
+			@include max-w(400px) {
+				width: 100%;
+			}
+		}
+	}
+	&__link {
+		display: flex;
+	}
+	&__img {
+		display: inline-block;
+		width: 100%;
+		height: 250px;
+		cursor: pointer;
+		@include max-w(1000px) {
+			height: 200px;
+		}
+		@include max-w(500px) {
+			height: 150px;
+		}
+		@include max-w(400px) {
+			height: 100px;
+		}
+		a {
+			display: inline-block;
+			display: inline-block;
+			height: 100%;
+		}
+	}
+	&__info {
+		margin-top: 10px;
+	}
+	&__title {
+		font-size: 2.3rem;
+		line-height: 1.5;
+		font-weight: 700;
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+	&__time {
+		font-size: 1.3rem;
+		line-height: 1.5;
+		font-style: italic;
+		color: $colorGrey;
+		display: inline;
+		@include sp {
+			display: block;
+		}
+	}
+	&__author {
+		font-size: 1.3rem;
+		line-height: 1.5;
+		color: $colorGrey;
+		display: inline;
+		float: right;
+		@include sp {
+			display: block;
+			float: none;
+		}
+	}
+	&__txt {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		color: $colorBlack;
+		text-align: justify;
+		margin-top: 5px;
+		@include sp {
+			font-size: 1.5rem;
+		}
+	}
+	&__searchTotal {
+		display: inline-block;
+		width: 100%;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		font-weight: 500;
+		margin: 0 30px 30px;
+	}
 }
 
 .c-list3 {
-    $root: &;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: -30px;
-    @include sp {
-        margin: 0;
-    }
-    
-    &__item {
-        width: 33.33%;
-        padding:0 30px;
-        @include sp {
-            width: 100%;
-            max-width: 370px;
-        }
-    }
-    &__img {
-        position: relative;
-        @include sp {
-            width: 100%;
-        }
-    }
-    &__title {
-        position: absolute;
-        bottom: 20px;
-        left: 20px;
-        right: 20px;
-        font-size: 1.8rem;
-        line-height: 1.5;
-    }
-    &__txt {
-        padding: 10px 20px 20px;
-        #{$root}__time {
-            font-size: 1.3rem;
-            line-height: 1.5;
-            font-style: italic;
-            color: $colorGrey;
-            text-align: right;
-        }
-        #{$root}__content {
-            font-size: 1.6rem;
-            line-height: 1.5;
-            text-align: justify;
-            padding-bottom: 10px;
-        }
-        figure {
-            display: inline;
-            transition: padding 0.5s ease-in-out;
-        }
-        figure:hover {
-            padding-left: 30px;
-        }
-    }
-}
+	$root: &;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -30px;
+	@include sp {
+		margin: 0;
+	}
 
+	&__item {
+		width: 33.33%;
+		padding: 0 30px;
+		@include sp {
+			width: 100%;
+			max-width: 370px;
+		}
+	}
+	&__img {
+		position: relative;
+		@include sp {
+			width: 100%;
+		}
+	}
+	&__title {
+		position: absolute;
+		bottom: 20px;
+		left: 20px;
+		right: 20px;
+		font-size: 1.8rem;
+		line-height: 1.5;
+	}
+	&__txt {
+		padding: 10px 20px 20px;
+		#{$root}__time {
+			font-size: 1.3rem;
+			line-height: 1.5;
+			font-style: italic;
+			color: $colorGrey;
+			text-align: right;
+		}
+		#{$root}__content {
+			font-size: 1.6rem;
+			line-height: 1.5;
+			text-align: justify;
+			padding-bottom: 10px;
+		}
+		figure {
+			display: inline;
+			transition: padding 0.5s ease-in-out;
+		}
+		figure:hover {
+			padding-left: 30px;
+		}
+	}
+}
 
 // start: list for quote
 .c-list4 {
-    $root: &;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: -10px;
-    margin-top: 13px;
-    
-    &__item {
-        width: 25%;
-        padding-left: 10px;
-        transition: all 0.5s ease-in-out;
-        cursor: pointer;
+	$root: &;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -10px;
+	margin-top: 13px;
 
-        &:hover {
-            margin-top: -10px;
-        }
-        @include max-w(1023px) {
-            width: 50%;
-            margin-bottom: 20px;
-        }
-        @include sp {
-            width: 100%;
-            margin: 10px 0 0 0;
-        }
-    }
-    &__info {
-        font-size: 2.3rem;
-        border-radius: 3px;
-        line-height: 1.5;
-        text-align: center;
-        font-weight: bold;
-        padding: 30px 30px;
-        color: $colorWhite;
-        box-shadow: 0 0 5px $colorGrey;
-        background-color: $colorGrey;
-        @include max-w(1024px) {
-            padding: 30px 15px;
-        }
-        &--background1 {
-            // background-color: $colorBlue3;
-            background-color: $color1;
-        }
-        &--background2 {
-            // background-color: $colorBlue2;
-            background-color: $color2;
-        }
-        &--background3 {
-            // background-color: $colorBlue5;
-            background-color: $color3;
-        }
-        &--background4 {
-            // background-color: $colorBlue6;
-            background-color: $color4;
-        }
-    }
-    &__title {
-        text-align: center;
-        border-bottom: 1px solid $colorWhite;
-    }
-    &__price {
-        font-size: 2.5rem;
-        @include max-w(1024px) {
-            font-size: 2rem;
-        }
-    }
-    &__content {
-        font-size: 1.6rem;
-        text-align: center;
-        border: 1px solid $colorLightGrey;
-        box-shadow: 0 0 5px $colorLightGrey;
-        border-bottom: none;
-        li {
-            border-bottom: 1px solid $colorLightGrey;
-            line-height: 1.5;
-            padding: 10px 5px;
-            @include sp() {
-                font-size: 1.4rem;
-            }
-        }
-        #{$root}__check {
-            color: $colorGreen2;
-        }
-        #{$root}__uncheck {
-            color: $colorRed;
-        }
-    }
-    &__btn {
-        width: 100%;
-        padding: 20px;
-        font-size: 1.6rem;
-        text-transform: uppercase;
-        background-color: $colorBlue5;
-        color: $colorWhite;
-        font-weight: 600;
-        transition: all 0.5s;
-        border: 1px solid $colorLightGrey;
-        box-shadow: 0 0 5px $colorLightGrey;
-        border-bottom-left-radius: 3px;
-        border-bottom-right-radius: 3px;
-        cursor: pointer;
-        @include sp() {
-            font-size: 1.5rem;
-        }
-        &:hover {
-            border: 1px solid $colorRed;
-            box-shadow: 0 0 5px $colorLightGrey;
-            background-color: $colorRed;
-        }
-    }
+	&__item {
+		width: 25%;
+		padding-left: 10px;
+		transition: all 0.5s ease-in-out;
+		cursor: pointer;
+
+		&:hover {
+			margin-top: -10px;
+		}
+		@include max-w(1023px) {
+			width: 50%;
+			margin-bottom: 20px;
+		}
+		@include sp {
+			width: 100%;
+			margin: 10px 0 20px 0;
+		}
+	}
+	&__wrap {
+		box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+			rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+	}
+	&__info {
+		font-size: 2.3rem;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+		line-height: 1.5;
+		text-align: center;
+		font-weight: bold;
+		padding: 30px 30px;
+		color: $colorWhite;
+		background-color: $colorGrey;
+		@include max-w(1024px) {
+			padding: 30px 15px;
+		}
+		&--background1 {
+			background-color: $color1;
+		}
+		&--background2 {
+			background-color: $color2;
+		}
+		&--background3 {
+			background-color: $color3;
+		}
+		&--background4 {
+			background-color: $color4;
+		}
+	}
+	&__title {
+		text-align: center;
+		border-bottom: 1px solid $colorWhite;
+	}
+	&__price {
+		font-size: 2.5rem;
+		@include max-w(1024px) {
+			font-size: 2rem;
+		}
+	}
+	&__content {
+		font-size: 1.6rem;
+		text-align: center;
+		border-bottom: none;
+		li {
+			border-bottom: 1px solid $colorLightGrey;
+			line-height: 1.5;
+			padding: 10px 5px;
+			@include sp() {
+				font-size: 1.4rem;
+			}
+		}
+		#{$root}__check {
+			color: $colorGreen2;
+		}
+		#{$root}__uncheck {
+			color: $colorRed;
+		}
+	}
+	&__btn {
+		width: 100%;
+		padding: 20px;
+		font-size: 1.6rem;
+		text-transform: uppercase;
+		background-color: $colorBlue5;
+		color: $colorWhite;
+		font-weight: 600;
+		transition: all 0.5s;
+		border: 1px solid $colorBlue5;
+		cursor: pointer;
+		@include sp() {
+			font-size: 1.5rem;
+		}
+		&:hover {
+			border: 1px solid rgba(219, 81, 81, 1);
+			background-color: rgba(217, 64, 64, 1);
+		}
+	}
 }
 // end: list for quote
 
 .c-list5 {
+	$root: &;
+	// margin-left: -30px;
+	display: flex;
+	flex-wrap: wrap;
+	@include sp() {
+		margin-left: -15px;
+	}
+	&__item {
+		cursor: pointer;
+		// width: 33.33%;
+		width: 25%;
+		// padding-left: 30px;
+		margin-bottom: 20px;
+		min-height: 330px;
+		transition: all 0.5s ease-in-out;
+		@include hover() {
+			transform: translateY(-5px);
+		}
+		@include sp() {
+			width: 50%;
+			margin-bottom: 10px;
+			padding-left: 15px;
+			min-height: 0;
+		}
+		&--1,
+		&--3 {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+		}
+	}
+	&__wrap {
+		height: 100%;
+		padding: 15px;
+		display: flex;
+		border-radius: 5px 5px 5px 5px;
+		border-style: solid;
+		border-width: 1px 1px 1px 1px;
+		border-color: #ffffff;
+		box-shadow: 0px 6px 10px 0px #8aa0c5;
+		align-items: center;
+		@include sp() {
+			padding: 5px;
+		}
+	}
+	&__img {
+		width: 100%;
+		margin-right: 10px;
+		flex-shrink: 0;
+		img {
+			// width: 100%;
+			// height: 100%;
+			max-width: 100%;
+			max-height: 180px;
+			object-fit: contain;
+		}
+
+		&--zoom>img {
+			transition: all 0.5s ease-in-out;
+			&:hover {
+				transform: scale(1.1);
+			}
+		}
+	}
+	&__txt {
+		font-size: 1.5rem;
+		line-height: 1.5;
+		font-weight: 500;
+		@include sp() {
+			font-size: 1.3rem;
+		}
+	}
+	&__text {
+		margin-left: 20px;
+		margin-top: 10px;
+		font-size: 2rem;
+		font-weight: 600;
+		&--center {
+			text-align: center;
+			margin-left: 0;
+		}
+		&--color1 {
+			color: #fec96b;
+		}
+		&--color2 {
+			color: #1fb398;
+		}
+		&--color3 {
+			color: #f44438;
+		}
+		&--color4 {
+			color: $colorBlack;
+		}
+	}
+}
+
+.c-list6 {
+	$root: &;
+	margin-top: 15px;
+	width: 100%;
+	text-align: center;
+	@include sp {
+		margin-top: 10px;
+	}
+	.slick-slide {
+		margin: 10px 5px;
+	}
+	.slick-prev {
+		left: -13px;
+	}
+	.slick-next {
+		right: -13px;
+	}
+	.slick-arrow {
+		background-color: $colorLightGrey;
+		border-radius: 50%;
+		&:hover {
+			background-color: $colorGrey;
+		}
+	}
+	&__img {
+		border: 1px solid #fff;
+		img {
+			border-radius: 10%;
+			&:hover {
+				transform: scale(1.1);
+			}
+		}
+		@include sp {
+			width: 100%;
+		}
+	}
+	&__txt {
+		padding-top: 10px;
+		font-size: 1.3rem;
+		line-height: 1.5;
+		font-weight: 500;
+	}
+}
+
+// start: service
+.c-list7 {
+	$root: &;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin: 0 0 30px 0;
+	&__item1 {
+		width: 49.7%;
+		position: relative;
+		&:hover {
+			box-shadow: 0 0 5px $colorBlue2;
+		}
+		@include sp {
+			width: 100%;
+			margin-top: 10px;
+		}
+	}
+	&__item2 {
+		width: 32.93%;
+		margin-top: 5px;
+		position: relative;
+		&:hover {
+			box-shadow: 0 0 5px $colorBlue2;
+		}
+		@include sp {
+			width: 100%;
+			margin-top: 10px;
+		}
+	}
+	&__txt {
+		position: absolute;
+		display: block;
+		top: 0;
+		padding: 30px;
+		font-size: 1.8rem;
+		text-transform: uppercase;
+		color: $colorWhite;
+		width: 100%;
+		line-height: 1.5;
+		background-color: rgba(1, 1, 1, 0.5);
+	}
+	&__img {
+		height: 250px;
+		overflow: hidden;
+		img {
+			transition: transform 1s ease-in-out;
+		}
+		&:hover {
+			img {
+				transform: scale(1.2);
+			}
+		}
+	}
+}
+// end: service
+
+// start: team
+.c-list8 {
+	$root: &;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -25px;
+	&__wrap {
+		width: 25%;
+		padding-left: 25px;
+		margin-bottom: 20px;
+		@include max-w(888px) {
+			width: 50%;
+		}
+		@include sp() {
+			width: 100%;
+			margin-top: 0px;
+		}
+	}
+	&__item {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+		padding: 10px;
+		// border-radius: 5px;
+		box-shadow: 0 0 5px $colorBlack;
+		position: relative;
+		text-align: center;
+		cursor: pointer;
+		transition: background-color 0.2s linear;
+		border-color: #ffffff;
+		box-shadow: 0px 6px 10px 0px #8aa0c5;
+
+		&:hover {
+			background-color: $colorGrey3;
+			#{$root}__social ul {
+				display: flex;
+				background-color: rgba(1, 1, 1, 0.1);
+			}
+			#{$root}__name,
+			#{$root}__position {
+				color: $colorWhite;
+			}
+			#{$root}__skill {
+				border-color: #ffffff;
+			}
+		}
+	}
+
+	&__img {
+		width: 100%;
+	}
+	&__content {
+		padding: 10px;
+	}
+	&__name {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		text-transform: uppercase;
+		color: $colorBlack;
+		font-weight: 600;
+	}
+	&__title {
+		text-transform: capitalize;
+	}
+	&__position {
+		font-size: 1.5rem;
+		line-height: 1.5;
+		font-style: italic;
+		color: $colorGrey3;
+		margin: 30px 0;
+	}
+	&__skill {
+		text-align: left;
+		border-top: 1px solid $colorGrey3;
+		padding-top: 10px;
+		border-style: dotted;
+		li {
+			display: inline-block;
+			margin-bottom: 3px;
+			span {
+				font-size: 1.3rem;
+				padding: 1px 4px;
+				border-radius: 5px;
+				background-color: $colorGrey3;
+				line-height: 2;
+				color: $colorWhite;
+				border: 1px solid $colorGrey;
+			}
+		}
+	}
+	&__social ul {
+		position: absolute;
+		display: flex;
+		width: 100%;
+		height: 100%;
+		left: 0;
+		top: 0;
+		background-color: rgba(255, 255, 255, 0.2);
+		justify-content: center;
+		align-items: center;
+		display: none;
+		a {
+			display: flex;
+			text-indent: -1000000px;
+			width: 50px;
+			height: 50px;
+			background-color: $colorGrey3;
+			margin-left: 1px;
+			background-repeat: no-repeat;
+			background-position: center center;
+			transition: background-color 0.2s linear;
+			&:hover {
+				background-color: $colorLightGrey;
+			}
+		}
+	}
+	&__link1 {
+		background-image: url(../img/team/linkedin.png);
+	}
+	&__link2 {
+		background-image: url(../img/team/fb-icon.png);
+	}
+	&__link3 {
+		background-image: url(../img/team/twitter-icon.png);
+	}
+}
+// end: team
+
+// intro
+.c-list9 {
+	$root: &;
+	&__item {
+		padding: 30px 0;
+	}
+	&__item1,
+	&__item3,
+	&__item5 {
+		background: $colorBlue3;
+	}
+	&__content {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	&__content2,
+	&__content4 {
+		flex-direction: row-reverse;
+		#{$root}__text {
+			padding-left: 30px;
+			padding-right: 0;
+			@include sp {
+				padding-left: 0;
+				text-align: justify;
+			}
+		}
+	}
+	&__img {
+		width: 40%;
+		@include sp {
+			width: 100%;
+		}
+	}
+	&__text {
+		@include sp {
+			width: 100%;
+			padding-right: 0;
+			text-align: justify;
+		}
+		width: 60%;
+		padding-right: 30px;
+		font-size: 1.6rem;
+		line-height: 1.5;
+	}
+	&__txt {
+		margin: 30px 0;
+	}
+	&__subTitle {
+		position: relative;
+		&::after {
+			position: absolute;
+			content: "";
+			height: 5px;
+			background-color: $colorBlue2;
+			width: 100px;
+			top: 30px;
+			left: 0;
+			@include sp {
+				width: 0;
+				height: 0;
+			}
+		}
+		@include sp {
+			font-style: italic;
+			color: $colorGrey;
+		}
+	}
+	&__btn {
+		padding: 10px 30px;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		margin-bottom: 30px;
+		text-transform: uppercase;
+		background-color: $colorBlue5;
+		color: $colorWhite;
+		font-weight: bold;
+		border: transparent;
+		box-shadow: 0px 6px 10px 0px #8aa0c5;
+		border-radius: 5px;
+		transition: all 1s;
+		&:hover {
+			cursor: pointer;
+			background-color: $colorRed;
+		}
+	}
+}
+// end: intro
+
+.c-list10 {
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: -30px;
+	&__item {
+		width: 25%;
+		padding-left: 30px;
+		height: 100%;
+		transition: 0.5s;
+		@include max-w(1050px) {
+			width: 33.33%;
+		}
+		@include sp {
+			width: 50%;
+			margin-top: 30px;
+		}
+		@include max-w(600px) {
+			width: 100%;
+			margin-top: 30px;
+		}
+		&:hover {
+			transform: translateY(-5px);
+		}
+	}
+	&__img {
+		display: inline-block;
+		width: 100%;
+		height: 100%;
+		cursor: pointer;
+	}
+	&__info {
+		margin-top: 10px;
+	}
+	&__title {
+		font-size: 2rem;
+		line-height: 1.5;
+		font-weight: 700;
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+	&__time {
+		font-size: 1.1rem;
+		line-height: 1.5;
+		font-style: italic;
+		color: $colorGrey;
+		display: inline;
+		@include sp {
+			display: block;
+		}
+	}
+	&__author {
+		font-size: 1.1rem;
+		line-height: 1.5;
+		color: $colorGrey;
+		display: inline;
+		float: right;
+		@include sp {
+			display: block;
+			float: none;
+		}
+	}
+	&__txt {
+		font-size: 1.4rem;
+		line-height: 1.5;
+		color: $colorBlack;
+		text-align: justify;
+		margin-top: 5px;
+		@include sp {
+			font-size: 1.5rem;
+		}
+	}
+}
+
+// list interface stock
+.c-list11 {
+	$root: &;
+	display: flex;
+	margin-left: -30px;
+	flex-wrap: wrap;
+	&__wrap {
+		width: 25%;
+		padding-left: 30px;
+		padding-bottom: 30px;
+		@include max-w(880px) {
+			width: 33.33%;
+		}
+		@include max-w(620px) {
+			width: 50%;
+		}
+		@include max-w(420px) {
+			width: 100%;
+		}
+	}
+	&__item {
+		background-color: $colorWhite;
+		box-shadow: 0 0 5px $colorGrey;
+		height: 100%;
+	}
+	&__content {
+		position: relative;
+		&:hover {
+			#{$root}__link {
+				display: block;
+			}
+		}
+	}
+	&__link {
+		position: absolute;
+		width: 100%;
+		bottom: 0;
+		text-align: center;
+		display: inline;
+		padding: 15px;
+		background-color: rgba(1, 1, 1, 0.5);
+		color: $colorWhite;
+		font-size: 1.4rem;
+		display: none;
+	}
+	&__img {
+		overflow: hidden;
+		height: 300px;
+		img {
+			transition: transform 1s ease-in-out;
+		}
+		&:hover {
+			img {
+				transform: scale(1.2);
+			}
+			.c-list11__link {
+				display: block;
+			}
+		}
+	}
+	&__demo,
+	&__detail {
+		background-color: $colorBlack;
+		line-height: 1.5;
+		padding: 10px;
+		border-radius: 7px;
+		&:hover {
+			opacity: 0.7;
+		}
+	}
+	&__info {
+		padding: 15px;
+		text-align: center;
+	}
+	&__tag {
+		font-size: 1.4rem;
+		line-height: 1.5;
+		color: $colorGrey;
+	}
+	&__name {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		font-weight: 600;
+		color: $colorBlue6;
+	}
+}
+// end: list interface stock
+
+
+// web design page
+.c-list12 {
+	$root: &;
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 30px;
+	&--reserve {
+		flex-direction: row-reverse;
+	}
+	&__item {
+		width: 50%;
+		align-items: center;
+		@include sp {
+			width: 100%;
+		}
+	}
+	&__txt {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		margin: 30px 0;
+		// @include sp {
+		// 	font-size: 1.3rem;
+		// }
+	}
+	&__btn {
+		padding: 10px 30px;
+		border-radius: 50px;
+		border: none;
+		background-color: $colorBlue5;
+		color: $colorWhite;
+		font-size: 1.6rem;
+		font-weight: 600;
+		box-shadow: 0 0 3px $colorBlue6;
+		cursor: pointer;
+		&:hover {
+			background-color: $colorRed;
+		}
+	}
+	&__img {
+		padding-left: 30px;
+		@include sp() {
+			padding-left: 0;
+		}
+	}
+}
+.c-list13 {
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 30px;
+	&__item {
+		width: 50%;
+		&--right {
+			display: flex;
+			flex-wrap: wrap;
+		}
+		@include sp {
+			width: 100%;
+			figure {
+				margin-bottom: 30px;
+			}
+		}
+	}
+	&__img {
+		width: 100px;
+		display: block;
+		margin: 0 auto;
+		margin-bottom: 30px;
+	}
+	&__itemChild {
+		width: 50%;
+		padding-left: 30px;
+		@include max-w(469px) {
+			width: 100%;
+			padding-left: 0;
+		}
+	}
+}
+.c-list14 {
     $root: &;
     margin-left: -30px;
     display: flex;
@@ -344,6 +990,9 @@ list
             margin-bottom: 10px;
             padding-left: 15px;
         }
+		@include max-w(469px) {
+			width: 100%;
+		}
     }
     &__wrap {
         height: 100%;
@@ -369,481 +1018,21 @@ list
             object-fit: contain;
         }
     }
+	&__title {
+		font-size: 1.8rem;
+		line-height: 1.5;
+		font-weight: 600;
+	}
     &__txt {
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         line-height: 1.5;
         font-weight: 500;
+		color: $colorGrey;
         @include sp() {
             font-size: 1.3rem;
         }
     }
 }
 
-.c-list6 {
-    $root: &;
-    margin-top: 15px;
-    width: 100%;
-    text-align: center;
-    @include sp {
-        margin-top: 10px;
-    }
-    .slick-slide {
-        margin: 10px 5px;
-    }
-    .slick-prev {
-        left: -13px;
-    }
-    .slick-next {
-        right: -13px;
-    }
-    .slick-arrow {
-        background-color: $colorLightGrey;
-        border-radius: 50%;
-        &:hover {
-            background-color: $colorGrey;
-        }
-    }
-    &__img {
-        border: 1px solid #fff;
-        img {
-            border-radius: 10%;
-            &:hover {
-                transform:scale(1.1);
-            }
-        } 
-        @include sp {
-            width: 100%;
-        }
-    }
-    &__txt {
-        padding-top: 10px;
-        font-size: 1.3rem;
-        line-height: 1.5;
-        font-weight: 500;
-    }
-}
+// end: web design page
 
-// start: service
-.c-list7 {
-    $root: &;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin: 0 0 30px 0;
-    &__item1 {
-        width: 49.7%;
-        position: relative;
-        &:hover {
-           box-shadow: 0 0 5px $colorBlue2;
-        }
-        @include sp {
-            width: 100%;
-            margin-top: 10px;
-        }
-    }
-    &__item2 {
-        width: 32.93%;
-        margin-top: 5px;
-        position: relative;
-        &:hover {
-           box-shadow: 0 0 5px $colorBlue2;
-        }
-        @include sp {
-            width: 100%;
-            margin-top: 10px;
-        }
-    }
-    &__txt {
-        position: absolute;
-        display: block;
-        top: 0;
-        padding: 30px;
-        font-size: 1.8rem;
-        text-transform: uppercase;
-        color: $colorWhite;
-        width: 100%;
-        line-height: 1.5;
-        background-color: rgba(1, 1, 1, 0.5);
-    }
-    &__img {
-        height: 250px;
-        overflow: hidden;
-        img {
-            transition: transform 1s ease-in-out;
-        }
-        &:hover {
-            img {
-                transform: scale(1.2);
-            }  
-        }
-    }
-}
-// end: service
-
-// start: team
-.c-list8 {
-    $root: &;
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: -25px;
-    &__wrap {
-        width: 25%;
-        padding-left: 25px;
-        margin-bottom: 20px;
-        @include max-w(888px) {
-            width: 50%;
-        }
-        @include sp() {
-            width: 100%;
-            margin-top: 0px;
-        }
-    }
-    &__item {
-        display: flex;
-        flex-direction: column;
-        height: 100%;
-        padding: 10px;
-        // border-radius: 5px;
-        box-shadow: 0 0 5px $colorBlack;
-        position: relative;
-        text-align: center;
-        cursor: pointer;
-        transition: background-color 0.2s linear;
-        border-color: #FFFFFF;
-        box-shadow: 0px 6px 10px 0px #8aa0c5;
-
-        &:hover {
-            background-color: $colorGrey3;
-            #{$root}__social ul {
-                display: flex;
-                background-color: rgba(1,1,1,0.1);
-            }
-            #{$root}__name, #{$root}__position {
-                color: $colorWhite;
-            }
-            #{$root}__skill {
-                border-color: #FFFFFF;
-            }
-        }
-    }
-
-    &__img  {
-        width: 100%;
-    }
-    &__content {
-        padding: 10px;
-    }
-    &__name {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        text-transform: uppercase;
-        color: $colorBlack;
-        font-weight: 600;
-    }
-    &__title {
-        text-transform: capitalize;
-    }
-    &__position {
-        font-size: 1.5rem;
-        line-height: 1.5;
-        font-style: italic;
-        color: $colorGrey3;
-        margin: 30px 0;
-    }
-    &__skill {
-        text-align: left;
-        border-top: 1px solid $colorGrey3;
-        padding-top: 10px;
-        border-style: dotted;
-        li {
-            display: inline-block;
-            margin-bottom: 2px;
-            span {
-                font-size: 1.3rem;
-                padding: 1px 4px;
-                border-radius: 5px;
-                background-color: $colorGrey3;
-                line-height: 2;
-                color: $colorWhite;
-                border: 1px solid $colorGrey;
-            }
-        }
-    }
-    &__social ul{
-        position: absolute;
-        display: flex;
-        width: 100%;
-        height: 100%;
-        left: 0;
-        top: 0;
-        background-color: rgba(255, 255, 255, 0.2);
-        justify-content: center;
-        align-items: center;
-        display: none;
-        a {
-            display: flex;
-            text-indent: -1000000px;
-            width: 50px;
-            height: 50px;
-            background-color: $colorGrey3;
-            margin-left: 1px;
-            background-repeat: no-repeat;
-            background-position: center center;
-            transition: background-color 0.2s linear;
-            &:hover {
-                background-color: $colorLightGrey;
-            }
-        }
-    }
-    &__link1 {
-       background-image: url(../img/team/linkedin.png);
-    }
-    &__link2 {
-        background-image: url(../img/team/fb-icon.png);
-    }
-    &__link3 {
-        background-image: url(../img/team/twitter-icon.png);
-    }
-}
-// end: team
-
-// intro
-.c-list9 {
-    $root: &;
-    &__item {
-        padding: 30px 0;
-    }
-    &__item1, &__item3, &__item5 {
-        background: $colorBlue3;
-    }
-    &__content {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    &__content2, &__content4 {
-        flex-direction: row-reverse;
-        #{$root}__text {
-            padding-left: 30px;
-            padding-right: 0;
-        }
-    }
-    &__img {
-        width: 40%;
-        @include sp {
-            width: 100%;
-        }
-    }
-    &__text {
-        @include sp {
-            width: 100%;
-        }
-        width: 60%;
-        padding-right: 30px;
-        font-size: 1.6rem;
-        line-height: 1.5;
-    }
-    &__txt {
-        margin: 30px 0;
-    }
-    &__subTitle {
-        position: relative;
-        &::after {
-            position: absolute;
-            content: "";
-            height: 5px;
-            background-color: $colorBlue2;
-            width: 100px;
-            top: 30px;
-            left: 0;
-            @include sp {
-                width: 0;
-                height: 0;
-            }
-        }
-        @include sp {
-            font-style: italic;
-            color: $colorGrey;
-        }
-    }
-    &__btn {
-        padding: 10px 30px;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        margin-bottom: 30px;
-        text-transform: uppercase;
-        background-color: $colorBlue5;
-        color: $colorWhite;
-        font-weight: bold;
-        border: transparent;
-        box-shadow: 0px 6px 10px 0px #8aa0c5;
-        border-radius: 5px;
-        transition: all 1s;
-        &:hover {
-            cursor: pointer;
-            background-color: $colorRed;
-        }
-    }
-}
-// end: intro
-
-.c-list10 {
-    display: flex;
-    flex-wrap: wrap;
-    margin-left: -30px;
-    &__item {
-        width: 25%;
-        padding-left: 30px;
-        height: 100%;
-        transition: 0.5s;
-        @include max-w(1050px) {
-            width: 33.33%;
-        }
-        @include sp {
-            width: 50%;
-            margin-top: 30px;
-        }
-        @include max-w(600px) {
-            width: 100%;
-            margin-top: 30px;
-        }
-        &:hover {
-            transform: translateY(-5px);
-       }
-    }
-    &__img {
-        display: inline-block;
-        width: 100%;
-        height: 100%;
-        cursor: pointer;
-        
-    }
-    &__info {
-        margin-top: 10px;
-    }
-    &__title {
-        font-size: 2rem;
-        line-height: 1.5;
-        font-weight: 700;
-        @include sp {
-            font-size: 2.0rem;
-        }
-    }
-    &__time {
-        font-size: 1.1rem;
-        line-height: 1.5;
-        font-style: italic;
-        color: $colorGrey;
-        display: inline;
-        @include sp {
-            display: block;
-        }
-    }
-    &__author{
-        font-size: 1.1rem;
-        line-height: 1.5;
-        color: $colorGrey;
-        display: inline;
-        float: right;
-        @include sp {
-            display: block;
-            float: none;
-        }
-    }
-    &__txt {
-        font-size: 1.4rem;
-        line-height: 1.5;
-        color: $colorBlack;
-        text-align: justify;
-        margin-top: 5px;
-        @include sp {
-            font-size: 1.5rem;
-        }
-    }
-}
-
-// list interface stock
-.c-list11 {
-    $root: &;
-    display: flex;
-    margin-left: -30px;
-    flex-wrap: wrap;
-    &__wrap {
-        width: 25%;
-        padding-left: 30px;
-        padding-bottom: 30px;
-        @include max-w(880px) {
-            width: 33.33%;
-        }
-        @include max-w(620px) {
-            width: 50%;
-        }
-        @include max-w(420px) {
-            width: 100%;
-        }
-    }
-    &__item {
-        background-color: $colorWhite;
-        box-shadow: 0 0 5px $colorGrey;
-        height: 100%;
-    }
-    &__content {
-        position: relative;
-        &:hover {
-            #{$root}__link {
-                display: block;
-            }
-        }
-    }
-    &__link {
-        position: absolute;
-        width: 100%;
-        bottom: 0;
-        text-align: center;
-        display: inline;
-        padding: 15px;
-        background-color: rgba(1, 1, 1, 0.5);
-        color: $colorWhite;
-        font-size: 1.4rem;
-        display: none;
-    }
-    &__img {
-        overflow: hidden;
-        height: 300px;
-        img {
-            transition: transform 1s ease-in-out;
-        }
-        &:hover {
-            img {
-                transform: scale(1.2);
-            }  
-            .c-list11__link {
-                display: block;
-            }
-        }
-    }
-    &__demo, &__detail {
-        background-color: $colorBlack;
-        line-height: 1.5;
-        padding: 10px;
-        border-radius: 7px;
-        &:hover {
-            opacity: 0.7;
-        }
-    }
-    &__info {
-        padding: 15px;
-        text-align: center;
-    }
-    &__tag {
-        font-size: 1.4rem;
-        line-height: 1.5;
-        color:$colorGrey;
-    }
-    &__name {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        font-weight: 600;
-        color: $colorBlue6;
-    }
-}
-// end: list interface stock

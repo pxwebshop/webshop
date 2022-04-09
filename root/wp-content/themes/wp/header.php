@@ -70,16 +70,19 @@
 					</a>
 					<ul class="c-header__gnav__menu__sub">
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="#"><span>ອອກແບບເວັບໄຊ</span></a>
+							<a href="/index.php/thiet-ke-web"><span>ອອກແບບເວັບໄຊ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="#"><span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span></a>
+							<a href="/index.php//xay-dung-phan-mem"><span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="#"><span>ອອກແບບໂລໂກ</span></a>
+							<a href="/index.php//thiet-ke-logo"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="#">ຂຽນ Web App</a>
+							<a href="/web-app">ຂຽນ Web App</a>
+						</li>
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
+							<a href="/dich-vu-seo">ບໍລິການ SEO </a>
 						</li>
 					</ul>
 				</li>
@@ -131,16 +134,19 @@
 						<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
-								<a href="#">ອອກແບບເວັບໄຊ</a>
+								<a href="/index.php//thiet-ke-web">ອອກແບບເວັບໄຊ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#"> ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a>
+								<a href="/index.php//xay-dung-phan-mem"> ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#"> ອອກແບບໂລໂກ</a>
+								<a href="/index.php//thiet-ke-logo"> ອອກແບບໂລໂກ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#">ຂຽນ Web App </a>
+								<a href="/web-app">ຂຽນ Web App </a>
+							</li>
+							<li class="c-header__child__item">
+								<a href="/dich-vu-seo">ບໍລິການ SEO </a>
 							</li>
 						</ul>
 					</li>

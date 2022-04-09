@@ -21,17 +21,17 @@
 				</div>
 				<div class="c-footer__service">
 					<h3 class="c-title2">ບໍລິການ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ອອກແບບໂລໂກ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ບໍລິການ SEO</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thiet-ke-web" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/xay-dung-phan-mem" class="c-footer__link">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thiet-ke-logo" class="c-footer__link">ອອກແບບໂລໂກ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/dich-vu-seo" class="c-footer__link">ບໍລິການ SEO</a></p>
 				</div>
 				<div class="c-footer__quote">
 					<h3 class="c-title2">ແພັກເກັດເວັບໄຊ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Basic</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Plus</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Professional</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">Business</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Basic</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Plus</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Professional</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/#price" class="c-footer__link">Business</a></p>
 				</div>
 				<div class="c-footer__support">
 					<h3 class="c-title2">ຊ່ວຍເຫຼືອ</h3>
@@ -44,7 +44,7 @@
 				<div class="c-footer__website">
 					<h3 class="c-title2">PX WebShop</h3>
 					<p class="c-footer__txt"><i class="fa-solid fa-location-dot"></i>&nbsp&nbsp&nbspບ້ານ ຂາມງອຍ,​ ເມືອງ ໄຊເສດຖາ, ນະຄອນຫຼວງວຽງຈັນ</p>
-					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> &nbsp020 28266650</p>
+					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> &nbsp <a href="tel:020 28266650">020 28266650</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-globe"></i> &nbsppxwebshop.com</p>
 					<p class="c-footer__txt"><i class="fa-solid fa-envelope"></i> &nbsppxwebshop@gmail.com</p>
 					<p class="c-footer__txt">ເຮັດວຽກຕະຫຼອດ 24 ຊົ່ວໂມງແຕ່ວັນຈັນເຖິງວັນອາທິດ</p>
@@ -53,10 +53,10 @@
 					<h3 class="c-title2">ສື່ສັງຄົມອອນລາຍ</h3>
 					<p class="c-footer__txt">ຕິດຕາມ PX WebShop ສໍາຫຼັບຂໍ້ມູນເພີ່ມເຕີມ</p>
 					<ul>
-						<li><a href=""><i class="fa-brands fa-facebook"></i></a></li>
-						<li><a href=""><i class="fa-brands fa-twitter"></i></a></li>
-						<li><a href=""><i class="fa-brands fa-youtube"></i></a></li>
-						<li><a href=""><i class="fa-brands fa-linkedin"></i></a></li>
+						<li><a href="https://www.facebook.com/pxwebshop"><i class="fa-brands fa-facebook"></i></a></li>
+						<li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+						<li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+						<li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
 					</ul>
 				</div>
 			</div>
