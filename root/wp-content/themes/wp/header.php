@@ -79,7 +79,10 @@
 							<a href="/index.php//thiet-ke-logo"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="#">ຂຽນ Web App</a>
+							<a href="/web-app">ຂຽນ Web App</a>
+						</li>
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
+							<a href="/dich-vu-seo">ບໍລິການ SEO </a>
 						</li>
 					</ul>
 				</li>
@@ -140,7 +143,10 @@
 								<a href="/index.php//thiet-ke-logo"> ອອກແບບໂລໂກ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="#">ຂຽນ Web App </a>
+								<a href="/web-app">ຂຽນ Web App </a>
+							</li>
+							<li class="c-header__child__item">
+								<a href="/dich-vu-seo">ບໍລິການ SEO </a>
 							</li>
 						</ul>
 					</li>

@@ -228,7 +228,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                    <a href="#">
+                    <a href="/dich-vu-seo">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service5.png" alt="">
                         </figure>

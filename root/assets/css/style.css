@@ -1832,6 +1832,12 @@ list
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
   padding-top: 30px; }
+  .c-list12--reserve {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: row-reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse; }
   .c-list12__item {
     width: 50%;
     -webkit-box-align: center;
@@ -1845,9 +1851,6 @@ list
     font-size: 1.6rem;
     line-height: 1.5;
     margin: 30px 0; }
-    @media screen and (max-width: 767px) {
-      .c-list12__txt {
-        font-size: 1.3rem; } }
   .c-list12__btn {
     padding: 10px 30px;
     border-radius: 50px;
@@ -2961,9 +2964,6 @@ other
       padding-left: 0; } }
   .c-buildSoftware .c-list13__itemChild .c-list12__txt {
     margin-top: 0; }
-    @media screen and (max-width: 767px) {
-      .c-buildSoftware .c-list13__itemChild .c-list12__txt {
-        font-size: 1.3rem; } }
 
 .c-buildSoftware .c-detail__related {
   margin: 30px 0; }
@@ -2980,9 +2980,6 @@ other
   font-size: 1.6rem;
   line-height: 1.5;
   color: #838383; }
-  @media screen and (max-width: 767px) {
-    .c-buildSoftware .c-list14__list li {
-      font-size: 1.3rem; } }
 
 .c-buildSoftware .c-list14__wrap {
   -webkit-box-shadow: none;
@@ -2997,8 +2994,7 @@ other
 
 .c-logoDesign__header {
   padding-top: 30px;
-  text-align: center;
-  color: #838383; }
+  text-align: center; }
   .c-logoDesign__header .c-title1 {
     text-align: center; }
 
@@ -3021,21 +3017,13 @@ other
 .c-logoDesign__txt {
   font-size: 1.6rem;
   line-height: 1.5;
-  text-align: center;
-  color: #838383; }
-  @media screen and (max-width: 767px) {
-    .c-logoDesign__txt {
-      font-size: 1.3rem; } }
+  text-align: center; }
 
 .c-logoDesign__list {
   margin-left: 30px;
   font-size: 1.6rem;
   line-height: 1.5;
-  color: #838383;
   margin-bottom: 30px; }
-  @media screen and (max-width: 767px) {
-    .c-logoDesign__list {
-      font-size: 1.3rem; } }
   .c-logoDesign__list li {
     list-style: circle; }
     .c-logoDesign__list li span {
@@ -3050,6 +3038,50 @@ other
     display: inline;
     margin: 30px;
     cursor: pointer; }
+
+.c-webapp__exp {
+  padding-top: 30px; }
+
+.c-seo__notseo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-justify-content: space-around;
+      -ms-flex-pack: distribute;
+          justify-content: space-around; }
+
+.c-seo__notseoItem {
+  width: 25%;
+  padding-top: 30px; }
+  @media screen and (max-width: 540px) {
+    .c-seo__notseoItem {
+      width: 50%; } }
+
+.c-seo__img {
+  width: 100px;
+  display: block;
+  margin: 0 auto; }
+
+.c-seo__title {
+  text-align: center;
+  font-size: 1.8rem;
+  line-height: 1.5;
+  font-weight: 700; }
+
+.c-seo__txt {
+  font-size: 1.6rem;
+  line-height: 1.5; }
+
+.c-seo__service {
+  margin-top: 15px;
+  font-size: 1.6rem;
+  line-height: 1.5; }
+  .c-seo__service span {
+    font-weight: 700; }
 
 .c-article {
   display: -webkit-box;
@@ -3267,3 +3299,10 @@ other
   background: url(https://greensoft.vn/wp-content/uploads/2021/09/bg_vi_sao_chon_chung_toi.gif) center center;
   background-size: auto;
   background-color: #FFFFFF; }
+
+.p-webapp .c-list12__item {
+  margin: auto; }
+
+.p-seo .c-title1--margin {
+  margin: 30px 0;
+  text-align: center; }
