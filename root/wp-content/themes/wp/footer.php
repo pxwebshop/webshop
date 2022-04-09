@@ -15,9 +15,9 @@
 			<div class="c-footer__content">
 				<div class="c-footer__about">
 					<h3 class="c-title2">ກຽ່ວກັບເຮົາ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/gioi-thieu" class="c-footer__link">ແນະນຳ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ຊຳລະເງິນ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/lien-he" class="c-footer__link">ຕິດຕໍ່</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/index.php/gioi-thieu" class="c-footer__link">ແນະນຳ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/index.php/thanh-toan" class="c-footer__link">ຊຳລະເງິນ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/index.php/lien-he" class="c-footer__link">ຕິດຕໍ່</a></p>
 				</div>
 				<div class="c-footer__service">
 					<h3 class="c-title2">ບໍລິການ</h3>
