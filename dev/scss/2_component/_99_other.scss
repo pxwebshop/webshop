@@ -327,6 +327,7 @@ other
 // c-payment
 .c-payment {
 	$root: &;
+	text-align: justify;
 	.c-title1 {
 		padding: 10px;
 		border: 2px solid $colorBlue5;

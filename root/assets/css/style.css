@@ -1864,6 +1864,11 @@ list
     cursor: pointer; }
     .c-list12__btn:hover {
       background-color: #FF0000; }
+  .c-list12__img {
+    padding-left: 30px; }
+    @media screen and (max-width: 767px) {
+      .c-list12__img {
+        padding-left: 0; } }
 
 .c-list13 {
   display: -webkit-box;
@@ -2313,164 +2318,154 @@ other
       .c-checkout__price {
         float: none; } }
 
-.c-payment .c-title1 {
-  padding: 10px;
-  border: 2px solid #0064a3;
-  margin-bottom: 30px;
-  background-color: #87CEFA; }
-
-.c-payment__bank {
-  margin-top: 30px; }
-
-.c-payment__bank1 {
-  margin: 30px 0; }
-
-.c-payment__content {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  padding: 30px;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center; }
-  @media screen and (max-width: 545px) {
-    .c-payment__content {
-      -webkit-flex-wrap: wrap;
-          -ms-flex-wrap: wrap;
-              flex-wrap: wrap; } }
-
-.c-payment__img {
-  max-width: 200px;
-  margin: 0 auto; }
-  .c-payment__img img {
-    width: 100%;
-    -o-object-fit: contain;
-       object-fit: contain; }
-
-.c-payment__txt {
-  width: calc(100% - 200px);
-  padding-left: 30px;
-  font-size: 1.6rem;
-  line-height: 1.5; }
-  @media screen and (max-width: 767px) {
-    .c-payment__txt {
-      width: 100%; } }
-
-.c-payment__txtNum {
-  font-size: 1.8rem;
-  font-weight: bold; }
-
-.c-payment__eWallets {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-      -ms-flex-wrap: wrap;
-          flex-wrap: wrap;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-      -ms-flex-pack: justify;
-          justify-content: space-between; }
-  @media screen and (max-width: 767px) {
-    .c-payment__eWallets {
-      -webkit-justify-content: space-around;
-          -ms-flex-pack: distribute;
-              justify-content: space-around; } }
-  .c-payment__eWallets figure {
-    max-width: 200px; }
-    @media screen and (max-width: 767px) {
-      .c-payment__eWallets figure:first-child {
-        display: none; } }
-    .c-payment__eWallets figure img {
+.c-payment {
+  text-align: justify; }
+  .c-payment .c-title1 {
+    padding: 10px;
+    border: 2px solid #0064a3;
+    margin-bottom: 30px;
+    background-color: #87CEFA; }
+  .c-payment__bank {
+    margin-top: 30px; }
+  .c-payment__bank1 {
+    margin: 30px 0; }
+  .c-payment__content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 30px;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center; }
+    @media screen and (max-width: 545px) {
+      .c-payment__content {
+        -webkit-flex-wrap: wrap;
+            -ms-flex-wrap: wrap;
+                flex-wrap: wrap; } }
+  .c-payment__img {
+    max-width: 200px;
+    margin: 0 auto; }
+    .c-payment__img img {
+      width: 100%;
       -o-object-fit: contain;
-         object-fit: contain;
-      cursor: pointer; }
-
-.c-payment__note {
-  margin-top: 30px; }
-  .c-payment__note li {
-    list-style-type: disc;
+         object-fit: contain; }
+  .c-payment__txt {
+    width: calc(100% - 200px);
+    padding-left: 30px;
     font-size: 1.6rem;
-    line-height: 1.5;
-    padding: 5px; }
-    .c-payment__note li::marker {
-      color: #0064a3;
-      font-size: 2rem; }
-
-.c-payment__btn {
-  margin: 30px 0;
-  width: 100%;
-  text-align: center; }
-  .c-payment__btn button {
-    padding: 10px 30px;
-    font-size: 1.6rem;
-    line-height: 1.5;
-    border-radius: 30px;
-    background-color: #0064a3;
-    border: transparent;
-    -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-            box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-    color: #ffffff;
-    font-weight: 700;
-    text-transform: uppercase;
-    cursor: pointer; }
-    .c-payment__btn button:hover {
-      background-color: #FF0000; }
-
-.c-payment__show {
-  z-index: 1;
-  display: none; }
-
-.c-payment__showImg {
-  position: relative; }
-
-.c-payment__img-show {
-  position: fixed;
-  width: 100%;
-  height: 100%;
-  z-index: 1000;
-  top: 0;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: rgba(1, 1, 1, 0.5); }
-  .c-payment__img-show span {
-    position: absolute;
-    top: 0;
-    right: 20px;
-    z-index: 1001;
-    cursor: pointer;
-    font-size: 5rem;
-    color: #FF0000; }
+    line-height: 1.5; }
     @media screen and (max-width: 767px) {
-      .c-payment__img-show span {
-        right: 70px;
-        font-size: 4rem; } }
-    @media screen and (max-width: 400px) {
-      .c-payment__img-show span {
-        right: 45px;
-        font-size: 3rem; } }
-  .c-payment__img-show img {
+      .c-payment__txt {
+        width: 100%; } }
+  .c-payment__txtNum {
+    font-size: 1.8rem;
+    font-weight: bold; }
+  .c-payment__eWallets {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+        -ms-flex-pack: justify;
+            justify-content: space-between; }
+    @media screen and (max-width: 767px) {
+      .c-payment__eWallets {
+        -webkit-justify-content: space-around;
+            -ms-flex-pack: distribute;
+                justify-content: space-around; } }
+    .c-payment__eWallets figure {
+      max-width: 200px; }
+      @media screen and (max-width: 767px) {
+        .c-payment__eWallets figure:first-child {
+          display: none; } }
+      .c-payment__eWallets figure img {
+        -o-object-fit: contain;
+           object-fit: contain;
+        cursor: pointer; }
+  .c-payment__note {
+    margin-top: 30px; }
+    .c-payment__note li {
+      list-style-type: disc;
+      font-size: 1.6rem;
+      line-height: 1.5;
+      padding: 5px; }
+      .c-payment__note li::marker {
+        color: #0064a3;
+        font-size: 2rem; }
+  .c-payment__btn {
+    margin: 30px 0;
     width: 100%;
-    display: block;
-    margin: 0 auto;
-    -webkit-box-shadow: 0 0 20px #003556;
-            box-shadow: 0 0 20px #003556; }
-    @media screen and (max-width: 767px) {
-      .c-payment__img-show img {
-        width: 80%; } }
+    text-align: center; }
+    .c-payment__btn button {
+      padding: 10px 30px;
+      font-size: 1.6rem;
+      line-height: 1.5;
+      border-radius: 30px;
+      background-color: #0064a3;
+      border: transparent;
+      -webkit-box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+              box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+      color: #ffffff;
+      font-weight: 700;
+      text-transform: uppercase;
+      cursor: pointer; }
+      .c-payment__btn button:hover {
+        background-color: #FF0000; }
+  .c-payment__show {
+    z-index: 1;
+    display: none; }
+  .c-payment__showImg {
+    position: relative; }
+  .c-payment__img-show {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 1000;
+    top: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    background-color: rgba(1, 1, 1, 0.5); }
+    .c-payment__img-show span {
+      position: absolute;
+      top: 0;
+      right: 20px;
+      z-index: 1001;
+      cursor: pointer;
+      font-size: 5rem;
+      color: #FF0000; }
+      @media screen and (max-width: 767px) {
+        .c-payment__img-show span {
+          right: 70px;
+          font-size: 4rem; } }
+      @media screen and (max-width: 400px) {
+        .c-payment__img-show span {
+          right: 45px;
+          font-size: 3rem; } }
+    .c-payment__img-show img {
+      width: 100%;
+      display: block;
+      margin: 0 auto;
+      -webkit-box-shadow: 0 0 20px #003556;
+              box-shadow: 0 0 20px #003556; }
+      @media screen and (max-width: 767px) {
+        .c-payment__img-show img {
+          width: 80%; } }
 
 .c-banner {
   background: url("/assets/img/common/banner.png") no-repeat center center;
@@ -3291,6 +3286,9 @@ other
 
 .p-index__service .c-title1 {
   margin-bottom: 7px; }
+
+.p-webDesign, .p-buildSoftware, .p-logoDesign, .p-process, .p-webapp, .p-seo {
+  text-align: justify; }
 
 .p-process__content {
   padding-bottom: 30px;

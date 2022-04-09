@@ -929,6 +929,12 @@ list
 			background-color: $colorRed;
 		}
 	}
+	&__img {
+		padding-left: 30px;
+		@include sp() {
+			padding-left: 0;
+		}
+	}
 }
 .c-list13 {
 	display: flex;
