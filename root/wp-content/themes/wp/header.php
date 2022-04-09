@@ -30,7 +30,7 @@
 						<span><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</span>
 					</li>
 					<li class="c-header__address__item">
-						<a href="tel:0361.0214.01265"><i class="fa-solid fa-phone"></i> 020 28266650</a href="tel:">
+						<a href="tel: 020 28266650"><i class="fa-solid fa-phone"></i> 020 28266650</a href="tel:">
 					</li>
 				</ul>
 			</div>

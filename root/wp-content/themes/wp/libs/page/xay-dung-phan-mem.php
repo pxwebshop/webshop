@@ -195,7 +195,7 @@
                 </div>
             </div>
             <div class="c-buildSoftware__btn">
-                <button class="c-list12__btn"><a href="tel:0361.0214.01265"><i class="fa-solid fa-phone"></i> Gọi ngay 0361.0214.01265</a></button>
+                <button class="c-list12__btn"><a href="tel: 020 28266650"><i class="fa-solid fa-phone"></i> Gọi ngay 020 28266650</a></button>
             </div>
             <div class="c-detail__related">
                 <h2 class="c-title2">Tin tức mới</h2>
