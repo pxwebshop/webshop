@@ -588,10 +588,10 @@
                                     </div>
                                     <div class="c-list2__author">
                                         <i class="fa-solid fa-user"></i>
-                                        <span><?php the_author(); ?></span> <br>
+                                        <span><?php echo get_the_author(); ?></span> <br>
                                     </div>
                                     <p class="c-list2__txt">
-                                        <?php the_excerpt(); ?>
+                                        <?php echo get_the_excerpt(); ?>
                                     </p>
                                 </div>
                             </div>

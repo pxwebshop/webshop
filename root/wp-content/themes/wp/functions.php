@@ -64,7 +64,7 @@ function post_thumbnail($html)
 {
   if (empty($html))
     $html = '<img src="' . trailingslashit(get_stylesheet_directory_uri()) .
-      '/assets/default-thumbnail.svg' . '" alt="" />';
+      '/assets/default.png' . '" alt="" />';
   return $html;
 }
 

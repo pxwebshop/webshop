@@ -55,7 +55,7 @@ $queried = get_queried_object(); ?>
                                         <span><?php the_author(); ?></span> <br>
                                     </div>
                                     <p class="c-list2__txt">
-                                        <?php the_excerpt(); ?>
+                                        <?php echo get_the_excerpt(); ?>
                                     </p>
                                 </div>
                             </div>
