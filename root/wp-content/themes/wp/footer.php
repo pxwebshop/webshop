@@ -1,15 +1,5 @@
 <?php global $page_id; ?>
 <footer class="c-footer" id="footer">
-	<div class="c-footer__advise wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-		<div class="l-container">
-			<h3 class="c-title2">PX WebShop – ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ</h3>
-			<p class="c-footer__txt">ລົງທະບຽນເພື່ອທົດລອງໃຊ້ເວັບໄຊ 7 ມື້ຟຣີ!</p>
-			<div class="c-footer__form">
-				<input type="tel" placeholder="ໃສ່ເບີໂທລະສັບເພື່ອຮັບຄຳປຶກສາ" maxlength="15" minlength="5">
-				<button type="submit">ລົງທະບຽນ</button>
-			</div>
-		</div>
-	</div>
 	<div class="c-footer__info wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
 		<div class="l-container">
 			<div class="c-footer__content">
