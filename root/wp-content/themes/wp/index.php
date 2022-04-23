@@ -521,7 +521,7 @@
                         <img src="/assets/img/process/1.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--color1">
-                        01. Nghiên cứu
+                        01. ຄົ້ນຄ້ວາ
                     </p>
                 </div>
                 <div class="c-list5__item">
@@ -529,7 +529,7 @@
                         <img src="/assets/img/process/2.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--color2">
-                        02. Phân tích
+                        02. ວິເຄາະ
                     </p>
                 </div>
                 <div class="c-list5__item c-list5__item--3">
@@ -537,7 +537,7 @@
                         <img src="/assets/img/process/3.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--color3">
-                        03. Triển khai
+                        03. ຈັດຕັ້ງປະຕິບັດ
                     </p>
                 </div>
                 <div class="c-list5__item">
@@ -545,7 +545,7 @@
                         <img src="/assets/img/process/4.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--center c-list5__text--color4">
-                        04. Kết quả
+                        04. ຜົນໄດ້ຮັບ
                     </p>
                 </div>
             </div>

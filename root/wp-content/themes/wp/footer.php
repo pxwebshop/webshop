@@ -25,7 +25,7 @@
 				</div>
 				<div class="c-footer__support">
 					<h3 class="c-title2">ຊ່ວຍເຫຼືອ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ແນະນຳວິທີຊຳລະເງີນ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ແນະນຳວິທີຊຳລະເງິນ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ນະໂຍບາຍຄວາມປອດໄພ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ເງື່ອນ​ໄຂ​ການ​ນໍາ​ໃຊ້​</a></p>
 				</div>

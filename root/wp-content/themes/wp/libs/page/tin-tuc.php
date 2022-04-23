@@ -8,10 +8,10 @@ $queried = get_queried_object(); ?>
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1 c-title1--color1">Tin tức</h2>
+                    <h2 class="c-title1 c-title1--color1">ບົດຄວາມ</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/lien-he">/ Tin tức</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/lien-he">/ ບົດຄວາມ</a>
                     </div>
                 </div>
             </div>

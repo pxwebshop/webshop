@@ -9,7 +9,7 @@
                     <h2 class="c-title1 c-title1--color1">ຄັງເວັບໄຊ</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
-                        <a href="/kho-giao-dien">/ ຄັງເວບໄຊ</a>
+                        <a href="/kho-giao-dien">/ ຄັງເວັບໄຊ</a>
                     </div>
                 </div>
             </div>
@@ -253,8 +253,8 @@
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">ເວັບໄຊສະຖາປັດຕະຍະກໍາ - ຕົບແຕ່ງພາຍໃນ</p>
-                            <p class="c-list11__name">ແບບເວັບໄຊສະຖາປັດຕະຍະກໍາ</p>
+                            <p class="c-list11__tag">ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊສະຖາປັດ</p>
                         </div>
                     </div>
                 </div>
@@ -270,7 +270,7 @@
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">ເວັບໄຊສະຖາປັດຕະຍະກໍາ - ຕົບແຕ່ງພາຍໃນ</p>
+                            <p class="c-list11__tag">ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</p>
                             <p class="c-list11__name">ແບບເວັບໄຊຕົບແຕ່ງພາຍໃນ</p>
                         </div>
                     </div>

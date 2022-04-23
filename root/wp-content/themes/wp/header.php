@@ -76,6 +76,9 @@
 							<a href="/index.php//xay-dung-phan-mem"><span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
+							<a href="/index.php//xay-dung-phan-mem"><span>ອອກແບບເຄືອຂ່າຍ</span></a>
+						</li>
+						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php//thiet-ke-logo"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>

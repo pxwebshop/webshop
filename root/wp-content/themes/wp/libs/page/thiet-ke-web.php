@@ -5,10 +5,10 @@
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div class="l-container">
-                    <h2 class="c-title1 c-title1--color1">Thiết kế website</h2>
+                    <h2 class="c-title1 c-title1--color1">ອອກແບບເວັບໄຊ</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/lien-he">/ Thiết kế web</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/lien-he">/ ອອກແບບເວັບໄຊ</a>
                     </div>
                 </div>
             </div>
