@@ -12,10 +12,10 @@
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1 c-title1--color1">Tin tức</h2>
+                    <h2 class="c-title1 c-title1--color1">ບົດຄວາມ</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/lien-he">/ Bài viết số XX</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/lien-he">/ ບົດຄວາມທີ່ XX</a>
                     </div>
                 </div>
             </div>

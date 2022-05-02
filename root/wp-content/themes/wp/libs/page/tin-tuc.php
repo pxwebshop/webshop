@@ -68,7 +68,7 @@ $queried = get_queried_object(); ?>
 
             <div class="p-news__articleOther">
                 <div class="c-block1">
-                    <h3 class="c-block1__heading">Bài viết khác</h3>
+                    <h3 class="c-block1__heading">ບົດຄວາມອື່ນໆc</h3>
                     <div class="c-block1__inner">
                         <?php
                         $args = array('posts_per_page' => 4);
