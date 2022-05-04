@@ -68,5 +68,3 @@ function post_thumbnail($html)
   return $html;
 }
 
-
-// pagenavi

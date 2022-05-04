@@ -37,25 +37,12 @@
 
                     </div>
                     <div class="c-contact__form">
-                        <form action="#">
-                            <div class="c-contact__group">
-                                <label for="name">ຊື່</label>
-                                <input type="text" name="yourname" id="name">
-                            </div>
-                            <div class="c-contact__group">
-                                <label for="email">ອີເມວ</label>
-                                <input type="text" id="email">
-                            </div>
-                            <div class="c-contact__group">
-                                <label for="phone">ເບີ້ໂທ</label>
-                                <input type="text" id="phone">
-                            </div>
-                            <div class="c-contact__group">
-                                <label for="message">ຂໍ້ຄວາມ</label>
-                                <textarea rows="5" name="" id="message"></textarea>
-                            </div>
-                            <button class="c-contact__form__btn" type="submit">ສົ່ງ</button>
-                        </form>
+                    <?php
+						while ( have_posts() ) : the_post();
+							the_content();
+						endwhile;
+					?>
+
                     </div>
                 </div>
             </div>

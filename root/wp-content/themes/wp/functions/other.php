@@ -21,3 +21,24 @@
   
 //     return 'data/'.$_SERVER['REQUEST_URI'];
 // }
+
+
+// MWForm custom error
+add_filter( 'mwform_content_wpautop_mw-wp-form-99', '__return_false' );
+
+function mytheme_mwform_error_message( $error, $key, $rule ) {
+
+	$errors = array(
+		'yourname'    => array( 'noempty' => 'Tên của bạn không được để trống' ),
+		'phone'             => array( 'noempty' => 'Số điện thoại bắt buộc nhập' ),
+		'message'    => array( 'noempty' => 'Nội dung bắt buộc nhập' ),
+	);
+
+	if ( isset( $errors[ $key ][ $rule ] ) ) {
+		return $errors[ $key ][ $rule ];
+	}
+
+	return $error;
+}
+
+add_filter( 'mwform_error_message_mw-wp-form-99', 'mytheme_mwform_error_message', 10, 3 );

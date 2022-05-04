@@ -17,6 +17,8 @@
 
 	<link rel='stylesheet' href='/assets/css/animate.min.css'>
 	<script src='/assets/js/wow.min.js'></script>
+	<?php wp_head();?>
+
 </head>
 
 <body>
