@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>ບໍລິສັດອອກແບບເວັບໄຊ, ອອກແບບໂປແກມທີ່ເປັນມືອາຊີບ - PXWebShop</title>
+	<title>ບໍລິສັດອອກແບບເວັບໄຊ ແລະ ອອກແບບໂປຣແກຣມທີ່ເປັນມືອາຊີບ - PXWebShop</title>
 	<link rel="stylesheet" href="/assets/css/style.css">
 	<script src="/assets/js/fontawesome.js" crossorigin="anonymous"></script>
 
@@ -73,7 +73,7 @@
 							<a href="/index.php/thiet-ke-web"><span>ອອກແບບເວັບໄຊ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php//xay-dung-phan-mem"><span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span></a>
+							<a href="/index.php//xay-dung-phan-mem"><span>ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php//xay-dung-phan-mem"><span>ອອກແບບເຄືອຂ່າຍ</span></a>
@@ -140,7 +140,7 @@
 								<a href="/index.php//thiet-ke-web">ອອກແບບເວັບໄຊ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/index.php//xay-dung-phan-mem"> ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a>
+								<a href="/index.php//xay-dung-phan-mem"> ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</a>
 							</li>
 							<li class="c-header__child__item">
 								<a href="/index.php//thiet-ke-logo"> ອອກແບບໂລໂກ</a>

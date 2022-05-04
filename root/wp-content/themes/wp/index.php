@@ -8,7 +8,7 @@
                 <div class="c-banner__content wow slideInLeft">
                     <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ມີຄວາມປອດໄພ ແລະ ໜ້າເຊື່ອຖື.</h3>
                     <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຊີໃນລາວ.</span></h2>
-                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ເວັບໄຊ​ ແລະ ຊອບ​ແວ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
+                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ເວັບໄຊ​ ແລະ ໂປຣແກຣມ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
                     <a class="c-banner__btn  wow slideInLeft" href="/index.php/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
                 </div>
             </div>
@@ -207,7 +207,7 @@
                             <img src="assets/img/service/service2.png" alt="">
                         </figure>
                         <div class="c-list7__txt">
-                            <span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span>
+                            <span>ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</span>
                         </div>
                     </a>
                 </div>
@@ -224,7 +224,7 @@
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service4.jpg" alt="">
                         </figure>
-                        <span class="c-list7__txt">ອອກແບບເຄືອຂ່າຍ</span>
+                        <span class="c-list7__txt">ອອກແບບລະບົບເຄືອຂ່າຍ</span>
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
