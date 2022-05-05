@@ -6,10 +6,10 @@
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div class="l-container">
-                    <h2 class="c-title1 c-title1--color1">Xây dựng phần mềm theo yêu cầu</h2>
+                    <h2 class="c-title1 c-title1--color1">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/lien-he">/ Xây dựng phần mềm</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/lien-he">/ ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a>
                     </div>
                 </div>
             </div>
@@ -17,7 +17,7 @@
         <div class="l-container">
             <div class="c-list12">
                 <div class="c-list12__item">
-                    <h2 class="c-title1">Dịch vụ xây dựng phần mềm theo yêu cầu</h2>
+                    <h2 class="c-title1">ບໍລິການຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</h2>
                     <p class="c-list12__txt">Với nhiều năm kinh nghiệm phát triển phần mềm, PXWebShop đã thiết kế nhiều phần mềm chất lượng cao cho doanh nghiệp và các cơ quan nhà nước. PXWebShop luôn phân tích kỹ lưỡng nhu cầu và ngành nghề kinh doanh của khách hàng cùng với loại hình sản phẩm để có được sản phẩm phần mềm chất lượng với giá thành cạnh tranh.</p>
                     <p class="c-list12__txt">Chúng tôi bắt đầu từ một nền tảng (Core Framework) có khả năng mở rộng cao, từng đáp ứng nhiều dự án của các cơ quan chính phủ, doanh nghiệp lớn trong nước và nước ngoài. Từ đó tùy chỉnh theo nhu cầu kinh doanh của mỗi doanh nghiệp. Bạn có thể lựa chọn để mua mã nguồn cho nhu cầu phát triển phần mềm trong tương lai. Chúng tôi cam đoan sẽ mang lại cho quý khách hàng những dịch vụ với chất lượng hoàn hảo nhất và với giá thành cạnh tranh nhất.</p>
                 </div>

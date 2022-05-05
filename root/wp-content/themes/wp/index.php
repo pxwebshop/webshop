@@ -8,7 +8,7 @@
                 <div class="c-banner__content wow slideInLeft">
                     <h3 class="c-banner__txt">ອອກແບບເວັບໄຊທີ່ເປັນມືອາຊີບ, ມີຄວາມປອດໄພ ແລະ ໜ້າເຊື່ອຖື.</h3>
                     <h2 class="c-banner__txt c-banner__txt--large">ຜູ້ນຳ<span class="c-banner__color">ທາງດ້ານເຕັກໂນໂລຊີໃນລາວ.</span></h2>
-                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ເວັບໄຊ​ ແລະ ຊອບ​ແວ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
+                    <p class="c-banner__text">PX WebShop ເປັນຜູ້ນຳທາງດ້ານ ເວັບໄຊ​ ແລະ ໂປຣແກຣມ ດ້ວຍປະສົບການຫຼາຍກວ່າ 3 ປີ<br /> ແລະ ທີມງານທີ່ເປັນມືອາຊີບ.</p>
                     <a class="c-banner__btn  wow slideInLeft" href="/index.php/gioi-thieu">ຂໍ້ມູນເພີ່ມເຕີມ</a>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/congnghe.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ເຕັກໂນໂລຊີ</p>
+                                <p class="c-list6__txt">ເວັບໄຊເຕັກໂນໂລຊີ</p>
                             </div>
                         </a>
                     </div>
@@ -36,7 +36,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/dienmay.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ເຄື່ອງໃຊ້ໄຟຟ້າ</p>
+                                <p class="c-list6__txt">ເວັບໄຊເຄື່ອງໃຊ້ໄຟຟ້າ</p>
                             </div>
                         </a>
                     </div>
@@ -48,7 +48,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/inan.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ການພິມ</p>
+                                <p class="c-list6__txt">ເວັບໄຊການພິມ</p>
                             </div>
                         </a>
                     </div>
@@ -72,7 +72,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/mevabe.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ແມ່ ແລະ ເດັກ</p>
+                                <p class="c-list6__txt">ເວັບໄຊແມ່ ແລະ ເດັກ</p>
                             </div>
                         </a>
                     </div>
@@ -84,7 +84,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/quatang.png" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ຂອງຂວັນ</p>
+                                <p class="c-list6__txt">ເວັບໄຊຂອງຂວັນ</p>
                             </div>
                         </a>
                     </div>
@@ -96,7 +96,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/kientruc.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ຕົບແຕ່ງພາຍໃນ</p>
+                                <p class="c-list6__txt">ເວັບໄຊຕົບແຕ່ງພາຍໃນ</p>
                             </div>
                         </a>
                     </div>
@@ -108,7 +108,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/thoitrang.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ແຟຊັ່ນ</p>
+                                <p class="c-list6__txt">ເວັບໄຊແຟຊັ່ນ</p>
                             </div>
                         </a>
                     </div>
@@ -120,7 +120,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/congty.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ບໍລິສັດ</p>
+                                <p class="c-list6__txt">ເວັບໄຊບໍລິສັດ</p>
                             </div>
                         </a>
                     </div>
@@ -132,7 +132,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/xehoi.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ເວັບໄຊກ່ຽວກັບລົດ</p>
+                                <p class="c-list6__txt">ເວັບໄຊຍານພາຫະນະ</p>
                             </div>
                         </a>
                     </div>
@@ -144,7 +144,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/khachsan.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ທ່ອງທ່ຽວ - ໂຮງແຮມ</p>
+                                <p class="c-list6__txt">ເວັບໄຊທ່ອງທ່ຽວ - ໂຮງແຮມ</p>
                             </div>
                         </a>
                     </div>
@@ -156,7 +156,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/mypham.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ເຄື່ອງສໍາອາງ</p>
+                                <p class="c-list6__txt">ເວັບໄຊເຄື່ອງສໍາອາງ</p>
                             </div>
                         </a>
                     </div>
@@ -168,7 +168,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/thucpham.jpg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ອາຫານ - ຢາ</p>
+                                <p class="c-list6__txt">ເວັບໄຊອາຫານ - ຢາ</p>
                             </div>
                         </a>
                     </div>
@@ -180,7 +180,7 @@
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/batdongsan.jpeg" alt="">
                                 </figure>
-                                <p class="c-list6__txt">ອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</p>
+                                <p class="c-list6__txt">ເວັບໄຊອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</p>
                             </div>
                         </a>
                     </div>
@@ -207,7 +207,7 @@
                             <img src="assets/img/service/service2.png" alt="">
                         </figure>
                         <div class="c-list7__txt">
-                            <span>ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</span>
+                            <span>ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</span>
                         </div>
                     </a>
                 </div>
@@ -224,7 +224,7 @@
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service4.jpg" alt="">
                         </figure>
-                        <span class="c-list7__txt">ອອກແບບເຄືອຂ່າຍ</span>
+                        <span class="c-list7__txt">ອອກແບບລະບົບເຄືອຂ່າຍ</span>
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
@@ -521,7 +521,7 @@
                         <img src="/assets/img/process/1.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--color1">
-                        01. Nghiên cứu
+                        01. ຄົ້ນຄ້ວາ
                     </p>
                 </div>
                 <div class="c-list5__item">
@@ -529,7 +529,7 @@
                         <img src="/assets/img/process/2.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--color2">
-                        02. Phân tích
+                        02. ວິເຄາະ
                     </p>
                 </div>
                 <div class="c-list5__item c-list5__item--3">
@@ -537,7 +537,7 @@
                         <img src="/assets/img/process/3.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--color3">
-                        03. Triển khai
+                        03. ຈັດຕັ້ງປະຕິບັດ
                     </p>
                 </div>
                 <div class="c-list5__item">
@@ -545,7 +545,7 @@
                         <img src="/assets/img/process/4.png" alt="">
                     </figure>
                     <p class="c-list5__text c-list5__text--center c-list5__text--color4">
-                        04. Kết quả
+                        04. ຜົນໄດ້ຮັບ
                     </p>
                 </div>
             </div>
