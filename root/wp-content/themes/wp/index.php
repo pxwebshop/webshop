@@ -551,28 +551,28 @@
             </div>
         </div>
     </section>
-    <section class="p-index__article">
+    <!-- <section class="p-index__article">
         <div class="l-container clearfix">
             <h2 class="c-title1 wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">ບົດຄວາມ</h2>
             <div class="p-index__article__content wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                 <div class="c-list2">
-                    <?php
+                    <php
                     $query = new WP_Query(array(
                         'post_type'            => array('news'),
                         'posts_per_page'    => 4,
                         'post_status'        => 'publish',
                     ));
                     ?>
-                    <?php if ($query->have_posts()) : ?>
-                        <?php while ($query->have_posts()) : $query->the_post(); ?>
+                    <php if ($query->have_posts()) : ?>
+                        <php while ($query->have_posts()) : $query->the_post(); ?>
                             <div class="c-list2__item">
                                 <figure class="c-list2__img">
-                                    <a href="<?php the_permalink($post->ID); ?>"><?php the_post_thumbnail(); ?></a>
+                                    <a href="<php the_permalink($post->ID); ?>"><php the_post_thumbnail(); ?></a>
                                 </figure>
                                 <div class="c-list2__info">
                                     <h3 class="c-list2__title">
-                                        <a href="<?php the_permalink($post->ID); ?>">
-                                            <?php
+                                        <a href="<php the_permalink($post->ID); ?>">
+                                            <php
                                             $n = strlen(get_the_title($post->ID));
                                             if ($n < 60) {
                                                 echo get_the_title();
@@ -584,20 +584,20 @@
                                     </h3>
                                     <div class="c-list2__time">
                                         <i class="fa-solid fa-calendar-days"></i>
-                                        <span> <?php echo get_the_date(); ?></span>
+                                        <span> <php echo get_the_date(); ?></span>
                                     </div>
                                     <div class="c-list2__author">
                                         <i class="fa-solid fa-user"></i>
-                                        <span><?php echo get_the_author(); ?></span> <br>
+                                        <span><php echo get_the_author(); ?></span> <br>
                                     </div>
                                     <p class="c-list2__txt">
-                                        <?php echo get_the_excerpt(); ?>
+                                        <php echo get_the_excerpt(); ?>
                                     </p>
                                 </div>
                             </div>
-                        <?php endwhile; ?>
-                    <?php endif; ?>
-                    <?php wp_reset_query(); ?>
+                        <php endwhile; ?>
+                    <php endif; ?>
+                    <php wp_reset_query(); ?>
                 </div>
             </div>
 
@@ -605,7 +605,7 @@
                 <div class="c-block1">
                     <h3 class="c-block1__heading">ບົດຄວາມອື່ນໆ</h3>
                     <div class="c-block1__inner">
-                        <?php
+                        <php
                         $args = array('posts_per_page' => 4);
                         $query = new WP_Query('offset=4', $args);
                         $query = new WP_Query(array(
@@ -615,14 +615,14 @@
                             'post_status'        => 'publish',
                         ));
                         ?>
-                        <?php if ($query->have_posts()) : ?>
-                            <?php while ($query->have_posts()) : $query->the_post(); ?>
+                        <php if ($query->have_posts()) : ?>
+                            <php while ($query->have_posts()) : $query->the_post(); ?>
                                 <div class="c-block1__item">
                                     <figure class="c-block1__img">
-                                        <a href="/chi-tiet-bai-viet"><?php the_post_thumbnail(); ?></a>
+                                        <a href="/chi-tiet-bai-viet"><php the_post_thumbnail(); ?></a>
                                     </figure>
                                     <div class="c-block1__info">
-                                        <h5 class="c-block1__title"><?php
+                                        <h5 class="c-block1__title"><php
                                                                     $n = strlen(get_the_title($post->ID));
                                                                     if ($n < 36) {
                                                                         echo get_the_title();
@@ -630,17 +630,17 @@
                                                                         echo substr(get_the_title(), 0, 36) . "&hellip;";
                                                                     }
                                                                     ?></h5>
-                                        <p class="c-block1__txt"><?php echo substr(get_the_excerpt(), 0, 72) . "&hellip;"; ?></p>
+                                        <p class="c-block1__txt"><php echo substr(get_the_excerpt(), 0, 72) . "&hellip;"; ?></p>
                                     </div>
                                 </div>
-                            <?php endwhile; ?>
-                        <?php endif; ?>
-                        <?php wp_reset_query(); ?>
+                            <php endwhile; ?>
+                        <php endif; ?>
+                        <php wp_reset_query(); ?>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <div class="c-pageTop">
         <span class="c-pageTop__icon">
