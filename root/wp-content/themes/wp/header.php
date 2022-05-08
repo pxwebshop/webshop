@@ -135,7 +135,7 @@
 					<li class="c-header__item">
 						<a class="c-header__link" href="/index.php/kho-giao-dien">ຕົວຢ່າງເວັບໄຊ</a>
 					</li>
-					<li class="c-header__item c-header__item__services">
+					<!-- <li class="c-header__item c-header__item__services">
 						<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
@@ -154,7 +154,7 @@
 								<a href="/dich-vu-seo">ບໍລິການ SEO </a>
 							</li>
 						</ul>
-					</li>
+					</li> -->
 					<li class="c-header__item">
 						<a class="c-header__link" href="/index.php/tin-tuc">ບົດຄວາມ</a>
 					</li>
