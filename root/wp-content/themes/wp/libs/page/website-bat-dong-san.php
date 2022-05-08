@@ -6,11 +6,11 @@
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1 c-title1--color1">Kho giao diện</h2>
+                    <h2 class="c-title1 c-title1--color1">ຕົວຢ່າງເວັບໄຊ</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/kho-giao-dien">/ Kho giao diện</a>
-                        <a href="/website-bat-dong-san">/ Website bất động sản</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/kho-giao-dien">/ ຕົວຢ່າງເວັບໄຊ</a>
+                        <a href="/website-bat-dong-san">/ ເວັບໄຊກອະສັງຫາລິມະຊັບ</a>
                     </div>
                 </div>
             </div>

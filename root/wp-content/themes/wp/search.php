@@ -8,7 +8,7 @@ $queried = get_queried_object(); ?>
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1 c-title1--color1">Tìm kiếm</h2>
+                    <h2 class="c-title1 c-title1--color1">ຄົ້ນຫາ</h2>
                     <!-- <div class="c-page__url">
                         <a href="/" class="c-page__link">Trang chủ</a>
                         <a href="/lien-he">/ Tin tức</a>
@@ -35,7 +35,7 @@ $queried = get_queried_object(); ?>
                     $search_query = new WP_Query($search_string);
                     $total_results = $search_query->found_posts ? $search_query->found_posts : 0;
                     echo('<h3 class="c-list2__searchTotal">');
-                    printf(__('Chúng tôi tìm thấy <b> %1$s bài viết </b> mà bạn tìm kiếm', 'glw'), $total_results);
+                    printf(__('ຄົ້ນພົບ <b> %1$s ບົດຄວາມ </b> ທີ່ທ່ານກຳລັງຄົ້ນຫາ', 'glw'), $total_results);
                     echo('</h3>');
                     if ($search_query->have_posts()) :
                     ?>

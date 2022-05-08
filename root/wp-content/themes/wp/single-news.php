@@ -11,10 +11,10 @@
             <div class="c-page__heading" id="particles-js">
                 <div class="c-page__title">
                     <div>
-                        <h2 class="c-title1 c-title1--color1">Tin tức</h2>
+                        <h2 class="c-title1 c-title1--color1">ບົດຄວາມ</h2>
                         <div class="c-page__url">
-                            <a href="/" class="c-page__link">Trang chủ</a>
-                            <a href="/lien-he">/ Bài viết số <?php the_ID(); ?></a>
+                            <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                            <a href="/lien-he">/ ບົດຄວາມທີ່ <?php the_ID(); ?></a>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
             </div>
             <div class="l-container">
                 <div class="c-detail__related">
-                    <h2 class="c-title2">Bài viết liên quan</h2>
+                    <h2 class="c-title2">ບົດຄວາມທີ່ກ່ຽວຂ້ອງ</h2>
                     <div class="c-list10">
                         <?php
                         $query = new WP_Query(array(

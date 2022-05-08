@@ -339,12 +339,6 @@ footer
     line-height: 2; }
     .c-footer__txt .fa-paw {
       color: orange; }
-  .c-footer__advise {
-    padding: 30px 0;
-    background: #ADD8E6 url(/assets/img/common/bg-footer.svg) -10px;
-    text-align: center; }
-    .c-footer__advise .c-title2 {
-      text-align: center; }
   .c-footer__form {
     position: relative;
     width: 50%;
@@ -447,7 +441,6 @@ footer
       font-size: 1.5rem;
       line-height: 1.5; }
   .c-footer__content {
-    border-top: 1px solid #fff;
     border-bottom: 1px solid #fff; }
 
 /*------------------------------------------------------------
@@ -2199,24 +2192,24 @@ other
     letter-spacing: 1px;
     cursor: pointer; }
 
-.c-contact__group label {
-  font-size: 1.6rem;
-  line-height: 1.5;
-  color: #111111;
-  font-weight: 600;
-  text-transform: uppercase;
-  padding-left: 10px; }
-
-.c-contact__group input,
-.c-contact__group textarea {
-  width: 95%;
-  padding: 10px;
-  font-size: 1.6rem;
-  line-height: 1.5;
-  border-radius: 5px;
-  border-style: hidden;
-  border: 1px solid #cccccc;
+.c-contact__group {
   margin-bottom: 10px; }
+  .c-contact__group label {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    color: #111111;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding-left: 10px; }
+  .c-contact__group input,
+  .c-contact__group textarea {
+    width: 95%;
+    padding: 10px;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    border-radius: 5px;
+    border-style: hidden;
+    border: 1px solid #cccccc; }
 
 .c-contact__txt {
   font-weight: 500; }

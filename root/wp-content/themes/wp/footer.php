@@ -25,7 +25,7 @@
 				</div>
 				<div class="c-footer__support">
 					<h3 class="c-title2">ຊ່ວຍເຫຼືອ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ແນະນຳວິທີຊຳລະເງີນ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ແນະນຳວິທີຊຳລະເງິນ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ນະໂຍບາຍຄວາມປອດໄພ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ເງື່ອນ​ໄຂ​ການ​ນໍາ​ໃຊ້​</a></p>
 				</div>
@@ -37,7 +37,7 @@
 					<p class="c-footer__txt"><i class="fa-solid fa-phone"></i> &nbsp <a href="tel:020 28266650">020 28266650</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-globe"></i> &nbsppxwebshop.com</p>
 					<p class="c-footer__txt"><i class="fa-solid fa-envelope"></i> &nbsppxwebshop@gmail.com</p>
-					<p class="c-footer__txt">ເຮັດວຽກຕະຫຼອດ 24 ຊົ່ວໂມງແຕ່ວັນຈັນເຖິງວັນອາທິດ</p>
+					
 				</div>
 				<div class="c-footer__network">
 					<h3 class="c-title2">ສື່ສັງຄົມອອນລາຍ</h3>
