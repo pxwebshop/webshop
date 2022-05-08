@@ -78,10 +78,10 @@
 							<a href="/index.php//xay-dung-phan-mem"><span>ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php//xay-dung-phan-mem"><span>ອອກແບບເຄືອຂ່າຍ</span></a>
+							<a href="/index.php/xay-dung-phan-mem"><span>ອອກແບບເຄືອຂ່າຍ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php//thiet-ke-logo"><span>ອອກແບບໂລໂກ</span></a>
+							<a href="/index.php/thiet-ke-logo"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/web-app">ຂຽນ Web App</a>
@@ -155,9 +155,9 @@
 							</li>
 						</ul>
 					</li> -->
-					<li class="c-header__item">
+					<!-- <li class="c-header__item">
 						<a class="c-header__link" href="/index.php/tin-tuc">ບົດຄວາມ</a>
-					</li>
+					</li> -->
 					<li class="c-header__item c-header__item__abouts">
 						<span>ກຽ່ວກັບເຮົາ<i class="fa-solid fa-caret-down"></i></span>
 
