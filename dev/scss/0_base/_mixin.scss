@@ -8,6 +8,10 @@
 	font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
 }
 
+@mixin notosan() {
+	font-family: "Noto Sans Lao", sans-serif;
+}
+
 /* breakpoint
 -------------------------------------------*/
 @mixin sp {

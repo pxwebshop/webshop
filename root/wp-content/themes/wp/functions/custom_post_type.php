@@ -6,7 +6,7 @@
 /* 1.カスタム投稿の利用
 	TRUE => 利用する　FASLE => 利用しない
 ------------------------------------------------------------------------------- */
-define( "CUSTOM_POST_USE", false );
+define( "CUSTOM_POST_USE", true );
 
 
 /* 2.カスタム投稿設定
@@ -20,8 +20,11 @@ if ( CUSTOM_POST_USE ) {
 
 			array(
 				'post_type' => 'news',
-				'label'     => 'お知らせ',
-				'args'      => array( 'supports' => array( 'title', 'editor', 'revisions' ) ),
+				'label'     => 'Tin tức',
+				'args'      => array( 'supports' => array( 'title', 'editor', 'revisions', 'thumbnail') ),
+				'taxonomies' => array(
+					array( 'taxonomy' => 'news_tax', 'label' => 'Danh mục' )
+				),
 			),
 
 			//////
@@ -61,16 +64,16 @@ if ( CUSTOM_POST_USE ) {
 				'name'               => $data["label"],
 				'singular_name'      => $data["label"],
 				'menu_name'          => $data["label"],
-				'add_new'            => '新規追加',
-				'add_new_item'       => $data["label"] . 'を新規追加',
+				'add_new'            => 'Thêm mới',
+				'add_new_item'       => $data["label"] . ' mới được thêm vào',
 				'edit'               => '編集',
-				'edit_item'          => $data["label"] . 'を編集',
+				'edit_item'          => 'Chỉnh sửa '. $data["label"],
 				'new_item'           => '新着' . $data["label"],
 				'view'               => $data["label"] . 'を表示',
 				'view_item'          => $data["label"] . 'を表示',
 				'search_items'       => $data["label"] . 'を検索',
-				'all_items'          => $data["label"] . '一覧',
-				'not_found'          => $data["label"] . 'はありません',
+				'all_items'          => 'Danh sách '. $data["label"],
+				'not_found'          => $data["label"] . ' không có',
 				'not_found_in_trash' => 'ゴミ箱は空です',
 				'parent'             => '親' . $data["label"],
 			);
@@ -111,11 +114,11 @@ if ( CUSTOM_POST_USE ) {
 						'singular_name' => $tax_args['label'],
 						'search_items'  => $tax_args['label'] . 'を検索',
 						'popular_items' => 'よく使われている' . $tax_args['label'],
-						'all_items'     => 'すべての' . $tax_args['label'],
-						'parent_item'   => '親の' . $tax_args['label'],
+						'all_items'     => 'Tất cả ' . $tax_args['label'],
+						'parent_item'   => $tax_args['label'] . 'chính',
 						'edit_item'     => $tax_args['label'] . 'の編集',
 						'update_item'   => '更新',
-						'add_new_item'  => '新規' . $tax_args['label'] . 'を追加',
+						'add_new_item'  => 'Thêm ' . $tax_args['label'] . ' mới',
 						'new_item_name' => '新しい' . $tax_args['label'],
 					);
 

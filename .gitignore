@@ -3,7 +3,6 @@
 /node_modules/
 /package-lock.json
 /root/assets/css/style.min.css
-/root/assets/js/common.js
 /root/assets/js/common.min.js
 /root/assets/js/main.js
 /root/assets/js/main.min.js

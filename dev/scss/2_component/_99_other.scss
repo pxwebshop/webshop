@@ -13,12 +13,10 @@ other
 		#{$root}__title {
 			font-size: 3.2rem;
 			line-height: 2;
-			font-family: $roboto;
 		}
 		#{$root}__time {
 			font-size: 1.3rem;
 			font-style: italic;
-			font-family: $roboto;
 		}
 	}
 	&__body {
@@ -41,7 +39,6 @@ other
 			padding-left: 60px;
 			h2 {
 				font-size: 2.4rem;
-				font-family: $roboto;
 				line-height: 2;
 			}
 			li {
@@ -57,13 +54,11 @@ other
 			h2 {
 				font-size: 2.4rem;
 				line-height: 2;
-				font-family: $roboto;
 				text-align: center;
 			}
 		}
 	}
 	p {
-		font-family: $roboto;
 		font-size: 1.6rem;
 		text-align: justify;
 	}
@@ -82,6 +77,7 @@ other
 	}
 	&__img {
 		width: 120px;
+		height: 100%;
 		display: flex;
 		flex-shrink: 0;
 	}
@@ -115,14 +111,15 @@ other
 }
 .c-page {
 	&__heading {
-		background: url(../img/common/contact-background.jpg) no-repeat center
-			center;
+		background-color: #00356b;
 		background-size: 100%;
-		height: 300px;
+		height: 150px;
 		width: 100%;
 		position: relative;
 		@include sp {
 			background-size: auto;
+			height: 100px;
+			margin-top: 60px;
 		}
 		.c-title1 {
 			font-weight: 600;
@@ -144,6 +141,7 @@ other
 	}
 	&__url {
 		margin-top: 5px;
+		text-align: center;
 	}
 }
 
@@ -154,6 +152,8 @@ other
 	&__map {
 		width: 100%;
 		height: 346px;
+		z-index: 2;
+		position: inherit;
 		iframe {
 			width: 100%;
 			height: 346px;
@@ -162,6 +162,7 @@ other
 	&__content {
 		display: flex;
 		flex-wrap: wrap;
+		padding-bottom: 30px;
 		@include sp {
 			display: block;
 		}
@@ -171,6 +172,8 @@ other
 		margin-top: 30px;
 		font-size: 1.6rem;
 		line-height: 2;
+		color: $colorWhite;
+		z-index: 2;
 		@include sp {
 			width: 100%;
 		}
@@ -182,6 +185,7 @@ other
 		margin-top: -130px;
 		box-shadow: 0 0 5px $colorGrey;
 		border-radius: 5px;
+		z-index: 2;
 		@include sp {
 			width: 100%;
 			margin-top: 30px;
@@ -198,16 +202,15 @@ other
 			color: $colorWhite;
 			letter-spacing: 1px;
 			cursor: pointer;
-			@include roboto;
 		}
 	}
 	&__group {
+		margin-bottom: 10px;
 		label {
 			font-size: 1.6rem;
 			line-height: 1.5;
 			color: $colorBlack;
 			font-weight: 600;
-			@include roboto;
 			text-transform: uppercase;
 			padding-left: 10px;
 		}
@@ -220,7 +223,6 @@ other
 			border-radius: 5px;
 			border-style: hidden;
 			border: 1px solid $colorLightGrey;
-			margin-bottom: 10px;
 		}
 	}
 	&__txt {
@@ -274,7 +276,6 @@ other
 			padding: 10px;
 			font-size: 1.6rem;
 			line-height: 1.5;
-			@include roboto();
 		}
 	}
 	&__firstName,
@@ -314,7 +315,6 @@ other
 		font-size: 1.6rem;
 		line-height: 1.5;
 		padding: 10px;
-		@include roboto();
 	}
 	&__price {
 		float: right;
@@ -327,6 +327,7 @@ other
 // c-payment
 .c-payment {
 	$root: &;
+	text-align: justify;
 	.c-title1 {
 		padding: 10px;
 		border: 2px solid $colorBlue5;
@@ -342,14 +343,17 @@ other
 	&__content {
 		display: flex;
 		padding: 30px;
+		align-items: center;
+		@include max-w(545px) {
+			flex-wrap: wrap;
+		}
 	}
 	&__img {
-		width: 200px;
+		max-width: 200px;
+		margin: 0 auto;
 		img {
 			width: 100%;
-		}
-		@include sp() {
-			display: none;
+			object-fit: contain;
 		}
 	}
 	&__txt {
@@ -361,20 +365,41 @@ other
 			width: 100%;
 		}
 	}
+	&__txtNum {
+		font-size: 1.8rem;
+		font-weight: bold;
+	}
 	&__eWallets {
 		display: flex;
+		flex-wrap: wrap;
 		justify-content: space-between;
+		@include sp {
+			justify-content: space-around;
+		}
 		figure {
-			width: 100px;
+			max-width: 200px;
+			@include sp {
+				&:first-child {
+					display: none;
+				}
+			}
+			img {
+				object-fit: contain;
+				cursor: pointer;
+			}
 		}
 	}
 	&__note {
 		margin-top: 30px;
 		li {
-			list-style-type: circle;
+			list-style-type: disc;
 			font-size: 1.6rem;
 			line-height: 1.5;
 			padding: 5px;
+			&::marker {
+				color: $colorBlue5;
+				font-size: 2rem;
+			}
 		}
 	}
 	&__btn {
@@ -388,7 +413,8 @@ other
 			border-radius: 30px;
 			background-color: $colorBlue5;
 			border: transparent;
-			box-shadow: 0 0 5px $colorBlack;
+			box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px,
+				rgba(0, 0, 0, 0.22) 0px 15px 12px;
 			color: $colorWhite;
 			font-weight: 700;
 			text-transform: uppercase;
@@ -398,18 +424,61 @@ other
 			}
 		}
 	}
+	&__show {
+		z-index: 1;
+		display: none;
+	}
+	&__showImg {
+		position: relative;
+	}
+	&__img-show {
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		z-index: 1000;
+		top: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: rgba(1, 1, 1, 0.5);
+		span {
+			position: absolute;
+			top: 0;
+			right: 20px;
+			z-index: 1001;
+			cursor: pointer;
+			font-size: 5rem;
+			color: $colorRed;
+			@include sp {
+				right: 70px;
+				font-size: 4rem;
+			}
+			@include max-w(400px) {
+				right: 45px;
+				font-size: 3rem;
+			}
+		}
+		img {
+			width: 100%;
+			display: block;
+			margin: 0 auto;
+			box-shadow: 0 0 20px $colorBlue6;
+			@include sp {
+				width: 80%;
+			}
+		}
+	}
 }
 // end: c-payment
 
 // banner
 .c-banner {
 	$root: &;
-	// background: $colorBlue5 url(/assets/img/common/banner-bg.jpg) no-repeat center center;
-	background: url("https://thietkewebaio.com/wp-content/uploads/2022/02/thiet-ke-web-banner.png")
+	background: url("/assets/img/common/banner.png")
 		no-repeat center center;
 	height: 500px;
 	@include sp() {
-		height: 480px;
+		height: 90vh;
 	}
 	&__txt {
 		font-size: 2.6rem;
@@ -418,12 +487,20 @@ other
 		@include sp() {
 			font-size: 1.8rem;
 		}
+		@include max-w(400px) {
+			font-size: 1.6rem;
+		}
 		&--large {
 			font-weight: 700;
 			font-size: 7rem;
 			margin-bottom: 13px;
+			line-height: 1;
 			@include sp() {
 				font-size: 4rem;
+			}
+			@include max-w(400px) {
+				font-size: 3.6rem;
+				line-height: 1.5;
 			}
 		}
 	}
@@ -436,6 +513,9 @@ other
 		@include sp() {
 			font-size: 1.6rem;
 		}
+		@include max-w(400px) {
+			font-size: 1.4rem;
+		}
 	}
 	&__btn {
 		background-color: $colorPurple;
@@ -445,28 +525,31 @@ other
 		margin-top: 20px;
 		font-size: 1.7rem;
 		font-weight: 500;
-		background: linear-gradient(
-			to right,
-			rgb(26, 73, 204) 50%,
-			rgb(104, 20, 90) 50%
-		);
+		box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 		background-size: 200% 100%;
 		background-position: right bottom;
 		transition: all 0.5s ease-out;
 		border-radius: 5px;
 		&:hover {
-			background-position: left bottom;
+			opacity: 1;
+			box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
 		}
 		@include sp() {
 			font-size: 1.4rem;
 			padding: 15px 20px;
+		}
+		@include max-w(400px) {
+			font-size: 1.4rem;
+			padding: 10px 15px;
 		}
 	}
 	&__content {
 		position: absolute;
 		top: 10%;
 		@include sp() {
-			top: 18%;
+			top: auto;
+			bottom: 15%;
+			padding-right: 15px;
 		}
 	}
 	.l-container {
@@ -489,7 +572,7 @@ other
 	display: none;
 	background-color: rgba(1, 1, 1, 0.5);
 	&__content {
-		background-color: $colorBlue1;
+		background-color: $colorBlue3;
 		max-width: 600px;
 		width: 100%;
 		height: 100%;
@@ -503,10 +586,9 @@ other
 	}
 	.c-title2 {
 		text-align: center;
-		background-color: $colorBlue2;
+		background-color: $colorBlue5;
 		padding: 16px 40px 16px 16px;
 		border-radius: 5px;
-		// box-shadow: 0 0 5px $colorBlack;
 		color: $colorWhite;
 	}
 	&__form {
@@ -552,12 +634,12 @@ other
 		text-align: center;
 		button {
 			cursor: pointer;
-			padding: 10px 30px;
+			padding: 15px 30px;
 			text-transform: uppercase;
-			background-color: $colorBlue2;
+			background-color: $colorBlue5;
 			border-radius: 50px;
 			border: none;
-			box-shadow: 0 0 5px $colorBlack;
+			box-shadow: 0 0 5px $colorWhite;
 			color: $colorWhite;
 			font-weight: 700;
 			transition: 1s;
@@ -605,203 +687,201 @@ other
 		width: 100%;
 		height: 300px;
 	}
-    &__article {
-        // position: relative;
-        padding: 30px;
-        display: flex;
-        @include sp {
-            flex-wrap: wrap;
-            padding: 0;
-        }
-    }
-    &__share {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        text-align: center;
-        width: 100px;
-        box-shadow: 0 0 5px $colorLightGrey;
-        border-radius: 5px;
-        padding: 10px;
-        height: 100%;
-        
-        // position: absolute;
-        // top: 30px;
-        // left: -100px;
-        span {
-            i {
-                font-size: 3.2rem;
-            }
-            font-size: 1.8rem;
-            line-height: 2;
-            @include sp {
-                display: none;
-            }
-        }
-        ul {
-            @include sp {
-                display: inline;
-            }
-        }
-        li{
-            border: 1px solid $colorLightGrey;
-            border-radius: 5px;
-            padding: 5px;
-            margin: 5px 0;
-            cursor: pointer;
-            &:hover {
-                background-color: $colorLightGrey;
-            }
-            @include sp {
-                display: inline;
-                margin-right: 5px;
-                font-size: 1.3rem;
-            }
-        }
-        @include sp {
-            width: 100%;
-            font-size: 1.6rem;
-            box-shadow: none;
-            text-align: left;
-        }  
-    }
-    &__content {
-        padding-left: 30px;
-        @include sp {
-            padding: 0;
-        }
-    }
-    // title detail
-    &__title1 {
-        font-size: 4.8rem;
-        font-weight: 700;
-        line-height: 1.5;
-        @include sp {
-            font-size: 2.8rem;
-        }
-    }
-    &__title2 {
-        font-size: 3.6rem;
-        font-weight: 700;
-        line-height: 1.5;
-        margin: 16px 0;
-        @include sp {
-            font-size: 2.4rem;
-        }
-    }
-    &__title3 {
-        font-size: 2.4rem;
-        font-weight: 700;
-        line-height: 1.5;
-        margin: 16px 0;
-        @include sp {
-            font-size: 1.8rem;
-        }
-    }
-    &__title4 {
-        font-size: 1.8rem;
-        line-height: 1.5;
-        font-weight: 600;
-        color: $colorBlack;
-        margin-bottom: 16px;
-        @include sp {
-            font-size: 1.6rem;
-        }
-    }
-    // end: title detail
-    &__info {
-        color: $colorGrey;
-        font-size: 1.4rem;
-        @include sp {
-            font-size: 1.3rem;
-        }
-    }
-    &__txt {
-        margin: 30px 0;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        @include sp {
-            font-size: 1.4rem;
-        }
-    }
-    &__tableContent {
-        margin: 30px;
-        background-color: $colorLightGrey;
-        border-radius: 5px;
-        padding: 30px;
-        span {
-            font-size: 1.7rem;
-            line-height: 2;
-            font-weight: 600;
-        }
-    }
-    &__show, &__hide {
-        font-size: 1.8rem;
-        line-height: 1.5;
-        cursor: pointer;
-        padding-left: 10px;
-    }
-    #showTableOfContent {
-        display: none;
-    }
-    &__contentItem {
-        font-size: 1.6rem;
-        line-height: 1.5;
-    }
-    &__contentSubItem {
-        font-size: 1.6rem;
-        line-height: 1.5;
-        padding-left: 16px;
-    }
-    &__subImg {
-        font-size: 1.4rem;
-        line-height: 1.5;
-        text-align: center;
-        font-style: italic;
-        color: $colorGrey;
-    }
-    &__info1 {
-        display: flex;
-        padding: 30px;
-        box-shadow: 0 0 5px $colorLightGrey;
-    }
-    &__ava {
+	&__article {
+		// position: relative;
+		padding: 30px;
+		display: flex;
+		@include sp {
+			flex-wrap: wrap;
+			padding: 0;
+		}
+	}
+	&__share {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		text-align: center;
+		width: 100px;
+		box-shadow: 0 0 5px $colorLightGrey;
+		border-radius: 5px;
+		padding: 10px;
+		height: 100%;
 
-        height: 100%;
-        img {
-            width: 100px;
-            border-radius: 50%;
-        }
-    }
-    &__text {
-        padding: 0 32px;
-        @include sp {
-            padding: 0 16px;
-        }
-        ul {
-            margin: 16px 0 16px -16px;
-        }
-        li {
-            display: inline;
-            margin: 10px;
-            padding: 6px;
-            &:hover {
-                background-color: $colorLightGrey;
-                border-radius: 5px
-            };
-        }
-    }
+		// position: absolute;
+		// top: 30px;
+		// left: -100px;
+		span {
+			i {
+				font-size: 3.2rem;
+			}
+			font-size: 1.8rem;
+			line-height: 2;
+			@include sp {
+				display: none;
+			}
+		}
+		ul {
+			@include sp {
+				display: inline;
+			}
+		}
+		li {
+			border: 1px solid $colorLightGrey;
+			border-radius: 5px;
+			padding: 5px;
+			margin: 5px 0;
+			cursor: pointer;
+			&:hover {
+				background-color: $colorLightGrey;
+			}
+			@include sp {
+				display: inline;
+				margin-right: 5px;
+				font-size: 1.3rem;
+			}
+		}
+		@include sp {
+			width: 100%;
+			font-size: 1.6rem;
+			box-shadow: none;
+			text-align: left;
+		}
+	}
+	&__content {
+		padding-left: 30px;
+		@include sp {
+			padding: 0;
+		}
+	}
+	// title detail
+	&__title1 {
+		font-size: 4.8rem;
+		font-weight: 700;
+		line-height: 1.5;
+		@include sp {
+			font-size: 2.8rem;
+		}
+	}
+	&__title2 {
+		font-size: 3.6rem;
+		font-weight: 700;
+		line-height: 1.5;
+		margin: 16px 0;
+		@include sp {
+			font-size: 2.4rem;
+		}
+	}
+	&__title3 {
+		font-size: 2.4rem;
+		font-weight: 700;
+		line-height: 1.5;
+		margin: 16px 0;
+		@include sp {
+			font-size: 1.8rem;
+		}
+	}
+	&__title4 {
+		font-size: 1.8rem;
+		line-height: 1.5;
+		font-weight: 600;
+		color: $colorBlack;
+		margin-bottom: 16px;
+		@include sp {
+			font-size: 1.6rem;
+		}
+	}
+	// end: title detail
+	&__info {
+		color: $colorGrey;
+		font-size: 1.4rem;
+		@include sp {
+			font-size: 1.3rem;
+		}
+	}
+	&__txt {
+		margin: 30px 0;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		@include sp {
+			font-size: 1.4rem;
+		}
+	}
+	&__tableContent {
+		margin: 30px;
+		background-color: $colorLightGrey;
+		border-radius: 5px;
+		padding: 30px;
+		span {
+			font-size: 1.7rem;
+			line-height: 2;
+			font-weight: 600;
+		}
+	}
+	&__show,
+	&__hide {
+		font-size: 1.8rem;
+		line-height: 1.5;
+		cursor: pointer;
+		padding-left: 10px;
+	}
+	#showTableOfContent {
+		display: none;
+	}
+	&__contentItem {
+		font-size: 1.6rem;
+		line-height: 1.5;
+	}
+	&__contentSubItem {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		padding-left: 16px;
+	}
+	&__subImg {
+		font-size: 1.4rem;
+		line-height: 1.5;
+		text-align: center;
+		font-style: italic;
+		color: $colorGrey;
+	}
+	&__info1 {
+		display: flex;
+		padding: 30px;
+		box-shadow: 0 0 5px $colorLightGrey;
+	}
+	&__ava {
+		height: 100%;
+		img {
+			width: 100px;
+			border-radius: 50%;
+		}
+	}
+	&__text {
+		padding: 0 32px;
+		@include sp {
+			padding: 0 16px;
+		}
+		ul {
+			margin: 16px 0 16px -16px;
+		}
+		li {
+			display: inline;
+			margin: 10px;
+			padding: 6px;
+			&:hover {
+				background-color: $colorLightGrey;
+				border-radius: 5px;
+			}
+		}
+	}
 
-
-    &__related {
-        margin: 30px;
-        .c-title2 {
-            font-size: 2.8rem;
-            font-weight: 700;
-        }
-    }
+	&__related {
+		margin: 30px;
+		.c-title2 {
+			font-size: 2.8rem;
+			font-weight: 700;
+		}
+	}
 }
 // end: chi tiet bai viet
-
 
 // interface stock
 .c-stock {
@@ -815,13 +895,269 @@ other
 	&__tagItem {
 		background-color: $colorWhite;
 		margin: 5px;
-		padding: 10px;
+		padding: 10px 0;
 		border-radius: 50px;
 		box-shadow: 0px 3px 6px 0px #8aa0c5;
 		font-size: 1.4rem;
 		line-height: 1.5;
 		font-weight: 500;
 		letter-spacing: 0.3px;
+		&:hover {
+			background-color: #db2424;
+			color: #fff;
+		}
+		a {
+			padding: 10px 15px;
+			border-radius: 50px;
+		}
+	}
+	.is-active {
+		background-color: #db2424;
+ 		color: #fff;
 	}
 }
 // end: interface stock
+
+//table of content
+#toc_container {
+	margin: 30px;
+	background-color: $colorLightGrey;
+	border-radius: 5px;
+	padding: 30px;
+}
+.toc {
+	&_title {
+		font-size: 1.7rem;
+		line-height: 2;
+		font-weight: 700;
+	}
+	&_list {
+		font-size: 1.6rem;
+		font-weight: 500;
+		li > ul {
+			margin-left: 30px;
+		}
+	}
+}
+// end: toc
+
+// pagenavi
+.c-pagenavi {
+	display: inline-block;
+	width: 100%;
+	text-align: right;
+	font-size: 1.8rem;
+	line-height: 1.5;
+	margin: 30px 30px 50px;
+	.page {
+		padding: 8px 16px;
+		margin: 0 5px;
+		&:hover {
+			background-color: $colorBlue2;
+		}
+	}
+	.pages {
+		padding: 8px 16px;
+	}
+	.current {
+		color: $colorWhite;
+		background-color: $colorBlue6;
+		padding: 8px 16px;
+	}
+}
+
+.c-pageTop {
+	position: fixed;
+	display: none;
+	right: 30px;
+    bottom: 120px;
+	z-index: 10;
+	cursor: pointer;
+	opacity: 0.7;
+	// @include sp {
+	// 	right: 10px;
+	// 	bottom: 15px;
+	// }
+	&__icon {
+		padding: 20px 25px;
+		background-color: #1964af;
+		color: #fff;
+		border-radius: 5px;
+		@include sp {
+			padding: 10px 15px;
+		}
+	}
+}
+
+.c-webDesign {
+	// background: url(/assets/img/common/tkw-bg.png) no-repeat center center;
+	// background-size: cover;	
+	&__trust {
+		padding-top: 30px;
+		.c-title1 {
+			text-align: center;
+		}
+		text-align: center;
+	}
+	.c-detail__related {
+		margin: 30px 0;
+	}
+	.c-title2 {
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+}
+
+.c-buildSoftware {
+	.c-list13__itemChild {
+		width: 100%;
+		@include sp {
+			padding-left: 0;
+		}
+		.c-list12__txt {
+			margin-top: 0;
+			// @include sp {
+			// 	font-size: 1.3rem;
+			// }
+		}
+	}
+	.c-detail__related {
+		margin: 30px 0;
+	}
+	.c-list14{
+		&__item {
+			width: 100%;
+		}
+		&__img {
+			width: 100px;
+		}
+		&__list li{
+			list-style: circle;
+			margin-left: 30px;
+			font-size: 1.6rem;
+			line-height: 1.5;
+			color: $colorGrey;
+			// @include sp {
+			// 	font-size: 1.3rem;
+			// }
+		}
+		&__wrap {
+			box-shadow: none;
+		}
+	}
+	&__btn {
+		text-align: center;
+	}
+	.c-title2 {
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+}
+
+.c-logoDesign {
+	&__header {
+		padding-top: 30px;
+		text-align: center;
+		.c-title1 {
+			text-align: center;
+		}
+	}
+	.c-detail__related {
+		margin: 30px 0;
+	}
+	.c-title2 {
+		@include sp {
+			font-size: 2rem;
+		}
+	}
+	&__title {
+		font-size: 2rem;
+		line-height: 1.5;
+		font-weight: 600;
+		color: $colorBlue6;
+		&--center {
+			text-align: center;
+			margin-top: 30px;
+		}
+	}
+	&__txt {
+		font-size: 1.6rem;
+		line-height: 1.5;
+		text-align: center;
+		// @include sp {
+		// 	font-size: 1.3rem;
+		// }
+	}
+	&__list{
+		margin-left: 30px;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		margin-bottom: 30px;
+		// @include sp {
+		// 	font-size: 1.3rem;
+		// }
+		li {
+			list-style: circle;
+			span {
+				font-weight: bold;
+			}
+		}
+	}
+	&__contactList {
+		font-size: 3rem;
+		line-height: 1.5;
+		text-align: center;
+		margin: 30px 0;
+		li {
+			display: inline;
+			margin: 30px;
+			cursor: pointer;
+		}
+	}
+}
+
+.c-webapp {
+	&__exp {
+		padding-top: 30px;
+	}
+}
+
+.c-seo {
+	&__notseo {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-around;
+	}
+	&__notseoItem {
+		width: 25%;
+		padding-top: 30px;
+		@include max-w(540px) {
+			width: 50%;
+		}
+	}
+	&__img {
+		width: 100px;
+		display: block;
+		margin: 0 auto;
+	}
+	&__title {
+		text-align: center;
+		font-size: 1.8rem;
+		line-height: 1.5;
+		font-weight: 700;
+	}
+	&__txt {
+		font-size: 1.6rem;
+		line-height: 1.5;
+	}
+	&__service {
+		margin-top: 15px;
+		font-size: 1.6rem;
+		line-height: 1.5;
+		span {
+			font-weight: 700;
+		}
+	}
+}

@@ -1,5 +1,7 @@
 <?php $page_id = 'chi-tiet-bai-viet'; ?>
 <?php get_header(); ?>
+
+
 <main class="p-detail">
     <div class="c-detail">
         <!-- <div class="c-detail__heading">
@@ -10,10 +12,10 @@
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1 c-title1--color1">Tin tức</h2>
+                    <h2 class="c-title1 c-title1--color1">ບົດຄວາມ</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/lien-he">/ Bài viết số XX</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/lien-he">/ ບົດຄວາມທີ່ XX</a>
                     </div>
                 </div>
             </div>
@@ -39,7 +41,7 @@
                 </div>
                 <div class="c-detail__content">
                     <h1 class="c-detail__title1">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        <?php the_title();?>
                     </h1>
                     <p class="c-detail__info">
                         Tin tức | Đặng Ngọc Quý | 23/03/2022 | 8 phút trước
@@ -231,7 +233,13 @@
             </div>
         </div>
     </div>
-
+    <div class="c-pageTop">
+        <span class="c-pageTop__icon">
+            <i class="fa-solid fa-angles-up"></i>
+        </span>
+    </div>
 
 </main>
+
+
 <?php get_footer(); ?>

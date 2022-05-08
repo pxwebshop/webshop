@@ -6,31 +6,17 @@
         <div class="c-page__heading" id="particles-js">
             <div class="c-page__title">
                 <div>
-                    <h2 class="c-title1 c-title1--color1">Kho giao diện</h2>
+                    <h2 class="c-title1 c-title1--color1">ຕົວຢ່າງເວັບໄຊ</h2>
                     <div class="c-page__url">
-                        <a href="/" class="c-page__link">Trang chủ</a>
-                        <a href="/kho-giao-dien">/ Kho giao diện</a>
+                        <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
+                        <a href="/kho-giao-dien">/ ຕົວຢ່າງເວັບໄຊ</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="l-container">
-            <ul class="c-stock__tag">
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/landing-page">Landing Page</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-ban-hang">Website bán hàng</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-giao-duc">Website giáo dục</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-gioi-thieu-cong-ty">Website giới thiệu công ty</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-gioi-thieu-dich-vu">Website giới thiệu dịch vụ</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-gioi-thieu-du-an">Website giới thiệu dự án</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-gioi-thieu-san-pham">Website giới thiệu sản phẩm</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-kien-truc-noi-that">Website Kiến trúc - Nội thất</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-giao-vat">Website giao vặt</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-tham-my-spa">Website thẩm mỹ, spa</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-bat-dong-san">Website bất động sản</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-du-lich">Website du lịch</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/website-tin-tuc">Website tin tức</a></li>
-                <li class="c-stock__tagItem"><a href="/kho-giao-dien/danh-muc-khac">Danh mục khác</a></li>
-            </ul>
+        <?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/include/stock-category.php'); ?>
+        
             <div class="c-list11">
                 <div class="c-list11__wrap">
                     <div class="c-list11__item">
@@ -40,15 +26,14 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegiaoduc/websitedaynhaccu/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web giáo dục</p>
-                            <p class="c-list11__name">Mẫu web dạy nhạc cụ</p>
+                            <p class="c-list11__tag">ເວັບໄຊການສຶກສາ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊສອນດົນຕີ</p>
                         </div>
                     </div>
-
                 </div>
                 <div class="c-list11__wrap">
                     <div class="c-list11__item">
@@ -58,12 +43,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegiaoduc/websitedaytienganh/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web giáo dục</p>
-                            <p class="c-list11__name">Mẫu web dạy tiếng anh</p>
+                            <p class="c-list11__tag">ເວັບໄຊການສຶກສາ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊສອນພາສາອັງກິດ</p>
                         </div>
                     </div>
 
@@ -76,12 +61,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitebanhang/websitebandocongngheapple/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web bán hàng</p>
-                            <p class="c-list11__name">Mẫu web bán đồ công nghệ apple</p>
+                            <p class="c-list11__tag">ເວັບໄຊຂາຍສີນຄ້າ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຂາຍສີນຄ້າຂອງ Apple</p>
                         </div>
                     </div>
 
@@ -94,12 +79,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegioithieusanpham/websitemarketing/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web giới thiệu sản phẩm</p>
-                            <p class="c-list11__name">Mẫu web marketing</p>
+                            <p class="c-list11__tag">ເວັບໄຊແນະນໍາຜະລິດຕະພັນ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊ Marketing</p>
                         </div>
                     </div>
                 </div>
@@ -111,12 +96,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegioithieudichvu/websitenhakhoa/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web giới thiệu dịch vụ</p>
-                            <p class="c-list11__name">Mẫu web trung tâm nha khoa</p>
+                            <p class="c-list11__tag">ເວັບໄຊແນະນໍາບໍ​ລິ​ການ​</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຄຣີນີກແຂ້ວ</p>
                         </div>
                     </div>
                 </div>
@@ -128,12 +113,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegiaoduc/websitehocdan/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web giáo dục</p>
-                            <p class="c-list11__name">Mẫu web đào tạo học đàn</p>
+                            <p class="c-list11__tag">ເວັບໄຊການສຶກສາ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຮຽນເປຍໂນ</p>
                         </div>
                     </div>
                 </div>
@@ -145,12 +130,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitebanhang/websitebanquanao/view-demo/fs-05.html" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web bán hàng</p>
-                            <p class="c-list11__name">Mẫu web bán quần áo</p>
+                            <p class="c-list11__tag">ເວັບໄຊຂາຍສີນຄ້າ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຂ່າຍເສື້ອຜ້າ</p>
                         </div>
                     </div>
                 </div>
@@ -162,12 +147,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegioithieudichvu/websitedichvukhachsan/leisure/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web dịch vụ</p>
-                            <p class="c-list11__name">Mẫu web dịch vụ khách sạn</p>
+                            <p class="c-list11__tag">ເວັບໄຊແນະນໍາບໍ​ລິ​ການ​</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊບໍລິການໂຮງແຮມ</p>
                         </div>
                     </div>
                 </div>
@@ -179,12 +164,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitedulich/websitedulichkhampha/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web du lịch</p>
-                            <p class="c-list11__name">Mẫu web du lịch khám phá</p>
+                            <p class="c-list11__tag">ເວັບໄຊທ່ອງທຽ່ວ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊບໍລິການທ່ອງທ່ຽວ</p>
                         </div>
                     </div>
                 </div>
@@ -196,12 +181,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitebatdongsan/websitebatdongsan/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web bất động sản</p>
-                            <p class="c-list11__name">Mẫu web bất động sản</p>
+                            <p class="c-list11__tag">ເວັບໄຊອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</p>
                         </div>
                     </div>
                 </div>
@@ -213,12 +198,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/landingpage/landingpage-vothuat/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
                             <p class="c-list11__tag">Landing page</p>
-                            <p class="c-list11__name">Landing page - Võ thuật</p>
+                            <p class="c-list11__name">Landing page - ສິນ​ລະ​ປະ​ການ​ຕໍ່​ສູ້</p>
                         </div>
                     </div>
                 </div>
@@ -230,7 +215,7 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/landingpage/landingpage-crypto/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
@@ -247,12 +232,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegioithieucongty/websitecongtyduoc/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web giới thiệu công ty</p>
-                            <p class="c-list11__name">Mẫu web giới thiệu công ty dược</p>
+                            <p class="c-list11__tag">ເວັບໄຊແນະນໍາບໍລິສັດ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊແນະນໍາບໍລິສັດຢາ</p>
                         </div>
                     </div>
                 </div>
@@ -264,12 +249,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitekientrucnoithat/websitekientruc/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web kiến trúc - nội thất</p>
-                            <p class="c-list11__name">Mẫu web kiến trúc</p>
+                            <p class="c-list11__tag">ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊສະຖາປັດ</p>
                         </div>
                     </div>
                 </div>
@@ -281,12 +266,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitekientrucnoithat/websitenoithat/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web kiến trúc - nội thất</p>
-                            <p class="c-list11__name">Mẫu web nội thất</p>
+                            <p class="c-list11__tag">ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຕົບແຕ່ງພາຍໃນ</p>
                         </div>
                     </div>
                 </div>
@@ -298,12 +283,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitethammy/websitecuahangmypham1/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web thẩm mỹ viện, spa</p>
-                            <p class="c-list11__name">Mẫu web cửa hàng mỹ phẩm</p>
+                            <p class="c-list11__tag">ເວັບໄຊຄວາມງາມ, Spa</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຄວາມງາມ</p>
                         </div>
                     </div>
                 </div>
@@ -315,12 +300,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitetintuc/websitetintuc1/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web tin tức</p>
-                            <p class="c-list11__name">Mẫu web tin tức 1</p>
+                            <p class="c-list11__tag">ເວັບໄຊຂ່າວສານ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຂ່າວສານ</p>
                         </div>
                     </div>
                 </div>
@@ -332,12 +317,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegiaovat/websitegiaovatbatdongsan/demo-2.html" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web rao vặt</p>
-                            <p class="c-list11__name">Mẫu web rao vặt bất động sản</p>
+                            <p class="c-list11__tag">ເວັບໄຊຝາກຂາຍສີນຄ້າ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຝາກຂາຍອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</p>
                         </div>
                     </div>
                 </div>
@@ -349,12 +334,12 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitegiaovat/websitethanhlytaisan/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web rao vặt</p>
-                            <p class="c-list11__name">Mẫu web thanh lý tài sản thế chấp của ngân hàng</p>
+                            <p class="c-list11__tag">ເວັບໄຊຝາກຂາຍສີນຄ້າ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊການຊໍາລະຫຼັກຊັບຂອງທະນາຄານ</p>
                         </div>
                     </div>
                 </div>
@@ -366,18 +351,23 @@
                             </figure>
                             <div class="c-list11__link">
                                 <a href="/assets/demo-page/websitebanhang/websitebanphukienxehoi/index.htm" class="c-list11__demo">Demo</a>
-                                <a href="#" class="c-list11__detail">Chi tiết</a>
+                                <a href="#" class="c-list11__detail">ລາຍລະອຽດ</a>
                             </div>
                         </div>
                         <div class="c-list11__info">
-                            <p class="c-list11__tag">Web bán hàng</p>
-                            <p class="c-list11__name">Mẫu web bán phụ kiện xe hơi</p>
+                            <p class="c-list11__tag">ເວັບໄຊຂາຍສີນຄ້າ</p>
+                            <p class="c-list11__name">ແບບເວັບໄຊຂາຍອຸປະກອນຕົບແຕ່ງລົດ</p>
                         </div>
                     </div>
                 </div>
                 
             </div>
         </div>
+    </div>
+    <div class="c-pageTop">
+        <span class="c-pageTop__icon">
+            <i class="fa-solid fa-angles-up"></i>
+        </span>
     </div>
 </main>
 
