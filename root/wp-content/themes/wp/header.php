@@ -75,13 +75,13 @@
 							<a href="/index.php/thiet-ke-web"><span>ອອກແບບເວັບໄຊ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php//xay-dung-phan-mem"><span>ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</span></a>
+							<a href="/index.php/xay-dung-phan-mem"><span>ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php//xay-dung-phan-mem"><span>ອອກແບບເຄືອຂ່າຍ</span></a>
+							<a href="/index.php/xay-dung-phan-mem"><span>ອອກແບບເຄືອຂ່າຍ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php//thiet-ke-logo"><span>ອອກແບບໂລໂກ</span></a>
+							<a href="/index.php/thiet-ke-logo"><span>ອອກແບບໂລໂກ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/web-app">ຂຽນ Web App</a>
@@ -135,17 +135,17 @@
 					<li class="c-header__item">
 						<a class="c-header__link" href="/index.php/kho-giao-dien">ຕົວຢ່າງເວັບໄຊ</a>
 					</li>
-					<!-- <li class="c-header__item c-header__item__services">
+					<li class="c-header__item c-header__item__services">
 						<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
-								<a href="/index.php//thiet-ke-web">ອອກແບບເວັບໄຊ</a>
+								<a href="/index.php/thiet-ke-web">ອອກແບບເວັບໄຊ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/index.php//xay-dung-phan-mem"> ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</a>
+								<a href="/index.php/xay-dung-phan-mem"> ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/index.php//thiet-ke-logo"> ອອກແບບໂລໂກ</a>
+								<a href="/index.php/thiet-ke-logo"> ອອກແບບໂລໂກ</a>
 							</li>
 							<li class="c-header__child__item">
 								<a href="/web-app">ຂຽນ Web App </a>
@@ -154,7 +154,7 @@
 								<a href="/dich-vu-seo">ບໍລິການ SEO </a>
 							</li>
 						</ul>
-					</li> -->
+					</li>
 					<li class="c-header__item">
 						<a class="c-header__link" href="/index.php/tin-tuc">ບົດຄວາມ</a>
 					</li>
