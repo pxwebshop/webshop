@@ -214,6 +214,9 @@ $(".c-header__item").hover(function () {
 // active link demo web
 $(".c-stock__tagItem a").click(function (e) {
 	localStorage.setItem("active-item", $(this).attr("href"));
+	$('html, body').animate({
+		scrollTop: $(".c-stock__tag").offset().top
+	}, 1000);
 });
 $(document).ready(function () {
 	const activeItem = $(
