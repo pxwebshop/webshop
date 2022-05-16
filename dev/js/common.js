@@ -71,13 +71,14 @@ $(document).ready(function () {
 		}
 
 		$(this).next().slideToggle();
-
-		if ($(".c-stock__tag .is-active").length > 0) {
-			$('html, body').animate({
-				scrollTop: $(".c-stock__tag").offset().top
-			}, 1000);
-		}
 	});
+
+
+	if ($("main.p-stock").length > 0) {
+		$('html, body').animate({
+			scrollTop: $(".c-list11").offset().top - 70
+		}, 500);
+	}
 
 	$(".c-list6").slick({
 		slidesToShow: 8,

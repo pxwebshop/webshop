@@ -69,6 +69,13 @@ $(document).ready(function () {
 
     $(this).next().slideToggle();
   });
+
+  if ($("main.p-stock").length > 0) {
+    $('html, body').animate({
+      scrollTop: $(".c-list11").offset().top - 70
+    }, 500);
+  }
+
   $(".c-list6").slick({
     slidesToShow: 8,
     dots: true,
