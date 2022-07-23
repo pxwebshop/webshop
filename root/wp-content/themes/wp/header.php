@@ -62,7 +62,7 @@
 					<a href="/index.php/"><span>ໜ້າຫຼັກ</span></a>
 				</li>
 				<li class="c-header__gnav__item">
-					<a href="/index.php/kho-giao-dien"><span>ຕົວຢ່າງເວັບໄຊ</span></a>
+					<a href="/repository-interface"><span>ຕົວຢ່າງເວັບໄຊ</span></a>
 				</li>
 				<li class="c-header__gnav__item">
 					<a class="c-header__gnav__parent" href="#">
@@ -133,7 +133,7 @@
 						<a class="c-header__link" href="/">ໜ້າຫຼັກ</a>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/index.php/kho-giao-dien">ຕົວຢ່າງເວັບໄຊ</a>
+						<a class="c-header__link" href="/index.php/repository-interface">ຕົວຢ່າງເວັບໄຊ</a>
 					</li>
 					<li class="c-header__item c-header__item__services">
 						<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>

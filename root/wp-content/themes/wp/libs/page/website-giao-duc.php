@@ -1,4 +1,4 @@
-<?php $page_id = 'website-giao-duc'; ?>
+<?php $page_id = 'website-education'; ?>
 <?php get_header(); ?>
 
 <main class="p-stock">
@@ -9,8 +9,8 @@
                     <h2 class="c-title1 c-title1--color1">ຕົວຢ່າງເວັບໄຊ</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
-                        <a href="/kho-giao-dien">/ ຕົວຢ່າງເວັບໄຊ</a>
-                        <a href="/website-giao-duc">/ ເວັບໄຊ​ການສຶກສາ</a>
+                        <a href="/repository-interface">/ ຕົວຢ່າງເວັບໄຊ</a>
+                        <a href="/website-education">/ ເວັບໄຊ​ການສຶກສາ</a>
                     </div>
                 </div>
             </div>

@@ -9,7 +9,7 @@
                     <h2 class="c-title1 c-title1--color1">ຕົວຢ່າງເວັບໄຊ</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
-                        <a href="/kho-giao-dien">/ ຕົວຢ່າງເວັບໄຊ</a>
+                        <a href="/repository-interface">/ ຕົວຢ່າງເວັບໄຊ</a>
                         <a href="/website-kien-truc-noi-that">/ ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</a>
                     </div>
                 </div>

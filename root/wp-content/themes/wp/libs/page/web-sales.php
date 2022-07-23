@@ -9,8 +9,8 @@
                     <h2 class="c-title1 c-title1--color1">ຕົວຢ່າງເວັບໄຊ</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
-                        <a href="/kho-giao-dien">/ ຕົວຢ່າງເວັບໄຊ</a>
-                        <a href="/website-ban-hang">/ ເວັບໄຊຂາຍສີນຄ້າ</a>
+                        <a href="/repository-interface">/ ຕົວຢ່າງເວັບໄຊ</a>
+                        <a href="/web-sales">/ ເວັບໄຊຂາຍສີນຄ້າ</a>
                     </div>
                 </div>
             </div>

@@ -462,7 +462,7 @@ img.size-full.alignnone {
 /**Header Bottom**/
 /*Popup Dùng thử*/
 .pum-theme-dung-thu{    
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/bg-register.jpg) no-repeat center center !important;        
+    background: url(/wp-content/themes/repository-interface/assets/images/bg-register.jpg) no-repeat center center !important;        
     background-size: cover !important;
 }
 .pum-theme-dung-thu .pum-content + .pum-close{font-size:30px !important;}
@@ -582,7 +582,7 @@ img.wp-post-image.skip-lazy:hover
     width: 971px;
     height: 853px;
     z-index: 0;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/bg-right-banner.png) no-repeat top center;
+    background: url(/wp-content/themes/repository-interface/assets/images/bg-right-banner.png) no-repeat top center;
 }
 .ld-sellatwebsite a.scroll-downs {
     color: #096f47;
@@ -602,7 +602,7 @@ img.wp-post-image.skip-lazy:hover
 .ld-sellatwebsite a.scroll-downs .arrow {
     width: 17px;
     height: 14px;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/arrow-rights.png) no-repeat center center;
+    background: url(/wp-content/themes/repository-interface/assets/images/arrow-rights.png) no-repeat center center;
     display: inline-block;
     position: relative;
     left: 3px;
@@ -701,7 +701,7 @@ img.wp-post-image.skip-lazy:hover
     position: absolute;
     bottom: -375px;
     left: -280px;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/bg-left-benefit.png) top center no-repeat;
+    background: url(/wp-content/themes/repository-interface/assets/images/bg-left-benefit.png) top center no-repeat;
     z-index: 1;
 }
 .benefit .block-left p {
@@ -729,7 +729,7 @@ img.wp-post-image.skip-lazy:hover
 	position: absolute;
 	top: 250px;
 	left: 60%;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/bg-right-supported.png) top center no-repeat;
+    background: url(/wp-content/themes/repository-interface/assets/images/bg-right-supported.png) top center no-repeat;
 }
 .supported h2 {
     font-size: 30px;
@@ -775,7 +775,7 @@ img.wp-post-image.skip-lazy:hover
     font-weight: bold;
     color: #fff;
     padding-left: 32px;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/ticked-icon.png) no-repeat top left;
+    background: url(/wp-content/themes/repository-interface/assets/images/ticked-icon.png) no-repeat top left;
 }
 /*Section SEO Ads*/
 /*Section Connect Google*/
@@ -795,10 +795,10 @@ img.wp-post-image.skip-lazy:hover
 .connect-google .icon-box h4 {    
     color: #42464e;
     padding-left: 32px;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/ticked-icon-green.png) no-repeat top left;    
+    background: url(/wp-content/themes/repository-interface/assets/images/ticked-icon-green.png) no-repeat top left;    
 }
 .connect-google .wrap {
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/bg-title-googl-connect.png) no-repeat center center;
+    background: url(/wp-content/themes/repository-interface/assets/images/bg-title-googl-connect.png) no-repeat center center;
 	font-size: 16px;
     font-weight: 400;
     color: #fff;
@@ -842,7 +842,7 @@ img.wp-post-image.skip-lazy:hover
 .technology .icon-box h4 {    
     color: #42464e;
     padding-left: 32px;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/ticked-icon-green.png) no-repeat top left;
+    background: url(/wp-content/themes/repository-interface/assets/images/ticked-icon-green.png) no-repeat top left;
 }
 /*.col-20 {
     max-width: 20% !important;
@@ -854,7 +854,7 @@ img.wp-post-image.skip-lazy:hover
     position: absolute;
     top: 30px;
     left: 280px;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/line-down.png) no-repeat top left;
+    background: url(/wp-content/themes/repository-interface/assets/images/line-down.png) no-repeat top left;
 }
 .slide-create-web .col-20:nth-child(2n):before{
     content: "";
@@ -863,7 +863,7 @@ img.wp-post-image.skip-lazy:hover
     position: absolute;
     top: 35px;
     left: 280px;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/line-down-up.png) no-repeat top left;
+    background: url(/wp-content/themes/repository-interface/assets/images/line-down-up.png) no-repeat top left;
 }
 .slide-create-web .col-20:last-child:before {
     content: none;
@@ -912,7 +912,7 @@ img.wp-post-image.skip-lazy:hover
     position: absolute;
     top: 0;
     left: 0;
-    background: url(/wp-content/themes/kho-giao-dien/assets/images/arrow-down.png) top center no-repeat;
+    background: url(/wp-content/themes/repository-interface/assets/images/arrow-down.png) top center no-repeat;
 }
 .optimize .scroll-down span {
     animation: bounce 2s infinite;

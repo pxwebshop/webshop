@@ -118,40 +118,40 @@ Uri: https://mauweb.shost.vn/wp-content/themes/flatsome/inc/integrations/wp-rock
 File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\flatsome\inc\integrations\wp-rocket\flatsome-wp-rocket.js
 Content Type: application/javascript
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/css/all.min.css
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\css\all.min.css
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/css/all.min.css
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\css\all.min.css
 Content Type: text/css
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/css/demo-2.6.0.css
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\css\demo-2.6.0.css
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/css/demo-2.6.0.css
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\css\demo-2.6.0.css
 Content Type: text/css
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/css/responsive.css
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\css\responsive.css
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/css/responsive.css
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\css\responsive.css
 Content Type: text/css
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/css/shostvn.css
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\css\shostvn.css
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/css/shostvn.css
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\css\shostvn.css
 Content Type: text/css
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/images/logo-mauweb-shostvn.svg
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\images\logo-mauweb-shostvn.svg
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/images/logo-mauweb-shostvn.svg
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\images\logo-mauweb-shostvn.svg
 Content Type: image/svg+xml
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/js/demo-2.6.0.js
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\js\demo-2.6.0.js
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/js/demo-2.6.0.js
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\js\demo-2.6.0.js
 Content Type: application/javascript
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/js/materialize.min.js
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\js\materialize.min.js
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/js/materialize.min.js
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\js\materialize.min.js
 Content Type: application/javascript
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/js/shostvn.js
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\js\shostvn.js
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/js/shostvn.js
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\js\shostvn.js
 Content Type: application/javascript
 
-Uri: https://mauweb.shost.vn/wp-content/themes/kho-giao-dien/assets/js/slick.min.js
-File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\kho-giao-dien\assets\js\slick.min.js
+Uri: https://mauweb.shost.vn/wp-content/themes/repository-interface/assets/js/slick.min.js
+File Name: D:\cyotek-webcopy\mauweb.shost.vn\wp-content\themes\repository-interface\assets\js\slick.min.js
 Content Type: application/javascript
 
 Uri: https://mauweb.shost.vn/wp-content/uploads/2021/03/favicon-100x100.png

@@ -7265,7 +7265,7 @@ div#tabtheme .tab-content .news-item .caption .post-info {
 }
 
 
-.btn-scoll-kho-giao-dien {
+.btn-scoll-repository-interface {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -7772,24 +7772,24 @@ span.hover-tolltip:hover .show-hover-tolltip  {
         max-width: 100% !important;
         padding: 0 20px;
     }
-    .btn-scoll-kho-giao-dien .btn-scoll a {
+    .btn-scoll-repository-interface .btn-scoll a {
         position: relative;
         width: 225px;
         padding: 0;
         text-align: center;
     }
 
-    .btn-scoll-kho-giao-dien .btn-scoll a:before {content: '';background-color: #ff6601;position: absolute;width: 100%;z-index: 100;height: 0;transition: all 400ms;left: 0;top: 100%;}
+    .btn-scoll-repository-interface .btn-scoll a:before {content: '';background-color: #ff6601;position: absolute;width: 100%;z-index: 100;height: 0;transition: all 400ms;left: 0;top: 100%;}
 
-    .btn-scoll-kho-giao-dien .btn-scoll a:hover:before, .btn-scoll-kho-giao-dien .btn-scoll a:hover:after {
+    .btn-scoll-repository-interface .btn-scoll a:hover:before, .btn-scoll-repository-interface .btn-scoll a:hover:after {
         height: 68% !important;
         top: 100%;
         opacity: 1;
     }
-    .btn-scoll-kho-giao-dien .btn-scoll a.web4s.show:before, .btn-scoll-kho-giao-dien .btn-scoll a.web4s.show:after {
+    .btn-scoll-repository-interface .btn-scoll a.web4s.show:before, .btn-scoll-repository-interface .btn-scoll a.web4s.show:after {
         display: none;
     }
-    .btn-scoll-kho-giao-dien .btn-scoll a:after {
+    .btn-scoll-repository-interface .btn-scoll a:after {
         content: '\f309';
         position: absolute;
         font-family: 'Font Awesome 5 Free';
@@ -7804,15 +7804,15 @@ span.hover-tolltip:hover .show-hover-tolltip  {
         opacity: 0;
     }
 
-    .btn-scoll-kho-giao-dien .btn-scoll a:hover:after {
+    .btn-scoll-repository-interface .btn-scoll a:hover:after {
         top: 70%;
     }
-    .btn-scoll-kho-giao-dien .btn-scoll a:hover {
+    .btn-scoll-repository-interface .btn-scoll a:hover {
         border-bottom-right-radius: 0 !important;
         border-bottom-left-radius: 0 !important;
     }
 
-    .btn-scoll-kho-giao-dien .btn-scoll a:hover:hover:before {
+    .btn-scoll-repository-interface .btn-scoll a:hover:hover:before {
         border-bottom-right-radius: 5px !important;
         border-bottom-left-radius: 5px !important;
     }
@@ -8149,15 +8149,15 @@ span.hover-tolltip:hover .show-hover-tolltip  {
         padding: 20px 10px;
     }
 
-    .btn-scoll-kho-giao-dien .btn-scoll {
+    .btn-scoll-repository-interface .btn-scoll {
         margin-bottom: 15px;
     }
 
-    .btn-scoll-kho-giao-dien .btn-scoll:last-child {
+    .btn-scoll-repository-interface .btn-scoll:last-child {
         margin-bottom: 0;
     }
 
-    .btn-scoll-kho-giao-dien .btn-scoll a {
+    .btn-scoll-repository-interface .btn-scoll a {
         width: 300px;
         text-align: center;
     }
@@ -9082,7 +9082,7 @@ form#send-contact-form-bang-gia-web4s select.form-control {
         margin-top: -14%;
     }
 }
-.kho-giao-dien-top-scoll {
+.repository-interface-top-scoll {
     background-image: url(/app/webroot/web4s/images/webp/Group_1054.svg);
     background-size: cover;
     background-repeat: no-repeat;
