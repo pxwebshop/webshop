@@ -10,7 +10,7 @@
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
                         <a href="/repository-interface">/ ຕົວຢ່າງເວັບໄຊ</a>
-                        <a href="/website-gioi-thieu-du-an">/ ເວັບໄຊແນະນໍາໂຄງການ</a>
+                        <a href="/website-introduction-project">/ ເວັບໄຊແນະນໍາໂຄງການ</a>
                     </div>
                 </div>
             </div>
