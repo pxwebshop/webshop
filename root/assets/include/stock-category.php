@@ -3,7 +3,7 @@
     <li class="c-stock__tagItem"><a href="/repository-interface/web-sales">ເວັບໄຊຂາຍສີນຄ້າ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-education">ເວັບໄຊການສຶກສາ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-company-introduction">ເວັບໄຊແນະນໍາບໍລິສັດ</a></li>
-    <li class="c-stock__tagItem"><a href="/repository-interface/website-gioi-thieu-dich-vu">ເວັບໄຊແນະນໍາບໍ​ລິ​ການ​</a></li>
+    <li class="c-stock__tagItem"><a href="/repository-interface/website-introduction-services">ເວັບໄຊແນະນໍາບໍ​ລິ​ການ​</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-gioi-thieu-du-an">ເວັບໄຊແນະນໍາໂຄງການ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-gioi-thieu-san-pham">ເວັບໄຊແນະນໍາຜະລິດຕະພັນ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-kien-truc-noi-that">ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</a></li>
