@@ -7,7 +7,7 @@
     <li class="c-stock__tagItem"><a href="/repository-interface/website-introduction-project">ເວັບໄຊແນະນໍາໂຄງການ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-introduction-products">ເວັບໄຊແນະນໍາຜະລິດຕະພັນ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-interior-architecture">ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</a></li>
-    <li class="c-stock__tagItem"><a href="/repository-interface/website-giao-vat">ເວັບໄຊຝາກຂາຍສີນຄ້າ</a></li>
+    <li class="c-stock__tagItem"><a href="/repository-interface/website-classifieds">ເວັບໄຊຝາກຂາຍສີນຄ້າ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-tham-my-spa">ເວັບໄຊຄວາມງາມ, Spa</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-bat-dong-san">ເວັບໄຊອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-du-lich">ເວັບໄຊທ່ອງທຽ່ວ</a></li>
