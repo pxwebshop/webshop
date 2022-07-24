@@ -9,7 +9,7 @@
                     <h2 class="c-title1 c-title1--color1">ຕິດຕໍ່</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
-                        <a href="/lien-he">/ ຕິດຕໍ່</a>
+                        <a href="/contact">/ ຕິດຕໍ່</a>
                     </div>
                 </div>
             </div>

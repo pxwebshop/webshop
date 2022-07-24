@@ -5,13 +5,13 @@
 			<div class="c-footer__content">
 				<div class="c-footer__about">
 					<h3 class="c-title2">ກຽ່ວກັບເຮົາ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/index.php/gioi-thieu" class="c-footer__link">ແນະນຳ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/index.php/thanh-toan" class="c-footer__link">ຊຳລະເງິນ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/introduce" class="c-footer__link">ແນະນຳ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/pay" class="c-footer__link">ຊຳລະເງິນ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/index.php/lien-he" class="c-footer__link">ຕິດຕໍ່</a></p>
 				</div>
 				<div class="c-footer__service">
 					<h3 class="c-title2">ບໍລິການ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thiet-ke-web" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/web-design" class="c-footer__link">ອອກແບບເວັບໄຊ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/xay-dung-phan-mem" class="c-footer__link">ຂຽນໂປແກມຕາມຄວາມຕ້ອງການ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thiet-ke-logo" class="c-footer__link">ອອກແບບໂລໂກ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/dich-vu-seo" class="c-footer__link">ບໍລິການ SEO</a></p>
@@ -25,7 +25,7 @@
 				</div>
 				<div class="c-footer__support">
 					<h3 class="c-title2">ຊ່ວຍເຫຼືອ</h3>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/thanh-toan" class="c-footer__link">ແນະນຳວິທີຊຳລະເງິນ</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/pay" class="c-footer__link">ແນະນຳວິທີຊຳລະເງິນ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ນະໂຍບາຍຄວາມປອດໄພ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="#" class="c-footer__link">ເງື່ອນ​ໄຂ​ການ​ນໍາ​ໃຊ້​</a></p>
 				</div>

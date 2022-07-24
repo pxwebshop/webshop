@@ -72,7 +72,7 @@
 					</a>
 					<ul class="c-header__gnav__menu__sub">
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php/thiet-ke-web"><span>ອອກແບບເວັບໄຊ</span></a>
+							<a href="/web-design"><span>ອອກແບບເວັບໄຊ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
 							<a href="/index.php/xay-dung-phan-mem"><span>ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</span></a>
@@ -87,12 +87,12 @@
 							<a href="/web-app">ຂຽນ Web App</a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/dich-vu-seo">ບໍລິການ SEO </a>
+							<a href="/seo-services">ບໍລິການ SEO </a>
 						</li>
 					</ul>
 				</li>
 				<li class="c-header__gnav__item">
-					<a href="/index.php/tin-tuc">
+					<a href="/news">
 						<span>ຂ່າວສານ</span>
 					</a>
 				</li>
@@ -104,13 +104,13 @@
 					</a>
 					<ul class="c-header__gnav__menu__sub">
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php/gioi-thieu"><span>ແນະນຳ</span></a>
+							<a href="/introduce"><span>ແນະນຳ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php/thanh-toan"><span>ຊຳລະເງິນ</span></a>
+							<a href="/pay"><span>ຊຳລະເງິນ</span></a>
 						</li>
 						<li class="c-header__gnav__item"><i class="fa-solid fa-angle-double-right"></i>
-							<a href="/index.php/lien-he"><span>ຕິດຕໍ່</span></a>
+							<a href="/contact"><span>ຕິດຕໍ່</span></a>
 						</li>
 					</ul>
 				</li>
@@ -139,37 +139,37 @@
 						<span>ບໍລິການ<i class="fa-solid fa-caret-down"></i></span>
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
-								<a href="/index.php/thiet-ke-web">ອອກແບບເວັບໄຊ</a>
+								<a href="/web-design">ອອກແບບເວັບໄຊ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/index.php/xay-dung-phan-mem"> ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</a>
+								<a href="/build-software"> ຂຽນໂປຣແກຣມຕາມຄວາມຕ້ອງການ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/index.php/thiet-ke-logo"> ອອກແບບໂລໂກ</a>
+								<a href="/logo-design">ອອກແບບໂລໂກ</a>
 							</li>
 							<li class="c-header__child__item">
 								<a href="/web-app">ຂຽນ Web App </a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/dich-vu-seo">ບໍລິການ SEO </a>
+								<a href="/seo-services">ບໍລິການ SEO </a>
 							</li>
 						</ul>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/index.php/tin-tuc">ບົດຄວາມ</a>
+						<a class="c-header__link" href="/news">ບົດຄວາມ</a>
 					</li>
 					<li class="c-header__item c-header__item__abouts">
 						<span>ກຽ່ວກັບເຮົາ<i class="fa-solid fa-caret-down"></i></span>
 
 						<ul class="c-header__child">
 							<li class="c-header__child__item">
-								<a href="/index.php/gioi-thieu">ແນະນຳ</a>
+								<a href="/introduce">ແນະນຳ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/index.php/thanh-toan">ຊຳລະເງິນ</a>
+								<a href="/pay">ຊຳລະເງິນ</a>
 							</li>
 							<li class="c-header__child__item">
-								<a href="/index.php/lien-he">ຕິດຕໍ່</a>
+								<a href="/contact">ຕິດຕໍ່</a>
 							</li>
 						</ul>
 					</li>
