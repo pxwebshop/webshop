@@ -55,7 +55,7 @@
                             <img src="/assets/img/team/dangquy.jpg" alt="">
                         </figure>
                         <div class="c-list8__content">
-                            <span class="c-list8__name"><span class="c-list8__title">CEO</span> - Dang Quy</span> <br>
+                            <span class="c-list8__name"><span class="c-list8__title">Founder</span> - Dang Quy</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
                                 <li><span>BlockChain</span></li>
