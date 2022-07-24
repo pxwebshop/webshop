@@ -10,7 +10,7 @@
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
                         <a href="/repository-interface">/ ຕົວຢ່າງເວັບໄຊ</a>
-                        <a href="/danh-muc-khac">/ ເວັບໄຊປະເພດອື່ນໆ</a>
+                        <a href="/category-other">/ ເວັບໄຊປະເພດອື່ນໆ</a>
                     </div>
                 </div>
             </div>

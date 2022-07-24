@@ -9,8 +9,8 @@
     <li class="c-stock__tagItem"><a href="/repository-interface/website-interior-architecture">ເວັບໄຊສະຖາປັດ - ຕົບແຕ່ງພາຍໃນ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-classifieds">ເວັບໄຊຝາກຂາຍສີນຄ້າ</a></li>
     <li class="c-stock__tagItem"><a href="/repository-interface/website-spa-beauty">ເວັບໄຊຄວາມງາມ, Spa</a></li>
-    <li class="c-stock__tagItem"><a href="/repository-interface/website-bat-dong-san">ເວັບໄຊອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</a></li>
-    <li class="c-stock__tagItem"><a href="/repository-interface/website-du-lich">ເວັບໄຊທ່ອງທຽ່ວ</a></li>
-    <li class="c-stock__tagItem"><a href="/repository-interface/website-tin-tuc">ເວັບໄຊຂ່າວສານ</a></li>
-    <li class="c-stock__tagItem"><a href="/repository-interface/danh-muc-khac">ເວັບໄຊປະເພດອື່ນໆ</a></li>
+    <li class="c-stock__tagItem"><a href="/repository-interface/website-real-estate">ເວັບໄຊອະ​ສັງ​ຫາ​ລິ​ມະ​ຊັບ</a></li>
+    <li class="c-stock__tagItem"><a href="/repository-interface/website-travel">ເວັບໄຊທ່ອງທຽ່ວ</a></li>
+    <li class="c-stock__tagItem"><a href="/repository-interface/website-news">ເວັບໄຊຂ່າວສານ</a></li>
+    <li class="c-stock__tagItem"><a href="/repository-interface/category-other">ເວັບໄຊປະເພດອື່ນໆ</a></li>
 </ul>
