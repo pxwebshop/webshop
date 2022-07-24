@@ -55,10 +55,10 @@
                             <img src="/assets/img/team/dangquy.jpg" alt="">
                         </figure>
                         <div class="c-list8__content">
-                            <span class="c-list8__name"><span class="c-list8__title">Co-founder</span> - Dang Quy</span> <br>
+                            <span class="c-list8__name"><span class="c-list8__title">CEO</span> - Dang Quy</span> <br>
                             <span class="c-list8__position">Developer</span>
                             <ul class="c-list8__skill">
-                                <li><span>Docker</span></li>
+                                <li><span>BlockChain</span></li>
                                 <li><span>AWS</span></li>
                                 <li><span>Laravel</span></li>
                                 <li><span>IOS</span></li>
