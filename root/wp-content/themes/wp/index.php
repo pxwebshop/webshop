@@ -19,7 +19,7 @@
             <div class="c-list6">
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/category-other" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/congnghe.jpeg" alt="">
@@ -43,7 +43,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/category-other" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/inan.jpeg" alt="">
@@ -67,7 +67,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/category-other" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/mevabe.jpeg" alt="">
@@ -79,7 +79,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/category-other" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/quatang.png" alt="">
@@ -103,7 +103,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-spa-beauty" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/thoitrang.jpeg" alt="">
@@ -127,7 +127,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/category-other" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/xehoi.jpeg" alt="">
