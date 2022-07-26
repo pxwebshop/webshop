@@ -1167,11 +1167,11 @@ list
   -webkit-flex-wrap: wrap;
       -ms-flex-wrap: wrap;
           flex-wrap: wrap;
-  margin-left: -10px;
+  margin-left: -25px;
   margin-top: 13px; }
   .c-list4__item {
-    width: 25%;
-    padding-left: 10px;
+    width: 33.33%;
+    padding-left: 25px;
     -webkit-transition: all 0.5s ease-in-out;
     transition: all 0.5s ease-in-out;
     cursor: pointer; }

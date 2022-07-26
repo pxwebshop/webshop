@@ -15,7 +15,7 @@
                     <h2 class="c-title1 c-title1--color1">ບົດຄວາມ</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
-                        <a href="/lien-he">/ ບົດຄວາມທີ່ XX</a>
+                        <a href="/contact">/ ບົດຄວາມທີ່ XX</a>
                     </div>
                 </div>
             </div>

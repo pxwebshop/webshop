@@ -156,7 +156,7 @@
 						</ul>
 					</li>
 					<li class="c-header__item">
-						<a class="c-header__link" href="/news">ບົດຄວາມ</a>
+						<a class="c-header__link" href="/article-news">ບົດຄວາມ</a>
 					</li>
 					<li class="c-header__item c-header__item__abouts">
 						<span>ກຽ່ວກັບເຮົາ<i class="fa-solid fa-caret-down"></i></span>

@@ -212,12 +212,12 @@ list
 	$root: &;
 	display: flex;
 	flex-wrap: wrap;
-	margin-left: -10px;
+	margin-left: -25px;
 	margin-top: 13px;
 
 	&__item {
-		width: 25%;
-		padding-left: 10px;
+		width: 33.33%;
+		padding-left: 25px;
 		transition: all 0.5s ease-in-out;
 		cursor: pointer;
 

@@ -31,7 +31,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-introduction-services" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/dienmay.jpeg" alt="">
@@ -55,7 +55,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/landing-page" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/landingpage.png" alt="">
@@ -91,7 +91,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-interior-architecture" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/kientruc.jpeg" alt="">
@@ -115,7 +115,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-company-introduction" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/congty.jpeg" alt="">
@@ -139,7 +139,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-travel/" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/khachsan.jpeg" alt="">
@@ -151,7 +151,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-spa-beauty" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/mypham.jpeg" alt="">
@@ -163,7 +163,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-spa-beauty" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/thucpham.jpg" alt="">
@@ -175,7 +175,7 @@
                 </div>
                 <div class="c-list6__item">
                     <div class="c-list6__content">
-                        <a href="#" class="c-list6__link">
+                        <a href="/repository-interface/website-real-estate" class="c-list6__link">
                             <div class="c-list6__box">
                                 <figure class="c-list6__img">
                                     <img src="/assets/img/slide/batdongsan.jpeg" alt="">
@@ -202,7 +202,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item1 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.3s">
-                    <a href="xay-dung-phan-mem">
+                    <a href="/build-software">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service2.png" alt="">
                         </figure>
@@ -212,7 +212,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                    <a href="thiet-ke-logo">
+                    <a href="/logo-design">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service3.jpg" alt="">
                         </figure>
@@ -228,7 +228,7 @@
                     </a>
                 </div>
                 <div class="c-list7__item2 wow bounceInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                    <a href="/dich-vu-seo">
+                    <a href="/seo-services">
                         <figure class="c-list7__img">
                             <img src="assets/img/service/service5.png" alt="">
                         </figure>
@@ -250,7 +250,7 @@
                                 <h3 class="c-list4__title" id="basic">
                                     Basic
                                 </h3>
-                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                                <span class="c-list4__price">25.000.000 VNĐ</span>
                             </div>
                             <div class="c-list4__content">
                                 <ul>
@@ -302,13 +302,13 @@
                             </button>
                         </div>
                     </div>
-                    <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
+                    <!-- <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                         <div class="c-list4__wrap">
                             <div class="c-list4__info c-list4__info--background2">
                                 <h3 class="c-list4__title">
                                     PLUS
                                 </h3>
-                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                                <span class="c-list4__price">30.000.000 VNĐ</span>
                             </div>
                             <div class="c-list4__content">
                                 <ul>
@@ -358,14 +358,14 @@
                                 ຈອງດຽວນີ້
                             </button>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="c-list4__item wow bounceInUp" data-wow-duration="0.5" data-wow-delay="0.5s">
                         <div class="c-list4__wrap">
                             <div class="c-list4__info c-list4__info--background3">
                                 <h3 class="c-list4__title">
                                     PRO
                                 </h3>
-                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                                <span class="c-list4__price">40.000.000 VNĐ</span>
                             </div>
                             <div class="c-list4__content">
                                 <ul>
@@ -422,7 +422,7 @@
                                 <h3 class="c-list4__title">
                                     BUSINESS
                                 </h3>
-                                <span class="c-list4__price">X.XXX.XXX ກິບ</span>
+                                <span class="c-list4__price">LIÊN HỆ(VIP)</span>
                             </div>
                             <div class="c-list4__content">
                                 <ul>
@@ -464,7 +464,7 @@
                                     </li>
                                     <li>
                                         <i class="fa-solid fa-check c-list4__check"></i>
-                                        <span>ສົ່ງມອບ source code</span>
+                                        <span>ສົ່ງມອບ source code ແລະຫຼາຍຊຸດ vip</span>
                                     </li>
                                 </ul>
                             </div>
@@ -640,7 +640,7 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
 
     <div class="c-pageTop">
         <span class="c-pageTop__icon">

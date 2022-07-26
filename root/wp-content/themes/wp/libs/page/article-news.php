@@ -11,7 +11,7 @@ $queried = get_queried_object(); ?>
                     <h2 class="c-title1 c-title1--color1">ບົດຄວາມ</h2>
                     <div class="c-page__url">
                         <a href="/" class="c-page__link">ໜ້າຫຼັກ</a>
-                        <a href="/lien-he">/ ບົດຄວາມ</a>
+                        <a href="/contact">/ ບົດຄວາມ</a>
                     </div>
                 </div>
             </div>

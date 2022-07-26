@@ -26,10 +26,7 @@ jQuery(document).ready(function ($) {
             appendTo        : append,
             triggerSelectOnValidInput: false,
             serviceUrl      : serviceUrl,
-<<<<<<< HEAD
-=======
             deferRequestBy  : parseInt(flatsomeVars.options.search_result_latency),
->>>>>>> c5d68bb3916e4402beb192b823f62879b7682809
             onSearchStart   : function () {
               $('.submit-button').removeClass('loading');
               $('.submit-button').addClass('loading');

@@ -1,5 +1,4 @@
 'use strict';
-console.log('abc');
 $(document).ready(function () {//console.log( "document loaded" );
 });
 

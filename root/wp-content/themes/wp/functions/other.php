@@ -24,14 +24,14 @@
 
 
 // MWForm custom error
-add_filter( 'mwform_content_wpautop_mw-wp-form-99', '__return_false' );
+add_filter( 'mwform_content_wpautop_mw-wp-form-228', '__return_false' );
 
 function mytheme_mwform_error_message( $error, $key, $rule ) {
 
 	$errors = array(
-		'yourname'    => array( 'noempty' => 'Tên của bạn không được để trống' ),
-		'phone'             => array( 'noempty' => 'Số điện thoại bắt buộc nhập' ),
-		'message'    => array( 'noempty' => 'Nội dung bắt buộc nhập' ),
+		'yourname'    => array( 'noempty' => 'ຊື່ເຕັມຂອງທ່ານບໍ່ສາມາດຫວ່າງເປົ່າໄດ້' ),
+		'phone'             => array( 'noempty' => 'ຕ້ອງໃສ່ເບີໂທລະສັບເພື່ອໃສ່' ),
+		'message'    => array( 'noempty' => 'ເນື້ອຫາທີ່ຕ້ອງການເພື່ອເຂົ້າໄປ' ),
 	);
 
 	if ( isset( $errors[ $key ][ $rule ] ) ) {
@@ -41,4 +41,4 @@ function mytheme_mwform_error_message( $error, $key, $rule ) {
 	return $error;
 }
 
-add_filter( 'mwform_error_message_mw-wp-form-99', 'mytheme_mwform_error_message', 10, 3 );
+add_filter( 'mwform_error_message_mw-wp-form-228', 'mytheme_mwform_error_message', 10, 3 );

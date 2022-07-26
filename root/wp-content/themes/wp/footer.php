@@ -7,7 +7,7 @@
 					<h3 class="c-title2">ກຽ່ວກັບເຮົາ</h3>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/introduce" class="c-footer__link">ແນະນຳ</a></p>
 					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/pay" class="c-footer__link">ຊຳລະເງິນ</a></p>
-					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/index.php/lien-he" class="c-footer__link">ຕິດຕໍ່</a></p>
+					<p class="c-footer__txt"><i class="fa-solid fa-paw"></i>&nbsp;<a href="/contact" class="c-footer__link">ຕິດຕໍ່</a></p>
 				</div>
 				<div class="c-footer__service">
 					<h3 class="c-title2">ບໍລິການ</h3>
