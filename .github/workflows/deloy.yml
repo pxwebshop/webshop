@@ -18,7 +18,7 @@ jobs:
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSHKEY }}
       with:
-        source: "."
+        source: ".,!root/assets,!root/wp-config.php"
         target: "/var/www/html/webshop"
 
     - name: Executing remote command
