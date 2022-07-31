@@ -26,7 +26,7 @@
 	<header class="c-header">
 		<div class="c-header__top pc-only">
 			<div class="l-container">
-				<p class="c-header__nameCompany">PX WebShop</p>
+				<p class="c-header__nameCompany">PX WebShopxxx</p>
 				<ul class="c-header__address">
 					<li class="c-header__address__item">
 						<span><i class="fa-solid fa-envelope"></i> pxwebshop@gmail.com</span>
